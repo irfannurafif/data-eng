@@ -1,0 +1,26 @@
+1. Which are the core data set(s) you plan to study for the project?  Provide URLs.
+
+    Camden Licensing Applications Beta
+
+    https://data.gov.uk/dataset/camden-licensing-applications-beta/resource/34304cd6-4d25-45b7-b932-4fbfac13ea69
+
+2. If you plan to use them, which secondary data set(s) are you considering to use, and why?
+
+    n/a
+
+3. What are the non-trivial temporal aspects of your data?
+
+    Every licensing has an approval as well as an expiration date. A licensing
+    is active within this range.  Furthermore there are three more date columns
+    which give information about the approval process.
+
+4. Are the data sets you've selected complex and rich enough for an interesting investigation?  Why?
+
+    The data set contains more than 16000 licensing applications, mostly for
+    premises and events.  As each application stores the exact location of its
+    premise, we could analyze the development of different parts of Camden by
+    looking at what types of businesses are being run there.  One could also
+    examine features of the approval process, such as its duration, depending
+    on the kind of the application and the region. This might also be
+    interesting to analyze in a temporal contex, to see how the bureaucratic
+    process evolves.
