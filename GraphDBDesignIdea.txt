@@ -1,0 +1,16 @@
+nodes: application(reference), Ward, Application Type, Premise name (Applicant), Objections,Open, Approved, Refused
+Edge: HasStatus(applicaiton to status), objection(application to objection), hasapplication(premise to application),
+ istype(application to application type), IsApproved(application and approved), IsOpen, IsRefused
+label for application:legislation ,Received Date, location, duration
+label ward: code, name, 
+label objection: #objections
+Label IsApproved: Approved date, Final
+Label IsRefused : Refuse date, Final
+label HasStatus : Date, 
+
+
+remarks:
+Approved vs Final decision?
+Socrata ID Unique per application, or person.
+No received, delete or keep?
+
