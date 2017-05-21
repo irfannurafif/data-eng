@@ -10,3 +10,12 @@ Auxilary sets:
 
 All businesses in Camden -  https://data.gov.uk/dataset/companies-registered-in-camden-and-surrounding-boroughs
 Trees in Camden - https://opendata.camden.gov.uk/Environment/Trees-In-Camden/csqp-kdss/data
+
+
+Database setup:
+
+* neo4j (tested with version 3.0.6)
+* python interface
+```
+pip install neo4j-driver
+```
