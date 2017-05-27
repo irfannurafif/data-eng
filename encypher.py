@@ -1,29 +1,11 @@
 #!/usr/bin/env python3
 
+import csv
+import re
+import itertools
 
 # pip install neo4j-driver
 from neo4j.v1 import GraphDatabase, basic_auth
-
-# Application Reference,Application Type,Premises Name,Premises
-# Address,Application Legislation,Application Status,Application
-# Objections
-# Approved Date
-# Date Of Events
-# Expiry Date
-# Hearing Date
-# Last Date
-# For Representations
-# Received Date
-# Refused Date
-# Cumulative Impact Policy Area
-# Name,Ward Code,Ward Name,Easting,Northing,Longitude,Latitude,Spatial
-# Accuracy,Last Uploaded,Location,Socrata ID,Organisation URI
-
-import csv
-import re
-
-def show(key, value):
-    return "'%s'" % value
 
 def toident(key):
     key = '_' + key.lower()
@@ -32,6 +14,7 @@ def toident(key):
 def kvs(dict, keys):
     return {key: dict[key] for key in keys}
 
+# password = asdf
 driver = GraphDatabase.driver('bolt://localhost:7687', auth=basic_auth('neo4j', 'asdf'))
 session = driver.session()
 
@@ -48,17 +31,23 @@ def edge(edgelabel, edgedict, srclabel, srcdict, dstlabel, dstdict):
     srcdict, srcdicts = magic(srcdict)
     dstdict, dstdicts = magic(dstdict)
     edgedict, edgedicts = magic(edgedict)
-    crucible = {}
-    crucible.update(srcdict)
-    crucible.update(dstdict)
-    crucible.update(edgedict)
+    dicts = {}
+    dicts.update(srcdict)
+    dicts.update(dstdict)
+    dicts.update(edgedict)
     session.run('MATCH (a:%s %s), (b:%s %s) MERGE (a)-[:%s %s]->(b)' %
                 (srclabel, srcdicts, dstlabel, dstdicts, edgelabel, edgedicts),
-                crucible)
+                dicts)
 
-csvfile = open('Camden_Licensing_Applications_Beta.csv')
+csvfile = open('Camden_Licensing_Applications_Beta_filtered.csv')
 reader = csv.DictReader(csvfile)
-data = [row for row in reader][:25]
+# license_application_data = itertools.islice(reader, 500)
+license_application_data = [row for row in reader]
+
+csvfile = open('Companies_Registered_In_Camden_And_Surrounding_Boroughs_filtered.csv')
+reader = csv.DictReader(csvfile)
+# company_data = itertools.islice(reader, 500)
+company_data = [row for row in reader]
 
 nodeattrs = {
     'ward': ['Ward Code', 'Ward Name'],
@@ -76,16 +65,18 @@ nodeedges = [
     ('application', 'created_by', [], 'premises'),
     ('application', 'is_a', [], 'application_type'),
     ('application', 'is_being_objected', [], 'objection'),
+    ('premises', 'has_applied_at', [], 'ward'),
 ]
 
-if 1:
-    session.run('MATCH (n) DETACH DELETE n')
+session.run('MATCH (n) DETACH DELETE n')
 
+if 1:
+    # create the 3 status nodes
     node('application_status', {'status': 'open'})
     node('application_status', {'status': 'approved'})
     node('application_status', {'status': 'refused'})
 
-    for row in data:
+    for row in license_application_data:
         for nodelabel in nodeattrs:
             attrs = nodeattrs[nodelabel]
             node(nodelabel, kvs(row, attrs))
@@ -116,5 +107,18 @@ if 1:
             edge('has_status', {'from': d_refused, 'until': d_approved},
                  'application', kvs(row, nodeattrs['application']),
                  'application_status', {'status': 'refused'})
+
+if 1:
+    for row in company_data:
+        node('ward', kvs(row, ['Ward Code']))
+        node('company', kvs(row, ['Company Name', 'Company Category']))
+        edge('is_registered_at', {'from': row['Incorporation Date'],
+                                  'until': row['Dissolution Date']},
+             'company', kvs(row, ['Company Name', 'Company Category']),
+             'ward', kvs(row, ['Ward Code']))
+
+# MATCH (c:company)-[:is_registered_at]->(w:ward), (p:premises)-[:has_applied_at]->(w)
+# RETURN c, w, p
+# LIMIT 1000;
 
 session.close()
