@@ -1,0 +1,71 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Secrets (Gray's Inn Road),2015_Secrets (Gray's Inn Road)_SimplyPleasure.com,51.518921,-0.11112999999999999,2015-06-10
+1,Origin,SimplyPleasure.com,2015_Secrets (Gray's Inn Road)_SimplyPleasure.com,51.519465999999994,-0.134998,2015-02-26
+2,Destination,Secrets (Parker St),2015_Secrets (Parker St)_SimplyPleasure.com,51.516965,-0.120941,2015-06-10
+3,Origin,SimplyPleasure.com,2015_Secrets (Parker St)_SimplyPleasure.com,51.519465999999994,-0.134998,2015-02-26
+4,Destination,Spearmint Rhino,2015_Spearmint Rhino_SimplyPleasure.com,51.523398,-0.136463,2015-10-30
+5,Origin,SimplyPleasure.com,2015_Spearmint Rhino_SimplyPleasure.com,51.519465999999994,-0.134998,2015-02-26
+6,Destination,Griffin,2015_Griffin_SimplyPleasure.com,51.521334,-0.112046,2015-08-12
+7,Origin,SimplyPleasure.com,2015_Griffin_SimplyPleasure.com,51.519465999999994,-0.134998,2015-02-26
+8,Destination,Secrets (Eversholt St),2015_Secrets (Eversholt St)_SimplyPleasure.com,51.529302,-0.13258499999999998,2015-06-10
+9,Origin,SimplyPleasure.com,2015_Secrets (Eversholt St)_SimplyPleasure.com,51.519465999999994,-0.134998,2015-02-26
+10,Destination,SimplyPleasure.com,2015_SimplyPleasure.com_SimplyPleasure.com,51.519465999999994,-0.134998,2015-02-26
+11,Origin,SimplyPleasure.com,2015_SimplyPleasure.com_SimplyPleasure.com,51.519465999999994,-0.134998,2015-02-26
+12,Destination,Venus (formerly City Burlesque),2015_Venus (formerly City Burlesque)_SimplyPleasure.com,51.520437,-0.106431,2015-09-06
+13,Origin,SimplyPleasure.com,2015_Venus (formerly City Burlesque)_SimplyPleasure.com,51.519465999999994,-0.134998,2015-02-26
+14,Destination,SimplyPleasure.com,2010_SimplyPleasure.com_Soho Original Bookshop (Basement),51.519465999999994,-0.134998,2010-02-25
+15,Origin,Soho Original Bookshop (Basement),2010_SimplyPleasure.com_Soho Original Bookshop (Basement),51.519928,-0.10986800000000001,2010-02-22
+16,Destination,Soho Original Bookshop (Basement),2010_Soho Original Bookshop (Basement)_Soho Original Bookshop (Basement),51.519928,-0.10986800000000001,2010-02-22
+17,Origin,Soho Original Bookshop (Basement),2010_Soho Original Bookshop (Basement)_Soho Original Bookshop (Basement),51.519928,-0.10986800000000001,2010-02-22
+18,Destination,Secrets (Eversholt St),2016_Secrets (Eversholt St)_Parkers,51.529302,-0.13258499999999998,2016-04-10
+19,Origin,Parkers,2016_Secrets (Eversholt St)_Parkers,51.516965,-0.120941,2016-02-24
+20,Destination,Griffin,2016_Griffin_Parkers,51.521334,-0.112046,2016-09-29
+21,Origin,Parkers,2016_Griffin_Parkers,51.516965,-0.120941,2016-02-24
+22,Destination,SimplyPleasure.com,2016_SimplyPleasure.com_Parkers,51.519465999999994,-0.134998,2016-04-27
+23,Origin,Parkers,2016_SimplyPleasure.com_Parkers,51.516965,-0.120941,2016-02-24
+24,Destination,Red Rooms,2016_Red Rooms_Parkers,51.51668,-0.119209,2016-10-31
+25,Origin,Parkers,2016_Red Rooms_Parkers,51.516965,-0.120941,2016-02-24
+26,Destination,Parkers,2016_Parkers_Parkers,51.516965,-0.120941,2016-02-24
+27,Origin,Parkers,2016_Parkers_Parkers,51.516965,-0.120941,2016-02-24
+28,Destination,Secrets (Parker St),2016_Secrets (Parker St)_Parkers,51.516965,-0.120941,2016-09-20
+29,Origin,Parkers,2016_Secrets (Parker St)_Parkers,51.516965,-0.120941,2016-02-24
+30,Destination,Secrets (Gray's Inn Road),2016_Secrets (Gray's Inn Road)_Parkers,51.518921,-0.11112999999999999,2016-04-10
+31,Origin,Parkers,2016_Secrets (Gray's Inn Road)_Parkers,51.516965,-0.120941,2016-02-24
+32,Destination,Spearmint Rhino,2016_Spearmint Rhino_Parkers,51.523398,-0.136463,2016-10-26
+33,Origin,Parkers,2016_Spearmint Rhino_Parkers,51.516965,-0.120941,2016-02-24
+34,Destination,Secrets (Eversholt St),2014_Secrets (Eversholt St)_SimplyPleasure.com,51.529302,-0.13258499999999998,2014-10-21
+35,Origin,SimplyPleasure.com,2014_Secrets (Eversholt St)_SimplyPleasure.com,51.519465999999994,-0.134998,2014-02-27
+36,Destination,Griffin,2014_Griffin_SimplyPleasure.com,51.521334,-0.112046,2014-12-11
+37,Origin,SimplyPleasure.com,2014_Griffin_SimplyPleasure.com,51.519465999999994,-0.134998,2014-02-27
+38,Destination,Secrets (Parker St),2014_Secrets (Parker St)_SimplyPleasure.com,51.516965,-0.120941,2014-10-21
+39,Origin,SimplyPleasure.com,2014_Secrets (Parker St)_SimplyPleasure.com,51.519465999999994,-0.134998,2014-02-27
+40,Destination,SimplyPleasure.com,2014_SimplyPleasure.com_SimplyPleasure.com,51.519465999999994,-0.134998,2014-02-27
+41,Origin,SimplyPleasure.com,2014_SimplyPleasure.com_SimplyPleasure.com,51.519465999999994,-0.134998,2014-02-27
+42,Destination,Secrets (Gray's Inn Road),2014_Secrets (Gray's Inn Road)_SimplyPleasure.com,51.518921,-0.11112999999999999,2014-10-21
+43,Origin,SimplyPleasure.com,2014_Secrets (Gray's Inn Road)_SimplyPleasure.com,51.519465999999994,-0.134998,2014-02-27
+44,Destination,Venus (formerly City Burlesque),2014_Venus (formerly City Burlesque)_SimplyPleasure.com,51.520437,-0.106431,2014-05-21
+45,Origin,SimplyPleasure.com,2014_Venus (formerly City Burlesque)_SimplyPleasure.com,51.519465999999994,-0.134998,2014-02-27
+46,Destination,Spearmint Rhino,2014_Spearmint Rhino_SimplyPleasure.com,51.523398,-0.136463,2014-10-29
+47,Origin,SimplyPleasure.com,2014_Spearmint Rhino_SimplyPleasure.com,51.519465999999994,-0.134998,2014-02-27
+48,Destination,Venus (formerly City Burlesque),2013_Venus (formerly City Burlesque)_SimplyPleasure.com,51.520437,-0.106431,2013-10-14
+49,Origin,SimplyPleasure.com,2013_Venus (formerly City Burlesque)_SimplyPleasure.com,51.519465999999994,-0.134998,2013-02-22
+50,Destination,SimplyPleasure.com,2013_SimplyPleasure.com_SimplyPleasure.com,51.519465999999994,-0.134998,2013-02-22
+51,Origin,SimplyPleasure.com,2013_SimplyPleasure.com_SimplyPleasure.com,51.519465999999994,-0.134998,2013-02-22
+52,Destination,Secrets (Gray's Inn Road),2013_Secrets (Gray's Inn Road)_SimplyPleasure.com,51.518921,-0.11112999999999999,2013-10-28
+53,Origin,SimplyPleasure.com,2013_Secrets (Gray's Inn Road)_SimplyPleasure.com,51.519465999999994,-0.134998,2013-02-22
+54,Destination,Parkers,2013_Parkers_SimplyPleasure.com,51.516965,-0.120941,2013-10-30
+55,Origin,SimplyPleasure.com,2013_Parkers_SimplyPleasure.com,51.519465999999994,-0.134998,2013-02-22
+56,Destination,Red Rooms,2013_Red Rooms_SimplyPleasure.com,51.51668,-0.119209,2013-10-30
+57,Origin,SimplyPleasure.com,2013_Red Rooms_SimplyPleasure.com,51.519465999999994,-0.134998,2013-02-22
+58,Destination,Secrets (Eversholt St),2013_Secrets (Eversholt St)_SimplyPleasure.com,51.529302,-0.13258499999999998,2013-10-28
+59,Origin,SimplyPleasure.com,2013_Secrets (Eversholt St)_SimplyPleasure.com,51.519465999999994,-0.134998,2013-02-22
+60,Destination,Aquila Club (formerly Secrets),2013_Aquila Club (formerly Secrets)_SimplyPleasure.com,51.549878,-0.183277,2013-10-28
+61,Origin,SimplyPleasure.com,2013_Aquila Club (formerly Secrets)_SimplyPleasure.com,51.519465999999994,-0.134998,2013-02-22
+62,Destination,Secrets (Parker St),2013_Secrets (Parker St)_SimplyPleasure.com,51.516965,-0.120941,2013-10-28
+63,Origin,SimplyPleasure.com,2013_Secrets (Parker St)_SimplyPleasure.com,51.519465999999994,-0.134998,2013-02-22
+64,Destination,Griffin,2013_Griffin_SimplyPleasure.com,51.521334,-0.112046,2013-10-10
+65,Origin,SimplyPleasure.com,2013_Griffin_SimplyPleasure.com,51.519465999999994,-0.134998,2013-02-22
+66,Destination,SimplyPleasure.com,2012_SimplyPleasure.com_SimplyPleasure.com,51.519465999999994,-0.134998,2012-02-27
+67,Origin,SimplyPleasure.com,2012_SimplyPleasure.com_SimplyPleasure.com,51.519465999999994,-0.134998,2012-02-27
+68,Destination,SimplyPleasure.com,2011_SimplyPleasure.com_SimplyPleasure.com,51.519465999999994,-0.134998,2011-02-21
+69,Origin,SimplyPleasure.com,2011_SimplyPleasure.com_SimplyPleasure.com,51.519465999999994,-0.134998,2011-02-21

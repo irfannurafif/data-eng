@@ -1,0 +1,19 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Griffin,2012_Griffin_Parkers,51.521334,-0.112046,2012-04-27
+1,Origin,Parkers,2012_Griffin_Parkers,51.516965,-0.120941,2012-01-05
+2,Destination,Venus (formerly City Burlesque),2012_Venus (formerly City Burlesque)_Parkers,51.520437,-0.106431,2012-04-27
+3,Origin,Parkers,2012_Venus (formerly City Burlesque)_Parkers,51.516965,-0.120941,2012-01-05
+4,Destination,Secrets (Eversholt St),2012_Secrets (Eversholt St)_Parkers,51.529302,-0.13258499999999998,2012-04-30
+5,Origin,Parkers,2012_Secrets (Eversholt St)_Parkers,51.516965,-0.120941,2012-01-05
+6,Destination,Secrets (Parker St),2012_Secrets (Parker St)_Parkers,51.516965,-0.120941,2012-04-30
+7,Origin,Parkers,2012_Secrets (Parker St)_Parkers,51.516965,-0.120941,2012-01-05
+8,Destination,Secrets (Gray's Inn Road),2012_Secrets (Gray's Inn Road)_Parkers,51.518921,-0.11112999999999999,2012-04-30
+9,Origin,Parkers,2012_Secrets (Gray's Inn Road)_Parkers,51.516965,-0.120941,2012-01-05
+10,Destination,Red Rooms,2012_Red Rooms_Parkers,51.51668,-0.119209,2012-04-30
+11,Origin,Parkers,2012_Red Rooms_Parkers,51.516965,-0.120941,2012-01-05
+12,Destination,Spearmint Rhino,2012_Spearmint Rhino_Parkers,51.523398,-0.136463,2012-04-27
+13,Origin,Parkers,2012_Spearmint Rhino_Parkers,51.516965,-0.120941,2012-01-05
+14,Destination,Parkers,2012_Parkers_Parkers,51.516965,-0.120941,2012-01-05
+15,Origin,Parkers,2012_Parkers_Parkers,51.516965,-0.120941,2012-01-05
+16,Destination,Aquila Club (formerly Secrets),2012_Aquila Club (formerly Secrets)_Parkers,51.549878,-0.183277,2012-04-30
+17,Origin,Parkers,2012_Aquila Club (formerly Secrets)_Parkers,51.516965,-0.120941,2012-01-05

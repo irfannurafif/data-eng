@@ -1,0 +1,15 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Red Rooms,2015_Red Rooms_Secrets (Eversholt St),51.51668,-0.119209,2015-12-23
+1,Origin,Secrets (Eversholt St),2015_Red Rooms_Secrets (Eversholt St),51.529302,-0.13258499999999998,2015-04-08
+2,Destination,Secrets (Eversholt St),2015_Secrets (Eversholt St)_Secrets (Eversholt St),51.529302,-0.13258499999999998,2015-04-08
+3,Origin,Secrets (Eversholt St),2015_Secrets (Eversholt St)_Secrets (Eversholt St),51.529302,-0.13258499999999998,2015-04-08
+4,Destination,Spearmint Rhino,2013_Spearmint Rhino_Griffin,51.523398,-0.136463,2013-10-31
+5,Origin,Griffin,2013_Spearmint Rhino_Griffin,51.521334,-0.112046,2013-05-20
+6,Destination,Griffin,2013_Griffin_Griffin,51.521334,-0.112046,2013-05-20
+7,Origin,Griffin,2013_Griffin_Griffin,51.521334,-0.112046,2013-05-20
+8,Destination,Griffin,2017_Griffin_Griffin,51.521334,-0.112046,2017-03-13
+9,Origin,Griffin,2017_Griffin_Griffin,51.521334,-0.112046,2017-03-13
+10,Destination,Parkers,2014_Parkers_Parkers,51.516965,-0.120941,2014-11-13
+11,Origin,Parkers,2014_Parkers_Parkers,51.516965,-0.120941,2014-11-13
+12,Destination,Red Rooms,2014_Red Rooms_Parkers,51.51668,-0.119209,2014-11-13
+13,Origin,Parkers,2014_Red Rooms_Parkers,51.516965,-0.120941,2014-11-13

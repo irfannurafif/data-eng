@@ -1,0 +1,193 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Centro & the Den,2011_Centro & the Den_Salvador and Amanda Bloomsbury (Formely Traffic),51.516890999999994,-0.12531,2011-05-27
+1,Origin,Salvador and Amanda Bloomsbury (Formely Traffic),2011_Centro & the Den_Salvador and Amanda Bloomsbury (Formely Traffic),51.519286,-0.12206700000000001,2011-01-02
+2,Destination,Smoking Goat,2011_Smoking Goat_Salvador and Amanda Bloomsbury (Formely Traffic),51.515018,-0.129353,2011-10-19
+3,Origin,Salvador and Amanda Bloomsbury (Formely Traffic),2011_Smoking Goat_Salvador and Amanda Bloomsbury (Formely Traffic),51.519286,-0.12206700000000001,2011-01-02
+4,Destination,Shaka Zulu,2011_Shaka Zulu_Salvador and Amanda Bloomsbury (Formely Traffic),51.542256,-0.14816,2011-03-23
+5,Origin,Salvador and Amanda Bloomsbury (Formely Traffic),2011_Shaka Zulu_Salvador and Amanda Bloomsbury (Formely Traffic),51.519286,-0.12206700000000001,2011-01-02
+6,Destination,Kentucky Fried Chicken,2011_Kentucky Fried Chicken_Salvador and Amanda Bloomsbury (Formely Traffic),51.540039,-0.14449700000000001,2011-11-17
+7,Origin,Salvador and Amanda Bloomsbury (Formely Traffic),2011_Kentucky Fried Chicken_Salvador and Amanda Bloomsbury (Formely Traffic),51.519286,-0.12206700000000001,2011-01-02
+8,Destination,The T.E. Dingwall Building (Formerly Lock 17/Highlight),2011_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Salvador and Amanda Bloomsbury (Formely Traffic),51.541428,-0.145851,2011-12-22
+9,Origin,Salvador and Amanda Bloomsbury (Formely Traffic),2011_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Salvador and Amanda Bloomsbury (Formely Traffic),51.519286,-0.12206700000000001,2011-01-02
+10,Destination,Shakespeares Head,2011_Shakespeares Head_Salvador and Amanda Bloomsbury (Formely Traffic),51.517002000000005,-0.11943599999999999,2011-06-10
+11,Origin,Salvador and Amanda Bloomsbury (Formely Traffic),2011_Shakespeares Head_Salvador and Amanda Bloomsbury (Formely Traffic),51.519286,-0.12206700000000001,2011-01-02
+12,Destination,Poolcrest Snooker Club,2011_Poolcrest Snooker Club_Salvador and Amanda Bloomsbury (Formely Traffic),51.545148,-0.201396,2011-09-28
+13,Origin,Salvador and Amanda Bloomsbury (Formely Traffic),2011_Poolcrest Snooker Club_Salvador and Amanda Bloomsbury (Formely Traffic),51.519286,-0.12206700000000001,2011-01-02
+14,Destination,32A Limited (previously Bullet Bar),2011_32A Limited (previously Bullet Bar)_Salvador and Amanda Bloomsbury (Formely Traffic),51.544982,-0.141947,2011-06-17
+15,Origin,Salvador and Amanda Bloomsbury (Formely Traffic),2011_32A Limited (previously Bullet Bar)_Salvador and Amanda Bloomsbury (Formely Traffic),51.519286,-0.12206700000000001,2011-01-02
+16,Destination,Royal Exchange,2011_Royal Exchange_Salvador and Amanda Bloomsbury (Formely Traffic),51.543859000000005,-0.145834,2011-11-22
+17,Origin,Salvador and Amanda Bloomsbury (Formely Traffic),2011_Royal Exchange_Salvador and Amanda Bloomsbury (Formely Traffic),51.519286,-0.12206700000000001,2011-01-02
+18,Destination,Coram's Field,2011_Coram's Field_Salvador and Amanda Bloomsbury (Formely Traffic),51.524413,-0.120004,2011-07-03
+19,Origin,Salvador and Amanda Bloomsbury (Formely Traffic),2011_Coram's Field_Salvador and Amanda Bloomsbury (Formely Traffic),51.519286,-0.12206700000000001,2011-01-02
+20,Destination,Cafe Metro,2011_Cafe Metro_Salvador and Amanda Bloomsbury (Formely Traffic),51.539688,-0.142772,2011-11-23
+21,Origin,Salvador and Amanda Bloomsbury (Formely Traffic),2011_Cafe Metro_Salvador and Amanda Bloomsbury (Formely Traffic),51.519286,-0.12206700000000001,2011-01-02
+22,Destination,Elysee Restaurant,2011_Elysee Restaurant_Salvador and Amanda Bloomsbury (Formely Traffic),51.518605,-0.13372,2011-06-24
+23,Origin,Salvador and Amanda Bloomsbury (Formely Traffic),2011_Elysee Restaurant_Salvador and Amanda Bloomsbury (Formely Traffic),51.519286,-0.12206700000000001,2011-01-02
+24,Destination,Salvador and Amanda Bloomsbury (Formely Traffic),2011_Salvador and Amanda Bloomsbury (Formely Traffic)_Salvador and Amanda Bloomsbury (Formely Traffic),51.519286,-0.12206700000000001,2011-01-02
+25,Origin,Salvador and Amanda Bloomsbury (Formely Traffic),2011_Salvador and Amanda Bloomsbury (Formely Traffic)_Salvador and Amanda Bloomsbury (Formely Traffic),51.519286,-0.12206700000000001,2011-01-02
+26,Destination,Clerkenwell House,2011_Clerkenwell House_Salvador and Amanda Bloomsbury (Formely Traffic),51.521044,-0.10923499999999998,2011-06-04
+27,Origin,Salvador and Amanda Bloomsbury (Formely Traffic),2011_Clerkenwell House_Salvador and Amanda Bloomsbury (Formely Traffic),51.519286,-0.12206700000000001,2011-01-02
+28,Destination,Best One Limtied,2011_Best One Limtied_Salvador and Amanda Bloomsbury (Formely Traffic),51.552448,-0.14057999999999998,2011-08-08
+29,Origin,Salvador and Amanda Bloomsbury (Formely Traffic),2011_Best One Limtied_Salvador and Amanda Bloomsbury (Formely Traffic),51.519286,-0.12206700000000001,2011-01-02
+30,Destination,113 Restaurant & Bar,2011_113 Restaurant & Bar_Salvador and Amanda Bloomsbury (Formely Traffic),51.52796,-0.139145,2011-11-24
+31,Origin,Salvador and Amanda Bloomsbury (Formely Traffic),2011_113 Restaurant & Bar_Salvador and Amanda Bloomsbury (Formely Traffic),51.519286,-0.12206700000000001,2011-01-02
+32,Destination,Mango Room,2011_Mango Room_Salvador and Amanda Bloomsbury (Formely Traffic),51.539688,-0.142772,2011-04-21
+33,Origin,Salvador and Amanda Bloomsbury (Formely Traffic),2011_Mango Room_Salvador and Amanda Bloomsbury (Formely Traffic),51.519286,-0.12206700000000001,2011-01-02
+34,Destination,William Hill,2011_William Hill_Salvador and Amanda Bloomsbury (Formely Traffic),51.550168,-0.151636,2011-08-26
+35,Origin,Salvador and Amanda Bloomsbury (Formely Traffic),2011_William Hill_Salvador and Amanda Bloomsbury (Formely Traffic),51.519286,-0.12206700000000001,2011-01-02
+36,Destination,Bloc Bar (Formerly Record Club/The Stillery,2013_Bloc Bar (Formerly Record Club/The Stillery_Brown Sugar,51.540164000000004,-0.141998,2013-03-20
+37,Origin,Brown Sugar,2013_Bloc Bar (Formerly Record Club/The Stillery_Brown Sugar,51.516892999999996,-0.124123,2013-01-30
+38,Destination,St Giles Hotel Ltd,2013_St Giles Hotel Ltd_Brown Sugar,51.517452,-0.130432,2013-05-09
+39,Origin,Brown Sugar,2013_St Giles Hotel Ltd_Brown Sugar,51.516892999999996,-0.124123,2013-01-30
+40,Destination,Sir Robert Peel,2013_Sir Robert Peel_Brown Sugar,51.549575,-0.15285,2013-06-17
+41,Origin,Brown Sugar,2013_Sir Robert Peel_Brown Sugar,51.516892999999996,-0.124123,2013-01-30
+42,Destination,Brown Sugar,2013_Brown Sugar_Brown Sugar,51.516892999999996,-0.124123,2013-01-30
+43,Origin,Brown Sugar,2013_Brown Sugar_Brown Sugar,51.516892999999996,-0.124123,2013-01-30
+44,Destination,Blue Lion,2013_Blue Lion_Brown Sugar,51.523551,-0.11578,2013-04-09
+45,Origin,Brown Sugar,2013_Blue Lion_Brown Sugar,51.516892999999996,-0.124123,2013-01-30
+46,Destination,Brondes Age,2013_Brondes Age_Brown Sugar,51.545148,-0.201396,2013-06-24
+47,Origin,Brown Sugar,2013_Brondes Age_Brown Sugar,51.516892999999996,-0.124123,2013-01-30
+48,Destination,Bloomsbury Bowling Lanes,2013_Bloomsbury Bowling Lanes_Brown Sugar,51.52386,-0.12945,2013-07-01
+49,Origin,Brown Sugar,2013_Bloomsbury Bowling Lanes_Brown Sugar,51.516892999999996,-0.124123,2013-01-30
+50,Destination,Bar Solo/Undersolo,2013_Bar Solo/Undersolo_Brown Sugar,51.540039,-0.14449700000000001,2013-12-09
+51,Origin,Brown Sugar,2013_Bar Solo/Undersolo_Brown Sugar,51.516892999999996,-0.124123,2013-01-30
+52,Destination,NWC (formerly Legacy),2013_NWC (formerly Legacy)_Brown Sugar,51.543234000000005,-0.17561500000000002,2013-12-27
+53,Origin,Brown Sugar,2013_NWC (formerly Legacy)_Brown Sugar,51.516892999999996,-0.124123,2013-01-30
+54,Destination,Convenience Food & Wine,2013_Convenience Food & Wine_Brown Sugar,51.523551,-0.11578,2013-04-02
+55,Origin,Brown Sugar,2013_Convenience Food & Wine_Brown Sugar,51.516892999999996,-0.124123,2013-01-30
+56,Destination,Capital Foods,2013_Capital Foods_Brown Sugar,51.539688,-0.142772,2013-09-04
+57,Origin,Brown Sugar,2013_Capital Foods_Brown Sugar,51.516892999999996,-0.124123,2013-01-30
+58,Destination,Corner Off Licence,2015_Corner Off Licence_Quinns,51.529063,-0.11636099999999999,2015-05-18
+59,Origin,Quinns,2015_Corner Off Licence_Quinns,51.542629,-0.142325,2015-01-22
+60,Destination,Bloomsbury Bowling Lanes,2015_Bloomsbury Bowling Lanes_Quinns,51.52386,-0.12945,2015-12-22
+61,Origin,Quinns,2015_Bloomsbury Bowling Lanes_Quinns,51.542629,-0.142325,2015-01-22
+62,Destination,Quinns,2015_Quinns_Quinns,51.542629,-0.142325,2015-01-22
+63,Origin,Quinns,2015_Quinns_Quinns,51.542629,-0.142325,2015-01-22
+64,Destination,Tinseltown,2015_Tinseltown_Quinns,51.558911,-0.178279,2015-01-22
+65,Origin,Quinns,2015_Tinseltown_Quinns,51.542629,-0.142325,2015-01-22
+66,Destination,Victoria Food & Wine,2015_Victoria Food & Wine_Quinns,51.529988,-0.11699999999999999,2015-10-03
+67,Origin,Quinns,2015_Victoria Food & Wine_Quinns,51.542629,-0.142325,2015-01-22
+68,Destination,Madina Halal Supermarket (formerly Buywise Express),2015_Madina Halal Supermarket (formerly Buywise Express)_Quinns,51.545931,-0.14239000000000002,2015-04-24
+69,Origin,Quinns,2015_Madina Halal Supermarket (formerly Buywise Express)_Quinns,51.542629,-0.142325,2015-01-22
+70,Destination,Lets Go Local (formerly Express Convenience Store),2016_Lets Go Local (formerly Express Convenience Store)_Lets Go Local (formerly Express Convenience Store),51.543074,-0.126691,2016-01-19
+71,Origin,Lets Go Local (formerly Express Convenience Store),2016_Lets Go Local (formerly Express Convenience Store)_Lets Go Local (formerly Express Convenience Store),51.543074,-0.126691,2016-01-19
+72,Destination,SALT,2016_SALT_Lets Go Local (formerly Express Convenience Store),51.550391999999995,-0.19197899999999998,2016-07-11
+73,Origin,Lets Go Local (formerly Express Convenience Store),2016_SALT_Lets Go Local (formerly Express Convenience Store),51.543074,-0.126691,2016-01-19
+74,Destination,Jays News Food & Wine,2016_Jays News Food & Wine_Lets Go Local (formerly Express Convenience Store),51.542509,-0.137223,2016-10-19
+75,Origin,Lets Go Local (formerly Express Convenience Store),2016_Jays News Food & Wine_Lets Go Local (formerly Express Convenience Store),51.543074,-0.126691,2016-01-19
+76,Destination,Holborn Whippet (FormerlyFathers Study),2016_Holborn Whippet (FormerlyFathers Study)_Lets Go Local (formerly Express Convenience Store),51.518636,-0.12129000000000001,2016-06-14
+77,Origin,Lets Go Local (formerly Express Convenience Store),2016_Holborn Whippet (FormerlyFathers Study)_Lets Go Local (formerly Express Convenience Store),51.543074,-0.126691,2016-01-19
+78,Destination,Love & Liquor,2016_Love & Liquor_Lets Go Local (formerly Express Convenience Store),51.536709,-0.19143,2016-12-01
+79,Origin,Lets Go Local (formerly Express Convenience Store),2016_Love & Liquor_Lets Go Local (formerly Express Convenience Store),51.543074,-0.126691,2016-01-19
+80,Destination,Venus (formerly City Burlesque),2016_Venus (formerly City Burlesque)_Lets Go Local (formerly Express Convenience Store),51.520437,-0.106431,2016-06-07
+81,Origin,Lets Go Local (formerly Express Convenience Store),2016_Venus (formerly City Burlesque)_Lets Go Local (formerly Express Convenience Store),51.543074,-0.126691,2016-01-19
+82,Destination,Raja Convenience Store,2016_Raja Convenience Store_Lets Go Local (formerly Express Convenience Store),51.555534,-0.139119,2016-04-15
+83,Origin,Lets Go Local (formerly Express Convenience Store),2016_Raja Convenience Store_Lets Go Local (formerly Express Convenience Store),51.543074,-0.126691,2016-01-19
+84,Destination,Clerkenwell House,2012_Clerkenwell House_Tinseltown,51.521044,-0.10923499999999998,2012-04-01
+85,Origin,Tinseltown,2012_Clerkenwell House_Tinseltown,51.558911,-0.178279,2012-01-05
+86,Destination,Steam & Sun,2012_Steam & Sun_Tinseltown,51.528287,-0.129436,2012-11-12
+87,Origin,Tinseltown,2012_Steam & Sun_Tinseltown,51.558911,-0.178279,2012-01-05
+88,Destination,Sir Richard Steele,2012_Sir Richard Steele_Tinseltown,51.546679,-0.15871300000000002,2012-11-10
+89,Origin,Tinseltown,2012_Sir Richard Steele_Tinseltown,51.558911,-0.178279,2012-01-05
+90,Destination,Ballyhoo,2012_Ballyhoo_Tinseltown,51.517396000000005,-0.125711,2012-10-16
+91,Origin,Tinseltown,2012_Ballyhoo_Tinseltown,51.558911,-0.178279,2012-01-05
+92,Destination,Tinseltown,2012_Tinseltown_Tinseltown,51.558911,-0.178279,2012-01-05
+93,Origin,Tinseltown,2012_Tinseltown_Tinseltown,51.558911,-0.178279,2012-01-05
+94,Destination,Simply Fish,2012_Simply Fish_Tinseltown,51.540039,-0.14449700000000001,2012-02-28
+95,Origin,Tinseltown,2012_Simply Fish_Tinseltown,51.558911,-0.178279,2012-01-05
+96,Destination,Agora 2,2012_Agora 2_Tinseltown,51.539611,-0.19441,2012-08-28
+97,Origin,Tinseltown,2012_Agora 2_Tinseltown,51.558911,-0.178279,2012-01-05
+98,Destination,Agora 1,2012_Agora 1_Tinseltown,51.539611,-0.19441,2012-08-28
+99,Origin,Tinseltown,2012_Agora 1_Tinseltown,51.558911,-0.178279,2012-01-05
+100,Destination,Poolcrest Snooker Club,2012_Poolcrest Snooker Club_Tinseltown,51.545148,-0.201396,2012-11-28
+101,Origin,Tinseltown,2012_Poolcrest Snooker Club_Tinseltown,51.558911,-0.178279,2012-01-05
+102,Destination,Gilgamesh,2012_Gilgamesh_Tinseltown,51.542256,-0.14816,2012-04-01
+103,Origin,Tinseltown,2012_Gilgamesh_Tinseltown,51.558911,-0.178279,2012-01-05
+104,Destination,"Proud  Camden, The Horse Hospital","2012_Proud  Camden, The Horse Hospital_Tinseltown",51.542256,-0.14816,2012-11-10
+105,Origin,Tinseltown,"2012_Proud  Camden, The Horse Hospital_Tinseltown",51.558911,-0.178279,2012-01-05
+106,Destination,Super Choice,2012_Super Choice_Tinseltown,51.549989000000004,-0.15253699999999998,2012-01-06
+107,Origin,Tinseltown,2012_Super Choice_Tinseltown,51.558911,-0.178279,2012-01-05
+108,Destination,Fine Food Convenience Store,2008_Fine Food Convenience Store_Spread Eagle,51.546582,-0.141154,2008-04-15
+109,Origin,Spread Eagle,2008_Fine Food Convenience Store_Spread Eagle,51.537762,-0.14571199999999998,2008-01-08
+110,Destination,Hot Rock Cafe,2008_Hot Rock Cafe_Spread Eagle,51.539219,-0.141978,2008-05-02
+111,Origin,Spread Eagle,2008_Hot Rock Cafe_Spread Eagle,51.537762,-0.14571199999999998,2008-01-08
+112,Destination,280 Degrees African Restaurant and Bar (formerly Sabor Latino UK - Ground Floor Premises),2008_280 Degrees African Restaurant and Bar (formerly Sabor Latino UK - Ground Floor Premises)_Spread Eagle,51.544173,-0.200406,2008-06-16
+113,Origin,Spread Eagle,2008_280 Degrees African Restaurant and Bar (formerly Sabor Latino UK - Ground Floor Premises)_Spread Eagle,51.537762,-0.14571199999999998,2008-01-08
+114,Destination,Woody Grill,2008_Woody Grill_Spread Eagle,51.539219,-0.141978,2008-05-02
+115,Origin,Spread Eagle,2008_Woody Grill_Spread Eagle,51.537762,-0.14571199999999998,2008-01-08
+116,Destination,Bloc Bar (Formerly Record Club/The Stillery,2008_Bloc Bar (Formerly Record Club/The Stillery_Spread Eagle,51.540164000000004,-0.141998,2008-09-23
+117,Origin,Spread Eagle,2008_Bloc Bar (Formerly Record Club/The Stillery_Spread Eagle,51.537762,-0.14571199999999998,2008-01-08
+118,Destination,Parkers,2008_Parkers_Spread Eagle,51.516965,-0.120941,2008-04-07
+119,Origin,Spread Eagle,2008_Parkers_Spread Eagle,51.537762,-0.14571199999999998,2008-01-08
+120,Destination,Lord John Russell,2008_Lord John Russell_Spread Eagle,51.525959,-0.126467,2008-02-14
+121,Origin,Spread Eagle,2008_Lord John Russell_Spread Eagle,51.537762,-0.14571199999999998,2008-01-08
+122,Destination,Spread Eagle,2008_Spread Eagle_Spread Eagle,51.537762,-0.14571199999999998,2008-01-08
+123,Origin,Spread Eagle,2008_Spread Eagle_Spread Eagle,51.537762,-0.14571199999999998,2008-01-08
+124,Destination,The Gallery,2008_The Gallery_Spread Eagle,51.546657,-0.19045499999999999,2008-03-26
+125,Origin,Spread Eagle,2008_The Gallery_Spread Eagle,51.537762,-0.14571199999999998,2008-01-08
+126,Destination,Joe's Southern Table & Bar,2010_Joe's Southern Table & Bar_Joe's Southern Table & Bar,51.551065,-0.140306,2010-01-28
+127,Origin,Joe's Southern Table & Bar,2010_Joe's Southern Table & Bar_Joe's Southern Table & Bar,51.551065,-0.140306,2010-01-28
+128,Destination,Cock Tavern,2010_Cock Tavern_Joe's Southern Table & Bar,51.531317,-0.131109,2010-04-23
+129,Origin,Joe's Southern Table & Bar,2010_Cock Tavern_Joe's Southern Table & Bar,51.551065,-0.140306,2010-01-28
+130,Destination,Nisa Local (previously Price Check),2010_Nisa Local (previously Price Check)_Joe's Southern Table & Bar,51.546657,-0.19045499999999999,2010-06-25
+131,Origin,Joe's Southern Table & Bar,2010_Nisa Local (previously Price Check)_Joe's Southern Table & Bar,51.551065,-0.140306,2010-01-28
+132,Destination,Booty Food & Wine,2010_Booty Food & Wine_Joe's Southern Table & Bar,51.539688,-0.142772,2010-03-11
+133,Origin,Joe's Southern Table & Bar,2010_Booty Food & Wine_Joe's Southern Table & Bar,51.551065,-0.140306,2010-01-28
+134,Destination,My Shop,2010_My Shop_Joe's Southern Table & Bar,51.556776,-0.13938499999999998,2010-06-29
+135,Origin,Joe's Southern Table & Bar,2010_My Shop_Joe's Southern Table & Bar,51.551065,-0.140306,2010-01-28
+136,Destination,Goodmay Wines,2010_Goodmay Wines_Joe's Southern Table & Bar,51.540816,-0.17946600000000001,2010-12-11
+137,Origin,Joe's Southern Table & Bar,2010_Goodmay Wines_Joe's Southern Table & Bar,51.551065,-0.140306,2010-01-28
+138,Destination,Finchley Bell,2010_Finchley Bell_Joe's Southern Table & Bar,51.549878,-0.183277,2010-08-20
+139,Origin,Joe's Southern Table & Bar,2010_Finchley Bell_Joe's Southern Table & Bar,51.551065,-0.140306,2010-01-28
+140,Destination,Metro Express,2007_Metro Express_Camden Fast Food,51.518636,-0.12129000000000001,2007-05-24
+141,Origin,Camden Fast Food,2007_Metro Express_Camden Fast Food,51.534911,-0.139649,2007-01-17
+142,Destination,The Dartmouth Arms,2007_The Dartmouth Arms_Camden Fast Food,51.558535,-0.143825,2007-08-24
+143,Origin,Camden Fast Food,2007_The Dartmouth Arms_Camden Fast Food,51.534911,-0.139649,2007-01-17
+144,Destination,Camden Fast Food,2007_Camden Fast Food_Camden Fast Food,51.534911,-0.139649,2007-01-17
+145,Origin,Camden Fast Food,2007_Camden Fast Food_Camden Fast Food,51.534911,-0.139649,2007-01-17
+146,Destination,Kentucky Fried Chicken,2007_Kentucky Fried Chicken_Camden Fast Food,51.540039,-0.14449700000000001,2007-11-12
+147,Origin,Camden Fast Food,2007_Kentucky Fried Chicken_Camden Fast Food,51.534911,-0.139649,2007-01-17
+148,Destination,Navruz Restaurant (formerly Charleys Bar),2007_Navruz Restaurant (formerly Charleys Bar)_Camden Fast Food,51.554759000000004,-0.212641,2007-08-02
+149,Origin,Camden Fast Food,2007_Navruz Restaurant (formerly Charleys Bar)_Camden Fast Food,51.534911,-0.139649,2007-01-17
+150,Destination,Centre Point Snooker Club,2007_Centre Point Snooker Club_Camden Fast Food,51.516178000000004,-0.12926500000000002,2007-03-22
+151,Origin,Camden Fast Food,2007_Centre Point Snooker Club_Camden Fast Food,51.534911,-0.139649,2007-01-17
+152,Destination,Victoria Food & Wine,2007_Victoria Food & Wine_Camden Fast Food,51.55223,-0.166857,2007-09-14
+153,Origin,Camden Fast Food,2007_Victoria Food & Wine_Camden Fast Food,51.534911,-0.139649,2007-01-17
+154,Destination,Victoria Food & Wine,2006_Victoria Food & Wine_Rossodisera,51.55223,-0.166857,2006-08-29
+155,Origin,Rossodisera,2006_Victoria Food & Wine_Rossodisera,51.515044,-0.126064,2006-03-08
+156,Destination,All Nite Express,2006_All Nite Express_Rossodisera,51.517858000000004,-0.11538599999999999,2006-11-15
+157,Origin,Rossodisera,2006_All Nite Express_Rossodisera,51.515044,-0.126064,2006-03-08
+158,Destination,Rossodisera,2006_Rossodisera_Rossodisera,51.515044,-0.126064,2006-03-08
+159,Origin,Rossodisera,2006_Rossodisera_Rossodisera,51.515044,-0.126064,2006-03-08
+160,Destination,WOK and GO,2006_WOK and GO_Rossodisera,51.549141999999996,-0.18245899999999998,2006-08-04
+161,Origin,Rossodisera,2006_WOK and GO_Rossodisera,51.515044,-0.126064,2006-03-08
+162,Destination,Reverend JW Simpson,2009_Reverend JW Simpson_Smoking Goat,51.519855,-0.135379,2009-03-12
+163,Origin,Smoking Goat,2009_Reverend JW Simpson_Smoking Goat,51.515018,-0.129353,2009-01-13
+164,Destination,Smoking Goat,2009_Smoking Goat_Smoking Goat,51.515018,-0.129353,2009-01-13
+165,Origin,Smoking Goat,2009_Smoking Goat_Smoking Goat,51.515018,-0.129353,2009-01-13
+166,Destination,Booty Food & Wine,2009_Booty Food & Wine_Smoking Goat,51.539688,-0.142772,2009-03-30
+167,Origin,Smoking Goat,2009_Booty Food & Wine_Smoking Goat,51.515018,-0.129353,2009-01-13
+168,Destination,The Marathon,2009_The Marathon_Smoking Goat,51.543994,-0.151855,2009-07-21
+169,Origin,Smoking Goat,2009_The Marathon_Smoking Goat,51.515018,-0.129353,2009-01-13
+170,Destination,Supersave Convenience Store,2009_Supersave Convenience Store_Smoking Goat,51.539688,-0.142772,2009-07-08
+171,Origin,Smoking Goat,2009_Supersave Convenience Store_Smoking Goat,51.515018,-0.129353,2009-01-13
+172,Destination,The Junction Tavern,2009_The Junction Tavern_Smoking Goat,51.555029,-0.14012,2009-03-16
+173,Origin,Smoking Goat,2009_The Junction Tavern_Smoking Goat,51.515018,-0.129353,2009-01-13
+174,Destination,Quick Stop,2009_Quick Stop_Smoking Goat,51.543793,-0.153248,2009-08-01
+175,Origin,Smoking Goat,2009_Quick Stop_Smoking Goat,51.515018,-0.129353,2009-01-13
+176,Destination,Supersave Food & Wine,2009_Supersave Food & Wine_Smoking Goat,51.542081,-0.180533,2009-01-26
+177,Origin,Smoking Goat,2009_Supersave Food & Wine_Smoking Goat,51.515018,-0.129353,2009-01-13
+178,Destination,Prince Of Wales,2009_Prince Of Wales_Smoking Goat,51.545906,-0.147403,2009-08-20
+179,Origin,Smoking Goat,2009_Prince Of Wales_Smoking Goat,51.515018,-0.129353,2009-01-13
+180,Destination,The Late Late Store,2009_The Late Late Store_Smoking Goat,51.549607,-0.171967,2009-09-18
+181,Origin,Smoking Goat,2009_The Late Late Store_Smoking Goat,51.515018,-0.129353,2009-01-13
+182,Destination,Booty Food & Wine,2014_Booty Food & Wine_Booty Food & Wine,51.539688,-0.142772,2014-01-16
+183,Origin,Booty Food & Wine,2014_Booty Food & Wine_Booty Food & Wine,51.539688,-0.142772,2014-01-16
+184,Destination,Be At One,2014_Be At One_Booty Food & Wine,51.535494,-0.140296,2014-08-21
+185,Origin,Booty Food & Wine,2014_Be At One_Booty Food & Wine,51.539688,-0.142772,2014-01-16
+186,Destination,Flight Club,2014_Flight Club_Booty Food & Wine,51.516711,-0.127133,2014-02-07
+187,Origin,Booty Food & Wine,2014_Flight Club_Booty Food & Wine,51.539688,-0.142772,2014-01-16
+188,Destination,Silk (formerly Anodos Night Spot Ltd),2014_Silk (formerly Anodos Night Spot Ltd)_Booty Food & Wine,51.537827,-0.141005,2014-04-14
+189,Origin,Booty Food & Wine,2014_Silk (formerly Anodos Night Spot Ltd)_Booty Food & Wine,51.539688,-0.142772,2014-01-16
+190,Destination,Super Choice,2017_Super Choice_Super Choice,51.549989000000004,-0.15253699999999998,2017-04-27
+191,Origin,Super Choice,2017_Super Choice_Super Choice,51.549989000000004,-0.15253699999999998,2017-04-27

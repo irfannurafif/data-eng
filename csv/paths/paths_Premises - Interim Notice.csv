@@ -1,0 +1,37 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,La Porchetta,2007_La Porchetta_La Porchetta,51.520477,-0.12115,2007-12-10
+1,Origin,La Porchetta,2007_La Porchetta_La Porchetta,51.520477,-0.12115,2007-12-10
+2,Destination,Academy Town House Hotel Ltd,2010_Academy Town House Hotel Ltd_Priory Tavern,51.520738,-0.131223,2010-06-21
+3,Origin,Priory Tavern,2010_Academy Town House Hotel Ltd_Priory Tavern,51.538581,-0.191,2010-03-17
+4,Destination,Priory Tavern,2010_Priory Tavern_Priory Tavern,51.538581,-0.191,2010-03-17
+5,Origin,Priory Tavern,2010_Priory Tavern_Priory Tavern,51.538581,-0.191,2010-03-17
+6,Destination,Giraffe,2009_Giraffe_China City Restaurant,51.550832,-0.164907,2009-10-16
+7,Origin,China City Restaurant,2009_Giraffe_China City Restaurant,51.523588000000004,-0.12746500000000002,2009-03-25
+8,Destination,Hampstead Food Mart,2009_Hampstead Food Mart_China City Restaurant,51.546339,-0.191433,2009-04-11
+9,Origin,China City Restaurant,2009_Hampstead Food Mart_China City Restaurant,51.523588000000004,-0.12746500000000002,2009-03-25
+10,Destination,China City Restaurant,2009_China City Restaurant_China City Restaurant,51.523588000000004,-0.12746500000000002,2009-03-25
+11,Origin,China City Restaurant,2009_China City Restaurant_China City Restaurant,51.523588000000004,-0.12746500000000002,2009-03-25
+12,Destination,Tannin and Oak,2009_Tannin and Oak_China City Restaurant,51.552048,-0.19166,2009-04-11
+13,Origin,China City Restaurant,2009_Tannin and Oak_China City Restaurant,51.523588000000004,-0.12746500000000002,2009-03-25
+14,Destination,Artigiano,2009_Artigiano_China City Restaurant,51.548931,-0.170847,2009-10-09
+15,Origin,China City Restaurant,2009_Artigiano_China City Restaurant,51.523588000000004,-0.12746500000000002,2009-03-25
+16,Destination,Thresher Wine Shop,2009_Thresher Wine Shop_China City Restaurant,51.554858,-0.16573,2009-04-11
+17,Origin,China City Restaurant,2009_Thresher Wine Shop_China City Restaurant,51.523588000000004,-0.12746500000000002,2009-03-25
+18,Destination,Wine Rack,2009_Wine Rack_China City Restaurant,51.540877,-0.161548,2009-04-11
+19,Origin,China City Restaurant,2009_Wine Rack_China City Restaurant,51.523588000000004,-0.12746500000000002,2009-03-25
+20,Destination,Prince Of Wales,2009_Prince Of Wales_China City Restaurant,51.545906,-0.147403,2009-04-20
+21,Origin,China City Restaurant,2009_Prince Of Wales_China City Restaurant,51.523588000000004,-0.12746500000000002,2009-03-25
+22,Destination,The Sparkle Bar & Lounge,2009_The Sparkle Bar & Lounge_China City Restaurant,51.547698,-0.181321,2009-10-09
+23,Origin,China City Restaurant,2009_The Sparkle Bar & Lounge_China City Restaurant,51.523588000000004,-0.12746500000000002,2009-03-25
+24,Destination,Lara Wine,2009_Lara Wine_China City Restaurant,51.558535,-0.143825,2009-04-11
+25,Origin,China City Restaurant,2009_Lara Wine_China City Restaurant,51.523588000000004,-0.12746500000000002,2009-03-25
+26,Destination,Flight Club,2012_Flight Club_Flight Club,51.516711,-0.127133,2012-11-07
+27,Origin,Flight Club,2012_Flight Club_Flight Club,51.516711,-0.127133,2012-11-07
+28,Destination,Smugglers Tavern,2014_Smugglers Tavern_Smugglers Tavern,51.523545,-0.140725,2014-01-31
+29,Origin,Smugglers Tavern,2014_Smugglers Tavern_Smugglers Tavern,51.523545,-0.140725,2014-01-31
+30,Destination,West Lodge,2008_West Lodge_West Lodge,51.526984000000006,-0.132609,2008-07-30
+31,Origin,West Lodge,2008_West Lodge_West Lodge,51.526984000000006,-0.132609,2008-07-30
+32,Destination,West Hampstead Food & Wine,2013_West Hampstead Food & Wine_West Hampstead Food & Wine,51.554904,-0.196225,2013-11-25
+33,Origin,West Hampstead Food & Wine,2013_West Hampstead Food & Wine_West Hampstead Food & Wine,51.554904,-0.196225,2013-11-25
+34,Destination,Fish Cafe Restaurant (formerly Base),2011_Fish Cafe Restaurant (formerly Base)_Fish Cafe Restaurant (formerly Base),51.555759,-0.177656,2011-01-26
+35,Origin,Fish Cafe Restaurant (formerly Base),2011_Fish Cafe Restaurant (formerly Base)_Fish Cafe Restaurant (formerly Base),51.555759,-0.177656,2011-01-26

@@ -1,0 +1,387 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Senor Ceviche (formerly known as The Barnyard),2013_Senor Ceviche (formerly known as The Barnyard)_Be At One,51.518959,-0.134555,2013-06-08
+1,Origin,Be At One,2013_Senor Ceviche (formerly known as The Barnyard)_Be At One,51.535494,-0.140296,2013-03-07
+2,Destination,Sam's Supermarket,2013_Sam's Supermarket_Be At One,51.541989,-0.129177,2013-08-08
+3,Origin,Be At One,2013_Sam's Supermarket_Be At One,51.535494,-0.140296,2013-03-07
+4,Destination,Cashino,2013_Cashino_Be At One,51.540251,-0.19475699999999999,2013-05-09
+5,Origin,Be At One,2013_Cashino_Be At One,51.535494,-0.140296,2013-03-07
+6,Destination,Holborn Whippet (FormerlyFathers Study),2013_Holborn Whippet (FormerlyFathers Study)_Be At One,51.518636,-0.12129000000000001,2013-05-15
+7,Origin,Be At One,2013_Holborn Whippet (FormerlyFathers Study)_Be At One,51.535494,-0.140296,2013-03-07
+8,Destination,28 Church Row,2013_28 Church Row_Be At One,51.555338,-0.179229,2013-08-11
+9,Origin,Be At One,2013_28 Church Row_Be At One,51.535494,-0.140296,2013-03-07
+10,Destination,Be At One,2013_Be At One_Be At One,51.535494,-0.140296,2013-03-07
+11,Origin,Be At One,2013_Be At One_Be At One,51.535494,-0.140296,2013-03-07
+12,Destination,Kiera (formerly Nunu Cafe and Brasserie),2013_Kiera (formerly Nunu Cafe and Brasserie)_Be At One,51.515526,-0.12947,2013-11-29
+13,Origin,Be At One,2013_Kiera (formerly Nunu Cafe and Brasserie)_Be At One,51.535494,-0.140296,2013-03-07
+14,Destination,The Green Room (formerly Sushi Kou),2013_The Green Room (formerly Sushi Kou)_Be At One,51.554619,-0.196508,2013-06-13
+15,Origin,Be At One,2013_The Green Room (formerly Sushi Kou)_Be At One,51.535494,-0.140296,2013-03-07
+16,Destination,JW3,2013_JW3_Be At One,51.551003,-0.184789,2013-04-09
+17,Origin,Be At One,2013_JW3_Be At One,51.535494,-0.140296,2013-03-07
+18,Destination,Camden Assembly,2013_Camden Assembly_Be At One,51.542882,-0.14976099999999998,2013-06-02
+19,Origin,Be At One,2013_Camden Assembly_Be At One,51.535494,-0.140296,2013-03-07
+20,Destination,Compagnie des Vins Surnaturel,2013_Compagnie des Vins Surnaturel_Be At One,51.514446,-0.126545,2013-04-19
+21,Origin,Be At One,2013_Compagnie des Vins Surnaturel_Be At One,51.535494,-0.140296,2013-03-07
+22,Destination,The Crowndale,2013_The Crowndale_Be At One,51.534285,-0.13764300000000002,2013-09-12
+23,Origin,Be At One,2013_The Crowndale_Be At One,51.535494,-0.140296,2013-03-07
+24,Destination,Marks & Spencer Simply Food (1) Unit 23,2013_Marks & Spencer Simply Food (1) Unit 23_Be At One,51.531775,-0.126577,2013-10-14
+25,Origin,Be At One,2013_Marks & Spencer Simply Food (1) Unit 23_Be At One,51.535494,-0.140296,2013-03-07
+26,Destination,Sir Richard Steele,2013_Sir Richard Steele_Be At One,51.546679,-0.15871300000000002,2013-04-12
+27,Origin,Be At One,2013_Sir Richard Steele_Be At One,51.535494,-0.140296,2013-03-07
+28,Destination,East Lodge,2013_East Lodge_Be At One,51.527128999999995,-0.132192,2013-05-15
+29,Origin,Be At One,2013_East Lodge_Be At One,51.535494,-0.140296,2013-03-07
+30,Destination,Bubbledogs &,2013_Bubbledogs &_Be At One,51.520672999999995,-0.136245,2013-05-04
+31,Origin,Be At One,2013_Bubbledogs &_Be At One,51.535494,-0.140296,2013-03-07
+32,Destination,White Horse,2013_White Horse_Be At One,51.554378,-0.16508299999999998,2013-09-09
+33,Origin,Be At One,2013_White Horse_Be At One,51.535494,-0.140296,2013-03-07
+34,Destination,Super Choice,2013_Super Choice_Be At One,51.549989000000004,-0.15253699999999998,2013-06-11
+35,Origin,Be At One,2013_Super Choice_Be At One,51.535494,-0.140296,2013-03-07
+36,Destination,West Lodge,2013_West Lodge_Be At One,51.526984000000006,-0.132609,2013-05-15
+37,Origin,Be At One,2013_West Lodge_Be At One,51.535494,-0.140296,2013-03-07
+38,Destination,Cote,2013_Cote_Be At One,51.538119,-0.145295,2013-10-21
+39,Origin,Be At One,2013_Cote_Be At One,51.535494,-0.140296,2013-03-07
+40,Destination,The Blues Kitchen,2013_The Blues Kitchen_Be At One,51.536691,-0.141465,2013-05-14
+41,Origin,Be At One,2013_The Blues Kitchen_Be At One,51.535494,-0.140296,2013-03-07
+42,Destination,The Jewish Museum,2013_The Jewish Museum_Be At One,51.536998,-0.145009,2013-06-21
+43,Origin,Be At One,2013_The Jewish Museum_Be At One,51.535494,-0.140296,2013-03-07
+44,Destination,Flight Club,2013_Flight Club_Be At One,51.516711,-0.127133,2013-11-20
+45,Origin,Be At One,2013_Flight Club_Be At One,51.535494,-0.140296,2013-03-07
+46,Destination,Fleet River Bakery,2013_Fleet River Bakery_Be At One,51.51668,-0.119209,2013-05-15
+47,Origin,Be At One,2013_Fleet River Bakery_Be At One,51.535494,-0.140296,2013-03-07
+48,Destination,Costcutters,2013_Costcutters_Be At One,51.530239,-0.12168499999999999,2013-10-24
+49,Origin,Be At One,2013_Costcutters_Be At One,51.535494,-0.140296,2013-03-07
+50,Destination,Retsina,2013_Retsina_Be At One,51.549607,-0.171967,2013-07-10
+51,Origin,Be At One,2013_Retsina_Be At One,51.535494,-0.140296,2013-03-07
+52,Destination,Bull & Gate,2013_Bull & Gate_Be At One,51.551885,-0.141932,2013-06-02
+53,Origin,Be At One,2013_Bull & Gate_Be At One,51.535494,-0.140296,2013-03-07
+54,Destination,The Horseshoe,2013_The Horseshoe_Be At One,51.55619,-0.178368,2013-08-14
+55,Origin,Be At One,2013_The Horseshoe_Be At One,51.535494,-0.140296,2013-03-07
+56,Destination,Winnicott Etrusco,2013_Winnicott Etrusco_Be At One,51.534197,-0.13888599999999998,2013-08-03
+57,Origin,Be At One,2013_Winnicott Etrusco_Be At One,51.535494,-0.140296,2013-03-07
+58,Destination,Scamaj,2013_Scamaj_Be At One,51.551211,-0.19204000000000002,2013-05-02
+59,Origin,Be At One,2013_Scamaj_Be At One,51.535494,-0.140296,2013-03-07
+60,Destination,J Restaurant,2013_J Restaurant_Be At One,51.541352,-0.15648199999999998,2013-04-23
+61,Origin,Be At One,2013_J Restaurant_Be At One,51.535494,-0.140296,2013-03-07
+62,Destination,Balans Restaurant,2013_Balans Restaurant_Be At One,51.513596,-0.127317,2013-06-28
+63,Origin,Be At One,2013_Balans Restaurant_Be At One,51.535494,-0.140296,2013-03-07
+64,Destination,Sakleys - Ground Floor,2016_Sakleys - Ground Floor_Ravi Shankar Bhelpoori House,51.519667,-0.136475,2016-08-03
+65,Origin,Ravi Shankar Bhelpoori House,2016_Sakleys - Ground Floor_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+66,Destination,KFC,2016_KFC_Ravi Shankar Bhelpoori House,51.55223,-0.166857,2016-07-28
+67,Origin,Ravi Shankar Bhelpoori House,2016_KFC_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+68,Destination,The Hampstead Butcher and Providore,2016_The Hampstead Butcher and Providore_Ravi Shankar Bhelpoori House,51.551158,-0.191369,2016-11-25
+69,Origin,Ravi Shankar Bhelpoori House,2016_The Hampstead Butcher and Providore_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+70,Destination,Cobden Arms,2016_Cobden Arms_Ravi Shankar Bhelpoori House,51.535228000000004,-0.138658,2016-04-29
+71,Origin,Ravi Shankar Bhelpoori House,2016_Cobden Arms_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+72,Destination,Ravi Shankar Bhelpoori House,2016_Ravi Shankar Bhelpoori House_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+73,Origin,Ravi Shankar Bhelpoori House,2016_Ravi Shankar Bhelpoori House_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+74,Destination,New Market Inn,2016_New Market Inn_Ravi Shankar Bhelpoori House,51.543074,-0.126691,2016-07-03
+75,Origin,Ravi Shankar Bhelpoori House,2016_New Market Inn_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+76,Destination,Covent Garden Health Spa,2016_Covent Garden Health Spa_Ravi Shankar Bhelpoori House,51.514406,-0.12488599999999998,2016-11-07
+77,Origin,Ravi Shankar Bhelpoori House,2016_Covent Garden Health Spa_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+78,Destination,Bengal Spice Restaurant,2016_Bengal Spice Restaurant_Ravi Shankar Bhelpoori House,51.549717,-0.191104,2016-03-03
+79,Origin,Ravi Shankar Bhelpoori House,2016_Bengal Spice Restaurant_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+80,Destination,The Bull Steak Expert Limited,2016_The Bull Steak Expert Limited_Ravi Shankar Bhelpoori House,51.519397,-0.11733099999999999,2016-04-26
+81,Origin,Ravi Shankar Bhelpoori House,2016_The Bull Steak Expert Limited_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+82,Destination,Village Stores,2016_Village Stores_Ravi Shankar Bhelpoori House,51.546164000000005,-0.13586199999999998,2016-04-28
+83,Origin,Ravi Shankar Bhelpoori House,2016_Village Stores_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+84,Destination,Rosa's Thai Cafe,2016_Rosa's Thai Cafe_Ravi Shankar Bhelpoori House,51.513596,-0.127317,2016-12-21
+85,Origin,Ravi Shankar Bhelpoori House,2016_Rosa's Thai Cafe_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+86,Destination,Market,2016_Market_Ravi Shankar Bhelpoori House,51.538119,-0.145295,2016-10-02
+87,Origin,Ravi Shankar Bhelpoori House,2016_Market_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+88,Destination,Swiss Cottage Hotel,2016_Swiss Cottage Hotel_Ravi Shankar Bhelpoori House,51.544484999999995,-0.172675,2016-03-11
+89,Origin,Ravi Shankar Bhelpoori House,2016_Swiss Cottage Hotel_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+90,Destination,Ladies and Gentlemen,2016_Ladies and Gentlemen_Ravi Shankar Bhelpoori House,51.559401,-0.151809,2016-06-23
+91,Origin,Ravi Shankar Bhelpoori House,2016_Ladies and Gentlemen_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+92,Destination,Hache Burger Connoisseurs Ltd,2016_Hache Burger Connoisseurs Ltd_Ravi Shankar Bhelpoori House,51.540039,-0.14449700000000001,2016-09-21
+93,Origin,Ravi Shankar Bhelpoori House,2016_Hache Burger Connoisseurs Ltd_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+94,Destination,Love & Liquor,2016_Love & Liquor_Ravi Shankar Bhelpoori House,51.536709,-0.19143,2016-04-18
+95,Origin,Ravi Shankar Bhelpoori House,2016_Love & Liquor_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+96,Destination,Royal Exchange,2016_Royal Exchange_Ravi Shankar Bhelpoori House,51.543859000000005,-0.145834,2016-03-15
+97,Origin,Ravi Shankar Bhelpoori House,2016_Royal Exchange_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+98,Destination,Academy Town House Hotel Ltd,2016_Academy Town House Hotel Ltd_Ravi Shankar Bhelpoori House,51.520738,-0.131223,2016-02-08
+99,Origin,Ravi Shankar Bhelpoori House,2016_Academy Town House Hotel Ltd_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+100,Destination,HanKang,2016_HanKang_Ravi Shankar Bhelpoori House,51.516921999999994,-0.132023,2016-02-22
+101,Origin,Ravi Shankar Bhelpoori House,2016_HanKang_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+102,Destination,Wrapchic,2016_Wrapchic_Ravi Shankar Bhelpoori House,51.519667,-0.136475,2016-07-13
+103,Origin,Ravi Shankar Bhelpoori House,2016_Wrapchic_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+104,Destination,MERE,2016_MERE_Ravi Shankar Bhelpoori House,51.520672999999995,-0.136245,2016-09-12
+105,Origin,Ravi Shankar Bhelpoori House,2016_MERE_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+106,Destination,Knowhere Special (Basement),2016_Knowhere Special (Basement)_Ravi Shankar Bhelpoori House,51.551065,-0.140306,2016-04-18
+107,Origin,Ravi Shankar Bhelpoori House,2016_Knowhere Special (Basement)_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+108,Destination,Mamma Mia Cafe,2016_Mamma Mia Cafe_Ravi Shankar Bhelpoori House,51.551065,-0.140306,2016-04-18
+109,Origin,Ravi Shankar Bhelpoori House,2016_Mamma Mia Cafe_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+110,Destination,Lazy Hunter,2016_Lazy Hunter_Ravi Shankar Bhelpoori House,51.544361,-0.141795,2016-10-18
+111,Origin,Ravi Shankar Bhelpoori House,2016_Lazy Hunter_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+112,Destination,Budget Beers,2016_Budget Beers_Ravi Shankar Bhelpoori House,51.550328,-0.150377,2016-08-31
+113,Origin,Ravi Shankar Bhelpoori House,2016_Budget Beers_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+114,Destination,Green Note,2016_Green Note_Ravi Shankar Bhelpoori House,51.537762,-0.14571199999999998,2016-05-16
+115,Origin,Ravi Shankar Bhelpoori House,2016_Green Note_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+116,Destination,Mela,2016_Mela_Ravi Shankar Bhelpoori House,51.51386,-0.127887,2016-04-13
+117,Origin,Ravi Shankar Bhelpoori House,2016_Mela_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+118,Destination,Busaba Eathai,2016_Busaba Eathai_Ravi Shankar Bhelpoori House,51.519946999999995,-0.133178,2016-10-05
+119,Origin,Ravi Shankar Bhelpoori House,2016_Busaba Eathai_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+120,Destination,La Cage Imaginaire,2016_La Cage Imaginaire_Ravi Shankar Bhelpoori House,51.556693,-0.176761,2016-12-06
+121,Origin,Ravi Shankar Bhelpoori House,2016_La Cage Imaginaire_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+122,Destination,Nisa Local (previously Price Check),2016_Nisa Local (previously Price Check)_Ravi Shankar Bhelpoori House,51.546657,-0.19045499999999999,2016-07-07
+123,Origin,Ravi Shankar Bhelpoori House,2016_Nisa Local (previously Price Check)_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+124,Destination,Way 2 Save,2016_Way 2 Save_Ravi Shankar Bhelpoori House,51.546555,-0.203003,2016-01-29
+125,Origin,Ravi Shankar Bhelpoori House,2016_Way 2 Save_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+126,Destination,Sweet Inspirations,2016_Sweet Inspirations_Ravi Shankar Bhelpoori House,51.549129,-0.141647,2016-02-18
+127,Origin,Ravi Shankar Bhelpoori House,2016_Sweet Inspirations_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+128,Destination,Apple Tree,2016_Apple Tree_Ravi Shankar Bhelpoori House,51.523275,-0.112017,2016-04-10
+129,Origin,Ravi Shankar Bhelpoori House,2016_Apple Tree_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+130,Destination,Mildreds,2016_Mildreds_Ravi Shankar Bhelpoori House,51.540754,-0.145258,2016-09-05
+131,Origin,Ravi Shankar Bhelpoori House,2016_Mildreds_Ravi Shankar Bhelpoori House,51.526920000000004,-0.136481,2016-01-08
+132,Destination,London Cocktail Club,2015_London Cocktail Club_Lansdowne,51.516234000000004,-0.12594,2015-08-17
+133,Origin,Lansdowne,2015_London Cocktail Club_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+134,Destination,Royal Free Hospital,2015_Royal Free Hospital_Lansdowne,51.553171,-0.16541,2015-10-21
+135,Origin,Lansdowne,2015_Royal Free Hospital_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+136,Destination,Lanka,2015_Lanka_Lansdowne,51.541273,-0.157718,2015-12-06
+137,Origin,Lansdowne,2015_Lanka_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+138,Destination,Post Office,2015_Post Office_Lansdowne,51.542027000000004,-0.157269,2015-02-13
+139,Origin,Lansdowne,2015_Post Office_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+140,Destination,Bengali Workers Association,2015_Bengali Workers Association_Lansdowne,51.528317,-0.138854,2015-06-23
+141,Origin,Lansdowne,2015_Bengali Workers Association_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+142,Destination,Hercules Pillars,2015_Hercules Pillars_Lansdowne,51.515707,-0.12126300000000001,2015-12-05
+143,Origin,Lansdowne,2015_Hercules Pillars_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+144,Destination,The Horseshoe,2015_The Horseshoe_Lansdowne,51.55619,-0.178368,2015-11-30
+145,Origin,Lansdowne,2015_The Horseshoe_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+146,Destination,Premier - Kaasco,2015_Premier - Kaasco_Lansdowne,51.538624,-0.141854,2015-03-30
+147,Origin,Lansdowne,2015_Premier - Kaasco_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+148,Destination,Hampstead Food & Drinks,2015_Hampstead Food & Drinks_Lansdowne,51.549717,-0.191104,2015-03-17
+149,Origin,Lansdowne,2015_Hampstead Food & Drinks_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+150,Destination,Made in Brasil Boteco (formerly Coco Bamboo),2015_Made in Brasil Boteco (formerly Coco Bamboo)_Lansdowne,51.54314,-0.148383,2015-07-10
+151,Origin,Lansdowne,2015_Made in Brasil Boteco (formerly Coco Bamboo)_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+152,Destination,The Offy and General Store,2015_The Offy and General Store_Lansdowne,51.526422,-0.137931,2015-02-18
+153,Origin,Lansdowne,2015_The Offy and General Store_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+154,Destination,Strada,2015_Strada_Lansdowne,51.515707,-0.12126300000000001,2015-07-22
+155,Origin,Lansdowne,2015_Strada_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+156,Destination,Joys Cards and News,2015_Joys Cards and News_Lansdowne,51.522381,-0.109945,2015-03-18
+157,Origin,Lansdowne,2015_Joys Cards and News_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+158,Destination,Valencia Cafe,2015_Valencia Cafe_Lansdowne,51.525437,-0.125078,2015-04-23
+159,Origin,Lansdowne,2015_Valencia Cafe_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+160,Destination,Wildwood Kitchen (Cafe Pasta),2015_Wildwood Kitchen (Cafe Pasta)_Lansdowne,51.514962,-0.12751800000000002,2015-02-23
+161,Origin,Lansdowne,2015_Wildwood Kitchen (Cafe Pasta)_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+162,Destination,The Ninth,2015_The Ninth_Lansdowne,51.518959,-0.134555,2015-09-25
+163,Origin,Lansdowne,2015_The Ninth_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+164,Destination,Camden Assembly,2015_Camden Assembly_Lansdowne,51.542882,-0.14976099999999998,2015-10-12
+165,Origin,Lansdowne,2015_Camden Assembly_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+166,Destination,Sevilla Mia,2015_Sevilla Mia_Lansdowne,51.516921999999994,-0.132023,2015-05-03
+167,Origin,Lansdowne,2015_Sevilla Mia_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+168,Destination,McDonalds,2015_McDonalds_Lansdowne,51.544457,-0.176422,2015-09-22
+169,Origin,Lansdowne,2015_McDonalds_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+170,Destination,Camden Town Brewery,2015_Camden Town Brewery_Lansdowne,51.547441,-0.14729,2015-11-30
+171,Origin,Lansdowne,2015_Camden Town Brewery_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+172,Destination,ARBINA,2015_ARBINA_Lansdowne,51.523142,-0.137511,2015-02-16
+173,Origin,Lansdowne,2015_ARBINA_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+174,Destination,The Water Rats,2015_The Water Rats_Lansdowne,51.529164,-0.118967,2015-04-27
+175,Origin,Lansdowne,2015_The Water Rats_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+176,Destination,Pesantissimo,2015_Pesantissimo_Lansdowne,51.540818,-0.158121,2015-12-10
+177,Origin,Lansdowne,2015_Pesantissimo_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+178,Destination,THE PRINCIPAL LONDON,2015_THE PRINCIPAL LONDON_Lansdowne,51.52268,-0.12503599999999998,2015-05-01
+179,Origin,Lansdowne,2015_THE PRINCIPAL LONDON_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+180,Destination,Highgate Literary and Scientific Institution,2015_Highgate Literary and Scientific Institution_Lansdowne,51.570105,-0.148792,2015-07-28
+181,Origin,Lansdowne,2015_Highgate Literary and Scientific Institution_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+182,Destination,Mestizo Restaurant (formerly Costcut Express Food and Wine),2015_Mestizo Restaurant (formerly Costcut Express Food and Wine)_Lansdowne,51.527464,-0.138928,2015-02-13
+183,Origin,Lansdowne,2015_Mestizo Restaurant (formerly Costcut Express Food and Wine)_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+184,Destination,Guglee Restaurant,2015_Guglee Restaurant_Lansdowne,51.545552,-0.176535,2015-02-06
+185,Origin,Lansdowne,2015_Guglee Restaurant_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+186,Destination,Smugglers Tavern,2015_Smugglers Tavern_Lansdowne,51.523545,-0.140725,2015-10-03
+187,Origin,Lansdowne,2015_Smugglers Tavern_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+188,Destination,Davy's Bar and Grill Holborn,2015_Davy's Bar and Grill Holborn_Lansdowne,51.518567,-0.11580399999999999,2015-10-03
+189,Origin,Lansdowne,2015_Davy's Bar and Grill Holborn_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+190,Destination,Heals,2015_Heals_Lansdowne,51.521226,-0.133957,2015-01-23
+191,Origin,Lansdowne,2015_Heals_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+192,Destination,Lansdowne,2015_Lansdowne_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+193,Origin,Lansdowne,2015_Lansdowne_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+194,Destination,Only Connect UK Ltd,2015_Only Connect UK Ltd_Lansdowne,51.528216,-0.11601700000000001,2015-03-08
+195,Origin,Lansdowne,2015_Only Connect UK Ltd_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+196,Destination,Shah Tandoori,2015_Shah Tandoori_Lansdowne,51.526422,-0.137931,2015-10-02
+197,Origin,Lansdowne,2015_Shah Tandoori_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+198,Destination,Rossopomodoro,2015_Rossopomodoro_Lansdowne,51.513243,-0.127366,2015-05-03
+199,Origin,Lansdowne,2015_Rossopomodoro_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+200,Destination,HANA LTD,2015_HANA LTD_Lansdowne,51.552429,-0.191965,2015-05-18
+201,Origin,Lansdowne,2015_HANA LTD_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+202,Destination,Poem Bar & Grill,2015_Poem Bar & Grill_Lansdowne,51.537658,-0.185657,2015-04-06
+203,Origin,Lansdowne,2015_Poem Bar & Grill_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+204,Destination,Costcutter Star Sun Food and Wine,2015_Costcutter Star Sun Food and Wine_Lansdowne,51.555534,-0.139119,2015-02-13
+205,Origin,Lansdowne,2015_Costcutter Star Sun Food and Wine_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+206,Destination,Sainsbury's Supermarket,2015_Sainsbury's Supermarket_Lansdowne,51.524257,-0.137096,2015-10-26
+207,Origin,Lansdowne,2015_Sainsbury's Supermarket_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+208,Destination,City Lit,2015_City Lit_Lansdowne,51.514671,-0.120057,2015-04-11
+209,Origin,Lansdowne,2015_City Lit_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+210,Destination,Brown Sugar,2015_Brown Sugar_Lansdowne,51.516892999999996,-0.124123,2015-06-30
+211,Origin,Lansdowne,2015_Brown Sugar_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+212,Destination,White Horse,2015_White Horse_Lansdowne,51.554378,-0.16508299999999998,2015-08-06
+213,Origin,Lansdowne,2015_White Horse_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+214,Destination,The Crowndale,2015_The Crowndale_Lansdowne,51.534285,-0.13764300000000002,2015-10-08
+215,Origin,Lansdowne,2015_The Crowndale_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+216,Destination,Bountiful Cow,2015_Bountiful Cow_Lansdowne,51.518268,-0.11845499999999999,2015-04-03
+217,Origin,Lansdowne,2015_Bountiful Cow_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+218,Destination,Sunrise Supermarket,2015_Sunrise Supermarket_Lansdowne,51.55523,-0.145474,2015-02-20
+219,Origin,Lansdowne,2015_Sunrise Supermarket_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+220,Destination,J Restaurant,2015_J Restaurant_Lansdowne,51.541352,-0.15648199999999998,2015-12-10
+221,Origin,Lansdowne,2015_J Restaurant_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+222,Destination,JGTD Restaurants,2015_JGTD Restaurants_Lansdowne,51.549607,-0.171967,2015-04-09
+223,Origin,Lansdowne,2015_JGTD Restaurants_Lansdowne,51.541759000000006,-0.153998,2015-01-05
+224,Destination,The Hope Pub,2014_The Hope Pub_Pizza Hut,51.5202,-0.13578099999999999,2014-04-11
+225,Origin,Pizza Hut,2014_The Hope Pub_Pizza Hut,51.53555,-0.138472,2014-01-04
+226,Destination,Sushi Bar Ramea,2014_Sushi Bar Ramea_Pizza Hut,51.51831,-0.131671,2014-03-17
+227,Origin,Pizza Hut,2014_Sushi Bar Ramea_Pizza Hut,51.53555,-0.138472,2014-01-04
+228,Destination,"Leon,  101 Tottenham Court Road","2014_Leon,  101 Tottenham Court Road_Pizza Hut",51.52243,-0.13683900000000002,2014-06-10
+229,Origin,Pizza Hut,"2014_Leon,  101 Tottenham Court Road_Pizza Hut",51.53555,-0.138472,2014-01-04
+230,Destination,Black Cap,2014_Black Cap_Pizza Hut,51.538247,-0.142543,2014-11-12
+231,Origin,Pizza Hut,2014_Black Cap_Pizza Hut,51.53555,-0.138472,2014-01-04
+232,Destination,Reverend JW Simpson,2014_Reverend JW Simpson_Pizza Hut,51.519855,-0.135379,2014-01-13
+233,Origin,Pizza Hut,2014_Reverend JW Simpson_Pizza Hut,51.53555,-0.138472,2014-01-04
+234,Destination,NWC (formerly Legacy),2014_NWC (formerly Legacy)_Pizza Hut,51.543234000000005,-0.17561500000000002,2014-09-12
+235,Origin,Pizza Hut,2014_NWC (formerly Legacy)_Pizza Hut,51.53555,-0.138472,2014-01-04
+236,Destination,Bea's of Bloomsbury,2014_Bea's of Bloomsbury_Pizza Hut,51.521433,-0.11598299999999999,2014-09-16
+237,Origin,Pizza Hut,2014_Bea's of Bloomsbury_Pizza Hut,51.53555,-0.138472,2014-01-04
+238,Destination,Supersave Food & Wine,2014_Supersave Food & Wine_Pizza Hut,51.552585,-0.209642,2014-12-16
+239,Origin,Pizza Hut,2014_Supersave Food & Wine_Pizza Hut,51.53555,-0.138472,2014-01-04
+240,Destination,Be At One,2014_Be At One_Pizza Hut,51.535494,-0.140296,2014-09-15
+241,Origin,Pizza Hut,2014_Be At One_Pizza Hut,51.53555,-0.138472,2014-01-04
+242,Destination,Ideal Stores,2014_Ideal Stores_Pizza Hut,51.532477,-0.134018,2014-05-09
+243,Origin,Pizza Hut,2014_Ideal Stores_Pizza Hut,51.53555,-0.138472,2014-01-04
+244,Destination,West 9 Food & Wine,2014_West 9 Food & Wine_Pizza Hut,51.547259999999994,-0.190768,2014-12-15
+245,Origin,Pizza Hut,2014_West 9 Food & Wine_Pizza Hut,51.53555,-0.138472,2014-01-04
+246,Destination,The Junction Tavern,2014_The Junction Tavern_Pizza Hut,51.555029,-0.14012,2014-07-30
+247,Origin,Pizza Hut,2014_The Junction Tavern_Pizza Hut,51.53555,-0.138472,2014-01-04
+248,Destination,Union Bar and Grill,2014_Union Bar and Grill_Pizza Hut,51.525180999999996,-0.14246099999999998,2014-06-11
+249,Origin,Pizza Hut,2014_Union Bar and Grill_Pizza Hut,51.53555,-0.138472,2014-01-04
+250,Destination,China House Restaurant,2014_China House Restaurant_Pizza Hut,51.52494,-0.125585,2014-07-28
+251,Origin,Pizza Hut,2014_China House Restaurant_Pizza Hut,51.53555,-0.138472,2014-01-04
+252,Destination,Cookes Amusements,2014_Cookes Amusements_Pizza Hut,51.537207,-0.192154,2014-05-09
+253,Origin,Pizza Hut,2014_Cookes Amusements_Pizza Hut,51.53555,-0.138472,2014-01-04
+254,Destination,Pasta Plus Restaurant,2014_Pasta Plus Restaurant_Pizza Hut,51.529540000000004,-0.132553,2014-06-13
+255,Origin,Pizza Hut,2014_Pasta Plus Restaurant_Pizza Hut,51.53555,-0.138472,2014-01-04
+256,Destination,London Welsh Centre Ltd (formerly London Welsh Association Ltd),2014_London Welsh Centre Ltd (formerly London Welsh Association Ltd)_Pizza Hut,51.52517,-0.11731199999999999,2014-11-19
+257,Origin,Pizza Hut,2014_London Welsh Centre Ltd (formerly London Welsh Association Ltd)_Pizza Hut,51.53555,-0.138472,2014-01-04
+258,Destination,Pizza Hut,2014_Pizza Hut_Pizza Hut,51.53555,-0.138472,2014-01-04
+259,Origin,Pizza Hut,2014_Pizza Hut_Pizza Hut,51.53555,-0.138472,2014-01-04
+260,Destination,Euston Square Hotel,2014_Euston Square Hotel_Pizza Hut,51.526554,-0.135793,2014-09-07
+261,Origin,Pizza Hut,2014_Euston Square Hotel_Pizza Hut,51.53555,-0.138472,2014-01-04
+262,Destination,Canton Element,2014_Canton Element_Pizza Hut,51.519793,-0.117736,2014-09-09
+263,Origin,Pizza Hut,2014_Canton Element_Pizza Hut,51.53555,-0.138472,2014-01-04
+264,Destination,Woburn Tandoori Restaurant,2014_Woburn Tandoori Restaurant_Pizza Hut,51.526845,-0.129579,2014-10-08
+265,Origin,Pizza Hut,2014_Woburn Tandoori Restaurant_Pizza Hut,51.53555,-0.138472,2014-01-04
+266,Destination,Deliverance,2014_Deliverance_Pizza Hut,51.523275,-0.112017,2014-07-23
+267,Origin,Pizza Hut,2014_Deliverance_Pizza Hut,51.53555,-0.138472,2014-01-04
+268,Destination,First Class Lounge,2014_First Class Lounge_Pizza Hut,51.529302,-0.13258499999999998,2014-05-20
+269,Origin,Pizza Hut,2014_First Class Lounge_Pizza Hut,51.53555,-0.138472,2014-01-04
+270,Destination,Covent Garden Health Spa,2014_Covent Garden Health Spa_Pizza Hut,51.514406,-0.12488599999999998,2014-09-09
+271,Origin,Pizza Hut,2014_Covent Garden Health Spa_Pizza Hut,51.53555,-0.138472,2014-01-04
+272,Destination,The Royal Central School of Speech and Drama,2014_The Royal Central School of Speech and Drama_Pizza Hut,51.544349,-0.174192,2014-03-10
+273,Origin,Pizza Hut,2014_The Royal Central School of Speech and Drama_Pizza Hut,51.53555,-0.138472,2014-01-04
+274,Destination,British Library,2014_British Library_Pizza Hut,51.53004,-0.127634,2014-05-15
+275,Origin,Pizza Hut,2014_British Library_Pizza Hut,51.53555,-0.138472,2014-01-04
+276,Destination,Abigail's Kitchen,2014_Abigail's Kitchen_Pizza Hut,51.519597,-0.109508,2014-01-14
+277,Origin,Pizza Hut,2014_Abigail's Kitchen_Pizza Hut,51.53555,-0.138472,2014-01-04
+278,Destination,Grand Union (Camden),2012_Grand Union (Camden)_Cote,51.541578,-0.13784200000000002,2012-07-23
+279,Origin,Cote,2012_Grand Union (Camden)_Cote,51.538119,-0.145295,2012-01-17
+280,Destination,Sheephaven Bay,2012_Sheephaven Bay_Cote,51.53522,-0.14168699999999998,2012-07-30
+281,Origin,Cote,2012_Sheephaven Bay_Cote,51.538119,-0.145295,2012-01-17
+282,Destination,Rosslyn Arms,2012_Rosslyn Arms_Cote,51.555053,-0.172822,2012-12-07
+283,Origin,Cote,2012_Rosslyn Arms_Cote,51.538119,-0.145295,2012-01-17
+284,Destination,Strada,2012_Strada_Cote,51.515707,-0.12126300000000001,2012-11-23
+285,Origin,Cote,2012_Strada_Cote,51.538119,-0.145295,2012-01-17
+286,Destination,Flesh and Buns (previously Kitchen Italia),2012_Flesh and Buns (previously Kitchen Italia)_Cote,51.514056,-0.12601400000000001,2012-08-17
+287,Origin,Cote,2012_Flesh and Buns (previously Kitchen Italia)_Cote,51.538119,-0.145295,2012-01-17
+288,Destination,Sunrise,2012_Sunrise_Cote,51.515044,-0.126064,2012-08-20
+289,Origin,Cote,2012_Sunrise_Cote,51.538119,-0.145295,2012-01-17
+290,Destination,Prince Of Wales Supermarket,2012_Prince Of Wales Supermarket_Cote,51.546328,-0.14454,2012-12-19
+291,Origin,Cote,2012_Prince Of Wales Supermarket_Cote,51.538119,-0.145295,2012-01-17
+292,Destination,Foodlink,2012_Foodlink_Cote,51.543234000000005,-0.17561500000000002,2012-11-09
+293,Origin,Cote,2012_Foodlink_Cote,51.538119,-0.145295,2012-01-17
+294,Destination,Joe's Southern Table & Bar,2012_Joe's Southern Table & Bar_Cote,51.551065,-0.140306,2012-11-26
+295,Origin,Cote,2012_Joe's Southern Table & Bar_Cote,51.538119,-0.145295,2012-01-17
+296,Destination,Crowndale Off Licence,2012_Crowndale Off Licence_Cote,51.535618,-0.134023,2012-12-19
+297,Origin,Cote,2012_Crowndale Off Licence_Cote,51.538119,-0.145295,2012-01-17
+298,Destination,Priory Tavern,2012_Priory Tavern_Cote,51.538581,-0.191,2012-01-19
+299,Origin,Cote,2012_Priory Tavern_Cote,51.538119,-0.145295,2012-01-17
+300,Destination,Unwins,2012_Unwins_Cote,51.526258,-0.124827,2012-02-15
+301,Origin,Cote,2012_Unwins_Cote,51.538119,-0.145295,2012-01-17
+302,Destination,GEORGE P.H.,2012_GEORGE P.H._Cote,51.515707,-0.12126300000000001,2012-11-09
+303,Origin,Cote,2012_GEORGE P.H._Cote,51.538119,-0.145295,2012-01-17
+304,Destination,Diamond Supermarket,2012_Diamond Supermarket_Cote,51.546679,-0.15871300000000002,2012-08-23
+305,Origin,Cote,2012_Diamond Supermarket_Cote,51.538119,-0.145295,2012-01-17
+306,Destination,Smugglers Tavern,2012_Smugglers Tavern_Cote,51.523545,-0.140725,2012-05-23
+307,Origin,Cote,2012_Smugglers Tavern_Cote,51.538119,-0.145295,2012-01-17
+308,Destination,White Horse,2012_White Horse_Cote,51.554378,-0.16508299999999998,2012-11-23
+309,Origin,Cote,2012_White Horse_Cote,51.538119,-0.145295,2012-01-17
+310,Destination,Benito's Hat,2012_Benito's Hat_Cote,51.51935,-0.13703900000000002,2012-12-13
+311,Origin,Cote,2012_Benito's Hat_Cote,51.538119,-0.145295,2012-01-17
+312,Destination,Lilly Langtree,2012_Lilly Langtree_Cote,51.539832000000004,-0.188324,2012-03-23
+313,Origin,Cote,2012_Lilly Langtree_Cote,51.538119,-0.145295,2012-01-17
+314,Destination,Alice House,2012_Alice House_Cote,51.551211,-0.19204000000000002,2012-07-13
+315,Origin,Cote,2012_Alice House_Cote,51.538119,-0.145295,2012-01-17
+316,Destination,Sapori Italiani,2012_Sapori Italiani_Cote,51.549746,-0.16428399999999999,2012-12-14
+317,Origin,Cote,2012_Sapori Italiani_Cote,51.538119,-0.145295,2012-01-17
+318,Destination,Bounce,2012_Bounce_Cote,51.518529,-0.108519,2012-05-09
+319,Origin,Cote,2012_Bounce_Cote,51.538119,-0.145295,2012-01-17
+320,Destination,Latelys,2012_Latelys_Cote,51.546339,-0.191433,2012-12-24
+321,Origin,Cote,2012_Latelys_Cote,51.538119,-0.145295,2012-01-17
+322,Destination,Byron,2012_Byron_Cote,51.547698,-0.181321,2012-06-22
+323,Origin,Cote,2012_Byron_Cote,51.538119,-0.145295,2012-01-17
+324,Destination,One Alfred Place,2012_One Alfred Place_Cote,51.519946999999995,-0.133178,2012-07-24
+325,Origin,Cote,2012_One Alfred Place_Cote,51.538119,-0.145295,2012-01-17
+326,Destination,Valencia Cafe,2012_Valencia Cafe_Cote,51.525437,-0.125078,2012-07-26
+327,Origin,Cote,2012_Valencia Cafe_Cote,51.538119,-0.145295,2012-01-17
+328,Destination,Cote,2012_Cote_Cote,51.538119,-0.145295,2012-01-17
+329,Origin,Cote,2012_Cote_Cote,51.538119,-0.145295,2012-01-17
+330,Destination,Souk Restaurant,2012_Souk Restaurant_Cote,51.514446,-0.126545,2012-10-12
+331,Origin,Cote,2012_Souk Restaurant_Cote,51.538119,-0.145295,2012-01-17
+332,Destination,Dandelion (formerly Dublin Castle Cafe),2012_Dandelion (formerly Dublin Castle Cafe)_Cote,51.537762,-0.14571199999999998,2012-09-26
+333,Origin,Cote,2012_Dandelion (formerly Dublin Castle Cafe)_Cote,51.538119,-0.145295,2012-01-17
+334,Destination,Spaghetti House,2012_Spaghetti House_Cote,51.519513,-0.133795,2012-07-27
+335,Origin,Cote,2012_Spaghetti House_Cote,51.538119,-0.145295,2012-01-17
+336,Destination,The Noodle House,2012_The Noodle House_Cote,51.513999,-0.128985,2012-08-23
+337,Origin,Cote,2012_The Noodle House_Cote,51.538119,-0.145295,2012-01-17
+338,Destination,The Crazy Bear,2012_The Crazy Bear_Cote,51.519513,-0.133795,2012-11-07
+339,Origin,Cote,2012_The Crazy Bear_Cote,51.538119,-0.145295,2012-01-17
+340,Destination,Regents Park Marriott,2012_Regents Park Marriott_Cote,51.542151000000004,-0.170272,2012-02-03
+341,Origin,Cote,2012_Regents Park Marriott_Cote,51.538119,-0.145295,2012-01-17
+342,Destination,The Wesley Formerly MIC Social Club,2012_The Wesley Formerly MIC Social Club_Cote,51.526554,-0.135793,2012-07-23
+343,Origin,Cote,2012_The Wesley Formerly MIC Social Club_Cote,51.538119,-0.145295,2012-01-17
+344,Destination,Mon Plaisir,2017_Mon Plaisir_Swintons,51.514446,-0.126545,2017-02-22
+345,Origin,Swintons,2017_Mon Plaisir_Swintons,51.528611,-0.118474,2017-01-01
+346,Destination,Tikus Off Licence,2017_Tikus Off Licence_Swintons,51.544969,-0.143657,2017-04-28
+347,Origin,Swintons,2017_Tikus Off Licence_Swintons,51.528611,-0.118474,2017-01-01
+348,Destination,Brasserie Blanc,2017_Brasserie Blanc_Swintons,51.518432000000004,-0.135121,2017-03-04
+349,Origin,Swintons,2017_Brasserie Blanc_Swintons,51.528611,-0.118474,2017-01-01
+350,Destination,Kimchee,2017_Kimchee_Swintons,51.533518,-0.12507100000000002,2017-03-13
+351,Origin,Swintons,2017_Kimchee_Swintons,51.528611,-0.118474,2017-01-01
+352,Destination,The T.E. Dingwall Building (Formerly Lock 17/Highlight),2017_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Swintons,51.541428,-0.145851,2017-03-24
+353,Origin,Swintons,2017_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Swintons,51.528611,-0.118474,2017-01-01
+354,Destination,La Rossella (previously Pasta Habit),2017_La Rossella (previously Pasta Habit)_Swintons,51.55523,-0.145474,2017-03-31
+355,Origin,Swintons,2017_La Rossella (previously Pasta Habit)_Swintons,51.528611,-0.118474,2017-01-01
+356,Destination,La du du,2017_La du du_Swintons,51.547853,-0.190641,2017-09-02
+357,Origin,Swintons,2017_La du du_Swintons,51.528611,-0.118474,2017-01-01
+358,Destination,Rosslyn Delicatessen,2017_Rosslyn Delicatessen_Swintons,51.555259,-0.173424,2017-01-13
+359,Origin,Swintons,2017_Rosslyn Delicatessen_Swintons,51.528611,-0.118474,2017-01-01
+360,Destination,Malden Food & Wine,2017_Malden Food & Wine_Swintons,51.546079999999996,-0.151116,2017-06-02
+361,Origin,Swintons,2017_Malden Food & Wine_Swintons,51.528611,-0.118474,2017-01-01
+362,Destination,White Horse,2017_White Horse_Swintons,51.554378,-0.16508299999999998,2017-03-21
+363,Origin,Swintons,2017_White Horse_Swintons,51.528611,-0.118474,2017-01-01
+364,Destination,Hason Raja,2017_Hason Raja_Swintons,51.520227,-0.12197000000000001,2017-02-03
+365,Origin,Swintons,2017_Hason Raja_Swintons,51.528611,-0.118474,2017-01-01
+366,Destination,Chilango,2017_Chilango_Swintons,51.518529,-0.108519,2017-03-15
+367,Origin,Swintons,2017_Chilango_Swintons,51.528611,-0.118474,2017-01-01
+368,Destination,Bali Bali Restaurant,2017_Bali Bali Restaurant_Swintons,51.51386,-0.127887,2017-05-05
+369,Origin,Swintons,2017_Bali Bali Restaurant_Swintons,51.528611,-0.118474,2017-01-01
+370,Destination,Cambridge Theatre,2017_Cambridge Theatre_Swintons,51.513667,-0.126119,2017-06-04
+371,Origin,Swintons,2017_Cambridge Theatre_Swintons,51.528611,-0.118474,2017-01-01
+372,Destination,Cock Tavern,2017_Cock Tavern_Swintons,51.531317,-0.131109,2017-03-28
+373,Origin,Swintons,2017_Cock Tavern_Swintons,51.528611,-0.118474,2017-01-01
+374,Destination,Hampstead Food and Wine Ltd,2017_Hampstead Food and Wine Ltd_Swintons,51.55558,-0.16726400000000002,2017-01-02
+375,Origin,Swintons,2017_Hampstead Food and Wine Ltd_Swintons,51.528611,-0.118474,2017-01-01
+376,Destination,St Mary the Virgin,2017_St Mary the Virgin_Swintons,51.541962,-0.16231500000000001,2017-02-24
+377,Origin,Swintons,2017_St Mary the Virgin_Swintons,51.528611,-0.118474,2017-01-01
+378,Destination,Grand Union (Camden),2017_Grand Union (Camden)_Swintons,51.541578,-0.13784200000000002,2017-03-28
+379,Origin,Swintons,2017_Grand Union (Camden)_Swintons,51.528611,-0.118474,2017-01-01
+380,Destination,Swintons,2017_Swintons_Swintons,51.528611,-0.118474,2017-01-01
+381,Origin,Swintons,2017_Swintons_Swintons,51.528611,-0.118474,2017-01-01
+382,Destination,Leighton Food & Wine,2017_Leighton Food & Wine_Swintons,51.550947,-0.136195,2017-09-02
+383,Origin,Swintons,2017_Leighton Food & Wine_Swintons,51.528611,-0.118474,2017-01-01
+384,Destination,Royal Mini Market,2017_Royal Mini Market_Swintons,51.541171000000006,-0.13830399999999998,2017-01-19
+385,Origin,Swintons,2017_Royal Mini Market_Swintons,51.528611,-0.118474,2017-01-01

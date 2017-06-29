@@ -1,0 +1,13 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Poolcrest Snooker Club,2009_Poolcrest Snooker Club_Poolcrest Snooker Club,51.545148,-0.201396,2009-03-06
+1,Origin,Poolcrest Snooker Club,2009_Poolcrest Snooker Club_Poolcrest Snooker Club,51.545148,-0.201396,2009-03-06
+2,Destination,Done Our Bit Club,2009_Done Our Bit Club_Poolcrest Snooker Club,51.547599,-0.197526,2009-07-12
+3,Origin,Poolcrest Snooker Club,2009_Done Our Bit Club_Poolcrest Snooker Club,51.545148,-0.201396,2009-03-06
+4,Destination,Birkbeck College (Malet St),2010_Birkbeck College (Malet St)_Birkbeck College (Malet St),51.522251000000004,-0.130659,2010-10-09
+5,Origin,Birkbeck College (Malet St),2010_Birkbeck College (Malet St)_Birkbeck College (Malet St),51.522251000000004,-0.130659,2010-10-09
+6,Destination,Mazenod Social Club,2010_Mazenod Social Club_Birkbeck College (Malet St),51.540984,-0.19375599999999998,2010-12-20
+7,Origin,Birkbeck College (Malet St),2010_Mazenod Social Club_Birkbeck College (Malet St),51.522251000000004,-0.130659,2010-10-09
+8,Destination,Car Park,2013_Car Park_Car Park,51.538636,-0.130402,2013-11-15
+9,Origin,Car Park,2013_Car Park_Car Park,51.538636,-0.130402,2013-11-15
+10,Destination,The Hurricane Rooms,2011_The Hurricane Rooms_The Hurricane Rooms,51.530693,-0.121473,2011-05-26
+11,Origin,The Hurricane Rooms,2011_The Hurricane Rooms_The Hurricane Rooms,51.530693,-0.121473,2011-05-26

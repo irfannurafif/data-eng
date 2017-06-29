@@ -1,0 +1,5 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Pets at Home,2013_Pets at Home_Pets at Home,51.543847,-0.137024,2013-02-15
+1,Origin,Pets at Home,2013_Pets at Home_Pets at Home,51.543847,-0.137024,2013-02-15
+2,Destination,Pets Corner,2010_Pets Corner_Pets Corner,51.549575,-0.15285,2010-01-12
+3,Origin,Pets Corner,2010_Pets Corner_Pets Corner,51.549575,-0.15285,2010-01-12

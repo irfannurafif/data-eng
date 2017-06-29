@@ -1,0 +1,85 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Bleeding Heart Bistro,2007_Bleeding Heart Bistro_Maxwell Restaurants LTD,51.518941,-0.106305,2007-04-24
+1,Origin,Maxwell Restaurants LTD,2007_Bleeding Heart Bistro_Maxwell Restaurants LTD,51.557990000000004,-0.17815999999999999,2007-01-19
+2,Destination,Lyttelton Arms,2007_Lyttelton Arms_Maxwell Restaurants LTD,51.534911,-0.139649,2007-12-07
+3,Origin,Maxwell Restaurants LTD,2007_Lyttelton Arms_Maxwell Restaurants LTD,51.557990000000004,-0.17815999999999999,2007-01-19
+4,Destination,Cote,2007_Cote_Maxwell Restaurants LTD,51.555378999999995,-0.176217,2007-07-11
+5,Origin,Maxwell Restaurants LTD,2007_Cote_Maxwell Restaurants LTD,51.557990000000004,-0.17815999999999999,2007-01-19
+6,Destination,Black Cap,2007_Black Cap_Maxwell Restaurants LTD,51.538247,-0.142543,2007-11-13
+7,Origin,Maxwell Restaurants LTD,2007_Black Cap_Maxwell Restaurants LTD,51.557990000000004,-0.17815999999999999,2007-01-19
+8,Destination,Flask,2007_Flask_Maxwell Restaurants LTD,51.556693,-0.176761,2007-02-19
+9,Origin,Maxwell Restaurants LTD,2007_Flask_Maxwell Restaurants LTD,51.557990000000004,-0.17815999999999999,2007-01-19
+10,Destination,Bleeding Heart Restaurant,2007_Bleeding Heart Restaurant_Maxwell Restaurants LTD,51.518941,-0.106305,2007-04-15
+11,Origin,Maxwell Restaurants LTD,2007_Bleeding Heart Restaurant_Maxwell Restaurants LTD,51.557990000000004,-0.17815999999999999,2007-01-19
+12,Destination,Kingsway News,2007_Kingsway News_Maxwell Restaurants LTD,51.517002000000005,-0.11943599999999999,2007-12-07
+13,Origin,Maxwell Restaurants LTD,2007_Kingsway News_Maxwell Restaurants LTD,51.557990000000004,-0.17815999999999999,2007-01-19
+14,Destination,Flight Club,2007_Flight Club_Maxwell Restaurants LTD,51.516711,-0.127133,2007-04-17
+15,Origin,Maxwell Restaurants LTD,2007_Flight Club_Maxwell Restaurants LTD,51.557990000000004,-0.17815999999999999,2007-01-19
+16,Destination,Marlborough Arms,2007_Marlborough Arms_Maxwell Restaurants LTD,51.521608,-0.132898,2007-09-03
+17,Origin,Maxwell Restaurants LTD,2007_Marlborough Arms_Maxwell Restaurants LTD,51.557990000000004,-0.17815999999999999,2007-01-19
+18,Destination,Maxwell Restaurants LTD,2007_Maxwell Restaurants LTD_Maxwell Restaurants LTD,51.557990000000004,-0.17815999999999999,2007-01-19
+19,Origin,Maxwell Restaurants LTD,2007_Maxwell Restaurants LTD_Maxwell Restaurants LTD,51.557990000000004,-0.17815999999999999,2007-01-19
+20,Destination,Sainsbury's Supermarkets Ltd,2007_Sainsbury's Supermarkets Ltd_Maxwell Restaurants LTD,51.542256,-0.14816,2007-05-07
+21,Origin,Maxwell Restaurants LTD,2007_Sainsbury's Supermarkets Ltd_Maxwell Restaurants LTD,51.557990000000004,-0.17815999999999999,2007-01-19
+22,Destination,All Bar One,2007_All Bar One_Maxwell Restaurants LTD,51.51668,-0.119209,2007-09-03
+23,Origin,Maxwell Restaurants LTD,2007_All Bar One_Maxwell Restaurants LTD,51.557990000000004,-0.17815999999999999,2007-01-19
+24,Destination,Paradise,2007_Paradise_Maxwell Restaurants LTD,51.555367,-0.167068,2007-03-28
+25,Origin,Maxwell Restaurants LTD,2007_Paradise_Maxwell Restaurants LTD,51.557990000000004,-0.17815999999999999,2007-01-19
+26,Destination,Villandry Kitchen,2009_Villandry Kitchen_Secrets (Parker St),51.518268,-0.11845499999999999,2009-03-06
+27,Origin,Secrets (Parker St),2009_Villandry Kitchen_Secrets (Parker St),51.516965,-0.120941,2009-01-09
+28,Destination,Flesh and Buns (previously Kitchen Italia),2009_Flesh and Buns (previously Kitchen Italia)_Secrets (Parker St),51.514056,-0.12601400000000001,2009-09-16
+29,Origin,Secrets (Parker St),2009_Flesh and Buns (previously Kitchen Italia)_Secrets (Parker St),51.516965,-0.120941,2009-01-09
+30,Destination,Kenwood Lakeside,2009_Kenwood Lakeside_Secrets (Parker St),51.571943,-0.171929,2009-02-03
+31,Origin,Secrets (Parker St),2009_Kenwood Lakeside_Secrets (Parker St),51.516965,-0.120941,2009-01-09
+32,Destination,Sainsbury's Supermarket Ltd,2009_Sainsbury's Supermarket Ltd_Secrets (Parker St),51.518941,-0.106305,2009-06-07
+33,Origin,Secrets (Parker St),2009_Sainsbury's Supermarket Ltd_Secrets (Parker St),51.516965,-0.120941,2009-01-09
+34,Destination,All Bar One,2009_All Bar One_Secrets (Parker St),51.51668,-0.119209,2009-01-20
+35,Origin,Secrets (Parker St),2009_All Bar One_Secrets (Parker St),51.516965,-0.120941,2009-01-09
+36,Destination,Lucas Arms,2009_Lucas Arms_Secrets (Parker St),51.528472,-0.11981900000000001,2009-07-21
+37,Origin,Secrets (Parker St),2009_Lucas Arms_Secrets (Parker St),51.516965,-0.120941,2009-01-09
+38,Destination,Secrets (Parker St),2009_Secrets (Parker St)_Secrets (Parker St),51.516965,-0.120941,2009-01-09
+39,Origin,Secrets (Parker St),2009_Secrets (Parker St)_Secrets (Parker St),51.516965,-0.120941,2009-01-09
+40,Destination,Starbucks (formerly known as Sloe Bar),2009_Starbucks (formerly known as Sloe Bar)_Secrets (Parker St),51.529302,-0.13258499999999998,2009-06-29
+41,Origin,Secrets (Parker St),2009_Starbucks (formerly known as Sloe Bar)_Secrets (Parker St),51.516965,-0.120941,2009-01-09
+42,Destination,Hush Brasseries Holborn (formerly Villandry Kitchen),2009_Hush Brasseries Holborn (formerly Villandry Kitchen)_Secrets (Parker St),51.518268,-0.11845499999999999,2009-03-06
+43,Origin,Secrets (Parker St),2009_Hush Brasseries Holborn (formerly Villandry Kitchen)_Secrets (Parker St),51.516965,-0.120941,2009-01-09
+44,Destination,De Vere Grand Connaught Rooms,2009_De Vere Grand Connaught Rooms_Secrets (Parker St),51.515423,-0.12044400000000001,2009-07-23
+45,Origin,Secrets (Parker St),2009_De Vere Grand Connaught Rooms_Secrets (Parker St),51.516965,-0.120941,2009-01-09
+46,Destination,Craft Beer Co - Covent Garden,2008_Craft Beer Co - Covent Garden_Craft Beer Co - Covent Garden,51.515615999999994,-0.12485,2008-01-17
+47,Origin,Craft Beer Co - Covent Garden,2008_Craft Beer Co - Covent Garden_Craft Beer Co - Covent Garden,51.515615999999994,-0.12485,2008-01-17
+48,Destination,Sainsbury's Supermarkets Limited,2008_Sainsbury's Supermarkets Limited_Craft Beer Co - Covent Garden,51.547698,-0.181321,2008-04-25
+49,Origin,Craft Beer Co - Covent Garden,2008_Sainsbury's Supermarkets Limited_Craft Beer Co - Covent Garden,51.515615999999994,-0.12485,2008-01-17
+50,Destination,Euston Flyer,2008_Euston Flyer_Craft Beer Co - Covent Garden,51.528517,-0.126822,2008-05-28
+51,Origin,Craft Beer Co - Covent Garden,2008_Euston Flyer_Craft Beer Co - Covent Garden,51.515615999999994,-0.12485,2008-01-17
+52,Destination,The Black Cat,2008_The Black Cat_Craft Beer Co - Covent Garden,51.533495,-0.139871,2008-10-24
+53,Origin,Craft Beer Co - Covent Garden,2008_The Black Cat_Craft Beer Co - Covent Garden,51.515615999999994,-0.12485,2008-01-17
+54,Destination,The Little Thai (formerly La Cocotte),2008_The Little Thai (formerly La Cocotte)_Craft Beer Co - Covent Garden,51.554378,-0.16508299999999998,2008-01-31
+55,Origin,Craft Beer Co - Covent Garden,2008_The Little Thai (formerly La Cocotte)_Craft Beer Co - Covent Garden,51.515615999999994,-0.12485,2008-01-17
+56,Destination,Zizzi,2008_Zizzi_Craft Beer Co - Covent Garden,51.547698,-0.181321,2008-08-18
+57,Origin,Craft Beer Co - Covent Garden,2008_Zizzi_Craft Beer Co - Covent Garden,51.515615999999994,-0.12485,2008-01-17
+58,Destination,Lidl UK GmbH,2008_Lidl UK GmbH_Craft Beer Co - Covent Garden,51.547109000000006,-0.142245,2008-06-24
+59,Origin,Craft Beer Co - Covent Garden,2008_Lidl UK GmbH_Craft Beer Co - Covent Garden,51.515615999999994,-0.12485,2008-01-17
+60,Destination,Le Pain Quotidien Unit 4,2008_Le Pain Quotidien Unit 4_Craft Beer Co - Covent Garden,51.531775,-0.126577,2008-08-02
+61,Origin,Craft Beer Co - Covent Garden,2008_Le Pain Quotidien Unit 4_Craft Beer Co - Covent Garden,51.515615999999994,-0.12485,2008-01-17
+62,Destination,Starbucks (formerly known as Sloe Bar),2008_Starbucks (formerly known as Sloe Bar)_Craft Beer Co - Covent Garden,51.529302,-0.13258499999999998,2008-10-03
+63,Origin,Craft Beer Co - Covent Garden,2008_Starbucks (formerly known as Sloe Bar)_Craft Beer Co - Covent Garden,51.515615999999994,-0.12485,2008-01-17
+64,Destination,Thistle Bloomsbury Park Hotel,2008_Thistle Bloomsbury Park Hotel_Craft Beer Co - Covent Garden,51.520378,-0.123529,2008-11-06
+65,Origin,Craft Beer Co - Covent Garden,2008_Thistle Bloomsbury Park Hotel_Craft Beer Co - Covent Garden,51.515615999999994,-0.12485,2008-01-17
+66,Destination,Regents Park Marriott,2008_Regents Park Marriott_Craft Beer Co - Covent Garden,51.542151000000004,-0.170272,2008-01-29
+67,Origin,Craft Beer Co - Covent Garden,2008_Regents Park Marriott_Craft Beer Co - Covent Garden,51.515615999999994,-0.12485,2008-01-17
+68,Destination,Unicorn,2008_Unicorn_Craft Beer Co - Covent Garden,51.548664,-0.129813,2008-05-03
+69,Origin,Craft Beer Co - Covent Garden,2008_Unicorn_Craft Beer Co - Covent Garden,51.515615999999994,-0.12485,2008-01-17
+70,Destination,Cote,2008_Cote_Craft Beer Co - Covent Garden,51.555378999999995,-0.176217,2008-05-02
+71,Origin,Craft Beer Co - Covent Garden,2008_Cote_Craft Beer Co - Covent Garden,51.515615999999994,-0.12485,2008-01-17
+72,Destination,Rossopomodoro,2008_Rossopomodoro_Craft Beer Co - Covent Garden,51.513243,-0.127366,2008-02-27
+73,Origin,Craft Beer Co - Covent Garden,2008_Rossopomodoro_Craft Beer Co - Covent Garden,51.515615999999994,-0.12485,2008-01-17
+74,Destination,Tristan Bates Theatre (Green Room),2008_Tristan Bates Theatre (Green Room)_Craft Beer Co - Covent Garden,51.513245,-0.12820299999999998,2008-10-10
+75,Origin,Craft Beer Co - Covent Garden,2008_Tristan Bates Theatre (Green Room)_Craft Beer Co - Covent Garden,51.515615999999994,-0.12485,2008-01-17
+76,Destination,London St Pancras Youth Hostel Association,2008_London St Pancras Youth Hostel Association_Craft Beer Co - Covent Garden,51.528255,-0.126066,2008-10-29
+77,Origin,Craft Beer Co - Covent Garden,2008_London St Pancras Youth Hostel Association_Craft Beer Co - Covent Garden,51.515615999999994,-0.12485,2008-01-17
+78,Destination,Marlborough Arms,2008_Marlborough Arms_Craft Beer Co - Covent Garden,51.521608,-0.132898,2008-04-03
+79,Origin,Craft Beer Co - Covent Garden,2008_Marlborough Arms_Craft Beer Co - Covent Garden,51.515615999999994,-0.12485,2008-01-17
+80,Destination,Rossodisera,2006_Rossodisera_Rossodisera,51.515044,-0.126064,2006-08-12
+81,Origin,Rossodisera,2006_Rossodisera_Rossodisera,51.515044,-0.126064,2006-08-12
+82,Destination,The Crowndale,2016_The Crowndale_The Crowndale,51.534285,-0.13764300000000002,2016-08-11
+83,Origin,The Crowndale,2016_The Crowndale_The Crowndale,51.534285,-0.13764300000000002,2016-08-11

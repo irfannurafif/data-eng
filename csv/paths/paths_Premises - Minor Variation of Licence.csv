@@ -1,0 +1,871 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Royal George,2016_Royal George_Burger & Lobster,51.528401,-0.131543,2016-07-25
+1,Origin,Burger & Lobster,2016_Royal George_Burger & Lobster,51.516745,-0.122603,2016-01-04
+2,Destination,Le Pain Quotidien Unit 4,2016_Le Pain Quotidien Unit 4_Burger & Lobster,51.531775,-0.126577,2016-12-10
+3,Origin,Burger & Lobster,2016_Le Pain Quotidien Unit 4_Burger & Lobster,51.516745,-0.122603,2016-01-04
+4,Destination,Mabels Tavern,2016_Mabels Tavern_Burger & Lobster,51.52793,-0.12685,2016-02-24
+5,Origin,Burger & Lobster,2016_Mabels Tavern_Burger & Lobster,51.516745,-0.122603,2016-01-04
+6,Destination,Bull & Gate,2016_Bull & Gate_Burger & Lobster,51.551885,-0.141932,2016-08-11
+7,Origin,Burger & Lobster,2016_Bull & Gate_Burger & Lobster,51.516745,-0.122603,2016-01-04
+8,Destination,Firezza (formerly PizzaExpresss Delivered),2016_Firezza (formerly PizzaExpresss Delivered)_Burger & Lobster,51.550391999999995,-0.19197899999999998,2016-04-03
+9,Origin,Burger & Lobster,2016_Firezza (formerly PizzaExpresss Delivered)_Burger & Lobster,51.516745,-0.122603,2016-01-04
+10,Destination,Bengal Spice Restaurant,2016_Bengal Spice Restaurant_Burger & Lobster,51.549717,-0.191104,2016-04-03
+11,Origin,Burger & Lobster,2016_Bengal Spice Restaurant_Burger & Lobster,51.516745,-0.122603,2016-01-04
+12,Destination,The Railway,2016_The Railway_Burger & Lobster,51.546124,-0.19050799999999998,2016-01-14
+13,Origin,Burger & Lobster,2016_The Railway_Burger & Lobster,51.516745,-0.122603,2016-01-04
+14,Destination,Engineer,2016_Engineer_Burger & Lobster,51.540040000000005,-0.15085,2016-01-15
+15,Origin,Burger & Lobster,2016_Engineer_Burger & Lobster,51.516745,-0.122603,2016-01-04
+16,Destination,Royal National Hotel,2016_Royal National Hotel_Burger & Lobster,51.523588000000004,-0.12746500000000002,2016-03-06
+17,Origin,Burger & Lobster,2016_Royal National Hotel_Burger & Lobster,51.516745,-0.122603,2016-01-04
+18,Destination,M and M Food and Wines,2016_M and M Food and Wines_Burger & Lobster,51.542722999999995,-0.138285,2016-05-26
+19,Origin,Burger & Lobster,2016_M and M Food and Wines_Burger & Lobster,51.516745,-0.122603,2016-01-04
+20,Destination,Square Pig,2016_Square Pig_Burger & Lobster,51.518848999999996,-0.12026099999999999,2016-07-07
+21,Origin,Burger & Lobster,2016_Square Pig_Burger & Lobster,51.516745,-0.122603,2016-01-04
+22,Destination,Barzetti Italian Kitchen,2016_Barzetti Italian Kitchen_Burger & Lobster,51.531775,-0.126577,2016-10-03
+23,Origin,Burger & Lobster,2016_Barzetti Italian Kitchen_Burger & Lobster,51.516745,-0.122603,2016-01-04
+24,Destination,The Blues Kitchen,2016_The Blues Kitchen_Burger & Lobster,51.536691,-0.141465,2016-12-19
+25,Origin,Burger & Lobster,2016_The Blues Kitchen_Burger & Lobster,51.516745,-0.122603,2016-01-04
+26,Destination,Dublin Castle,2016_Dublin Castle_Burger & Lobster,51.537762,-0.14571199999999998,2016-10-25
+27,Origin,Burger & Lobster,2016_Dublin Castle_Burger & Lobster,51.516745,-0.122603,2016-01-04
+28,Destination,British Library,2016_British Library_Burger & Lobster,51.53004,-0.127634,2016-02-06
+29,Origin,Burger & Lobster,2016_British Library_Burger & Lobster,51.516745,-0.122603,2016-01-04
+30,Destination,The Morton Hotel,2016_The Morton Hotel_Burger & Lobster,51.523513,-0.12592899999999999,2016-03-06
+31,Origin,Burger & Lobster,2016_The Morton Hotel_Burger & Lobster,51.516745,-0.122603,2016-01-04
+32,Destination,Starbucks (formerly known as Sloe Bar),2016_Starbucks (formerly known as Sloe Bar)_Burger & Lobster,51.529302,-0.13258499999999998,2016-07-21
+33,Origin,Burger & Lobster,2016_Starbucks (formerly known as Sloe Bar)_Burger & Lobster,51.516745,-0.122603,2016-01-04
+34,Destination,Lucas Arms,2016_Lucas Arms_Burger & Lobster,51.528472,-0.11981900000000001,2016-03-30
+35,Origin,Burger & Lobster,2016_Lucas Arms_Burger & Lobster,51.516745,-0.122603,2016-01-04
+36,Destination,Sainsburys Supermarket Ltd,2016_Sainsburys Supermarket Ltd_Burger & Lobster,51.518567,-0.11580399999999999,2016-10-03
+37,Origin,Burger & Lobster,2016_Sainsburys Supermarket Ltd_Burger & Lobster,51.516745,-0.122603,2016-01-04
+38,Destination,Carpenters Arms,2016_Carpenters Arms_Burger & Lobster,51.521703,-0.136071,2016-03-23
+39,Origin,Burger & Lobster,2016_Carpenters Arms_Burger & Lobster,51.516745,-0.122603,2016-01-04
+40,Destination,Sainsbury's Supermarkets Ltd,2016_Sainsbury's Supermarkets Ltd_Burger & Lobster,51.547698,-0.181321,2016-10-03
+41,Origin,Burger & Lobster,2016_Sainsbury's Supermarkets Ltd_Burger & Lobster,51.516745,-0.122603,2016-01-04
+42,Destination,Camden Town Brewery,2016_Camden Town Brewery_Burger & Lobster,51.547441,-0.14729,2016-11-01
+43,Origin,Burger & Lobster,2016_Camden Town Brewery_Burger & Lobster,51.516745,-0.122603,2016-01-04
+44,Destination,Hub by Premier Inn,2016_Hub by Premier Inn_Burger & Lobster,51.521226,-0.133957,2016-04-14
+45,Origin,Burger & Lobster,2016_Hub by Premier Inn_Burger & Lobster,51.516745,-0.122603,2016-01-04
+46,Destination,Institute of Child Health,2016_Institute of Child Health_Burger & Lobster,51.523439,-0.11943599999999999,2016-04-19
+47,Origin,Burger & Lobster,2016_Institute of Child Health_Burger & Lobster,51.516745,-0.122603,2016-01-04
+48,Destination,London St Pancras Youth Hostel Association,2016_London St Pancras Youth Hostel Association_Burger & Lobster,51.528255,-0.126066,2016-02-17
+49,Origin,Burger & Lobster,2016_London St Pancras Youth Hostel Association_Burger & Lobster,51.516745,-0.122603,2016-01-04
+50,Destination,"Carluccio's, Regent Park Marriott","2016_Carluccio's, Regent Park Marriott_Burger & Lobster",51.542151000000004,-0.170272,2016-04-21
+51,Origin,Burger & Lobster,"2016_Carluccio's, Regent Park Marriott_Burger & Lobster",51.516745,-0.122603,2016-01-04
+52,Destination,Marks & Spencer Simply Food (2) (Unit 46),2016_Marks & Spencer Simply Food (2) (Unit 46)_Burger & Lobster,51.531775,-0.126577,2016-07-29
+53,Origin,Burger & Lobster,2016_Marks & Spencer Simply Food (2) (Unit 46)_Burger & Lobster,51.516745,-0.122603,2016-01-04
+54,Destination,The Green Room (formerly Sushi Kou),2016_The Green Room (formerly Sushi Kou)_Burger & Lobster,51.554619,-0.196508,2016-08-18
+55,Origin,Burger & Lobster,2016_The Green Room (formerly Sushi Kou)_Burger & Lobster,51.516745,-0.122603,2016-01-04
+56,Destination,Apple Tree,2016_Apple Tree_Burger & Lobster,51.523275,-0.112017,2016-03-31
+57,Origin,Burger & Lobster,2016_Apple Tree_Burger & Lobster,51.516745,-0.122603,2016-01-04
+58,Destination,Boopshi's,2016_Boopshi's_Burger & Lobster,51.519513,-0.133795,2016-03-31
+59,Origin,Burger & Lobster,2016_Boopshi's_Burger & Lobster,51.516745,-0.122603,2016-01-04
+60,Destination,Gino's,2016_Gino's_Burger & Lobster,51.529302,-0.13258499999999998,2016-10-03
+61,Origin,Burger & Lobster,2016_Gino's_Burger & Lobster,51.516745,-0.122603,2016-01-04
+62,Destination,McDonald's Restaurants Ltd,2016_McDonald's Restaurants Ltd_Burger & Lobster,51.517405,-0.141005,2016-04-15
+63,Origin,Burger & Lobster,2016_McDonald's Restaurants Ltd_Burger & Lobster,51.516745,-0.122603,2016-01-04
+64,Destination,One Tun,2016_One Tun_Burger & Lobster,51.520098,-0.10698099999999999,2016-11-03
+65,Origin,Burger & Lobster,2016_One Tun_Burger & Lobster,51.516745,-0.122603,2016-01-04
+66,Destination,Yo! Sushi,2016_Yo! Sushi_Burger & Lobster,51.531775,-0.126577,2016-12-08
+67,Origin,Burger & Lobster,2016_Yo! Sushi_Burger & Lobster,51.516745,-0.122603,2016-01-04
+68,Destination,Cuban,2016_Cuban_Burger & Lobster,51.542256,-0.14816,2016-12-24
+69,Origin,Burger & Lobster,2016_Cuban_Burger & Lobster,51.516745,-0.122603,2016-01-04
+70,Destination,Mia,2016_Mia_Burger & Lobster,51.543234000000005,-0.17561500000000002,2016-07-21
+71,Origin,Burger & Lobster,2016_Mia_Burger & Lobster,51.516745,-0.122603,2016-01-04
+72,Destination,Black Cap,2016_Black Cap_Burger & Lobster,51.538247,-0.142543,2016-02-15
+73,Origin,Burger & Lobster,2016_Black Cap_Burger & Lobster,51.516745,-0.122603,2016-01-04
+74,Destination,The Queens,2016_The Queens_Burger & Lobster,51.540818,-0.158121,2016-10-03
+75,Origin,Burger & Lobster,2016_The Queens_Burger & Lobster,51.516745,-0.122603,2016-01-04
+76,Destination,Jazz Cafe,2016_Jazz Cafe_Burger & Lobster,51.538422,-0.143124,2016-03-30
+77,Origin,Burger & Lobster,2016_Jazz Cafe_Burger & Lobster,51.516745,-0.122603,2016-01-04
+78,Destination,"Itsu, Unit","2016_Itsu, Unit_Burger & Lobster",51.523298,-0.12282,2016-06-14
+79,Origin,Burger & Lobster,"2016_Itsu, Unit_Burger & Lobster",51.516745,-0.122603,2016-01-04
+80,Destination,Itsu,2016_Itsu_Burger & Lobster,51.517041,-0.133795,2016-06-14
+81,Origin,Burger & Lobster,2016_Itsu_Burger & Lobster,51.516745,-0.122603,2016-01-04
+82,Destination,Bill's (formerly Pitcher and Piano),2016_Bill's (formerly Pitcher and Piano)_Burger & Lobster,51.515819,-0.118702,2016-09-15
+83,Origin,Burger & Lobster,2016_Bill's (formerly Pitcher and Piano)_Burger & Lobster,51.516745,-0.122603,2016-01-04
+84,Destination,The Dartmouth Arms,2016_The Dartmouth Arms_Burger & Lobster,51.558535,-0.143825,2016-10-05
+85,Origin,Burger & Lobster,2016_The Dartmouth Arms_Burger & Lobster,51.516745,-0.122603,2016-01-04
+86,Destination,Washington Hotel,2016_Washington Hotel_Burger & Lobster,51.545876,-0.162983,2016-03-23
+87,Origin,Burger & Lobster,2016_Washington Hotel_Burger & Lobster,51.516745,-0.122603,2016-01-04
+88,Destination,Giraffe,2016_Giraffe_Burger & Lobster,51.550832,-0.164907,2016-09-16
+89,Origin,Burger & Lobster,2016_Giraffe_Burger & Lobster,51.516745,-0.122603,2016-01-04
+90,Destination,Marks & Spencer Simply Food (1) Unit 23,2016_Marks & Spencer Simply Food (1) Unit 23_Burger & Lobster,51.531775,-0.126577,2016-07-29
+91,Origin,Burger & Lobster,2016_Marks & Spencer Simply Food (1) Unit 23_Burger & Lobster,51.516745,-0.122603,2016-01-04
+92,Destination,Bobby's (formerly La Brocca),2016_Bobby's (formerly La Brocca)_Burger & Lobster,51.550391999999995,-0.19197899999999998,2016-01-08
+93,Origin,Burger & Lobster,2016_Bobby's (formerly La Brocca)_Burger & Lobster,51.516745,-0.122603,2016-01-04
+94,Destination,Morrisons,2016_Morrisons_Burger & Lobster,51.541346000000004,-0.149794,2016-05-25
+95,Origin,Burger & Lobster,2016_Morrisons_Burger & Lobster,51.516745,-0.122603,2016-01-04
+96,Destination,My Hotel,2016_My Hotel_Burger & Lobster,51.51831,-0.131671,2016-11-16
+97,Origin,Burger & Lobster,2016_My Hotel_Burger & Lobster,51.516745,-0.122603,2016-01-04
+98,Destination,Na Zdrowie - The Polish Bar,2016_Na Zdrowie - The Polish Bar_Burger & Lobster,51.517002000000005,-0.11943599999999999,2016-03-30
+99,Origin,Burger & Lobster,2016_Na Zdrowie - The Polish Bar_Burger & Lobster,51.516745,-0.122603,2016-01-04
+100,Destination,Lamb,2016_Lamb_Burger & Lobster,51.523439,-0.11943599999999999,2016-06-04
+101,Origin,Burger & Lobster,2016_Lamb_Burger & Lobster,51.516745,-0.122603,2016-01-04
+102,Destination,Odeon Cinema,2016_Odeon Cinema_Burger & Lobster,51.542636,-0.17460799999999999,2016-03-18
+103,Origin,Burger & Lobster,2016_Odeon Cinema_Burger & Lobster,51.516745,-0.122603,2016-01-04
+104,Destination,Museum Tavern,2016_Museum Tavern_Burger & Lobster,51.518343,-0.12531199999999998,2016-09-16
+105,Origin,Burger & Lobster,2016_Museum Tavern_Burger & Lobster,51.516745,-0.122603,2016-01-04
+106,Destination,The George,2016_The George_Burger & Lobster,51.55271,-0.166968,2016-03-24
+107,Origin,Burger & Lobster,2016_The George_Burger & Lobster,51.516745,-0.122603,2016-01-04
+108,Destination,Cha Chaan Teng (Formerly) Rocket (Basement),2016_Cha Chaan Teng (Formerly) Rocket (Basement)_Burger & Lobster,51.515819,-0.118702,2016-05-05
+109,Origin,Burger & Lobster,2016_Cha Chaan Teng (Formerly) Rocket (Basement)_Burger & Lobster,51.516745,-0.122603,2016-01-04
+110,Destination,"PizzaExpress, Unit 7B","2016_PizzaExpress, Unit 7B_Burger & Lobster",51.547698,-0.181321,2016-02-25
+111,Origin,Burger & Lobster,"2016_PizzaExpress, Unit 7B_Burger & Lobster",51.516745,-0.122603,2016-01-04
+112,Destination,Clapton Craft NW,2016_Clapton Craft NW_Burger & Lobster,51.551747,-0.140791,2016-10-06
+113,Origin,Burger & Lobster,2016_Clapton Craft NW_Burger & Lobster,51.516745,-0.122603,2016-01-04
+114,Destination,McDonalds,2016_McDonalds_Burger & Lobster,51.544457,-0.176422,2016-06-21
+115,Origin,Burger & Lobster,2016_McDonalds_Burger & Lobster,51.516745,-0.122603,2016-01-04
+116,Destination,The Bedford Hotel,2016_The Bedford Hotel_Burger & Lobster,51.520474,-0.12375,2016-02-12
+117,Origin,Burger & Lobster,2016_The Bedford Hotel_Burger & Lobster,51.516745,-0.122603,2016-01-04
+118,Destination,The Crown & Anchor,2016_The Crown & Anchor_Burger & Lobster,51.526920000000004,-0.136481,2016-03-23
+119,Origin,Burger & Lobster,2016_The Crown & Anchor_Burger & Lobster,51.516745,-0.122603,2016-01-04
+120,Destination,Le Cordon Bleu Limited,2016_Le Cordon Bleu Limited_Burger & Lobster,51.518528,-0.12379200000000001,2016-08-03
+121,Origin,Burger & Lobster,2016_Le Cordon Bleu Limited_Burger & Lobster,51.516745,-0.122603,2016-01-04
+122,Destination,Patara,2016_Patara_Burger & Lobster,51.555378999999995,-0.176217,2016-07-03
+123,Origin,Burger & Lobster,2016_Patara_Burger & Lobster,51.516745,-0.122603,2016-01-04
+124,Destination,Great Queen Street,2016_Great Queen Street_Burger & Lobster,51.515707,-0.12126300000000001,2016-02-18
+125,Origin,Burger & Lobster,2016_Great Queen Street_Burger & Lobster,51.516745,-0.122603,2016-01-04
+126,Destination,"Des Vins Cafe and Wine Bar, Units 12-14, Block B","2016_Des Vins Cafe and Wine Bar, Units 12-14, Block B_Burger & Lobster",51.531775,-0.126577,2016-07-10
+127,Origin,Burger & Lobster,"2016_Des Vins Cafe and Wine Bar, Units 12-14, Block B_Burger & Lobster",51.516745,-0.122603,2016-01-04
+128,Destination,Hotel President,2016_Hotel President_Burger & Lobster,51.521776,-0.12359300000000001,2016-02-12
+129,Origin,Burger & Lobster,2016_Hotel President_Burger & Lobster,51.516745,-0.122603,2016-01-04
+130,Destination,LAS IGUANAS,2016_LAS IGUANAS_Burger & Lobster,51.524397,-0.12385,2016-02-25
+131,Origin,Burger & Lobster,2016_LAS IGUANAS_Burger & Lobster,51.516745,-0.122603,2016-01-04
+132,Destination,Burger & Lobster,2016_Burger & Lobster_Burger & Lobster,51.516745,-0.122603,2016-01-04
+133,Origin,Burger & Lobster,2016_Burger & Lobster_Burger & Lobster,51.516745,-0.122603,2016-01-04
+134,Destination,Premier Inn,2016_Premier Inn_Burger & Lobster,51.551534000000004,-0.167068,2016-04-14
+135,Origin,Burger & Lobster,2016_Premier Inn_Burger & Lobster,51.516745,-0.122603,2016-01-04
+136,Destination,London Euston Premier Travel Inn,2016_London Euston Premier Travel Inn_Burger & Lobster,51.527645,-0.128604,2016-04-14
+137,Origin,Burger & Lobster,2016_London Euston Premier Travel Inn_Burger & Lobster,51.516745,-0.122603,2016-01-04
+138,Destination,Marks and Spencers Simply Food,2016_Marks and Spencers Simply Food_Burger & Lobster,51.531959,-0.12365,2016-10-03
+139,Origin,Burger & Lobster,2016_Marks and Spencers Simply Food_Burger & Lobster,51.516745,-0.122603,2016-01-04
+140,Destination,School Of Pharmacy,2016_School Of Pharmacy_Burger & Lobster,51.525251000000004,-0.122555,2016-04-19
+141,Origin,Burger & Lobster,2016_School Of Pharmacy_Burger & Lobster,51.516745,-0.122603,2016-01-04
+142,Destination,Angel Inn,2016_Angel Inn_Burger & Lobster,51.57043,-0.147778,2016-03-23
+143,Origin,Burger & Lobster,2016_Angel Inn_Burger & Lobster,51.516745,-0.122603,2016-01-04
+144,Destination,WOK and GO,2016_WOK and GO_Burger & Lobster,51.549141999999996,-0.18245899999999998,2016-08-04
+145,Origin,Burger & Lobster,2016_WOK and GO_Burger & Lobster,51.516745,-0.122603,2016-01-04
+146,Destination,Atrium,2016_Atrium_Burger & Lobster,51.542256,-0.14816,2016-07-04
+147,Origin,Burger & Lobster,2016_Atrium_Burger & Lobster,51.516745,-0.122603,2016-01-04
+148,Destination,Old Eagle,2016_Old Eagle_Burger & Lobster,51.542775,-0.13993,2016-03-25
+149,Origin,Burger & Lobster,2016_Old Eagle_Burger & Lobster,51.516745,-0.122603,2016-01-04
+150,Destination,College Arms,2016_College Arms_Burger & Lobster,51.520386,-0.132202,2016-04-14
+151,Origin,Burger & Lobster,2016_College Arms_Burger & Lobster,51.516745,-0.122603,2016-01-04
+152,Destination,Sir Christopher Hatton,2016_Sir Christopher Hatton_Burger & Lobster,51.518529,-0.108519,2016-03-23
+153,Origin,Burger & Lobster,2016_Sir Christopher Hatton_Burger & Lobster,51.516745,-0.122603,2016-01-04
+154,Destination,Chez Bob,2016_Chez Bob_Burger & Lobster,51.550631,-0.165875,2016-03-22
+155,Origin,Burger & Lobster,2016_Chez Bob_Burger & Lobster,51.516745,-0.122603,2016-01-04
+156,Destination,Marks & Spencer,2016_Marks & Spencer_Burger & Lobster,51.547506,-0.191273,2016-06-09
+157,Origin,Burger & Lobster,2016_Marks & Spencer_Burger & Lobster,51.516745,-0.122603,2016-01-04
+158,Destination,Wagamama,2016_Wagamama_Burger & Lobster,51.540046000000004,-0.145992,2016-10-25
+159,Origin,Burger & Lobster,2016_Wagamama_Burger & Lobster,51.516745,-0.122603,2016-01-04
+160,Destination,Leon,2016_Leon_Burger & Lobster,51.531959,-0.12365,2016-03-29
+161,Origin,Burger & Lobster,2016_Leon_Burger & Lobster,51.516745,-0.122603,2016-01-04
+162,Destination,Ice Wharf - Lloyds No 1,2016_Ice Wharf - Lloyds No 1_Burger & Lobster,51.540754,-0.145258,2016-12-22
+163,Origin,Burger & Lobster,2016_Ice Wharf - Lloyds No 1_Burger & Lobster,51.516745,-0.122603,2016-01-04
+164,Destination,The Roundhouse,2016_The Roundhouse_Burger & Lobster,51.543213,-0.151805,2016-10-31
+165,Origin,Burger & Lobster,2016_The Roundhouse_Burger & Lobster,51.516745,-0.122603,2016-01-04
+166,Destination,Dishoom,2016_Dishoom_Burger & Lobster,51.536384000000005,-0.124454,2016-04-21
+167,Origin,Burger & Lobster,2016_Dishoom_Burger & Lobster,51.516745,-0.122603,2016-01-04
+168,Destination,GEORGE P.H.,2016_GEORGE P.H._Burger & Lobster,51.515707,-0.12126300000000001,2016-03-31
+169,Origin,Burger & Lobster,2016_GEORGE P.H._Burger & Lobster,51.516745,-0.122603,2016-01-04
+170,Destination,Mecca Bingo Club,2016_Mecca Bingo Club_Burger & Lobster,51.539139,-0.14369500000000002,2016-07-19
+171,Origin,Burger & Lobster,2016_Mecca Bingo Club_Burger & Lobster,51.516745,-0.122603,2016-01-04
+172,Destination,Premier Inn (proposed),2016_Premier Inn (proposed)_Burger & Lobster,51.520167,-0.11696199999999998,2016-04-14
+173,Origin,Burger & Lobster,2016_Premier Inn (proposed)_Burger & Lobster,51.516745,-0.122603,2016-01-04
+174,Destination,Sainsbury's Supermarket Ltd,2016_Sainsbury's Supermarket Ltd_Burger & Lobster,51.518941,-0.106305,2016-10-03
+175,Origin,Burger & Lobster,2016_Sainsbury's Supermarket Ltd_Burger & Lobster,51.516745,-0.122603,2016-01-04
+176,Destination,New Bloomsbury Set,2016_New Bloomsbury Set_Burger & Lobster,51.525437,-0.125078,2016-03-17
+177,Origin,Burger & Lobster,2016_New Bloomsbury Set_Burger & Lobster,51.516745,-0.122603,2016-01-04
+178,Destination,Bunga Bunga (Fomerly The Drury Club Basement),2016_Bunga Bunga (Fomerly The Drury Club Basement)_Burger & Lobster,51.51578,-0.12225699999999999,2016-08-07
+179,Origin,Burger & Lobster,2016_Bunga Bunga (Fomerly The Drury Club Basement)_Burger & Lobster,51.516745,-0.122603,2016-01-04
+180,Destination,Nando's,2016_Nando's_Burger & Lobster,51.548138,-0.141677,2016-05-23
+181,Origin,Burger & Lobster,2016_Nando's_Burger & Lobster,51.516745,-0.122603,2016-01-04
+182,Destination,Cote,2016_Cote_Burger & Lobster,51.538119,-0.145295,2016-03-16
+183,Origin,Burger & Lobster,2016_Cote_Burger & Lobster,51.516745,-0.122603,2016-01-04
+184,Destination,Ye Olde Mitre,2016_Ye Olde Mitre_Burger & Lobster,51.518824,-0.107485,2016-03-23
+185,Origin,Burger & Lobster,2016_Ye Olde Mitre_Burger & Lobster,51.516745,-0.122603,2016-01-04
+186,Destination,Samarkand (Previously Fino),2016_Samarkand (Previously Fino)_Burger & Lobster,51.519021,-0.135793,2016-04-20
+187,Origin,Burger & Lobster,2016_Samarkand (Previously Fino)_Burger & Lobster,51.516745,-0.122603,2016-01-04
+188,Destination,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2016_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine)_Burger & Lobster,51.51578,-0.12225699999999999,2016-08-07
+189,Origin,Burger & Lobster,2016_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine)_Burger & Lobster,51.516745,-0.122603,2016-01-04
+190,Destination,Waitrose,2016_Waitrose_Burger & Lobster,51.517002000000005,-0.11943599999999999,2016-06-12
+191,Origin,Burger & Lobster,2016_Waitrose_Burger & Lobster,51.516745,-0.122603,2016-01-04
+192,Destination,Buywise Supermarket,2016_Buywise Supermarket_Burger & Lobster,51.550393,-0.13128900000000002,2016-03-11
+193,Origin,Burger & Lobster,2016_Buywise Supermarket_Burger & Lobster,51.516745,-0.122603,2016-01-04
+194,Destination,The Horseshoe,2016_The Horseshoe_Burger & Lobster,51.55619,-0.178368,2016-01-26
+195,Origin,Burger & Lobster,2016_The Horseshoe_Burger & Lobster,51.516745,-0.122603,2016-01-04
+196,Destination,Old Bull And Bush,2016_Old Bull And Bush_Burger & Lobster,51.567537,-0.18248499999999998,2016-04-01
+197,Origin,Burger & Lobster,2016_Old Bull And Bush_Burger & Lobster,51.516745,-0.122603,2016-01-04
+198,Destination,Tavistock Hotel,2016_Tavistock Hotel_Burger & Lobster,51.52386,-0.12945,2016-05-23
+199,Origin,Burger & Lobster,2016_Tavistock Hotel_Burger & Lobster,51.516745,-0.122603,2016-01-04
+200,Destination,Jays News Food & Wine,2016_Jays News Food & Wine_Burger & Lobster,51.542509,-0.137223,2016-06-20
+201,Origin,Burger & Lobster,2016_Jays News Food & Wine_Burger & Lobster,51.516745,-0.122603,2016-01-04
+202,Destination,University Of London,2016_University Of London_Burger & Lobster,51.521009,-0.128445,2016-03-16
+203,Origin,Burger & Lobster,2016_University Of London_Burger & Lobster,51.516745,-0.122603,2016-01-04
+204,Destination,The Duke,2016_The Duke_Burger & Lobster,51.522524,-0.116796,2016-03-30
+205,Origin,Burger & Lobster,2016_The Duke_Burger & Lobster,51.516745,-0.122603,2016-01-04
+206,Destination,Imperial Hotel,2016_Imperial Hotel_Burger & Lobster,51.521776,-0.12359300000000001,2016-03-06
+207,Origin,Burger & Lobster,2016_Imperial Hotel_Burger & Lobster,51.516745,-0.122603,2016-01-04
+208,Destination,Doric Arch,2016_Doric Arch_Burger & Lobster,51.527829,-0.132573,2016-03-23
+209,Origin,Burger & Lobster,2016_Doric Arch_Burger & Lobster,51.516745,-0.122603,2016-01-04
+210,Destination,Prince Of Wales' Feathers,2016_Prince Of Wales' Feathers_Burger & Lobster,51.523937,-0.138173,2016-03-23
+211,Origin,Burger & Lobster,2016_Prince Of Wales' Feathers_Burger & Lobster,51.516745,-0.122603,2016-01-04
+212,Destination,Senor Ceviche (formerly known as The Barnyard),"2013_Senor Ceviche (formerly known as The Barnyard)_Mindshare Media Uk Limited, 7th and 8th Floors",51.518959,-0.134555,2013-09-12
+213,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Senor Ceviche (formerly known as The Barnyard)_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+214,Destination,Worlds End,"2013_Worlds End_Mindshare Media Uk Limited, 7th and 8th Floors",51.539219,-0.141978,2013-12-17
+215,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Worlds End_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+216,Destination,Generator,"2013_Generator_Mindshare Media Uk Limited, 7th and 8th Floors",51.526258,-0.124827,2013-03-15
+217,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Generator_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+218,Destination,"All Bar One, One Euston Square","2013_All Bar One, One Euston Square_Mindshare Media Uk Limited, 7th and 8th Floors",51.527632000000004,-0.13303199999999998,2013-04-10
+219,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_All Bar One, One Euston Square_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+220,Destination,Boopshi's,"2013_Boopshi's_Mindshare Media Uk Limited, 7th and 8th Floors",51.519513,-0.133795,2013-07-23
+221,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Boopshi's_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+222,Destination,My Local,"2013_My Local_Mindshare Media Uk Limited, 7th and 8th Floors",51.516527,-0.128091,2013-05-22
+223,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_My Local_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+224,Destination,Bill's (formerly Pitcher and Piano),"2013_Bill's (formerly Pitcher and Piano)_Mindshare Media Uk Limited, 7th and 8th Floors",51.515819,-0.118702,2013-03-21
+225,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Bill's (formerly Pitcher and Piano)_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+226,Destination,O'Neills,"2013_O'Neills_Mindshare Media Uk Limited, 7th and 8th Floors",51.528517,-0.126822,2013-01-18
+227,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_O'Neills_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+228,Destination,Garden Gate,"2013_Garden Gate_Mindshare Media Uk Limited, 7th and 8th Floors",51.554701,-0.165596,2013-02-18
+229,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Garden Gate_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+230,Destination,Sir Richard Steele,"2013_Sir Richard Steele_Mindshare Media Uk Limited, 7th and 8th Floors",51.546679,-0.15871300000000002,2013-05-06
+231,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Sir Richard Steele_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+232,Destination,Slow Food U.K.,"2013_Slow Food U.K._Mindshare Media Uk Limited, 7th and 8th Floors",51.514446,-0.126545,2013-11-13
+233,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Slow Food U.K._Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+234,Destination,Lord Palmerston,"2013_Lord Palmerston_Mindshare Media Uk Limited, 7th and 8th Floors",51.559236,-0.140429,2013-01-17
+235,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Lord Palmerston_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+236,Destination,Franco Manca (formerly Chimis Burrito Bar),"2013_Franco Manca (formerly Chimis Burrito Bar)_Mindshare Media Uk Limited, 7th and 8th Floors",51.52243,-0.13683900000000002,2013-11-11
+237,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Franco Manca (formerly Chimis Burrito Bar)_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+238,Destination,Griffin,"2013_Griffin_Mindshare Media Uk Limited, 7th and 8th Floors",51.521334,-0.112046,2013-11-20
+239,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Griffin_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+240,Destination,The George,"2013_The George_Mindshare Media Uk Limited, 7th and 8th Floors",51.55271,-0.166968,2013-01-03
+241,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_The George_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+242,Destination,Brasserie Blanc,"2013_Brasserie Blanc_Mindshare Media Uk Limited, 7th and 8th Floors",51.518432000000004,-0.135121,2013-06-17
+243,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Brasserie Blanc_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+244,Destination,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),"2013_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine)_Mindshare Media Uk Limited, 7th and 8th Floors",51.51578,-0.12225699999999999,2013-05-21
+245,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine)_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+246,Destination,113 Restaurant & Bar,"2013_113 Restaurant & Bar_Mindshare Media Uk Limited, 7th and 8th Floors",51.52796,-0.139145,2013-09-09
+247,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_113 Restaurant & Bar_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+248,Destination,Franco Manca (formerly Chimichanga),"2013_Franco Manca (formerly Chimichanga)_Mindshare Media Uk Limited, 7th and 8th Floors",51.551239,-0.165481,2013-05-17
+249,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Franco Manca (formerly Chimichanga)_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+250,Destination,The 10 Cases (formerly Aziza Cafe),"2013_The 10 Cases (formerly Aziza Cafe)_Mindshare Media Uk Limited, 7th and 8th Floors",51.514406,-0.12488599999999998,2013-06-13
+251,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_The 10 Cases (formerly Aziza Cafe)_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+252,Destination,Elephants Head,"2013_Elephants Head_Mindshare Media Uk Limited, 7th and 8th Floors",51.540541999999995,-0.14366199999999998,2013-12-09
+253,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Elephants Head_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+254,Destination,Sainsbury's,"2013_Sainsbury's_Mindshare Media Uk Limited, 7th and 8th Floors",51.519286,-0.12206700000000001,2013-04-01
+255,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Sainsbury's_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+256,Destination,"Proud  Camden, The Horse Hospital","2013_Proud  Camden, The Horse Hospital_Mindshare Media Uk Limited, 7th and 8th Floors",51.542256,-0.14816,2013-10-31
+257,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Proud  Camden, The Horse Hospital_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+258,Destination,The Argyle,"2013_The Argyle_Mindshare Media Uk Limited, 7th and 8th Floors",51.518529,-0.108519,2013-07-15
+259,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_The Argyle_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+260,Destination,Otto's,"2013_Otto's_Mindshare Media Uk Limited, 7th and 8th Floors",51.523041,-0.11357300000000001,2013-07-10
+261,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Otto's_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+262,Destination,Convenience Store,"2013_Convenience Store_Mindshare Media Uk Limited, 7th and 8th Floors",51.550323,-0.141154,2013-08-22
+263,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Convenience Store_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+264,Destination,The Earl of Camden,"2013_The Earl of Camden_Mindshare Media Uk Limited, 7th and 8th Floors",51.537586,-0.14385,2013-07-22
+265,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_The Earl of Camden_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+266,Destination,Holborn Whippet (FormerlyFathers Study),"2013_Holborn Whippet (FormerlyFathers Study)_Mindshare Media Uk Limited, 7th and 8th Floors",51.518636,-0.12129000000000001,2013-03-05
+267,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Holborn Whippet (FormerlyFathers Study)_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+268,Destination,Bar Solo/Undersolo,"2013_Bar Solo/Undersolo_Mindshare Media Uk Limited, 7th and 8th Floors",51.540039,-0.14449700000000001,2013-08-11
+269,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Bar Solo/Undersolo_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+270,Destination,Bunga Bunga (Fomerly The Drury Club Basement),"2013_Bunga Bunga (Fomerly The Drury Club Basement)_Mindshare Media Uk Limited, 7th and 8th Floors",51.51578,-0.12225699999999999,2013-04-23
+271,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Bunga Bunga (Fomerly The Drury Club Basement)_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+272,Destination,Bloomsbury Bowling Lanes,"2013_Bloomsbury Bowling Lanes_Mindshare Media Uk Limited, 7th and 8th Floors",51.52386,-0.12945,2013-01-14
+273,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Bloomsbury Bowling Lanes_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+274,Destination,The Jack Horner,"2013_The Jack Horner_Mindshare Media Uk Limited, 7th and 8th Floors",51.51831,-0.131671,2013-09-27
+275,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_The Jack Horner_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+276,Destination,Sway,"2013_Sway_Mindshare Media Uk Limited, 7th and 8th Floors",51.515423,-0.12044400000000001,2013-07-17
+277,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Sway_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+278,Destination,Electric Ballroom,"2013_Electric Ballroom_Mindshare Media Uk Limited, 7th and 8th Floors",51.539688,-0.142772,2013-05-02
+279,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Electric Ballroom_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+280,Destination,Cowshed Primrose Hill,"2013_Cowshed Primrose Hill_Mindshare Media Uk Limited, 7th and 8th Floors",51.54213,-0.155697,2013-10-12
+281,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Cowshed Primrose Hill_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+282,Destination,The Gallery,"2013_The Gallery_Mindshare Media Uk Limited, 7th and 8th Floors",51.546657,-0.19045499999999999,2013-05-09
+283,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_The Gallery_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+284,Destination,Ape and Bird,"2013_Ape and Bird_Mindshare Media Uk Limited, 7th and 8th Floors",51.513245,-0.12820299999999998,2013-07-10
+285,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Ape and Bird_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+286,Destination,Museum Tavern,"2013_Museum Tavern_Mindshare Media Uk Limited, 7th and 8th Floors",51.518343,-0.12531199999999998,2013-06-17
+287,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Museum Tavern_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+288,Destination,KOKO,"2013_KOKO_Mindshare Media Uk Limited, 7th and 8th Floors",51.534911,-0.139649,2013-06-19
+289,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_KOKO_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+290,Destination,Compagnie des Vins Surnaturel,"2013_Compagnie des Vins Surnaturel_Mindshare Media Uk Limited, 7th and 8th Floors",51.514446,-0.126545,2013-10-23
+291,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Compagnie des Vins Surnaturel_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+292,Destination,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Mindshare Media Uk Limited, 7th and 8th Floors_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+293,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Mindshare Media Uk Limited, 7th and 8th Floors_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+294,Destination,Co-Operative Group Food Limited,"2013_Co-Operative Group Food Limited_Mindshare Media Uk Limited, 7th and 8th Floors",51.549255,-0.140701,2013-06-26
+295,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Co-Operative Group Food Limited_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+296,Destination,Ballyhoo,"2013_Ballyhoo_Mindshare Media Uk Limited, 7th and 8th Floors",51.517396000000005,-0.125711,2013-12-04
+297,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Ballyhoo_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+298,Destination,The Continental,"2013_The Continental_Mindshare Media Uk Limited, 7th and 8th Floors",51.531775,-0.126577,2013-01-16
+299,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_The Continental_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+300,Destination,Olivers Village Cafe,"2013_Olivers Village Cafe_Mindshare Media Uk Limited, 7th and 8th Floors",51.548344,-0.1727,2013-04-30
+301,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Olivers Village Cafe_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+302,Destination,Bloc Bar (Formerly Record Club/The Stillery,"2013_Bloc Bar (Formerly Record Club/The Stillery_Mindshare Media Uk Limited, 7th and 8th Floors",51.540164000000004,-0.141998,2013-04-10
+303,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Bloc Bar (Formerly Record Club/The Stillery_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+304,Destination,Flask,"2013_Flask_Mindshare Media Uk Limited, 7th and 8th Floors",51.556693,-0.176761,2013-02-22
+305,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Flask_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+306,Destination,The Phoenix Theatre Ltd,"2013_The Phoenix Theatre Ltd_Mindshare Media Uk Limited, 7th and 8th Floors",51.514562,-0.12926500000000002,2013-02-26
+307,Origin,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_The Phoenix Theatre Ltd_Mindshare Media Uk Limited, 7th and 8th Floors",51.516045,-0.127443,2013-01-02
+308,Destination,The Marathon,2010_The Marathon_Ice Wharf - Lloyds No 1,51.543994,-0.151855,2010-07-06
+309,Origin,Ice Wharf - Lloyds No 1,2010_The Marathon_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+310,Destination,Belsize Kitchen,2010_Belsize Kitchen_Ice Wharf - Lloyds No 1,51.548970000000004,-0.171679,2010-06-24
+311,Origin,Ice Wharf - Lloyds No 1,2010_Belsize Kitchen_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+312,Destination,Olivers Fish and Chips,2010_Olivers Fish and Chips_Ice Wharf - Lloyds No 1,51.546679,-0.15871300000000002,2010-05-11
+313,Origin,Ice Wharf - Lloyds No 1,2010_Olivers Fish and Chips_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+314,Destination,Alice House,2010_Alice House_Ice Wharf - Lloyds No 1,51.551211,-0.19204000000000002,2010-12-01
+315,Origin,Ice Wharf - Lloyds No 1,2010_Alice House_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+316,Destination,Morrisons,2010_Morrisons_Ice Wharf - Lloyds No 1,51.541346000000004,-0.149794,2010-01-21
+317,Origin,Ice Wharf - Lloyds No 1,2010_Morrisons_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+318,Destination,Kings Cross Social Club,2010_Kings Cross Social Club_Ice Wharf - Lloyds No 1,51.530207,-0.11801199999999999,2010-03-31
+319,Origin,Ice Wharf - Lloyds No 1,2010_Kings Cross Social Club_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+320,Destination,Sainsbury's Supermarkets Ltd,2010_Sainsbury's Supermarkets Ltd_Ice Wharf - Lloyds No 1,51.516965,-0.138658,2010-04-23
+321,Origin,Ice Wharf - Lloyds No 1,2010_Sainsbury's Supermarkets Ltd_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+322,Destination,"Zizzi, Unit 10","2010_Zizzi, Unit 10_Ice Wharf - Lloyds No 1",51.515836,-0.128305,2010-03-12
+323,Origin,Ice Wharf - Lloyds No 1,"2010_Zizzi, Unit 10_Ice Wharf - Lloyds No 1",51.540754,-0.145258,2010-01-04
+324,Destination,Harrison Arms,2010_Harrison Arms_Ice Wharf - Lloyds No 1,51.52756,-0.120129,2010-01-18
+325,Origin,Ice Wharf - Lloyds No 1,2010_Harrison Arms_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+326,Destination,Two Brewers,2010_Two Brewers_Ice Wharf - Lloyds No 1,51.513243,-0.127366,2010-10-25
+327,Origin,Ice Wharf - Lloyds No 1,2010_Two Brewers_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+328,Destination,Coram's Field,2010_Coram's Field_Ice Wharf - Lloyds No 1,51.524413,-0.120004,2010-10-26
+329,Origin,Ice Wharf - Lloyds No 1,2010_Coram's Field_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+330,Destination,Old Crown,2010_Old Crown_Ice Wharf - Lloyds No 1,51.516890999999994,-0.12531,2010-01-11
+331,Origin,Ice Wharf - Lloyds No 1,2010_Old Crown_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+332,Destination,All Bar One,2010_All Bar One_Ice Wharf - Lloyds No 1,51.51668,-0.119209,2010-03-03
+333,Origin,Ice Wharf - Lloyds No 1,2010_All Bar One_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+334,Destination,Holborn House,2010_Holborn House_Ice Wharf - Lloyds No 1,51.517503000000005,-0.117704,2010-07-20
+335,Origin,Ice Wharf - Lloyds No 1,2010_Holborn House_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+336,Destination,Ice Wharf - Lloyds No 1,2010_Ice Wharf - Lloyds No 1_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+337,Origin,Ice Wharf - Lloyds No 1,2010_Ice Wharf - Lloyds No 1_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+338,Destination,Calcutta Street ( formerly Club Fitzrovia),2010_Calcutta Street ( formerly Club Fitzrovia)_Ice Wharf - Lloyds No 1,51.519667,-0.136475,2010-10-22
+339,Origin,Ice Wharf - Lloyds No 1,2010_Calcutta Street ( formerly Club Fitzrovia)_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+340,Destination,Bobby's (formerly La Brocca),2010_Bobby's (formerly La Brocca)_Ice Wharf - Lloyds No 1,51.550391999999995,-0.19197899999999998,2010-06-10
+341,Origin,Ice Wharf - Lloyds No 1,2010_Bobby's (formerly La Brocca)_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+342,Destination,Circus,2010_Circus_Ice Wharf - Lloyds No 1,51.514406,-0.12488599999999998,2010-03-22
+343,Origin,Ice Wharf - Lloyds No 1,2010_Circus_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+344,Destination,The Monarch,2010_The Monarch_Ice Wharf - Lloyds No 1,51.54314,-0.148383,2010-01-04
+345,Origin,Ice Wharf - Lloyds No 1,2010_The Monarch_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+346,Destination,Hakkasan,2010_Hakkasan_Ice Wharf - Lloyds No 1,51.516921999999994,-0.132023,2010-12-20
+347,Origin,Ice Wharf - Lloyds No 1,2010_Hakkasan_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+348,Destination,O'Neills,2010_O'Neills_Ice Wharf - Lloyds No 1,51.528517,-0.126822,2010-05-08
+349,Origin,Ice Wharf - Lloyds No 1,2010_O'Neills_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+350,Destination,Plough,2010_Plough_Ice Wharf - Lloyds No 1,51.517865,-0.12620499999999998,2010-05-20
+351,Origin,Ice Wharf - Lloyds No 1,2010_Plough_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+352,Destination,Assembly House,2010_Assembly House_Ice Wharf - Lloyds No 1,51.551065,-0.140306,2010-08-31
+353,Origin,Ice Wharf - Lloyds No 1,2010_Assembly House_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+354,Destination,New London Theatre,2010_New London Theatre_Ice Wharf - Lloyds No 1,51.51578,-0.12225699999999999,2010-10-12
+355,Origin,Ice Wharf - Lloyds No 1,2010_New London Theatre_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+356,Destination,Curzon Bloomsbury  Cinema,2010_Curzon Bloomsbury  Cinema_Ice Wharf - Lloyds No 1,51.524397,-0.12385,2010-10-09
+357,Origin,Ice Wharf - Lloyds No 1,2010_Curzon Bloomsbury  Cinema_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+358,Destination,Elysee Restaurant,2010_Elysee Restaurant_Ice Wharf - Lloyds No 1,51.518605,-0.13372,2010-11-26
+359,Origin,Ice Wharf - Lloyds No 1,2010_Elysee Restaurant_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+360,Destination,Majestic Wine Warehouse,2010_Majestic Wine Warehouse_Ice Wharf - Lloyds No 1,51.543572999999995,-0.15024200000000001,2010-04-08
+361,Origin,Ice Wharf - Lloyds No 1,2010_Majestic Wine Warehouse_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+362,Destination,Made In Brasil,2010_Made In Brasil_Ice Wharf - Lloyds No 1,51.540039,-0.14449700000000001,2010-08-13
+363,Origin,Ice Wharf - Lloyds No 1,2010_Made In Brasil_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+364,Destination,Sainsbury's,2010_Sainsbury's_Ice Wharf - Lloyds No 1,51.556151,-0.138523,2010-07-16
+365,Origin,Ice Wharf - Lloyds No 1,2010_Sainsbury's_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+366,Destination,Washington Hotel,2010_Washington Hotel_Ice Wharf - Lloyds No 1,51.545876,-0.162983,2010-01-16
+367,Origin,Ice Wharf - Lloyds No 1,2010_Washington Hotel_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+368,Destination,Venus (formerly City Burlesque),2010_Venus (formerly City Burlesque)_Ice Wharf - Lloyds No 1,51.520437,-0.106431,2010-04-02
+369,Origin,Ice Wharf - Lloyds No 1,2010_Venus (formerly City Burlesque)_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+370,Destination,Mercure London Bloomsbury (formerly Waverley House Hotel),2010_Mercure London Bloomsbury (formerly Waverley House Hotel)_Ice Wharf - Lloyds No 1,51.521776,-0.12359300000000001,2010-10-08
+371,Origin,Ice Wharf - Lloyds No 1,2010_Mercure London Bloomsbury (formerly Waverley House Hotel)_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+372,Destination,LAS IGUANAS,2010_LAS IGUANAS_Ice Wharf - Lloyds No 1,51.524397,-0.12385,2010-08-20
+373,Origin,Ice Wharf - Lloyds No 1,2010_LAS IGUANAS_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+374,Destination,Shaka Zulu,2010_Shaka Zulu_Ice Wharf - Lloyds No 1,51.542256,-0.14816,2010-12-14
+375,Origin,Ice Wharf - Lloyds No 1,2010_Shaka Zulu_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+376,Destination,Dublin Castle,2010_Dublin Castle_Ice Wharf - Lloyds No 1,51.537762,-0.14571199999999998,2010-10-02
+377,Origin,Ice Wharf - Lloyds No 1,2010_Dublin Castle_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+378,Destination,The Roundhouse,2010_The Roundhouse_Ice Wharf - Lloyds No 1,51.543213,-0.151805,2010-08-16
+379,Origin,Ice Wharf - Lloyds No 1,2010_The Roundhouse_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+380,Destination,"Proud  Camden, The Horse Hospital","2010_Proud  Camden, The Horse Hospital_Ice Wharf - Lloyds No 1",51.542256,-0.14816,2010-09-08
+381,Origin,Ice Wharf - Lloyds No 1,"2010_Proud  Camden, The Horse Hospital_Ice Wharf - Lloyds No 1",51.540754,-0.145258,2010-01-04
+382,Destination,Prince Of Wales' Feathers,2010_Prince Of Wales' Feathers_Ice Wharf - Lloyds No 1,51.523937,-0.138173,2010-05-05
+383,Origin,Ice Wharf - Lloyds No 1,2010_Prince Of Wales' Feathers_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2010-01-04
+384,Destination,Vine,2011_Vine_McDonald's Restaurants,51.554836,-0.14468,2011-04-15
+385,Origin,McDonald's Restaurants,2011_Vine_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+386,Destination,New Bloomsbury Set,2011_New Bloomsbury Set_McDonald's Restaurants,51.525437,-0.125078,2011-06-05
+387,Origin,McDonald's Restaurants,2011_New Bloomsbury Set_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+388,Destination,The T.E. Dingwall Building (Formerly Lock 17/Highlight),2011_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_McDonald's Restaurants,51.541428,-0.145851,2011-04-28
+389,Origin,McDonald's Restaurants,2011_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+390,Destination,Franco Manca (formerly Chimichanga),2011_Franco Manca (formerly Chimichanga)_McDonald's Restaurants,51.551239,-0.165481,2011-07-13
+391,Origin,McDonald's Restaurants,2011_Franco Manca (formerly Chimichanga)_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+392,Destination,Sainsburys,2011_Sainsburys_McDonald's Restaurants,51.525368,-0.139192,2011-03-29
+393,Origin,McDonald's Restaurants,2011_Sainsburys_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+394,Destination,Colonel Fawcett,2011_Colonel Fawcett_McDonald's Restaurants,51.541639,-0.136007,2011-06-22
+395,Origin,McDonald's Restaurants,2011_Colonel Fawcett_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+396,Destination,Caffe Ritazza,2011_Caffe Ritazza_McDonald's Restaurants,51.527829,-0.132573,2011-02-08
+397,Origin,McDonald's Restaurants,2011_Caffe Ritazza_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+398,Destination,The Betjeman Arms,2011_The Betjeman Arms_McDonald's Restaurants,51.531775,-0.126577,2011-10-06
+399,Origin,McDonald's Restaurants,2011_The Betjeman Arms_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+400,Destination,"Paramount (Floors 31, 32, 33)","2011_Paramount (Floors 31, 32, 33)_McDonald's Restaurants",51.516178000000004,-0.12926500000000002,2011-01-17
+401,Origin,McDonald's Restaurants,"2011_Paramount (Floors 31, 32, 33)_McDonald's Restaurants",51.513631,-0.129773,2011-01-09
+402,Destination,Salvador and Amanda Bloomsbury (Formely Traffic),2011_Salvador and Amanda Bloomsbury (Formely Traffic)_McDonald's Restaurants,51.519286,-0.12206700000000001,2011-11-11
+403,Origin,McDonald's Restaurants,2011_Salvador and Amanda Bloomsbury (Formely Traffic)_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+404,Destination,Corks,2011_Corks_McDonald's Restaurants,51.562006,-0.150358,2011-07-11
+405,Origin,McDonald's Restaurants,2011_Corks_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+406,Destination,The Black Lion,2011_The Black Lion_McDonald's Restaurants,51.551211,-0.19204000000000002,2011-09-29
+407,Origin,McDonald's Restaurants,2011_The Black Lion_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+408,Destination,PizzaExpress,2011_PizzaExpress_McDonald's Restaurants,51.518268,-0.12197000000000001,2011-04-21
+409,Origin,McDonald's Restaurants,2011_PizzaExpress_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+410,Destination,Edinboro Castle,2011_Edinboro Castle_McDonald's Restaurants,51.536087,-0.14494,2011-04-01
+411,Origin,McDonald's Restaurants,2011_Edinboro Castle_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+412,Destination,Sainsburys Supermarket,2011_Sainsburys Supermarket_McDonald's Restaurants,51.522381,-0.109945,2011-09-20
+413,Origin,McDonald's Restaurants,2011_Sainsburys Supermarket_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+414,Destination,London Euston Premier Travel Inn,2011_London Euston Premier Travel Inn_McDonald's Restaurants,51.527645,-0.128604,2011-04-04
+415,Origin,McDonald's Restaurants,2011_London Euston Premier Travel Inn_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+416,Destination,Salsa!,2011_Salsa!_McDonald's Restaurants,51.513999,-0.128985,2011-07-22
+417,Origin,McDonald's Restaurants,2011_Salsa!_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+418,Destination,Cabana,2011_Cabana_McDonald's Restaurants,51.516045,-0.127443,2011-02-12
+419,Origin,McDonald's Restaurants,2011_Cabana_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+420,Destination,Rocket,2011_Rocket_McDonald's Restaurants,51.528287,-0.129436,2011-03-22
+421,Origin,McDonald's Restaurants,2011_Rocket_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+422,Destination,Assembly House,2011_Assembly House_McDonald's Restaurants,51.551065,-0.140306,2011-10-03
+423,Origin,McDonald's Restaurants,2011_Assembly House_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+424,Destination,Kiss The Sky Bar,2011_Kiss The Sky Bar_McDonald's Restaurants,51.55381,-0.16817100000000001,2011-03-21
+425,Origin,McDonald's Restaurants,2011_Kiss The Sky Bar_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+426,Destination,Holborn House,2011_Holborn House_McDonald's Restaurants,51.517503000000005,-0.117704,2011-07-14
+427,Origin,McDonald's Restaurants,2011_Holborn House_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+428,Destination,London Cocktail Club,2011_London Cocktail Club_McDonald's Restaurants,51.516234000000004,-0.12594,2011-12-16
+429,Origin,McDonald's Restaurants,2011_London Cocktail Club_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+430,Destination,Canton Element,2011_Canton Element_McDonald's Restaurants,51.519793,-0.117736,2011-09-12
+431,Origin,McDonald's Restaurants,2011_Canton Element_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+432,Destination,Balans Restaurant,2011_Balans Restaurant_McDonald's Restaurants,51.513596,-0.127317,2011-01-19
+433,Origin,McDonald's Restaurants,2011_Balans Restaurant_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+434,Destination,The Lion & Unicorn,2011_The Lion & Unicorn_McDonald's Restaurants,51.548297,-0.13856300000000002,2011-02-14
+435,Origin,McDonald's Restaurants,2011_The Lion & Unicorn_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+436,Destination,McDonald's Restaurants,2011_McDonald's Restaurants_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+437,Origin,McDonald's Restaurants,2011_McDonald's Restaurants_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+438,Destination,The Offy and General Store,2011_The Offy and General Store_McDonald's Restaurants,51.526422,-0.137931,2011-01-14
+439,Origin,McDonald's Restaurants,2011_The Offy and General Store_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+440,Destination,Electric Ballroom,2011_Electric Ballroom_McDonald's Restaurants,51.539688,-0.142772,2011-05-27
+441,Origin,McDonald's Restaurants,2011_Electric Ballroom_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+442,Destination,Camden Pizza Ltd,2011_Camden Pizza Ltd_McDonald's Restaurants,51.541977,-0.139098,2011-01-31
+443,Origin,McDonald's Restaurants,2011_Camden Pizza Ltd_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+444,Destination,Bill's (formerly Pitcher and Piano),2011_Bill's (formerly Pitcher and Piano)_McDonald's Restaurants,51.515819,-0.118702,2011-05-31
+445,Origin,McDonald's Restaurants,2011_Bill's (formerly Pitcher and Piano)_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+446,Destination,Ice Wharf - Lloyds No 1,2011_Ice Wharf - Lloyds No 1_McDonald's Restaurants,51.540754,-0.145258,2011-12-01
+447,Origin,McDonald's Restaurants,2011_Ice Wharf - Lloyds No 1_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+448,Destination,Sainsbury's Supermarkets Ltd,2011_Sainsbury's Supermarkets Ltd_McDonald's Restaurants,51.516965,-0.120941,2011-07-26
+449,Origin,McDonald's Restaurants,2011_Sainsbury's Supermarkets Ltd_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+450,Destination,Hampstead Theatre,2011_Hampstead Theatre_McDonald's Restaurants,51.544482,-0.169523,2011-01-27
+451,Origin,McDonald's Restaurants,2011_Hampstead Theatre_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+452,Destination,Vue Cinema,2011_Vue Cinema_McDonald's Restaurants,51.547698,-0.181321,2011-08-26
+453,Origin,McDonald's Restaurants,2011_Vue Cinema_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+454,Destination,Lady Ottoline,2011_Lady Ottoline_McDonald's Restaurants,51.521719,-0.114622,2011-06-20
+455,Origin,McDonald's Restaurants,2011_Lady Ottoline_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+456,Destination,Engineer,2011_Engineer_McDonald's Restaurants,51.540040000000005,-0.15085,2011-04-10
+457,Origin,McDonald's Restaurants,2011_Engineer_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+458,Destination,Aces and Eights,2011_Aces and Eights_McDonald's Restaurants,51.556475,-0.137786,2011-11-07
+459,Origin,McDonald's Restaurants,2011_Aces and Eights_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+460,Destination,Sagar Restaurant,2011_Sagar Restaurant_McDonald's Restaurants,51.518605,-0.13372,2011-10-25
+461,Origin,McDonald's Restaurants,2011_Sagar Restaurant_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+462,Destination,Prezzo,2011_Prezzo_McDonald's Restaurants,51.517396000000005,-0.125711,2011-11-08
+463,Origin,McDonald's Restaurants,2011_Prezzo_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+464,Destination,O'Neills,2011_O'Neills_McDonald's Restaurants,51.528517,-0.126822,2011-04-27
+465,Origin,McDonald's Restaurants,2011_O'Neills_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+466,Destination,Whistlestop,2011_Whistlestop_McDonald's Restaurants,51.531959,-0.12365,2011-03-22
+467,Origin,McDonald's Restaurants,2011_Whistlestop_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+468,Destination,Clockhouse,2011_Clockhouse_McDonald's Restaurants,51.521044,-0.10923499999999998,2011-04-15
+469,Origin,McDonald's Restaurants,2011_Clockhouse_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+470,Destination,Draft House,2011_Draft House_McDonald's Restaurants,51.519021,-0.135793,2011-05-09
+471,Origin,McDonald's Restaurants,2011_Draft House_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+472,Destination,BANH MI BAY,2011_BANH MI BAY_McDonald's Restaurants,51.521265,-0.11384000000000001,2011-04-05
+473,Origin,McDonald's Restaurants,2011_BANH MI BAY_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+474,Destination,THE PRINCIPAL LONDON,2011_THE PRINCIPAL LONDON_McDonald's Restaurants,51.52268,-0.12503599999999998,2011-05-12
+475,Origin,McDonald's Restaurants,2011_THE PRINCIPAL LONDON_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+476,Destination,Ask Restaurant,2011_Ask Restaurant_McDonald's Restaurants,51.523937,-0.138173,2011-04-21
+477,Origin,McDonald's Restaurants,2011_Ask Restaurant_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+478,Destination,Waitrose,2011_Waitrose_McDonald's Restaurants,51.517002000000005,-0.11943599999999999,2011-05-05
+479,Origin,McDonald's Restaurants,2011_Waitrose_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+480,Destination,Na Zdrowie - The Polish Bar,2011_Na Zdrowie - The Polish Bar_McDonald's Restaurants,51.517002000000005,-0.11943599999999999,2011-06-29
+481,Origin,McDonald's Restaurants,2011_Na Zdrowie - The Polish Bar_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+482,Destination,Elysee Restaurant,2011_Elysee Restaurant_McDonald's Restaurants,51.518605,-0.13372,2011-01-25
+483,Origin,McDonald's Restaurants,2011_Elysee Restaurant_McDonald's Restaurants,51.513631,-0.129773,2011-01-09
+484,Destination,Havana Cafe & Bar,2014_Havana Cafe & Bar_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+485,Origin,Havana Cafe & Bar,2014_Havana Cafe & Bar_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+486,Destination,Sainsbury's Supermarket,2014_Sainsbury's Supermarket_Havana Cafe & Bar,51.524257,-0.137096,2014-02-14
+487,Origin,Havana Cafe & Bar,2014_Sainsbury's Supermarket_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+488,Destination,Hampstead Theatre,2014_Hampstead Theatre_Havana Cafe & Bar,51.544482,-0.169523,2014-03-13
+489,Origin,Havana Cafe & Bar,2014_Hampstead Theatre_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+490,Destination,Grosvenor St Giles Casino,2014_Grosvenor St Giles Casino_Havana Cafe & Bar,51.517452,-0.130432,2014-01-31
+491,Origin,Havana Cafe & Bar,2014_Grosvenor St Giles Casino_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+492,Destination,One Tun,2014_One Tun_Havana Cafe & Bar,51.51935,-0.13703900000000002,2014-07-08
+493,Origin,Havana Cafe & Bar,2014_One Tun_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+494,Destination,My Local,2014_My Local_Havana Cafe & Bar,51.516527,-0.128091,2014-12-05
+495,Origin,Havana Cafe & Bar,2014_My Local_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+496,Destination,Rocket,2014_Rocket_Havana Cafe & Bar,51.528287,-0.129436,2014-05-28
+497,Origin,Havana Cafe & Bar,2014_Rocket_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+498,Destination,Camden Eye,2014_Camden Eye_Havana Cafe & Bar,51.539219,-0.141978,2014-05-15
+499,Origin,Havana Cafe & Bar,2014_Camden Eye_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+500,Destination,Sainsbury's Supermarket Ltd,2014_Sainsbury's Supermarket Ltd_Havana Cafe & Bar,51.518941,-0.106305,2014-05-06
+501,Origin,Havana Cafe & Bar,2014_Sainsbury's Supermarket Ltd_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+502,Destination,Odeon Cinema,2014_Odeon Cinema_Havana Cafe & Bar,51.51831,-0.131671,2014-09-18
+503,Origin,Havana Cafe & Bar,2014_Odeon Cinema_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+504,Destination,Q Grill,2014_Q Grill_Havana Cafe & Bar,51.543233,-0.147024,2014-08-22
+505,Origin,Havana Cafe & Bar,2014_Q Grill_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+506,Destination,Byron,2014_Byron_Havana Cafe & Bar,51.518229999999996,-0.12041600000000001,2014-10-31
+507,Origin,Havana Cafe & Bar,2014_Byron_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+508,Destination,Jamon - Jamon Restaurant,2014_Jamon - Jamon Restaurant_Havana Cafe & Bar,51.513999,-0.128985,2014-02-25
+509,Origin,Havana Cafe & Bar,2014_Jamon - Jamon Restaurant_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+510,Destination,64 Lincoln's Inn Fields,2014_64 Lincoln's Inn Fields_Havana Cafe & Bar,51.515819,-0.118702,2014-09-15
+511,Origin,Havana Cafe & Bar,2014_64 Lincoln's Inn Fields_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+512,Destination,The Refinery -  USE 5 Brock Street,2014_The Refinery -  USE 5 Brock Street_Havana Cafe & Bar,51.525923,-0.13968699999999998,2014-10-15
+513,Origin,Havana Cafe & Bar,2014_The Refinery -  USE 5 Brock Street_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+514,Destination,"Waitrose, Unit 4","2014_Waitrose, Unit 4_Havana Cafe & Bar",51.531959,-0.12365,2014-06-25
+515,Origin,Havana Cafe & Bar,"2014_Waitrose, Unit 4_Havana Cafe & Bar",51.539688,-0.142772,2014-01-14
+516,Destination,The Holly Bush,2014_The Holly Bush_Havana Cafe & Bar,51.557922999999995,-0.17946099999999998,2014-03-01
+517,Origin,Havana Cafe & Bar,2014_The Holly Bush_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+518,Destination,Sir Richard Steele,2014_Sir Richard Steele_Havana Cafe & Bar,51.546679,-0.15871300000000002,2014-05-16
+519,Origin,Havana Cafe & Bar,2014_Sir Richard Steele_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+520,Destination,London Euston Premier Travel Inn,2014_London Euston Premier Travel Inn_Havana Cafe & Bar,51.527645,-0.128604,2014-09-22
+521,Origin,Havana Cafe & Bar,2014_London Euston Premier Travel Inn_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+522,Destination,Chilango (formerly The Camden Kitchen),2014_Chilango (formerly The Camden Kitchen)_Havana Cafe & Bar,51.537827,-0.141005,2014-07-25
+523,Origin,Havana Cafe & Bar,2014_Chilango (formerly The Camden Kitchen)_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+524,Destination,Premier Inn (proposed),2014_Premier Inn (proposed)_Havana Cafe & Bar,51.520167,-0.11696199999999998,2014-03-19
+525,Origin,Havana Cafe & Bar,2014_Premier Inn (proposed)_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+526,Destination,Hotel President,2014_Hotel President_Havana Cafe & Bar,51.521776,-0.12359300000000001,2014-02-20
+527,Origin,Havana Cafe & Bar,2014_Hotel President_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+528,Destination,Shell Camden Town,2014_Shell Camden Town_Havana Cafe & Bar,51.546323,-0.12706900000000002,2014-06-02
+529,Origin,Havana Cafe & Bar,2014_Shell Camden Town_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+530,Destination,Washington Hotel,2014_Washington Hotel_Havana Cafe & Bar,51.545876,-0.162983,2014-07-03
+531,Origin,Havana Cafe & Bar,2014_Washington Hotel_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+532,Destination,Wagamama,2014_Wagamama_Havana Cafe & Bar,51.547698,-0.181321,2014-03-18
+533,Origin,Havana Cafe & Bar,2014_Wagamama_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+534,Destination,Secrets (Eversholt St),2014_Secrets (Eversholt St)_Havana Cafe & Bar,51.529302,-0.13258499999999998,2014-12-18
+535,Origin,Havana Cafe & Bar,2014_Secrets (Eversholt St)_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+536,Destination,Imperial Hotel,2014_Imperial Hotel_Havana Cafe & Bar,51.521776,-0.12359300000000001,2014-02-18
+537,Origin,Havana Cafe & Bar,2014_Imperial Hotel_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+538,Destination,The Constitution,2014_The Constitution_Havana Cafe & Bar,51.540313,-0.135401,2014-09-12
+539,Origin,Havana Cafe & Bar,2014_The Constitution_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+540,Destination,All Bar One,2014_All Bar One_Havana Cafe & Bar,51.51685,-0.128578,2014-05-15
+541,Origin,Havana Cafe & Bar,2014_All Bar One_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+542,Destination,O'Neills,2014_O'Neills_Havana Cafe & Bar,51.528517,-0.126822,2014-08-10
+543,Origin,Havana Cafe & Bar,2014_O'Neills_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+544,Destination,Bloomsbury Bowling Lanes,2014_Bloomsbury Bowling Lanes_Havana Cafe & Bar,51.52386,-0.12945,2014-05-13
+545,Origin,Havana Cafe & Bar,2014_Bloomsbury Bowling Lanes_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+546,Destination,Freemasons Arms,2014_Freemasons Arms_Havana Cafe & Bar,51.557165999999995,-0.169192,2014-05-08
+547,Origin,Havana Cafe & Bar,2014_Freemasons Arms_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+548,Destination,Ice Wharf - Lloyds No 1,2014_Ice Wharf - Lloyds No 1_Havana Cafe & Bar,51.540754,-0.145258,2014-10-13
+549,Origin,Havana Cafe & Bar,2014_Ice Wharf - Lloyds No 1_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+550,Destination,Bar Solo/Undersolo,2014_Bar Solo/Undersolo_Havana Cafe & Bar,51.540039,-0.14449700000000001,2014-02-27
+551,Origin,Havana Cafe & Bar,2014_Bar Solo/Undersolo_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+552,Destination,Co-op,2014_Co-op_Havana Cafe & Bar,51.538119,-0.145295,2014-08-20
+553,Origin,Havana Cafe & Bar,2014_Co-op_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+554,Destination,Generator,2014_Generator_Havana Cafe & Bar,51.526258,-0.124827,2014-06-25
+555,Origin,Havana Cafe & Bar,2014_Generator_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+556,Destination,Electric Ballroom,2014_Electric Ballroom_Havana Cafe & Bar,51.539688,-0.142772,2014-07-03
+557,Origin,Havana Cafe & Bar,2014_Electric Ballroom_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+558,Destination,"Leon,  101 Tottenham Court Road","2014_Leon,  101 Tottenham Court Road_Havana Cafe & Bar",51.52243,-0.13683900000000002,2014-10-10
+559,Origin,Havana Cafe & Bar,"2014_Leon,  101 Tottenham Court Road_Havana Cafe & Bar",51.539688,-0.142772,2014-01-14
+560,Destination,Sir Christopher Hatton,2014_Sir Christopher Hatton_Havana Cafe & Bar,51.518529,-0.108519,2014-06-11
+561,Origin,Havana Cafe & Bar,2014_Sir Christopher Hatton_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+562,Destination,Sushi Bar Ramea,2014_Sushi Bar Ramea_Havana Cafe & Bar,51.51831,-0.131671,2014-08-18
+563,Origin,Havana Cafe & Bar,2014_Sushi Bar Ramea_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+564,Destination,Craft Beer Co - Covent Garden,2014_Craft Beer Co - Covent Garden_Havana Cafe & Bar,51.515615999999994,-0.12485,2014-04-23
+565,Origin,Havana Cafe & Bar,2014_Craft Beer Co - Covent Garden_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+566,Destination,The Betjeman Arms,2014_The Betjeman Arms_Havana Cafe & Bar,51.531775,-0.126577,2014-01-24
+567,Origin,Havana Cafe & Bar,2014_The Betjeman Arms_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+568,Destination,Sainsbury's,2014_Sainsbury's_Havana Cafe & Bar,51.516921999999994,-0.132023,2014-01-14
+569,Origin,Havana Cafe & Bar,2014_Sainsbury's_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+570,Destination,Brown Sugar,2014_Brown Sugar_Havana Cafe & Bar,51.516892999999996,-0.124123,2014-12-08
+571,Origin,Havana Cafe & Bar,2014_Brown Sugar_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+572,Destination,Waitrose,2014_Waitrose_Havana Cafe & Bar,51.537321999999996,-0.142042,2014-09-05
+573,Origin,Havana Cafe & Bar,2014_Waitrose_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+574,Destination,Carpenters Arms,2014_Carpenters Arms_Havana Cafe & Bar,51.521703,-0.136071,2014-10-31
+575,Origin,Havana Cafe & Bar,2014_Carpenters Arms_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+576,Destination,Sainsbury's Supermarkets Ltd,2014_Sainsbury's Supermarkets Ltd_Havana Cafe & Bar,51.535228000000004,-0.138658,2014-12-12
+577,Origin,Havana Cafe & Bar,2014_Sainsbury's Supermarkets Ltd_Havana Cafe & Bar,51.539688,-0.142772,2014-01-14
+578,Destination,Mecca Bingo Club,2015_Mecca Bingo Club_Franco Manca (formerly Chimichanga),51.539139,-0.14369500000000002,2015-07-04
+579,Origin,Franco Manca (formerly Chimichanga),2015_Mecca Bingo Club_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+580,Destination,Best One Limtied,2015_Best One Limtied_Franco Manca (formerly Chimichanga),51.552448,-0.14057999999999998,2015-08-12
+581,Origin,Franco Manca (formerly Chimichanga),2015_Best One Limtied_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+582,Destination,Lyttelton Arms,2015_Lyttelton Arms_Franco Manca (formerly Chimichanga),51.534911,-0.139649,2015-01-21
+583,Origin,Franco Manca (formerly Chimichanga),2015_Lyttelton Arms_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+584,Destination,The Crown & Anchor,2015_The Crown & Anchor_Franco Manca (formerly Chimichanga),51.526920000000004,-0.136481,2015-01-21
+585,Origin,Franco Manca (formerly Chimichanga),2015_The Crown & Anchor_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+586,Destination,Camden Eye,2015_Camden Eye_Franco Manca (formerly Chimichanga),51.539219,-0.141978,2015-06-24
+587,Origin,Franco Manca (formerly Chimichanga),2015_Camden Eye_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+588,Destination,British Film Institute,2015_British Film Institute_Franco Manca (formerly Chimichanga),51.51757,-0.132725,2015-02-16
+589,Origin,Franco Manca (formerly Chimichanga),2015_British Film Institute_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+590,Destination,Gourmet Burger Kitchen,2015_Gourmet Burger Kitchen_Franco Manca (formerly Chimichanga),51.550832,-0.164907,2015-07-22
+591,Origin,Franco Manca (formerly Chimichanga),2015_Gourmet Burger Kitchen_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+592,Destination,MERE,2015_MERE_Franco Manca (formerly Chimichanga),51.520672999999995,-0.136245,2015-07-05
+593,Origin,Franco Manca (formerly Chimichanga),2015_MERE_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+594,Destination,Brown Sugar,2015_Brown Sugar_Franco Manca (formerly Chimichanga),51.516892999999996,-0.124123,2015-09-01
+595,Origin,Franco Manca (formerly Chimichanga),2015_Brown Sugar_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+596,Destination,VQ,2015_VQ_Franco Manca (formerly Chimichanga),51.517452,-0.130432,2015-08-14
+597,Origin,Franco Manca (formerly Chimichanga),2015_VQ_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+598,Destination,Angel Inn,2015_Angel Inn_Franco Manca (formerly Chimichanga),51.57043,-0.147778,2015-01-22
+599,Origin,Franco Manca (formerly Chimichanga),2015_Angel Inn_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+600,Destination,Curzon Bloomsbury  Cinema,2015_Curzon Bloomsbury  Cinema_Franco Manca (formerly Chimichanga),51.524397,-0.12385,2015-03-02
+601,Origin,Franco Manca (formerly Chimichanga),2015_Curzon Bloomsbury  Cinema_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+602,Destination,Lord Stanley,2015_Lord Stanley_Franco Manca (formerly Chimichanga),51.547542,-0.12961,2015-10-29
+603,Origin,Franco Manca (formerly Chimichanga),2015_Lord Stanley_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+604,Destination,Washington Hotel,2015_Washington Hotel_Franco Manca (formerly Chimichanga),51.545876,-0.162983,2015-01-21
+605,Origin,Franco Manca (formerly Chimichanga),2015_Washington Hotel_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+606,Destination,Be At One,2015_Be At One_Franco Manca (formerly Chimichanga),51.535494,-0.140296,2015-09-22
+607,Origin,Franco Manca (formerly Chimichanga),2015_Be At One_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+608,Destination,Grosvenor Casino,2015_Grosvenor Casino_Franco Manca (formerly Chimichanga),51.521776,-0.12359300000000001,2015-08-27
+609,Origin,Franco Manca (formerly Chimichanga),2015_Grosvenor Casino_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+610,Destination,The Water Rats,2015_The Water Rats_Franco Manca (formerly Chimichanga),51.529164,-0.118967,2015-06-11
+611,Origin,Franco Manca (formerly Chimichanga),2015_The Water Rats_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+612,Destination,Marquis of Cornwallis,2015_Marquis of Cornwallis_Franco Manca (formerly Chimichanga),51.524233,-0.12493,2015-01-16
+613,Origin,Franco Manca (formerly Chimichanga),2015_Marquis of Cornwallis_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+614,Destination,Joe's Southern Table & Bar,2015_Joe's Southern Table & Bar_Franco Manca (formerly Chimichanga),51.551065,-0.140306,2015-01-28
+615,Origin,Franco Manca (formerly Chimichanga),2015_Joe's Southern Table & Bar_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+616,Destination,Lidl UK GmbH,2015_Lidl UK GmbH_Franco Manca (formerly Chimichanga),51.547109000000006,-0.142245,2015-01-16
+617,Origin,Franco Manca (formerly Chimichanga),2015_Lidl UK GmbH_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+618,Destination,Kentucky Fried Chicken,2015_Kentucky Fried Chicken_Franco Manca (formerly Chimichanga),51.520337,-0.134654,2015-08-13
+619,Origin,Franco Manca (formerly Chimichanga),2015_Kentucky Fried Chicken_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+620,Destination,Cafe Rouge,2015_Cafe Rouge_Franco Manca (formerly Chimichanga),51.515423,-0.147778,2015-02-17
+621,Origin,Franco Manca (formerly Chimichanga),2015_Cafe Rouge_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+622,Destination,Grind,2015_Grind_Franco Manca (formerly Chimichanga),51.51712,-0.12208599999999999,2015-07-31
+623,Origin,Franco Manca (formerly Chimichanga),2015_Grind_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+624,Destination,The Railway,2015_The Railway_Franco Manca (formerly Chimichanga),51.546124,-0.19050799999999998,2015-04-17
+625,Origin,Franco Manca (formerly Chimichanga),2015_The Railway_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+626,Destination,Bunga Bunga (Fomerly The Drury Club Basement),2015_Bunga Bunga (Fomerly The Drury Club Basement)_Franco Manca (formerly Chimichanga),51.51578,-0.12225699999999999,2015-03-31
+627,Origin,Franco Manca (formerly Chimichanga),2015_Bunga Bunga (Fomerly The Drury Club Basement)_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+628,Destination,Morrisons,2015_Morrisons_Franco Manca (formerly Chimichanga),51.541346000000004,-0.149794,2015-08-19
+629,Origin,Franco Manca (formerly Chimichanga),2015_Morrisons_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+630,Destination,Heals,2015_Heals_Franco Manca (formerly Chimichanga),51.521226,-0.133957,2015-07-16
+631,Origin,Franco Manca (formerly Chimichanga),2015_Heals_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+632,Destination,Tortilla,2015_Tortilla_Franco Manca (formerly Chimichanga),51.54742,-0.17971099999999998,2015-04-14
+633,Origin,Franco Manca (formerly Chimichanga),2015_Tortilla_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+634,Destination,Gipsy Queen,2015_Gipsy Queen_Franco Manca (formerly Chimichanga),51.550794,-0.15471400000000002,2015-07-15
+635,Origin,Franco Manca (formerly Chimichanga),2015_Gipsy Queen_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+636,Destination,Edinboro Castle,2015_Edinboro Castle_Franco Manca (formerly Chimichanga),51.536087,-0.14494,2015-06-11
+637,Origin,Franco Manca (formerly Chimichanga),2015_Edinboro Castle_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+638,Destination,McDonald's Restaurants Ltd,2015_McDonald's Restaurants Ltd_Franco Manca (formerly Chimichanga),51.523937,-0.138173,2015-11-12
+639,Origin,Franco Manca (formerly Chimichanga),2015_McDonald's Restaurants Ltd_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+640,Destination,Bloomsbury Theatre,2015_Bloomsbury Theatre_Franco Manca (formerly Chimichanga),51.525257,-0.13204000000000002,2015-04-16
+641,Origin,Franco Manca (formerly Chimichanga),2015_Bloomsbury Theatre_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+642,Destination,Flask Tavern,2015_Flask Tavern_Franco Manca (formerly Chimichanga),51.569833,-0.151029,2015-09-01
+643,Origin,Franco Manca (formerly Chimichanga),2015_Flask Tavern_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+644,Destination,Smoking Goat,2015_Smoking Goat_Franco Manca (formerly Chimichanga),51.515018,-0.129353,2015-06-22
+645,Origin,Franco Manca (formerly Chimichanga),2015_Smoking Goat_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+646,Destination,Franco Manca (formerly Chimichanga),2015_Franco Manca (formerly Chimichanga)_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+647,Origin,Franco Manca (formerly Chimichanga),2015_Franco Manca (formerly Chimichanga)_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+648,Destination,Marks & Spencer Simply Food,2015_Marks & Spencer Simply Food_Franco Manca (formerly Chimichanga),51.529302,-0.13258499999999998,2015-07-21
+649,Origin,Franco Manca (formerly Chimichanga),2015_Marks & Spencer Simply Food_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+650,Destination,Marks & Spencer Simply Food (1) Unit 23,2015_Marks & Spencer Simply Food (1) Unit 23_Franco Manca (formerly Chimichanga),51.531775,-0.126577,2015-12-15
+651,Origin,Franco Manca (formerly Chimichanga),2015_Marks & Spencer Simply Food (1) Unit 23_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+652,Destination,Old Bell,2015_Old Bell_Franco Manca (formerly Chimichanga),51.537207,-0.192154,2015-10-27
+653,Origin,Franco Manca (formerly Chimichanga),2015_Old Bell_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+654,Destination,Garden Gate,2015_Garden Gate_Franco Manca (formerly Chimichanga),51.554701,-0.165596,2015-01-22
+655,Origin,Franco Manca (formerly Chimichanga),2015_Garden Gate_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+656,Destination,Mercure London Bloomsbury (formerly Waverley House Hotel),2015_Mercure London Bloomsbury (formerly Waverley House Hotel)_Franco Manca (formerly Chimichanga),51.521776,-0.12359300000000001,2015-08-01
+657,Origin,Franco Manca (formerly Chimichanga),2015_Mercure London Bloomsbury (formerly Waverley House Hotel)_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+658,Destination,PizzaExpress,2015_PizzaExpress_Franco Manca (formerly Chimichanga),51.550832,-0.164907,2015-04-22
+659,Origin,Franco Manca (formerly Chimichanga),2015_PizzaExpress_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+660,Destination,Co-op,2015_Co-op_Franco Manca (formerly Chimichanga),51.553266,-0.210385,2015-12-23
+661,Origin,Franco Manca (formerly Chimichanga),2015_Co-op_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+662,Destination,Cha Chaan Teng (Formerly) Rocket (Basement),2015_Cha Chaan Teng (Formerly) Rocket (Basement)_Franco Manca (formerly Chimichanga),51.515819,-0.118702,2015-05-06
+663,Origin,Franco Manca (formerly Chimichanga),2015_Cha Chaan Teng (Formerly) Rocket (Basement)_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+664,Destination,Caps & Taps,2015_Caps & Taps_Franco Manca (formerly Chimichanga),51.54587,-0.14094600000000002,2015-03-19
+665,Origin,Franco Manca (formerly Chimichanga),2015_Caps & Taps_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+666,Destination,Ichiryu,2015_Ichiryu_Franco Manca (formerly Chimichanga),51.51685,-0.128578,2015-11-17
+667,Origin,Franco Manca (formerly Chimichanga),2015_Ichiryu_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+668,Destination,O'Reillys,2015_O'Reillys_Franco Manca (formerly Chimichanga),51.549129,-0.141647,2015-11-08
+669,Origin,Franco Manca (formerly Chimichanga),2015_O'Reillys_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+670,Destination,Hoxton Hotel,2015_Hoxton Hotel_Franco Manca (formerly Chimichanga),51.51712,-0.12208599999999999,2015-07-24
+671,Origin,Franco Manca (formerly Chimichanga),2015_Hoxton Hotel_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+672,Destination,"Drake and Morgan, Unit 3","2015_Drake and Morgan, Unit 3_Franco Manca (formerly Chimichanga)",51.532662,-0.125656,2015-07-07
+673,Origin,Franco Manca (formerly Chimichanga),"2015_Drake and Morgan, Unit 3_Franco Manca (formerly Chimichanga)",51.551239,-0.165481,2015-01-04
+674,Destination,Bounce,2015_Bounce_Franco Manca (formerly Chimichanga),51.518529,-0.108519,2015-02-16
+675,Origin,Franco Manca (formerly Chimichanga),2015_Bounce_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+676,Destination,Penderel's Oak,2015_Penderel's Oak_Franco Manca (formerly Chimichanga),51.517858000000004,-0.11538599999999999,2015-08-01
+677,Origin,Franco Manca (formerly Chimichanga),2015_Penderel's Oak_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+678,Destination,Brecknock Convenience Store,2015_Brecknock Convenience Store_Franco Manca (formerly Chimichanga),51.556475,-0.137786,2015-08-14
+679,Origin,Franco Manca (formerly Chimichanga),2015_Brecknock Convenience Store_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+680,Destination,Belgo,2015_Belgo_Franco Manca (formerly Chimichanga),51.515103,-0.119874,2015-12-23
+681,Origin,Franco Manca (formerly Chimichanga),2015_Belgo_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+682,Destination,Co-operative,2015_Co-operative_Franco Manca (formerly Chimichanga),51.529326,-0.12093800000000002,2015-04-12
+683,Origin,Franco Manca (formerly Chimichanga),2015_Co-operative_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+684,Destination,Carpenters Arms,2015_Carpenters Arms_Franco Manca (formerly Chimichanga),51.521703,-0.136071,2015-01-21
+685,Origin,Franco Manca (formerly Chimichanga),2015_Carpenters Arms_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+686,Destination,Shoryu,2015_Shoryu_Franco Manca (formerly Chimichanga),51.515707,-0.12126300000000001,2015-10-13
+687,Origin,Franco Manca (formerly Chimichanga),2015_Shoryu_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+688,Destination,Belgo Centraal,2015_Belgo Centraal_Franco Manca (formerly Chimichanga),51.513667,-0.126119,2015-12-23
+689,Origin,Franco Manca (formerly Chimichanga),2015_Belgo Centraal_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+690,Destination,Sainsbury's,2015_Sainsbury's_Franco Manca (formerly Chimichanga),51.518529,-0.108519,2015-06-07
+691,Origin,Franco Manca (formerly Chimichanga),2015_Sainsbury's_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+692,Destination,Nando's,2015_Nando's_Franco Manca (formerly Chimichanga),51.544703000000005,-0.200935,2015-04-17
+693,Origin,Franco Manca (formerly Chimichanga),2015_Nando's_Franco Manca (formerly Chimichanga),51.551239,-0.165481,2015-01-04
+694,Destination,Shaka Zulu,2012_Shaka Zulu_The Parcel Yard,51.542256,-0.14816,2012-03-21
+695,Origin,The Parcel Yard,2012_Shaka Zulu_The Parcel Yard,51.531959,-0.12365,2012-01-19
+696,Destination,Sway,2012_Sway_The Parcel Yard,51.515423,-0.12044400000000001,2012-04-18
+697,Origin,The Parcel Yard,2012_Sway_The Parcel Yard,51.531959,-0.12365,2012-01-19
+698,Destination,Bar Solo/Undersolo,2012_Bar Solo/Undersolo_The Parcel Yard,51.540039,-0.14449700000000001,2012-07-25
+699,Origin,The Parcel Yard,2012_Bar Solo/Undersolo_The Parcel Yard,51.531959,-0.12365,2012-01-19
+700,Destination,Harrison Arms,2012_Harrison Arms_The Parcel Yard,51.52756,-0.120129,2012-03-19
+701,Origin,The Parcel Yard,2012_Harrison Arms_The Parcel Yard,51.531959,-0.12365,2012-01-19
+702,Destination,London Cocktail Club,2012_London Cocktail Club_The Parcel Yard,51.516234000000004,-0.12594,2012-05-15
+703,Origin,The Parcel Yard,2012_London Cocktail Club_The Parcel Yard,51.531959,-0.12365,2012-01-19
+704,Destination,Bill's (formerly Pitcher and Piano),2012_Bill's (formerly Pitcher and Piano)_The Parcel Yard,51.515819,-0.118702,2012-04-13
+705,Origin,The Parcel Yard,2012_Bill's (formerly Pitcher and Piano)_The Parcel Yard,51.531959,-0.12365,2012-01-19
+706,Destination,BrewDog,2012_BrewDog_The Parcel Yard,51.538588,-0.141217,2012-06-26
+707,Origin,The Parcel Yard,2012_BrewDog_The Parcel Yard,51.531959,-0.12365,2012-01-19
+708,Destination,The Parcel Yard,2012_The Parcel Yard_The Parcel Yard,51.531959,-0.12365,2012-01-19
+709,Origin,The Parcel Yard,2012_The Parcel Yard_The Parcel Yard,51.531959,-0.12365,2012-01-19
+710,Destination,Cote,2012_Cote_The Parcel Yard,51.538119,-0.145295,2012-03-02
+711,Origin,The Parcel Yard,2012_Cote_The Parcel Yard,51.531959,-0.12365,2012-01-19
+712,Destination,Reverend JW Simpson,2012_Reverend JW Simpson_The Parcel Yard,51.519855,-0.135379,2012-08-08
+713,Origin,The Parcel Yard,2012_Reverend JW Simpson_The Parcel Yard,51.531959,-0.12365,2012-01-19
+714,Destination,Mia (formerly Benihana),2012_Mia (formerly Benihana)_The Parcel Yard,51.54335,-0.17416199999999998,2012-04-25
+715,Origin,The Parcel Yard,2012_Mia (formerly Benihana)_The Parcel Yard,51.531959,-0.12365,2012-01-19
+716,Destination,Bounce,2012_Bounce_The Parcel Yard,51.518529,-0.108519,2012-05-09
+717,Origin,The Parcel Yard,2012_Bounce_The Parcel Yard,51.531959,-0.12365,2012-01-19
+718,Destination,Byron,2012_Byron_The Parcel Yard,51.520738,-0.131223,2012-11-16
+719,Origin,The Parcel Yard,2012_Byron_The Parcel Yard,51.531959,-0.12365,2012-01-19
+720,Destination,Diamond Supermarket,2012_Diamond Supermarket_The Parcel Yard,51.546679,-0.15871300000000002,2012-11-15
+721,Origin,The Parcel Yard,2012_Diamond Supermarket_The Parcel Yard,51.531959,-0.12365,2012-01-19
+722,Destination,Vine,2012_Vine_The Parcel Yard,51.554836,-0.14468,2012-09-25
+723,Origin,The Parcel Yard,2012_Vine_The Parcel Yard,51.531959,-0.12365,2012-01-19
+724,Destination,Unicorn,2012_Unicorn_The Parcel Yard,51.548664,-0.129813,2012-06-09
+725,Origin,The Parcel Yard,2012_Unicorn_The Parcel Yard,51.531959,-0.12365,2012-01-19
+726,Destination,Morrisons,2012_Morrisons_The Parcel Yard,51.541346000000004,-0.149794,2012-05-11
+727,Origin,The Parcel Yard,2012_Morrisons_The Parcel Yard,51.531959,-0.12365,2012-01-19
+728,Destination,Princess of Wales,2012_Princess of Wales_The Parcel Yard,51.540301,-0.15378,2012-01-26
+729,Origin,The Parcel Yard,2012_Princess of Wales_The Parcel Yard,51.531959,-0.12365,2012-01-19
+730,Destination,Jazz Cafe,2012_Jazz Cafe_The Parcel Yard,51.538422,-0.143124,2012-10-19
+731,Origin,The Parcel Yard,2012_Jazz Cafe_The Parcel Yard,51.531959,-0.12365,2012-01-19
+732,Destination,McDonald's Restaurants Ltd,2012_McDonald's Restaurants Ltd_The Parcel Yard,51.523937,-0.141005,2012-03-14
+733,Origin,The Parcel Yard,2012_McDonald's Restaurants Ltd_The Parcel Yard,51.531959,-0.12365,2012-01-19
+734,Destination,Unwins,2012_Unwins_The Parcel Yard,51.526258,-0.124827,2012-12-06
+735,Origin,The Parcel Yard,2012_Unwins_The Parcel Yard,51.531959,-0.12365,2012-01-19
+736,Destination,Granary Square,2012_Granary Square_The Parcel Yard,51.536384000000005,-0.124454,2012-08-20
+737,Origin,The Parcel Yard,2012_Granary Square_The Parcel Yard,51.531959,-0.12365,2012-01-19
+738,Destination,Spearmint Rhino,2012_Spearmint Rhino_The Parcel Yard,51.523398,-0.136463,2012-05-10
+739,Origin,The Parcel Yard,2012_Spearmint Rhino_The Parcel Yard,51.531959,-0.12365,2012-01-19
+740,Destination,Cafe Rouge,2012_Cafe Rouge_The Parcel Yard,51.556119,-0.176816,2012-10-18
+741,Origin,The Parcel Yard,2012_Cafe Rouge_The Parcel Yard,51.531959,-0.12365,2012-01-19
+742,Destination,Istanbul Meze Grill,2012_Istanbul Meze Grill_The Parcel Yard,51.534911,-0.139649,2012-06-20
+743,Origin,The Parcel Yard,2012_Istanbul Meze Grill_The Parcel Yard,51.531959,-0.12365,2012-01-19
+744,Destination,The Phoenix Theatre Ltd,2012_The Phoenix Theatre Ltd_The Parcel Yard,51.514562,-0.12926500000000002,2012-09-13
+745,Origin,The Parcel Yard,2012_The Phoenix Theatre Ltd_The Parcel Yard,51.531959,-0.12365,2012-01-19
+746,Destination,Spaghetti House,2012_Spaghetti House_The Parcel Yard,51.519513,-0.133795,2012-04-13
+747,Origin,The Parcel Yard,2012_Spaghetti House_The Parcel Yard,51.531959,-0.12365,2012-01-19
+748,Destination,Rocket,2012_Rocket_The Parcel Yard,51.528287,-0.129436,2012-07-24
+749,Origin,The Parcel Yard,2012_Rocket_The Parcel Yard,51.531959,-0.12365,2012-01-19
+750,Destination,The Marathon,2012_The Marathon_The Parcel Yard,51.543994,-0.151855,2012-10-05
+751,Origin,The Parcel Yard,2012_The Marathon_The Parcel Yard,51.531959,-0.12365,2012-01-19
+752,Destination,Le Pain Quotidien (previously McDonalds),2012_Le Pain Quotidien (previously McDonalds)_The Parcel Yard,51.556783,-0.177972,2012-02-22
+753,Origin,The Parcel Yard,2012_Le Pain Quotidien (previously McDonalds)_The Parcel Yard,51.531959,-0.12365,2012-01-19
+754,Destination,Salvador and Amanda Bloomsbury (Formely Traffic),2012_Salvador and Amanda Bloomsbury (Formely Traffic)_The Parcel Yard,51.519286,-0.12206700000000001,2012-05-11
+755,Origin,The Parcel Yard,2012_Salvador and Amanda Bloomsbury (Formely Traffic)_The Parcel Yard,51.531959,-0.12365,2012-01-19
+756,Destination,Sawadika,2012_Sawadika_The Parcel Yard,51.518567,-0.11580399999999999,2012-11-06
+757,Origin,The Parcel Yard,2012_Sawadika_The Parcel Yard,51.531959,-0.12365,2012-01-19
+758,Destination,Electric Ballroom,2012_Electric Ballroom_The Parcel Yard,51.539688,-0.142772,2012-02-20
+759,Origin,The Parcel Yard,2012_Electric Ballroom_The Parcel Yard,51.531959,-0.12365,2012-01-19
+760,Destination,Bibendum Wine Ltd,2012_Bibendum Wine Ltd_The Parcel Yard,51.542518,-0.156411,2012-04-24
+761,Origin,The Parcel Yard,2012_Bibendum Wine Ltd_The Parcel Yard,51.531959,-0.12365,2012-01-19
+762,Destination,Somerstown Coffee House,2012_Somerstown Coffee House_The Parcel Yard,51.529990000000005,-0.130767,2012-02-23
+763,Origin,The Parcel Yard,2012_Somerstown Coffee House_The Parcel Yard,51.531959,-0.12365,2012-01-19
+764,Destination,Draft House,2012_Draft House_The Parcel Yard,51.519021,-0.135793,2012-02-17
+765,Origin,The Parcel Yard,2012_Draft House_The Parcel Yard,51.531959,-0.12365,2012-01-19
+766,Destination,Sainsbury's Supermarket,2012_Sainsbury's Supermarket_The Parcel Yard,51.524257,-0.137096,2012-11-30
+767,Origin,The Parcel Yard,2012_Sainsbury's Supermarket_The Parcel Yard,51.531959,-0.12365,2012-01-19
+768,Destination,Wagamama,2012_Wagamama_The Parcel Yard,51.557276,-0.17795,2012-01-19
+769,Origin,The Parcel Yard,2012_Wagamama_The Parcel Yard,51.531959,-0.12365,2012-01-19
+770,Destination,Alice House,2012_Alice House_The Parcel Yard,51.551211,-0.19204000000000002,2012-07-13
+771,Origin,The Parcel Yard,2012_Alice House_The Parcel Yard,51.531959,-0.12365,2012-01-19
+772,Destination,All Bar One,2012_All Bar One_The Parcel Yard,51.51668,-0.119209,2012-05-21
+773,Origin,The Parcel Yard,2012_All Bar One_The Parcel Yard,51.531959,-0.12365,2012-01-19
+774,Destination,Whistlestop,2012_Whistlestop_The Parcel Yard,51.529302,-0.13258499999999998,2012-09-02
+775,Origin,The Parcel Yard,2012_Whistlestop_The Parcel Yard,51.531959,-0.12365,2012-01-19
+776,Destination,The Argyle,2012_The Argyle_The Parcel Yard,51.518529,-0.108519,2012-09-01
+777,Origin,The Parcel Yard,2012_The Argyle_The Parcel Yard,51.531959,-0.12365,2012-01-19
+778,Destination,Old Oak,2012_Old Oak_The Parcel Yard,51.554717,-0.151107,2012-11-27
+779,Origin,The Parcel Yard,2012_Old Oak_The Parcel Yard,51.531959,-0.12365,2012-01-19
+780,Destination,Sainsbury's Supermarkets Ltd,2012_Sainsbury's Supermarkets Ltd_The Parcel Yard,51.542256,-0.14816,2012-02-02
+781,Origin,The Parcel Yard,2012_Sainsbury's Supermarkets Ltd_The Parcel Yard,51.531959,-0.12365,2012-01-19
+782,Destination,Gilgamesh,2012_Gilgamesh_The Parcel Yard,51.542256,-0.14816,2012-10-02
+783,Origin,The Parcel Yard,2012_Gilgamesh_The Parcel Yard,51.531959,-0.12365,2012-01-19
+784,Destination,My Hotel,2012_My Hotel_The Parcel Yard,51.51831,-0.131671,2012-10-31
+785,Origin,The Parcel Yard,2012_My Hotel_The Parcel Yard,51.531959,-0.12365,2012-01-19
+786,Destination,WH Smiths,2012_WH Smiths_The Parcel Yard,51.531959,-0.12365,2012-11-14
+787,Origin,The Parcel Yard,2012_WH Smiths_The Parcel Yard,51.531959,-0.12365,2012-01-19
+788,Destination,Vue Cinema,2009_Vue Cinema_The Gallery,51.547698,-0.181321,2009-06-11
+789,Origin,The Gallery,2009_Vue Cinema_The Gallery,51.546657,-0.19045499999999999,2009-01-12
+790,Destination,32A Limited (previously Bullet Bar),2009_32A Limited (previously Bullet Bar)_The Gallery,51.544982,-0.141947,2009-04-09
+791,Origin,The Gallery,2009_32A Limited (previously Bullet Bar)_The Gallery,51.546657,-0.19045499999999999,2009-01-12
+792,Destination,Centro & the Den,2009_Centro & the Den_The Gallery,51.516890999999994,-0.12531,2009-06-10
+793,Origin,The Gallery,2009_Centro & the Den_The Gallery,51.546657,-0.19045499999999999,2009-01-12
+794,Destination,Franco Manca (formerly Chimis Burrito Bar),2009_Franco Manca (formerly Chimis Burrito Bar)_The Gallery,51.52243,-0.13683900000000002,2009-11-27
+795,Origin,The Gallery,2009_Franco Manca (formerly Chimis Burrito Bar)_The Gallery,51.546657,-0.19045499999999999,2009-01-12
+796,Destination,Pullman London St Pancras,2009_Pullman London St Pancras_The Gallery,51.528687,-0.128402,2009-11-18
+797,Origin,The Gallery,2009_Pullman London St Pancras_The Gallery,51.546657,-0.19045499999999999,2009-01-12
+798,Destination,Flesh and Buns (previously Kitchen Italia),2009_Flesh and Buns (previously Kitchen Italia)_The Gallery,51.514056,-0.12601400000000001,2009-11-19
+799,Origin,The Gallery,2009_Flesh and Buns (previously Kitchen Italia)_The Gallery,51.546657,-0.19045499999999999,2009-01-12
+800,Destination,The Gallery,2009_The Gallery_The Gallery,51.546657,-0.19045499999999999,2009-01-12
+801,Origin,The Gallery,2009_The Gallery_The Gallery,51.546657,-0.19045499999999999,2009-01-12
+802,Destination,Dublin Castle,2009_Dublin Castle_The Gallery,51.537762,-0.14571199999999998,2009-09-12
+803,Origin,The Gallery,2009_Dublin Castle_The Gallery,51.546657,-0.19045499999999999,2009-01-12
+804,Destination,Flight Club,2009_Flight Club_The Gallery,51.516711,-0.127133,2009-11-13
+805,Origin,The Gallery,2009_Flight Club_The Gallery,51.546657,-0.19045499999999999,2009-01-12
+806,Destination,Everyman Cinema,2009_Everyman Cinema_The Gallery,51.556678000000005,-0.178912,2009-07-12
+807,Origin,The Gallery,2009_Everyman Cinema_The Gallery,51.546657,-0.19045499999999999,2009-01-12
+808,Destination,Cafe Rouge (Units A and B),2009_Cafe Rouge (Units A and B)_The Gallery,51.516945,-0.12989,2009-12-22
+809,Origin,The Gallery,2009_Cafe Rouge (Units A and B)_The Gallery,51.546657,-0.19045499999999999,2009-01-12
+810,Destination,Barrica,2009_Barrica_The Gallery,51.51935,-0.13703900000000002,2009-09-16
+811,Origin,The Gallery,2009_Barrica_The Gallery,51.546657,-0.19045499999999999,2009-01-12
+812,Destination,Alice House,2009_Alice House_The Gallery,51.551211,-0.19204000000000002,2009-11-23
+813,Origin,The Gallery,2009_Alice House_The Gallery,51.546657,-0.19045499999999999,2009-01-12
+814,Destination,Rocket,2009_Rocket_The Gallery,51.528287,-0.129436,2009-07-31
+815,Origin,The Gallery,2009_Rocket_The Gallery,51.546657,-0.19045499999999999,2009-01-12
+816,Destination,Scala,2009_Scala_The Gallery,51.530693,-0.121473,2009-09-28
+817,Origin,The Gallery,2009_Scala_The Gallery,51.546657,-0.19045499999999999,2009-01-12
+818,Destination,The Roebuck,2017_The Roebuck_Mango Grill,51.553819,-0.167738,2017-02-02
+819,Origin,Mango Grill,2017_The Roebuck_Mango Grill,51.553591,-0.211394,2017-01-03
+820,Destination,Penderel's Oak,2017_Penderel's Oak_Mango Grill,51.517858000000004,-0.11538599999999999,2017-03-23
+821,Origin,Mango Grill,2017_Penderel's Oak_Mango Grill,51.553591,-0.211394,2017-01-03
+822,Destination,The Blues Kitchen,2017_The Blues Kitchen_Mango Grill,51.536691,-0.141465,2017-01-27
+823,Origin,Mango Grill,2017_The Blues Kitchen_Mango Grill,51.553591,-0.211394,2017-01-03
+824,Destination,Camden Centre,2017_Camden Centre_Mango Grill,51.529087,-0.125351,2017-02-02
+825,Origin,Mango Grill,2017_Camden Centre_Mango Grill,51.553591,-0.211394,2017-01-03
+826,Destination,The Crowndale,2017_The Crowndale_Mango Grill,51.534285,-0.13764300000000002,2017-10-03
+827,Origin,Mango Grill,2017_The Crowndale_Mango Grill,51.553591,-0.211394,2017-01-03
+828,Destination,PizzaExpress,2017_PizzaExpress_Mango Grill,51.518268,-0.11845499999999999,2017-03-28
+829,Origin,Mango Grill,2017_PizzaExpress_Mango Grill,51.553591,-0.211394,2017-01-03
+830,Destination,Brondes Age,2017_Brondes Age_Mango Grill,51.545148,-0.201396,2017-10-03
+831,Origin,Mango Grill,2017_Brondes Age_Mango Grill,51.553591,-0.211394,2017-01-03
+832,Destination,Radisson Blu Edwardian Mercer Street Hotel,2017_Radisson Blu Edwardian Mercer Street Hotel_Mango Grill,51.514389,-0.12725799999999998,2017-11-04
+833,Origin,Mango Grill,2017_Radisson Blu Edwardian Mercer Street Hotel_Mango Grill,51.553591,-0.211394,2017-01-03
+834,Destination,Senor Ceviche (formerly known as The Barnyard),2017_Senor Ceviche (formerly known as The Barnyard)_Mango Grill,51.518959,-0.134555,2017-04-05
+835,Origin,Mango Grill,2017_Senor Ceviche (formerly known as The Barnyard)_Mango Grill,51.553591,-0.211394,2017-01-03
+836,Destination,The Betjeman Arms,2017_The Betjeman Arms_Mango Grill,51.531775,-0.126577,2017-08-02
+837,Origin,Mango Grill,2017_The Betjeman Arms_Mango Grill,51.553591,-0.211394,2017-01-03
+838,Destination,The Hope Pub,2017_The Hope Pub_Mango Grill,51.5202,-0.13578099999999999,2017-04-26
+839,Origin,Mango Grill,2017_The Hope Pub_Mango Grill,51.553591,-0.211394,2017-01-03
+840,Destination,The Bloomsbury Hotel,2017_The Bloomsbury Hotel_Mango Grill,51.517232,-0.128717,2017-09-05
+841,Origin,Mango Grill,2017_The Bloomsbury Hotel_Mango Grill,51.553591,-0.211394,2017-01-03
+842,Destination,SALT,2017_SALT_Mango Grill,51.550391999999995,-0.19197899999999998,2017-10-01
+843,Origin,Mango Grill,2017_SALT_Mango Grill,51.553591,-0.211394,2017-01-03
+844,Destination,Chopra Newsagents Limited,2017_Chopra Newsagents Limited_Mango Grill,51.543306,-0.132544,2017-02-14
+845,Origin,Mango Grill,2017_Chopra Newsagents Limited_Mango Grill,51.553591,-0.211394,2017-01-03
+846,Destination,NOTES,2017_NOTES_Mango Grill,51.532962,-0.12507200000000002,2017-01-24
+847,Origin,Mango Grill,2017_NOTES_Mango Grill,51.553591,-0.211394,2017-01-03
+848,Destination,Great Nepalese Tandoori Restaurant,2017_Great Nepalese Tandoori Restaurant_Mango Grill,51.529302,-0.13258499999999998,2017-02-15
+849,Origin,Mango Grill,2017_Great Nepalese Tandoori Restaurant_Mango Grill,51.553591,-0.211394,2017-01-03
+850,Destination,Love & Liquor,2017_Love & Liquor_Mango Grill,51.536709,-0.19143,2017-08-03
+851,Origin,Mango Grill,2017_Love & Liquor_Mango Grill,51.553591,-0.211394,2017-01-03
+852,Destination,Griffin,2017_Griffin_Mango Grill,51.521334,-0.112046,2017-10-03
+853,Origin,Mango Grill,2017_Griffin_Mango Grill,51.553591,-0.211394,2017-01-03
+854,Destination,Gilgamesh,2017_Gilgamesh_Mango Grill,51.542256,-0.14816,2017-04-24
+855,Origin,Mango Grill,2017_Gilgamesh_Mango Grill,51.553591,-0.211394,2017-01-03
+856,Destination,Nando's,2017_Nando's_Mango Grill,51.529302,-0.13258499999999998,2017-01-19
+857,Origin,Mango Grill,2017_Nando's_Mango Grill,51.553591,-0.211394,2017-01-03
+858,Destination,Hotel Chocolat,2017_Hotel Chocolat_Mango Grill,51.529302,-0.13258499999999998,2017-04-20
+859,Origin,Mango Grill,2017_Hotel Chocolat_Mango Grill,51.553591,-0.211394,2017-01-03
+860,Destination,Green Note,2017_Green Note_Mango Grill,51.537762,-0.14571199999999998,2017-02-15
+861,Origin,Mango Grill,2017_Green Note_Mango Grill,51.553591,-0.211394,2017-01-03
+862,Destination,Benito's Hat,2017_Benito's Hat_Mango Grill,51.531959,-0.12365,2017-03-24
+863,Origin,Mango Grill,2017_Benito's Hat_Mango Grill,51.553591,-0.211394,2017-01-03
+864,Destination,Mango Grill,2017_Mango Grill_Mango Grill,51.553591,-0.211394,2017-01-03
+865,Origin,Mango Grill,2017_Mango Grill_Mango Grill,51.553591,-0.211394,2017-01-03
+866,Destination,Byron Hamburgers Limited,2017_Byron Hamburgers Limited_Mango Grill,51.516045,-0.127443,2017-09-03
+867,Origin,Mango Grill,2017_Byron Hamburgers Limited_Mango Grill,51.553591,-0.211394,2017-01-03
+868,Destination,Shell Camden Town,2017_Shell Camden Town_Mango Grill,51.546323,-0.12706900000000002,2017-08-02
+869,Origin,Mango Grill,2017_Shell Camden Town_Mango Grill,51.553591,-0.211394,2017-01-03

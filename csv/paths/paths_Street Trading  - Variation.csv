@@ -1,0 +1,7 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Goodge Place Market,2012_Goodge Place Market_Goodge Place Market,51.519667,-0.136475,2012-10-09
+1,Origin,Goodge Place Market,2012_Goodge Place Market_Goodge Place Market,51.519667,-0.136475,2012-10-09
+2,Destination,TRM1,2011_TRM1_TRM1,51.519631,-0.120531,2011-02-28
+3,Origin,TRM1,2011_TRM1_TRM1,51.519631,-0.120531,2011-02-28
+4,Destination,LL055,2011_LL055_TRM1,51.520839,-0.11021500000000001,2011-02-28
+5,Origin,TRM1,2011_LL055_TRM1,51.519631,-0.120531,2011-02-28

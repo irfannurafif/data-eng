@@ -1,0 +1,155 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,The Beauty Room Daniel Adams Hairdressing,2010_The Beauty Room Daniel Adams Hairdressing_Fern Skincare Ltd,51.550631,-0.165875,2010-04-15
+1,Origin,Fern Skincare Ltd,2010_The Beauty Room Daniel Adams Hairdressing_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+2,Destination,M & M Hair & Beauty Limited,2010_M & M Hair & Beauty Limited_Fern Skincare Ltd,51.554315,-0.15478499999999998,2010-12-03
+3,Origin,Fern Skincare Ltd,2010_M & M Hair & Beauty Limited_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+4,Destination,Fe Hair Studio,2010_Fe Hair Studio_Fern Skincare Ltd,51.539688,-0.142772,2010-11-22
+5,Origin,Fern Skincare Ltd,2010_Fe Hair Studio_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+6,Destination,Aveda Institute,2010_Aveda Institute_Fern Skincare Ltd,51.515615999999994,-0.12485,2010-09-23
+7,Origin,Fern Skincare Ltd,2010_Aveda Institute_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+8,Destination,Claire's Accessories UK Ltd,2010_Claire's Accessories UK Ltd_Fern Skincare Ltd,51.539895,-0.195959,2010-09-17
+9,Origin,Fern Skincare Ltd,2010_Claire's Accessories UK Ltd_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+10,Destination,Oriental Bright Chinese Medicine,2010_Oriental Bright Chinese Medicine_Fern Skincare Ltd,51.54937,-0.181221,2010-05-14
+11,Origin,Fern Skincare Ltd,2010_Oriental Bright Chinese Medicine_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+12,Destination,Jinja @ My Hotel  Bloomsbury,2010_Jinja @ My Hotel  Bloomsbury_Fern Skincare Ltd,51.51831,-0.131671,2010-09-22
+13,Origin,Fern Skincare Ltd,2010_Jinja @ My Hotel  Bloomsbury_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+14,Destination,LA Fitness Limited,2010_LA Fitness Limited_Fern Skincare Ltd,51.520715,-0.118425,2010-04-19
+15,Origin,Fern Skincare Ltd,2010_LA Fitness Limited_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+16,Destination,A True Love Tattoo,2010_A True Love Tattoo_Fern Skincare Ltd,51.515526,-0.12947,2010-07-20
+17,Origin,Fern Skincare Ltd,2010_A True Love Tattoo_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+18,Destination,Bernardita Beauty Clinic Ltd,2010_Bernardita Beauty Clinic Ltd_Fern Skincare Ltd,51.551118,-0.200293,2010-04-15
+19,Origin,Fern Skincare Ltd,2010_Bernardita Beauty Clinic Ltd_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+20,Destination,Bibas Hair and Beauty,2010_Bibas Hair and Beauty_Fern Skincare Ltd,51.525437,-0.125078,2010-07-20
+21,Origin,Fern Skincare Ltd,2010_Bibas Hair and Beauty_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+22,Destination,The Organic Pharmacy,2010_The Organic Pharmacy_Fern Skincare Ltd,51.514247999999995,-0.125254,2010-04-16
+23,Origin,Fern Skincare Ltd,2010_The Organic Pharmacy_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+24,Destination,Fern Skincare Ltd,2010_Fern Skincare Ltd_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+25,Origin,Fern Skincare Ltd,2010_Fern Skincare Ltd_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+26,Destination,J Hair,2010_J Hair_Fern Skincare Ltd,51.524398,-0.139311,2010-04-19
+27,Origin,Fern Skincare Ltd,2010_J Hair_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+28,Destination,Regina Hair & Sun Studios,2010_Regina Hair & Sun Studios_Fern Skincare Ltd,51.55523,-0.145474,2010-07-20
+29,Origin,Fern Skincare Ltd,2010_Regina Hair & Sun Studios_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+30,Destination,Hair Body & Beauty Clinic,2010_Hair Body & Beauty Clinic_Fern Skincare Ltd,51.546167,-0.164761,2010-04-19
+31,Origin,Fern Skincare Ltd,2010_Hair Body & Beauty Clinic_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+32,Destination,Camden Locks Hair & Beauty Ltd,2010_Camden Locks Hair & Beauty Ltd_Fern Skincare Ltd,51.542123,-0.146071,2010-04-19
+33,Origin,Fern Skincare Ltd,2010_Camden Locks Hair & Beauty Ltd_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+34,Destination,Alchemy,2010_Alchemy_Fern Skincare Ltd,51.542256,-0.14816,2010-07-20
+35,Origin,Fern Skincare Ltd,2010_Alchemy_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+36,Destination,Chic Beauty Clinic,2010_Chic Beauty Clinic_Fern Skincare Ltd,51.548938,-0.181039,2010-09-23
+37,Origin,Fern Skincare Ltd,2010_Chic Beauty Clinic_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+38,Destination,Cleveland Hair & Beauty,2010_Cleveland Hair & Beauty_Fern Skincare Ltd,51.522007,-0.140174,2010-04-19
+39,Origin,Fern Skincare Ltd,2010_Cleveland Hair & Beauty_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+40,Destination,Greenwich Leisure Limited,2010_Greenwich Leisure Limited_Fern Skincare Ltd,51.542446000000005,-0.172877,2010-08-24
+41,Origin,Fern Skincare Ltd,2010_Greenwich Leisure Limited_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+42,Destination,Amadeus Hair & Body,2010_Amadeus Hair & Body_Fern Skincare Ltd,51.520793,-0.11748800000000001,2010-04-15
+43,Origin,Fern Skincare Ltd,2010_Amadeus Hair & Body_Fern Skincare Ltd,51.546611999999996,-0.161548,2010-03-31
+44,Destination,Oasis Sports Centre,2014_Oasis Sports Centre_Oasis Sports Centre,51.516234000000004,-0.12594,2014-07-16
+45,Origin,Oasis Sports Centre,2014_Oasis Sports Centre_Oasis Sports Centre,51.516234000000004,-0.12594,2014-07-16
+46,Destination,Fern Skincare Ltd,2011_Fern Skincare Ltd_Natural Health,51.546611999999996,-0.161548,2011-01-04
+47,Origin,Natural Health,2011_Fern Skincare Ltd_Natural Health,51.541428,-0.145851,2011-01-03
+48,Destination,Steam & Sun,2011_Steam & Sun_Natural Health,51.528287,-0.129436,2011-11-04
+49,Origin,Natural Health,2011_Steam & Sun_Natural Health,51.541428,-0.145851,2011-01-03
+50,Destination,Melia White House Hotel,2011_Melia White House Hotel_Natural Health,51.525222,-0.14366600000000002,2011-04-05
+51,Origin,Natural Health,2011_Melia White House Hotel_Natural Health,51.541428,-0.145851,2011-01-03
+52,Destination,Camden Locks Hair & Beauty Ltd,2011_Camden Locks Hair & Beauty Ltd_Natural Health,51.542123,-0.146071,2011-05-26
+53,Origin,Natural Health,2011_Camden Locks Hair & Beauty Ltd_Natural Health,51.541428,-0.145851,2011-01-03
+54,Destination,Nickel Spa,2011_Nickel Spa_Natural Health,51.514247999999995,-0.125254,2011-04-28
+55,Origin,Natural Health,2011_Nickel Spa_Natural Health,51.541428,-0.145851,2011-01-03
+56,Destination,Omega Health Club,2011_Omega Health Club_Natural Health,51.544982,-0.141947,2011-04-19
+57,Origin,Natural Health,2011_Omega Health Club_Natural Health,51.541428,-0.145851,2011-01-03
+58,Destination,Mirrors Novotel London St Pancras,2011_Mirrors Novotel London St Pancras_Natural Health,51.528687,-0.128402,2011-04-05
+59,Origin,Natural Health,2011_Mirrors Novotel London St Pancras_Natural Health,51.541428,-0.145851,2011-01-03
+60,Destination,Ginseng,2011_Ginseng_Natural Health,51.520227,-0.177052,2011-03-24
+61,Origin,Natural Health,2011_Ginseng_Natural Health,51.541428,-0.145851,2011-01-03
+62,Destination,Covent Garden Hotel,2011_Covent Garden Hotel_Natural Health,51.514389,-0.12725799999999998,2011-10-02
+63,Origin,Natural Health,2011_Covent Garden Hotel_Natural Health,51.541428,-0.145851,2011-01-03
+64,Destination,Tantalize Tanning & Beauty,2011_Tantalize Tanning & Beauty_Natural Health,51.542487,-0.138495,2011-04-20
+65,Origin,Natural Health,2011_Tantalize Tanning & Beauty_Natural Health,51.541428,-0.145851,2011-01-03
+66,Destination,Beauty Nest & Nail Care,2011_Beauty Nest & Nail Care_Natural Health,51.544622,-0.175337,2011-04-20
+67,Origin,Natural Health,2011_Beauty Nest & Nail Care_Natural Health,51.541428,-0.145851,2011-01-03
+68,Destination,Bannatyne Fitness (7) Limited,2011_Bannatyne Fitness (7) Limited_Natural Health,51.524485,-0.12700899999999998,2011-04-18
+69,Origin,Natural Health,2011_Bannatyne Fitness (7) Limited_Natural Health,51.541428,-0.145851,2011-01-03
+70,Destination,LA Fitness Club,2011_LA Fitness Club_Natural Health,51.55423,-0.144109,2011-06-14
+71,Origin,Natural Health,2011_LA Fitness Club_Natural Health,51.541428,-0.145851,2011-01-03
+72,Destination,Timeless Skincare Clinic,2011_Timeless Skincare Clinic_Natural Health,51.527696999999996,-0.126059,2011-04-18
+73,Origin,Natural Health,2011_Timeless Skincare Clinic_Natural Health,51.541428,-0.145851,2011-01-03
+74,Destination,LA Fitness Limited,2011_LA Fitness Limited_Natural Health,51.520715,-0.118425,2011-04-18
+75,Origin,Natural Health,2011_LA Fitness Limited_Natural Health,51.541428,-0.145851,2011-01-03
+76,Destination,Maximum Fitness,2011_Maximum Fitness_Natural Health,51.556151,-0.138523,2011-01-19
+77,Origin,Natural Health,2011_Maximum Fitness_Natural Health,51.541428,-0.145851,2011-01-03
+78,Destination,Flamin'Eight,2011_Flamin'Eight_Natural Health,51.545062,-0.142178,2011-04-18
+79,Origin,Natural Health,2011_Flamin'Eight_Natural Health,51.541428,-0.145851,2011-01-03
+80,Destination,Hair & Beauty Kirei,2011_Hair & Beauty Kirei_Natural Health,51.557278000000004,-0.178703,2011-04-15
+81,Origin,Natural Health,2011_Hair & Beauty Kirei_Natural Health,51.541428,-0.145851,2011-01-03
+82,Destination,Frankie Cochrane,2011_Frankie Cochrane_Natural Health,51.521363,-0.117827,2011-01-20
+83,Origin,Natural Health,2011_Frankie Cochrane_Natural Health,51.541428,-0.145851,2011-01-03
+84,Destination,Natural Health,2011_Natural Health_Natural Health,51.541428,-0.145851,2011-01-03
+85,Origin,Natural Health,2011_Natural Health_Natural Health,51.541428,-0.145851,2011-01-03
+86,Destination,Planet Nails,2011_Planet Nails_Natural Health,51.536551,-0.138723,2011-09-02
+87,Origin,Natural Health,2011_Planet Nails_Natural Health,51.541428,-0.145851,2011-01-03
+88,Destination,The Beauty Room Daniel Adams Hairdressing,2011_The Beauty Room Daniel Adams Hairdressing_Natural Health,51.550631,-0.165875,2011-04-05
+89,Origin,Natural Health,2011_The Beauty Room Daniel Adams Hairdressing_Natural Health,51.541428,-0.145851,2011-01-03
+90,Destination,The Organic Pharmacy Ltd,2011_The Organic Pharmacy Ltd_Natural Health,51.514247999999995,-0.125254,2011-04-19
+91,Origin,Natural Health,2011_The Organic Pharmacy Ltd_Natural Health,51.541428,-0.145851,2011-01-03
+92,Destination,Central YMCA Ltd,2011_Central YMCA Ltd_Natural Health,51.517452,-0.130432,2011-12-14
+93,Origin,Natural Health,2011_Central YMCA Ltd_Natural Health,51.541428,-0.145851,2011-01-03
+94,Destination,Renew Medica,2011_Renew Medica_Natural Health,51.555611,-0.17816400000000002,2011-04-19
+95,Origin,Natural Health,2011_Renew Medica_Natural Health,51.541428,-0.145851,2011-01-03
+96,Destination,Dark Angel Limited,2011_Dark Angel Limited_Natural Health,51.540754,-0.145258,2011-10-06
+97,Origin,Natural Health,2011_Dark Angel Limited_Natural Health,51.541428,-0.145851,2011-01-03
+98,Destination,Manaz Beauty Clinic,2011_Manaz Beauty Clinic_Natural Health,51.548970000000004,-0.171679,2011-04-20
+99,Origin,Natural Health,2011_Manaz Beauty Clinic_Natural Health,51.541428,-0.145851,2011-01-03
+100,Destination,Forever Health Chinese Medicine Centre,2013_Forever Health Chinese Medicine Centre_The Spa at Chancery Court,51.518605,-0.13372,2013-03-28
+101,Origin,The Spa at Chancery Court,2013_Forever Health Chinese Medicine Centre_The Spa at Chancery Court,51.517503000000005,-0.117704,2013-02-15
+102,Destination,Radiance Beauty Salon,2013_Radiance Beauty Salon_The Spa at Chancery Court,51.519021,-0.135793,2013-04-16
+103,Origin,The Spa at Chancery Court,2013_Radiance Beauty Salon_The Spa at Chancery Court,51.517503000000005,-0.117704,2013-02-15
+104,Destination,Oasis Sports Centre,2013_Oasis Sports Centre_The Spa at Chancery Court,51.516234000000004,-0.12594,2013-06-06
+105,Origin,The Spa at Chancery Court,2013_Oasis Sports Centre_The Spa at Chancery Court,51.517503000000005,-0.117704,2013-02-15
+106,Destination,LOG SPA,2013_LOG SPA_The Spa at Chancery Court,51.526422,-0.137931,2013-03-27
+107,Origin,The Spa at Chancery Court,2013_LOG SPA_The Spa at Chancery Court,51.517503000000005,-0.117704,2013-02-15
+108,Destination,Flamin'Eight,2013_Flamin'Eight_The Spa at Chancery Court,51.545062,-0.142178,2013-03-14
+109,Origin,The Spa at Chancery Court,2013_Flamin'Eight_The Spa at Chancery Court,51.517503000000005,-0.117704,2013-02-15
+110,Destination,The Spa at Chancery Court,2013_The Spa at Chancery Court_The Spa at Chancery Court,51.517503000000005,-0.117704,2013-02-15
+111,Origin,The Spa at Chancery Court,2013_The Spa at Chancery Court_The Spa at Chancery Court,51.517503000000005,-0.117704,2013-02-15
+112,Destination,The Organic Pharmacy,2013_The Organic Pharmacy_The Spa at Chancery Court,51.556783,-0.177972,2013-03-04
+113,Origin,The Spa at Chancery Court,2013_The Organic Pharmacy_The Spa at Chancery Court,51.517503000000005,-0.117704,2013-02-15
+114,Destination,Natural Care,2013_Natural Care_The Spa at Chancery Court,51.542256,-0.14816,2013-03-22
+115,Origin,The Spa at Chancery Court,2013_Natural Care_The Spa at Chancery Court,51.517503000000005,-0.117704,2013-02-15
+116,Destination,Bannatyne Fitness Ltd,2013_Bannatyne Fitness Ltd_The Spa at Chancery Court,51.535973999999996,-0.190412,2013-04-16
+117,Origin,The Spa at Chancery Court,2013_Bannatyne Fitness Ltd_The Spa at Chancery Court,51.517503000000005,-0.117704,2013-02-15
+118,Destination,CV Hair & Beauty,2017_CV Hair & Beauty_Accurate Laser & Skin Aesthetics,51.52494,-0.125585,2017-05-04
+119,Origin,Accurate Laser & Skin Aesthetics,2017_CV Hair & Beauty_Accurate Laser & Skin Aesthetics,51.523551,-0.11578,2017-03-28
+120,Destination,Accurate Laser & Skin Aesthetics,2017_Accurate Laser & Skin Aesthetics_Accurate Laser & Skin Aesthetics,51.523551,-0.11578,2017-03-28
+121,Origin,Accurate Laser & Skin Aesthetics,2017_Accurate Laser & Skin Aesthetics_Accurate Laser & Skin Aesthetics,51.523551,-0.11578,2017-03-28
+122,Destination,Revive Medspa,2012_Revive Medspa_Omega Health Club,51.556151,-0.138523,2012-07-18
+123,Origin,Omega Health Club,2012_Revive Medspa_Omega Health Club,51.544982,-0.141947,2012-03-29
+124,Destination,Ritz Health and Beauty,2012_Ritz Health and Beauty_Omega Health Club,51.556678000000005,-0.178912,2012-06-19
+125,Origin,Omega Health Club,2012_Ritz Health and Beauty_Omega Health Club,51.544982,-0.141947,2012-03-29
+126,Destination,Omega Health Club,2012_Omega Health Club_Omega Health Club,51.544982,-0.141947,2012-03-29
+127,Origin,Omega Health Club,2012_Omega Health Club_Omega Health Club,51.544982,-0.141947,2012-03-29
+128,Destination,Willow Hair,2012_Willow Hair_Omega Health Club,51.571441,-0.15045999999999998,2012-05-10
+129,Origin,Omega Health Club,2012_Willow Hair_Omega Health Club,51.544982,-0.141947,2012-03-29
+130,Destination,Atelier Hair & Beauty,2016_Atelier Hair & Beauty_Atelier Hair & Beauty,51.548938,-0.181039,2016-03-14
+131,Origin,Atelier Hair & Beauty,2016_Atelier Hair & Beauty_Atelier Hair & Beauty,51.548938,-0.181039,2016-03-14
+132,Destination,California Nails Limited,2016_California Nails Limited_Atelier Hair & Beauty,51.546603000000005,-0.179561,2016-08-03
+133,Origin,Atelier Hair & Beauty,2016_California Nails Limited_Atelier Hair & Beauty,51.548938,-0.181039,2016-03-14
+134,Destination,Hell to Pay Tattoo & Piercing Studio,2016_Hell to Pay Tattoo & Piercing Studio_Atelier Hair & Beauty,51.539688,-0.142772,2016-06-05
+135,Origin,Atelier Hair & Beauty,2016_Hell to Pay Tattoo & Piercing Studio_Atelier Hair & Beauty,51.548938,-0.181039,2016-03-14
+136,Destination,LOG SPA,2016_LOG SPA_Atelier Hair & Beauty,51.526422,-0.137931,2016-12-05
+137,Origin,Atelier Hair & Beauty,2016_LOG SPA_Atelier Hair & Beauty,51.548938,-0.181039,2016-03-14
+138,Destination,Divine Hair Care & Beauty Salon,2016_Divine Hair Care & Beauty Salon_Atelier Hair & Beauty,51.549575,-0.15285,2016-08-03
+139,Origin,Atelier Hair & Beauty,2016_Divine Hair Care & Beauty Salon_Atelier Hair & Beauty,51.548938,-0.181039,2016-03-14
+140,Destination,Consol Suncenter,2009_Consol Suncenter_Hackett's Beauty Studio,51.546873,-0.157876,2009-05-14
+141,Origin,Hackett's Beauty Studio,2009_Consol Suncenter_Hackett's Beauty Studio,51.539079,-0.15245,2009-03-24
+142,Destination,China Herbal House WH Ltd,2009_China Herbal House WH Ltd_Hackett's Beauty Studio,51.548891,-0.190675,2009-05-17
+143,Origin,Hackett's Beauty Studio,2009_China Herbal House WH Ltd_Hackett's Beauty Studio,51.539079,-0.15245,2009-03-24
+144,Destination,California Nails Limited,2009_California Nails Limited_Hackett's Beauty Studio,51.557990000000004,-0.17815999999999999,2009-10-09
+145,Origin,Hackett's Beauty Studio,2009_California Nails Limited_Hackett's Beauty Studio,51.539079,-0.15245,2009-03-24
+146,Destination,Hackett's Beauty Studio,2009_Hackett's Beauty Studio_Hackett's Beauty Studio,51.539079,-0.15245,2009-03-24
+147,Origin,Hackett's Beauty Studio,2009_Hackett's Beauty Studio_Hackett's Beauty Studio,51.539079,-0.15245,2009-03-24
+148,Destination,Natura Day Spa Ltd,2009_Natura Day Spa Ltd_Hackett's Beauty Studio,51.55619,-0.178368,2009-04-22
+149,Origin,Hackett's Beauty Studio,2009_Natura Day Spa Ltd_Hackett's Beauty Studio,51.539079,-0.15245,2009-03-24
+150,Destination,Beauty Nest & Nail Care,2009_Beauty Nest & Nail Care_Hackett's Beauty Studio,51.544622,-0.175337,2009-04-23
+151,Origin,Hackett's Beauty Studio,2009_Beauty Nest & Nail Care_Hackett's Beauty Studio,51.539079,-0.15245,2009-03-24
+152,Destination,Chic Beauty Clinic,2009_Chic Beauty Clinic_Hackett's Beauty Studio,51.548938,-0.181039,2009-07-09
+153,Origin,Hackett's Beauty Studio,2009_Chic Beauty Clinic_Hackett's Beauty Studio,51.539079,-0.15245,2009-03-24

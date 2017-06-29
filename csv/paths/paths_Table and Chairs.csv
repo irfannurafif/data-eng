@@ -1,0 +1,1927 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Diana's Diner,2011_Diana's Diner_Singapore Garden,51.514406,-0.12488599999999998,2011-06-14
+1,Origin,Singapore Garden,2011_Diana's Diner_Singapore Garden,51.542473,-0.180059,2011-01-07
+2,Destination,Starbuck Coffee,2011_Starbuck Coffee_Singapore Garden,51.528517,-0.126822,2011-08-30
+3,Origin,Singapore Garden,2011_Starbuck Coffee_Singapore Garden,51.542473,-0.180059,2011-01-07
+4,Destination,Ultimate Burger,2011_Ultimate Burger_Singapore Garden,51.52243,-0.13683900000000002,2011-06-27
+5,Origin,Singapore Garden,2011_Ultimate Burger_Singapore Garden,51.542473,-0.180059,2011-01-07
+6,Destination,The Euston Flyer,2011_The Euston Flyer_Singapore Garden,51.528517,-0.126822,2011-09-29
+7,Origin,Singapore Garden,2011_The Euston Flyer_Singapore Garden,51.542473,-0.180059,2011-01-07
+8,Destination,Marriott Hotel Maida Vale,2011_Marriott Hotel Maida Vale_Singapore Garden,51.535973999999996,-0.190412,2011-10-13
+9,Origin,Singapore Garden,2011_Marriott Hotel Maida Vale_Singapore Garden,51.542473,-0.180059,2011-01-07
+10,Destination,The Yorkshire Grey Public House,2011_The Yorkshire Grey Public House_Singapore Garden,51.521265,-0.11384000000000001,2011-07-03
+11,Origin,Singapore Garden,2011_The Yorkshire Grey Public House_Singapore Garden,51.542473,-0.180059,2011-01-07
+12,Destination,The Crown Public House,2011_The Crown Public House_Singapore Garden,51.516842,-0.126469,2011-05-20
+13,Origin,Singapore Garden,2011_The Crown Public House_Singapore Garden,51.542473,-0.180059,2011-01-07
+14,Destination,Washington Hotel,2011_Washington Hotel_Singapore Garden,51.545876,-0.162983,2011-09-26
+15,Origin,Singapore Garden,2011_Washington Hotel_Singapore Garden,51.542473,-0.180059,2011-01-07
+16,Destination,Pret a Manger,2011_Pret a Manger_Singapore Garden,51.517041,-0.138658,2011-01-18
+17,Origin,Singapore Garden,2011_Pret a Manger_Singapore Garden,51.542473,-0.180059,2011-01-07
+18,Destination,Sirous Tapas Bar and Restaurant,2011_Sirous Tapas Bar and Restaurant_Singapore Garden,51.551787,-0.19178699999999999,2011-02-21
+19,Origin,Singapore Garden,2011_Sirous Tapas Bar and Restaurant_Singapore Garden,51.542473,-0.180059,2011-01-07
+20,Destination,Bills (Formerly Pitcher & Piano),2011_Bills (Formerly Pitcher & Piano)_Singapore Garden,51.515819,-0.118702,2011-06-14
+21,Origin,Singapore Garden,2011_Bills (Formerly Pitcher & Piano)_Singapore Garden,51.542473,-0.180059,2011-01-07
+22,Destination,Samwidges,2011_Samwidges_Singapore Garden,51.548138,-0.141677,2011-03-31
+23,Origin,Singapore Garden,2011_Samwidges_Singapore Garden,51.542473,-0.180059,2011-01-07
+24,Destination,Caffe Nero,2011_Caffe Nero_Singapore Garden,51.515423,-0.19178699999999999,2011-01-25
+25,Origin,Singapore Garden,2011_Caffe Nero_Singapore Garden,51.542473,-0.180059,2011-01-07
+26,Destination,Goodfare Cafe Restaurant,2011_Goodfare Cafe Restaurant_Singapore Garden,51.539139,-0.14369500000000002,2011-08-24
+27,Origin,Singapore Garden,2011_Goodfare Cafe Restaurant_Singapore Garden,51.542473,-0.180059,2011-01-07
+28,Destination,Hot Rock Cafe,2011_Hot Rock Cafe_Singapore Garden,51.539219,-0.141978,2011-10-31
+29,Origin,Singapore Garden,2011_Hot Rock Cafe_Singapore Garden,51.542473,-0.180059,2011-01-07
+30,Destination,1 and 2 Neal's Yard,2011_1 and 2 Neal's Yard_Singapore Garden,51.514446,-0.126545,2011-06-14
+31,Origin,Singapore Garden,2011_1 and 2 Neal's Yard_Singapore Garden,51.542473,-0.180059,2011-01-07
+32,Destination,The 10 Cases,2011_The 10 Cases_Singapore Garden,51.514406,-0.12488599999999998,2011-09-15
+33,Origin,Singapore Garden,2011_The 10 Cases_Singapore Garden,51.542473,-0.180059,2011-01-07
+34,Destination,Pret A Manger,2011_Pret A Manger_Singapore Garden,51.518089,-0.142543,2011-05-27
+35,Origin,Singapore Garden,2011_Pret A Manger_Singapore Garden,51.542473,-0.180059,2011-01-07
+36,Destination,The Rock & Sole Plaice,2011_The Rock & Sole Plaice_Singapore Garden,51.514406,-0.12488599999999998,2011-06-04
+37,Origin,Singapore Garden,2011_The Rock & Sole Plaice_Singapore Garden,51.542473,-0.180059,2011-01-07
+38,Destination,The Argyle,2011_The Argyle_Singapore Garden,51.518529,-0.108519,2011-05-12
+39,Origin,Singapore Garden,2011_The Argyle_Singapore Garden,51.542473,-0.180059,2011-01-07
+40,Destination,The Plough,2011_The Plough_Singapore Garden,51.517865,-0.12620499999999998,2011-12-13
+41,Origin,Singapore Garden,2011_The Plough_Singapore Garden,51.542473,-0.180059,2011-01-07
+42,Destination,Coco Momo,2011_Coco Momo_Singapore Garden,51.520793,-0.11748800000000001,2011-03-25
+43,Origin,Singapore Garden,2011_Coco Momo_Singapore Garden,51.542473,-0.180059,2011-01-07
+44,Destination,La Porchetta,2011_La Porchetta_Singapore Garden,51.543861,-0.150849,2011-06-07
+45,Origin,Singapore Garden,2011_La Porchetta_Singapore Garden,51.542473,-0.180059,2011-01-07
+46,Destination,Ginger & White,2011_Ginger & White_Singapore Garden,51.555611,-0.17816400000000002,2011-08-15
+47,Origin,Singapore Garden,2011_Ginger & White_Singapore Garden,51.542473,-0.180059,2011-01-07
+48,Destination,Pitcher & Piano,2011_Pitcher & Piano_Singapore Garden,51.515819,-0.118702,2011-06-14
+49,Origin,Singapore Garden,2011_Pitcher & Piano_Singapore Garden,51.542473,-0.180059,2011-01-07
+50,Destination,L'Express Coffe Co Ltd,2011_L'Express Coffe Co Ltd_Singapore Garden,51.518268,-0.11845499999999999,2011-04-07
+51,Origin,Singapore Garden,2011_L'Express Coffe Co Ltd_Singapore Garden,51.542473,-0.180059,2011-01-07
+52,Destination,The Swan,2011_The Swan_Singapore Garden,51.521776,-0.12359300000000001,2011-04-09
+53,Origin,Singapore Garden,2011_The Swan_Singapore Garden,51.542473,-0.180059,2011-01-07
+54,Destination,Caffe Concerto,2011_Caffe Concerto_Singapore Garden,51.52243,-0.13683900000000002,2011-06-17
+55,Origin,Singapore Garden,2011_Caffe Concerto_Singapore Garden,51.542473,-0.180059,2011-01-07
+56,Destination,Mani's,2011_Mani's_Singapore Garden,51.555759,-0.177656,2011-08-31
+57,Origin,Singapore Garden,2011_Mani's_Singapore Garden,51.542473,-0.180059,2011-01-07
+58,Destination,Spaghetti House Ltd,2011_Spaghetti House Ltd_Singapore Garden,51.519513,-0.133795,2011-07-09
+59,Origin,Singapore Garden,2011_Spaghetti House Ltd_Singapore Garden,51.542473,-0.180059,2011-01-07
+60,Destination,Cafe Rouge,2011_Cafe Rouge_Singapore Garden,51.556119,-0.176816,2011-01-08
+61,Origin,Singapore Garden,2011_Cafe Rouge_Singapore Garden,51.542473,-0.180059,2011-01-07
+62,Destination,The French Kitchen,2011_The French Kitchen_Singapore Garden,51.518268,-0.11845499999999999,2011-06-22
+63,Origin,Singapore Garden,2011_The French Kitchen_Singapore Garden,51.542473,-0.180059,2011-01-07
+64,Destination,Starbucks,2011_Starbucks_Singapore Garden,51.518044,-0.134901,2011-06-09
+65,Origin,Singapore Garden,2011_Starbucks_Singapore Garden,51.542473,-0.180059,2011-01-07
+66,Destination,Bloomsbury Tavern,2011_Bloomsbury Tavern_Singapore Garden,51.516890999999994,-0.12531,2011-04-26
+67,Origin,Singapore Garden,2011_Bloomsbury Tavern_Singapore Garden,51.542473,-0.180059,2011-01-07
+68,Destination,The Kings Arms,2011_The Kings Arms_Singapore Garden,51.521719,-0.114622,2011-05-07
+69,Origin,Singapore Garden,2011_The Kings Arms_Singapore Garden,51.542473,-0.180059,2011-01-07
+70,Destination,Zara Cafe and Restaurant,2011_Zara Cafe and Restaurant_Singapore Garden,51.554295,-0.16628800000000002,2011-10-08
+71,Origin,Singapore Garden,2011_Zara Cafe and Restaurant_Singapore Garden,51.542473,-0.180059,2011-01-07
+72,Destination,Paul,2011_Paul_Singapore Garden,51.556783,-0.177972,2011-09-06
+73,Origin,Singapore Garden,2011_Paul_Singapore Garden,51.542473,-0.180059,2011-01-07
+74,Destination,The Crown,2011_The Crown_Singapore Garden,51.514389,-0.12725799999999998,2011-06-23
+75,Origin,Singapore Garden,2011_The Crown_Singapore Garden,51.542473,-0.180059,2011-01-07
+76,Destination,Belgo,2011_Belgo_Singapore Garden,51.515103,-0.150849,2011-05-05
+77,Origin,Singapore Garden,2011_Belgo_Singapore Garden,51.542473,-0.180059,2011-01-07
+78,Destination,Kopapa,2011_Kopapa_Singapore Garden,51.513596,-0.127317,2011-10-10
+79,Origin,Singapore Garden,2011_Kopapa_Singapore Garden,51.542473,-0.180059,2011-01-07
+80,Destination,Banana Tree Canteen,2011_Banana Tree Canteen_Singapore Garden,51.549248999999996,-0.191669,2011-03-05
+81,Origin,Singapore Garden,2011_Banana Tree Canteen_Singapore Garden,51.542473,-0.180059,2011-01-07
+82,Destination,Belgo Noord,2011_Belgo Noord_Singapore Garden,51.543861,-0.150849,2011-09-16
+83,Origin,Singapore Garden,2011_Belgo Noord_Singapore Garden,51.542473,-0.180059,2011-01-07
+84,Destination,Vats Wine Bar,2011_Vats Wine Bar_Singapore Garden,51.521754,-0.11884700000000001,2011-11-01
+85,Origin,Singapore Garden,2011_Vats Wine Bar_Singapore Garden,51.542473,-0.180059,2011-01-07
+86,Destination,L'Absinthe,2011_L'Absinthe_Singapore Garden,51.540301,-0.15378,2011-05-24
+87,Origin,Singapore Garden,2011_L'Absinthe_Singapore Garden,51.542473,-0.180059,2011-01-07
+88,Destination,Subway,2011_Subway_Singapore Garden,51.539219,-0.141978,2011-05-28
+89,Origin,Singapore Garden,2011_Subway_Singapore Garden,51.542473,-0.180059,2011-01-07
+90,Destination,The Museum Tavern,2011_The Museum Tavern_Singapore Garden,51.518343,-0.12531199999999998,2011-07-21
+91,Origin,Singapore Garden,2011_The Museum Tavern_Singapore Garden,51.542473,-0.180059,2011-01-07
+92,Destination,Greggs,2011_Greggs_Singapore Garden,51.521703,-0.136071,2011-12-10
+93,Origin,Singapore Garden,2011_Greggs_Singapore Garden,51.542473,-0.180059,2011-01-07
+94,Destination,Rosslyn Arms,2011_Rosslyn Arms_Singapore Garden,51.555053,-0.172822,2011-07-29
+95,Origin,Singapore Garden,2011_Rosslyn Arms_Singapore Garden,51.542473,-0.180059,2011-01-07
+96,Destination,Starbucks Coffee,2011_Starbucks Coffee_Singapore Garden,51.516945,-0.19143,2011-05-13
+97,Origin,Singapore Garden,2011_Starbucks Coffee_Singapore Garden,51.542473,-0.180059,2011-01-07
+98,Destination,Trattoria Verdi,2011_Trattoria Verdi_Singapore Garden,51.520227,-0.12197000000000001,2011-06-07
+99,Origin,Singapore Garden,2011_Trattoria Verdi_Singapore Garden,51.542473,-0.180059,2011-01-07
+100,Destination,The Queens Public House,2011_The Queens Public House_Singapore Garden,51.540818,-0.158121,2011-12-21
+101,Origin,Singapore Garden,2011_The Queens Public House_Singapore Garden,51.542473,-0.180059,2011-01-07
+102,Destination,Hazraj,2011_Hazraj_Singapore Garden,51.552279,-0.141423,2011-06-04
+103,Origin,Singapore Garden,2011_Hazraj_Singapore Garden,51.542473,-0.180059,2011-01-07
+104,Destination,Mimmo La Bufala,2011_Mimmo La Bufala_Singapore Garden,51.555367,-0.167068,2011-07-07
+105,Origin,Singapore Garden,2011_Mimmo La Bufala_Singapore Garden,51.542473,-0.180059,2011-01-07
+106,Destination,Lamentine,2011_Lamentine_Singapore Garden,51.539219,-0.141978,2011-11-08
+107,Origin,Singapore Garden,2011_Lamentine_Singapore Garden,51.542473,-0.180059,2011-01-07
+108,Destination,Nando's,2011_Nando's_Singapore Garden,51.551494,-0.191253,2011-09-23
+109,Origin,Singapore Garden,2011_Nando's_Singapore Garden,51.542473,-0.180059,2011-01-07
+110,Destination,6 St Chad's Place,2011_6 St Chad's Place_Singapore Garden,51.530577,-0.119622,2011-07-29
+111,Origin,Singapore Garden,2011_6 St Chad's Place_Singapore Garden,51.542473,-0.180059,2011-01-07
+112,Destination,The Blue Lion,2011_The Blue Lion_Singapore Garden,51.523551,-0.11578,2011-02-18
+113,Origin,Singapore Garden,2011_The Blue Lion_Singapore Garden,51.542473,-0.180059,2011-01-07
+114,Destination,Lemonia,2011_Lemonia_Singapore Garden,51.542027000000004,-0.157269,2011-05-19
+115,Origin,Singapore Garden,2011_Lemonia_Singapore Garden,51.542473,-0.180059,2011-01-07
+116,Destination,Melrose and Morgan,2011_Melrose and Morgan_Singapore Garden,51.540572999999995,-0.150756,2011-12-05
+117,Origin,Singapore Garden,2011_Melrose and Morgan_Singapore Garden,51.542473,-0.180059,2011-01-07
+118,Destination,Pix Bar,2011_Pix Bar_Singapore Garden,51.515044,-0.126064,2011-04-11
+119,Origin,Singapore Garden,2011_Pix Bar_Singapore Garden,51.542473,-0.180059,2011-01-07
+120,Destination,Pizza Hut,2011_Pizza Hut_Singapore Garden,51.521776,-0.12359300000000001,2011-07-10
+121,Origin,Singapore Garden,2011_Pizza Hut_Singapore Garden,51.542473,-0.180059,2011-01-07
+122,Destination,Odeon Cinema,2011_Odeon Cinema_Singapore Garden,51.542636,-0.17460799999999999,2011-07-26
+123,Origin,Singapore Garden,2011_Odeon Cinema_Singapore Garden,51.542473,-0.180059,2011-01-07
+124,Destination,Adobo,2011_Adobo_Singapore Garden,51.518268,-0.11845499999999999,2011-08-25
+125,Origin,Singapore Garden,2011_Adobo_Singapore Garden,51.542473,-0.180059,2011-01-07
+126,Destination,Northumberland Arms,2011_Northumberland Arms_Singapore Garden,51.519021,-0.135793,2011-01-24
+127,Origin,Singapore Garden,2011_Northumberland Arms_Singapore Garden,51.542473,-0.180059,2011-01-07
+128,Destination,Costa Coffee,2011_Costa Coffee_Singapore Garden,51.514247999999995,-0.126603,2011-02-08
+129,Origin,Singapore Garden,2011_Costa Coffee_Singapore Garden,51.542473,-0.180059,2011-01-07
+130,Destination,Cafe Mode,2011_Cafe Mode_Singapore Garden,51.515044,-0.126064,2011-08-12
+131,Origin,Singapore Garden,2011_Cafe Mode_Singapore Garden,51.542473,-0.180059,2011-01-07
+132,Destination,XO Restaurant,2011_XO Restaurant_Singapore Garden,51.549339,-0.171002,2011-09-16
+133,Origin,Singapore Garden,2011_XO Restaurant_Singapore Garden,51.542473,-0.180059,2011-01-07
+134,Destination,The Rising Sun,2011_The Rising Sun_Singapore Garden,51.519513,-0.133795,2011-09-21
+135,Origin,Singapore Garden,2011_The Rising Sun_Singapore Garden,51.542473,-0.180059,2011-01-07
+136,Destination,Eataly Ltd,2011_Eataly Ltd_Singapore Garden,51.517405,-0.119842,2011-07-13
+137,Origin,Singapore Garden,2011_Eataly Ltd_Singapore Garden,51.542473,-0.180059,2011-01-07
+138,Destination,The Bountiful Cow,2011_The Bountiful Cow_Singapore Garden,51.518976,-0.117914,2011-06-28
+139,Origin,Singapore Garden,2011_The Bountiful Cow_Singapore Garden,51.542473,-0.180059,2011-01-07
+140,Destination,Da Mario Restaurant,2011_Da Mario Restaurant_Singapore Garden,51.515044,-0.126064,2011-06-15
+141,Origin,Singapore Garden,2011_Da Mario Restaurant_Singapore Garden,51.542473,-0.180059,2011-01-07
+142,Destination,NOSH,2011_NOSH_Singapore Garden,51.51726,-0.126603,2011-02-25
+143,Origin,Singapore Garden,2011_NOSH_Singapore Garden,51.542473,-0.180059,2011-01-07
+144,Destination,Pancake Cafe,2011_Pancake Cafe_Singapore Garden,51.517865,-0.12620499999999998,2011-05-07
+145,Origin,Singapore Garden,2011_Pancake Cafe_Singapore Garden,51.542473,-0.180059,2011-01-07
+146,Destination,The Horseshoe,2011_The Horseshoe_Singapore Garden,51.55619,-0.178368,2011-08-31
+147,Origin,Singapore Garden,2011_The Horseshoe_Singapore Garden,51.542473,-0.180059,2011-01-07
+148,Destination,Princess of Wales,2011_Princess of Wales_Singapore Garden,51.540301,-0.15378,2011-03-31
+149,Origin,Singapore Garden,2011_Princess of Wales_Singapore Garden,51.542473,-0.180059,2011-01-07
+150,Destination,Anthony Delicatessen,2011_Anthony Delicatessen_Singapore Garden,51.541352,-0.15648199999999998,2011-11-01
+151,Origin,Singapore Garden,2011_Anthony Delicatessen_Singapore Garden,51.542473,-0.180059,2011-01-07
+152,Destination,Ruskins Cafe,2011_Ruskins Cafe_Singapore Garden,51.517687,-0.125027,2011-12-07
+153,Origin,Singapore Garden,2011_Ruskins Cafe_Singapore Garden,51.542473,-0.180059,2011-01-07
+154,Destination,Gail's,2011_Gail's_Singapore Garden,51.55619,-0.178368,2011-08-17
+155,Origin,Singapore Garden,2011_Gail's_Singapore Garden,51.542473,-0.180059,2011-01-07
+156,Destination,ITSU,2011_ITSU_Singapore Garden,51.514534999999995,-0.122584,2011-10-11
+157,Origin,Singapore Garden,2011_ITSU_Singapore Garden,51.542473,-0.180059,2011-01-07
+158,Destination,The Lukin,2011_The Lukin_Singapore Garden,51.522335999999996,-0.13943,2011-02-23
+159,Origin,Singapore Garden,2011_The Lukin_Singapore Garden,51.542473,-0.180059,2011-01-07
+160,Destination,The Queen's Larder,2011_The Queen's Larder_Singapore Garden,51.520839,-0.12166400000000001,2011-12-10
+161,Origin,Singapore Garden,2011_The Queen's Larder_Singapore Garden,51.542473,-0.180059,2011-01-07
+162,Destination,Truly Scrumptious,2011_Truly Scrumptious_Singapore Garden,51.543572999999995,-0.15024200000000001,2011-11-10
+163,Origin,Singapore Garden,2011_Truly Scrumptious_Singapore Garden,51.542473,-0.180059,2011-01-07
+164,Destination,McDonalds Resturant LTD,2011_McDonalds Resturant LTD_Singapore Garden,51.530693,-0.121473,2011-07-25
+165,Origin,Singapore Garden,2011_McDonalds Resturant LTD_Singapore Garden,51.542473,-0.180059,2011-01-07
+166,Destination,The Old Crown Public House,2011_The Old Crown Public House_Singapore Garden,51.516890999999994,-0.12531,2011-04-26
+167,Origin,Singapore Garden,2011_The Old Crown Public House_Singapore Garden,51.542473,-0.180059,2011-01-07
+168,Destination,Candy Cakes,2011_Candy Cakes_Singapore Garden,51.513596,-0.127317,2011-08-18
+169,Origin,Singapore Garden,2011_Candy Cakes_Singapore Garden,51.542473,-0.180059,2011-01-07
+170,Destination,Cafe Seventy Nine,2011_Cafe Seventy Nine_Singapore Garden,51.541273,-0.157718,2011-10-21
+171,Origin,Singapore Garden,2011_Cafe Seventy Nine_Singapore Garden,51.542473,-0.180059,2011-01-07
+172,Destination,Mennula,2011_Mennula_Singapore Garden,51.518432000000004,-0.135121,2011-01-24
+173,Origin,Singapore Garden,2011_Mennula_Singapore Garden,51.542473,-0.180059,2011-01-07
+174,Destination,Zama Zingo,2011_Zama Zingo_Singapore Garden,51.554378,-0.16508299999999998,2011-11-17
+175,Origin,Singapore Garden,2011_Zama Zingo_Singapore Garden,51.542473,-0.180059,2011-01-07
+176,Destination,Busaba Eathai,2011_Busaba Eathai_Singapore Garden,51.519946999999995,-0.133178,2011-02-14
+177,Origin,Singapore Garden,2011_Busaba Eathai_Singapore Garden,51.542473,-0.180059,2011-01-07
+178,Destination,The Flask Public House,2011_The Flask Public House_Singapore Garden,51.556693,-0.176761,2011-01-17
+179,Origin,Singapore Garden,2011_The Flask Public House_Singapore Garden,51.542473,-0.180059,2011-01-07
+180,Destination,Vida e Caffe,2011_Vida e Caffe_Singapore Garden,51.519021,-0.135793,2011-07-21
+181,Origin,Singapore Garden,2011_Vida e Caffe_Singapore Garden,51.542473,-0.180059,2011-01-07
+182,Destination,Kennards,2011_Kennards_Singapore Garden,51.521754,-0.11884700000000001,2011-06-28
+183,Origin,Singapore Garden,2011_Kennards_Singapore Garden,51.542473,-0.180059,2011-01-07
+184,Destination,Mountbatten Hotel,2011_Mountbatten Hotel_Singapore Garden,51.514389,-0.12725799999999998,2011-01-13
+185,Origin,Singapore Garden,2011_Mountbatten Hotel_Singapore Garden,51.542473,-0.180059,2011-01-07
+186,Destination,Cosmoba Restaurant,2011_Cosmoba Restaurant_Singapore Garden,51.521776,-0.12359300000000001,2011-06-29
+187,Origin,Singapore Garden,2011_Cosmoba Restaurant_Singapore Garden,51.542473,-0.180059,2011-01-07
+188,Destination,Spaghetti House,2011_Spaghetti House_Singapore Garden,51.519513,-0.133795,2011-07-09
+189,Origin,Singapore Garden,2011_Spaghetti House_Singapore Garden,51.542473,-0.180059,2011-01-07
+190,Destination,Violette Cafe,2011_Violette Cafe_Singapore Garden,51.546611999999996,-0.161548,2011-08-30
+191,Origin,Singapore Garden,2011_Violette Cafe_Singapore Garden,51.542473,-0.180059,2011-01-07
+192,Destination,Base Bistro,2011_Base Bistro_Singapore Garden,51.555759,-0.177656,2011-04-28
+193,Origin,Singapore Garden,2011_Base Bistro_Singapore Garden,51.542473,-0.180059,2011-01-07
+194,Destination,Tapeo Restaurant,2011_Tapeo Restaurant_Singapore Garden,51.550245000000004,-0.165588,2011-07-21
+195,Origin,Singapore Garden,2011_Tapeo Restaurant_Singapore Garden,51.542473,-0.180059,2011-01-07
+196,Destination,Eves Sandwich Bar,2011_Eves Sandwich Bar_Singapore Garden,51.517914000000005,-0.12887,2011-01-28
+197,Origin,Singapore Garden,2011_Eves Sandwich Bar_Singapore Garden,51.542473,-0.180059,2011-01-07
+198,Destination,Simply Scrumptious,2011_Simply Scrumptious_Singapore Garden,51.556783,-0.177972,2011-07-13
+199,Origin,Singapore Garden,2011_Simply Scrumptious_Singapore Garden,51.542473,-0.180059,2011-01-07
+200,Destination,Abokado,2011_Abokado_Singapore Garden,51.514813000000004,-0.12298900000000001,2011-03-13
+201,Origin,Singapore Garden,2011_Abokado_Singapore Garden,51.542473,-0.180059,2011-01-07
+202,Destination,Bleeding Heart Restaurant,2011_Bleeding Heart Restaurant_Singapore Garden,51.518941,-0.106305,2011-10-14
+203,Origin,Singapore Garden,2011_Bleeding Heart Restaurant_Singapore Garden,51.542473,-0.180059,2011-01-07
+204,Destination,The Bull & Gate PH,2011_The Bull & Gate PH_Singapore Garden,51.551885,-0.141932,2011-06-28
+205,Origin,Singapore Garden,2011_The Bull & Gate PH_Singapore Garden,51.542473,-0.180059,2011-01-07
+206,Destination,Dannys,2011_Dannys_Singapore Garden,51.521384999999995,-0.11891600000000001,2011-07-27
+207,Origin,Singapore Garden,2011_Dannys_Singapore Garden,51.542473,-0.180059,2011-01-07
+208,Destination,McDonald's Resturant Ltd,2011_McDonald's Resturant Ltd_Singapore Garden,51.529783,-0.12309,2011-07-25
+209,Origin,Singapore Garden,2011_McDonald's Resturant Ltd_Singapore Garden,51.542473,-0.180059,2011-01-07
+210,Destination,Classica UK Ltd,2011_Classica UK Ltd_Singapore Garden,51.541352,-0.15648199999999998,2011-02-25
+211,Origin,Singapore Garden,2011_Classica UK Ltd_Singapore Garden,51.542473,-0.180059,2011-01-07
+212,Destination,Cigala Restaurant,2011_Cigala Restaurant_Singapore Garden,51.522244,-0.118002,2011-11-22
+213,Origin,Singapore Garden,2011_Cigala Restaurant_Singapore Garden,51.542473,-0.180059,2011-01-07
+214,Destination,Cote,2011_Cote_Singapore Garden,51.555378999999995,-0.176217,2011-11-16
+215,Origin,Singapore Garden,2011_Cote_Singapore Garden,51.542473,-0.180059,2011-01-07
+216,Destination,Pizza Express,2011_Pizza Express_Singapore Garden,51.517865,-0.126822,2011-06-13
+217,Origin,Singapore Garden,2011_Pizza Express_Singapore Garden,51.542473,-0.180059,2011-01-07
+218,Destination,York and Albany,2011_York and Albany_Singapore Garden,51.53608,-0.146199,2011-04-29
+219,Origin,Singapore Garden,2011_York and Albany_Singapore Garden,51.542473,-0.180059,2011-01-07
+220,Destination,Cafe Eterno,2011_Cafe Eterno_Singapore Garden,51.514247999999995,-0.125254,2011-04-13
+221,Origin,Singapore Garden,2011_Cafe Eterno_Singapore Garden,51.542473,-0.180059,2011-01-07
+222,Destination,The Marlborough Arms,2011_The Marlborough Arms_Singapore Garden,51.521608,-0.132898,2011-12-10
+223,Origin,Singapore Garden,2011_The Marlborough Arms_Singapore Garden,51.542473,-0.180059,2011-01-07
+224,Destination,The Conduit Coffee House,2011_The Conduit Coffee House_Singapore Garden,51.521754,-0.11884700000000001,2011-01-18
+225,Origin,Singapore Garden,2011_The Conduit Coffee House_Singapore Garden,51.542473,-0.180059,2011-01-07
+226,Destination,Fratelli La Bufala,2011_Fratelli La Bufala_Singapore Garden,51.555367,-0.167068,2011-07-07
+227,Origin,Singapore Garden,2011_Fratelli La Bufala_Singapore Garden,51.542473,-0.180059,2011-01-07
+228,Destination,The Two Brewers,2011_The Two Brewers_Singapore Garden,51.513243,-0.127366,2011-12-13
+229,Origin,Singapore Garden,2011_The Two Brewers_Singapore Garden,51.542473,-0.180059,2011-01-07
+230,Destination,Guido's,2011_Guido's_Singapore Garden,51.51668,-0.119209,2011-02-17
+231,Origin,Singapore Garden,2011_Guido's_Singapore Garden,51.542473,-0.180059,2011-01-07
+232,Destination,Marquis of Cornwallis,2011_Marquis of Cornwallis_Singapore Garden,51.524233,-0.12493,2011-02-14
+233,Origin,Singapore Garden,2011_Marquis of Cornwallis_Singapore Garden,51.542473,-0.180059,2011-01-07
+234,Destination,The Argyle (previously King of Diamonds),2011_The Argyle (previously King of Diamonds)_Singapore Garden,51.518529,-0.108519,2011-05-12
+235,Origin,Singapore Garden,2011_The Argyle (previously King of Diamonds)_Singapore Garden,51.542473,-0.180059,2011-01-07
+236,Destination,Paradise,2011_Paradise_Singapore Garden,51.555367,-0.167068,2011-08-19
+237,Origin,Singapore Garden,2011_Paradise_Singapore Garden,51.542473,-0.180059,2011-01-07
+238,Destination,Singapore Garden,2011_Singapore Garden_Singapore Garden,51.542473,-0.180059,2011-01-07
+239,Origin,Singapore Garden,2011_Singapore Garden_Singapore Garden,51.542473,-0.180059,2011-01-07
+240,Destination,McDonalds Resturant Ltd,2011_McDonalds Resturant Ltd_Singapore Garden,51.517405,-0.119842,2011-07-25
+241,Origin,Singapore Garden,2011_McDonalds Resturant Ltd_Singapore Garden,51.542473,-0.180059,2011-01-07
+242,Destination,Penderals Oak,2011_Penderals Oak_Singapore Garden,51.517858000000004,-0.11538599999999999,2011-08-24
+243,Origin,Singapore Garden,2011_Penderals Oak_Singapore Garden,51.542473,-0.180059,2011-01-07
+244,Destination,Kitchenette,2011_Kitchenette_Singapore Garden,51.519597,-0.109508,2011-11-16
+245,Origin,Singapore Garden,2011_Kitchenette_Singapore Garden,51.542473,-0.180059,2011-01-07
+246,Destination,Gold Fish,2011_Gold Fish_Singapore Garden,51.555378999999995,-0.176217,2011-04-29
+247,Origin,Singapore Garden,2011_Gold Fish_Singapore Garden,51.542473,-0.180059,2011-01-07
+248,Destination,Pardoe & Wood,2011_Pardoe & Wood_Singapore Garden,51.519905,-0.11175399999999999,2011-10-05
+249,Origin,Singapore Garden,2011_Pardoe & Wood_Singapore Garden,51.542473,-0.180059,2011-01-07
+250,Destination,The Perseverance,2011_The Perseverance_Singapore Garden,51.521754,-0.11884700000000001,2011-01-31
+251,Origin,Singapore Garden,2011_The Perseverance_Singapore Garden,51.542473,-0.180059,2011-01-07
+252,Destination,Sir Christopher Hatton,2011_Sir Christopher Hatton_Singapore Garden,51.518529,-0.108519,2011-02-14
+253,Origin,Singapore Garden,2011_Sir Christopher Hatton_Singapore Garden,51.542473,-0.180059,2011-01-07
+254,Destination,J Restaurant,2011_J Restaurant_Singapore Garden,51.541352,-0.15648199999999998,2011-06-22
+255,Origin,Singapore Garden,2011_J Restaurant_Singapore Garden,51.542473,-0.180059,2011-01-07
+256,Destination,The White Horse,2011_The White Horse_Singapore Garden,51.554378,-0.16508299999999998,2011-08-07
+257,Origin,Singapore Garden,2011_The White Horse_Singapore Garden,51.542473,-0.180059,2011-01-07
+258,Destination,Dylans Bakery,2011_Dylans Bakery_Singapore Garden,51.551787,-0.19178699999999999,2011-05-04
+259,Origin,Singapore Garden,2011_Dylans Bakery_Singapore Garden,51.542473,-0.180059,2011-01-07
+260,Destination,Leon de Bruxelles (previously Med Cafe),2011_Leon de Bruxelles (previously Med Cafe)_Singapore Garden,51.513631,-0.129773,2011-09-26
+261,Origin,Singapore Garden,2011_Leon de Bruxelles (previously Med Cafe)_Singapore Garden,51.542473,-0.180059,2011-01-07
+262,Destination,The Westbury,2011_The Westbury_Singapore Garden,51.536709,-0.19143,2011-04-11
+263,Origin,Singapore Garden,2011_The Westbury_Singapore Garden,51.542473,-0.180059,2011-01-07
+264,Destination,Rossopomodoro,2011_Rossopomodoro_Singapore Garden,51.513243,-0.127366,2011-08-08
+265,Origin,Singapore Garden,2011_Rossopomodoro_Singapore Garden,51.542473,-0.180059,2011-01-07
+266,Destination,Hampstead Tea Rooms,2011_Hampstead Tea Rooms_Singapore Garden,51.554295,-0.16628800000000002,2011-05-05
+267,Origin,Singapore Garden,2011_Hampstead Tea Rooms_Singapore Garden,51.542473,-0.180059,2011-01-07
+268,Destination,Cagneys,2011_Cagneys_Singapore Garden,51.520839,-0.12166400000000001,2011-06-21
+269,Origin,Singapore Garden,2011_Cagneys_Singapore Garden,51.542473,-0.180059,2011-01-07
+270,Destination,Bisou Cafe Diner,2011_Bisou Cafe Diner_Singapore Garden,51.529988,-0.11699999999999999,2011-06-07
+271,Origin,Singapore Garden,2011_Bisou Cafe Diner_Singapore Garden,51.542473,-0.180059,2011-01-07
+272,Destination,Carluccio's,2011_Carluccio's_Singapore Garden,51.555026,-0.171827,2011-10-01
+273,Origin,Singapore Garden,2011_Carluccio's_Singapore Garden,51.542473,-0.180059,2011-01-07
+274,Destination,Earl of Camden,2011_Earl of Camden_Singapore Garden,51.537586,-0.14385,2011-12-14
+275,Origin,Singapore Garden,2011_Earl of Camden_Singapore Garden,51.542473,-0.180059,2011-01-07
+276,Destination,Izakaya,2011_Izakaya_Singapore Garden,51.555869,-0.175292,2011-10-05
+277,Origin,Singapore Garden,2011_Izakaya_Singapore Garden,51.542473,-0.180059,2011-01-07
+278,Destination,Shakespeares Head,2011_Shakespeares Head_Singapore Garden,51.517002000000005,-0.11943599999999999,2011-09-21
+279,Origin,Singapore Garden,2011_Shakespeares Head_Singapore Garden,51.542473,-0.180059,2011-01-07
+280,Destination,Giraffe,2010_Giraffe_Box Cafe Bar,51.555053,-0.172822,2010-03-22
+281,Origin,Box Cafe Bar,2010_Giraffe_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+282,Destination,York and Albany,2010_York and Albany_Box Cafe Bar,51.53608,-0.146199,2010-03-25
+283,Origin,Box Cafe Bar,2010_York and Albany_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+284,Destination,The Bucks Head,2010_The Bucks Head_Box Cafe Bar,51.540186,-0.143102,2010-02-03
+285,Origin,Box Cafe Bar,2010_The Bucks Head_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+286,Destination,Cafe Nero,2010_Cafe Nero_Box Cafe Bar,51.522218,-0.13492200000000001,2010-03-31
+287,Origin,Box Cafe Bar,2010_Cafe Nero_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+288,Destination,The Rugby Tavern,2010_The Rugby Tavern_Box Cafe Bar,51.522104999999996,-0.116994,2010-03-02
+289,Origin,Box Cafe Bar,2010_The Rugby Tavern_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+290,Destination,Ideal Sandwiches,2010_Ideal Sandwiches_Box Cafe Bar,51.514813000000004,-0.12298900000000001,2010-12-04
+291,Origin,Box Cafe Bar,2010_Ideal Sandwiches_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+292,Destination,Starbucks Coffee,2010_Starbucks Coffee_Box Cafe Bar,51.516945,-0.19143,2010-05-13
+293,Origin,Box Cafe Bar,2010_Starbucks Coffee_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+294,Destination,Kopapa,2010_Kopapa_Box Cafe Bar,51.513596,-0.127317,2010-10-22
+295,Origin,Box Cafe Bar,2010_Kopapa_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+296,Destination,Pizza Express,2010_Pizza Express_Box Cafe Bar,51.517865,-0.126822,2010-05-20
+297,Origin,Box Cafe Bar,2010_Pizza Express_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+298,Destination,The Lamb Public House,2010_The Lamb Public House_Box Cafe Bar,51.523439,-0.11943599999999999,2010-04-30
+299,Origin,Box Cafe Bar,2010_The Lamb Public House_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+300,Destination,Spaghetti House,2010_Spaghetti House_Box Cafe Bar,51.519513,-0.133795,2010-08-31
+301,Origin,Box Cafe Bar,2010_Spaghetti House_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+302,Destination,Shakespeares Head,2010_Shakespeares Head_Box Cafe Bar,51.517002000000005,-0.11943599999999999,2010-08-09
+303,Origin,Box Cafe Bar,2010_Shakespeares Head_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+304,Destination,ITSU,2010_ITSU_Box Cafe Bar,51.514534999999995,-0.122584,2010-07-09
+305,Origin,Box Cafe Bar,2010_ITSU_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+306,Destination,L'Absinthe,2010_L'Absinthe_Box Cafe Bar,51.540301,-0.15378,2010-04-17
+307,Origin,Box Cafe Bar,2010_L'Absinthe_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+308,Destination,Bleeding Heart Bistro,2010_Bleeding Heart Bistro_Box Cafe Bar,51.518941,-0.106305,2010-07-09
+309,Origin,Box Cafe Bar,2010_Bleeding Heart Bistro_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+310,Destination,Paradise,2010_Paradise_Box Cafe Bar,51.555367,-0.167068,2010-03-06
+311,Origin,Box Cafe Bar,2010_Paradise_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+312,Destination,The King of Diamonds,2010_The King of Diamonds_Box Cafe Bar,51.518529,-0.108519,2010-01-03
+313,Origin,Box Cafe Bar,2010_The King of Diamonds_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+314,Destination,The Queens Public House,2010_The Queens Public House_Box Cafe Bar,51.540818,-0.158121,2010-11-29
+315,Origin,Box Cafe Bar,2010_The Queens Public House_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+316,Destination,Eataly Ltd,2010_Eataly Ltd_Box Cafe Bar,51.517405,-0.119842,2010-05-05
+317,Origin,Box Cafe Bar,2010_Eataly Ltd_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+318,Destination,Belgo,2010_Belgo_Box Cafe Bar,51.515103,-0.150849,2010-01-29
+319,Origin,Box Cafe Bar,2010_Belgo_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+320,Destination,Limani,2010_Limani_Box Cafe Bar,51.541352,-0.15648199999999998,2010-03-24
+321,Origin,Box Cafe Bar,2010_Limani_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+322,Destination,The Westbury,2010_The Westbury_Box Cafe Bar,51.536709,-0.19143,2010-10-19
+323,Origin,Box Cafe Bar,2010_The Westbury_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+324,Destination,The Monarch,2010_The Monarch_Box Cafe Bar,51.54314,-0.148383,2010-03-23
+325,Origin,Box Cafe Bar,2010_The Monarch_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+326,Destination,Box Cafe Bar,2010_Box Cafe Bar_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+327,Origin,Box Cafe Bar,2010_Box Cafe Bar_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+328,Destination,Le Pain Quotidien,2010_Le Pain Quotidien_Box Cafe Bar,51.520337,-0.16628800000000002,2010-01-02
+329,Origin,Box Cafe Bar,2010_Le Pain Quotidien_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+330,Destination,Cottons,2010_Cottons_Box Cafe Bar,51.542882,-0.14976099999999998,2010-07-05
+331,Origin,Box Cafe Bar,2010_Cottons_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+332,Destination,Cosmoba Restaurant,2010_Cosmoba Restaurant_Box Cafe Bar,51.521776,-0.12359300000000001,2010-06-05
+333,Origin,Box Cafe Bar,2010_Cosmoba Restaurant_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+334,Destination,Conduit Coffee House,2010_Conduit Coffee House_Box Cafe Bar,51.521754,-0.11884700000000001,2010-01-26
+335,Origin,Box Cafe Bar,2010_Conduit Coffee House_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+336,Destination,Starbucks Coffee Co. (UK) Ltd,2010_Starbucks Coffee Co. (UK) Ltd_Box Cafe Bar,51.518044,-0.11336199999999999,2010-11-19
+337,Origin,Box Cafe Bar,2010_Starbucks Coffee Co. (UK) Ltd_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+338,Destination,Hercules Pillars,2010_Hercules Pillars_Box Cafe Bar,51.515707,-0.12126300000000001,2010-07-11
+339,Origin,Box Cafe Bar,2010_Hercules Pillars_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+340,Destination,Pret A Manager,2010_Pret A Manager_Box Cafe Bar,51.517405,-0.119842,2010-12-16
+341,Origin,Box Cafe Bar,2010_Pret A Manager_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+342,Destination,Cafe Mode,2010_Cafe Mode_Box Cafe Bar,51.515044,-0.126064,2010-01-20
+343,Origin,Box Cafe Bar,2010_Cafe Mode_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+344,Destination,The Crown,2010_The Crown_Box Cafe Bar,51.514389,-0.12725799999999998,2010-05-26
+345,Origin,Box Cafe Bar,2010_The Crown_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+346,Destination,Euphorium Bakery,2010_Euphorium Bakery_Box Cafe Bar,51.550908,-0.167068,2010-04-19
+347,Origin,Box Cafe Bar,2010_Euphorium Bakery_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+348,Destination,Washington Hotel,2010_Washington Hotel_Box Cafe Bar,51.545876,-0.162983,2010-09-14
+349,Origin,Box Cafe Bar,2010_Washington Hotel_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+350,Destination,Hampstead Tea Rooms,2010_Hampstead Tea Rooms_Box Cafe Bar,51.554295,-0.16628800000000002,2010-01-03
+351,Origin,Box Cafe Bar,2010_Hampstead Tea Rooms_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+352,Destination,The Flask PH,2010_The Flask PH_Box Cafe Bar,51.556693,-0.176761,2010-09-02
+353,Origin,Box Cafe Bar,2010_The Flask PH_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+354,Destination,Nandos,2010_Nandos_Box Cafe Bar,51.543572999999995,-0.15024200000000001,2010-09-17
+355,Origin,Box Cafe Bar,2010_Nandos_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+356,Destination,XO Restaurant,2010_XO Restaurant_Box Cafe Bar,51.549339,-0.171002,2010-09-23
+357,Origin,Box Cafe Bar,2010_XO Restaurant_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+358,Destination,Earl of Camden,2010_Earl of Camden_Box Cafe Bar,51.537586,-0.14385,2010-07-11
+359,Origin,Box Cafe Bar,2010_Earl of Camden_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+360,Destination,J Restaurant,2010_J Restaurant_Box Cafe Bar,51.541352,-0.15648199999999998,2010-02-06
+361,Origin,Box Cafe Bar,2010_J Restaurant_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+362,Destination,The Euston Flyer,2010_The Euston Flyer_Box Cafe Bar,51.528517,-0.126822,2010-08-19
+363,Origin,Box Cafe Bar,2010_The Euston Flyer_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+364,Destination,The Marquis of Cornwallis,2010_The Marquis of Cornwallis_Box Cafe Bar,51.524233,-0.12493,2010-03-02
+365,Origin,Box Cafe Bar,2010_The Marquis of Cornwallis_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+366,Destination,O'Neills,2010_O'Neills_Box Cafe Bar,51.514813000000004,-0.12298900000000001,2010-03-12
+367,Origin,Box Cafe Bar,2010_O'Neills_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+368,Destination,Pu's Brasserie,2010_Pu's Brasserie_Box Cafe Bar,51.517002000000005,-0.11943599999999999,2010-02-15
+369,Origin,Box Cafe Bar,2010_Pu's Brasserie_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+370,Destination,Giotto Restaurant,2010_Giotto Restaurant_Box Cafe Bar,51.51726,-0.126603,2010-01-02
+371,Origin,Box Cafe Bar,2010_Giotto Restaurant_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+372,Destination,Starbucks,2010_Starbucks_Box Cafe Bar,51.522307,-0.134901,2010-02-09
+373,Origin,Box Cafe Bar,2010_Starbucks_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+374,Destination,Zara Cafe and Restaurant,2010_Zara Cafe and Restaurant_Box Cafe Bar,51.554295,-0.16628800000000002,2010-07-04
+375,Origin,Box Cafe Bar,2010_Zara Cafe and Restaurant_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+376,Destination,Mario's Cafe,2010_Mario's Cafe_Box Cafe Bar,51.545931,-0.14239000000000002,2010-07-14
+377,Origin,Box Cafe Bar,2010_Mario's Cafe_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+378,Destination,Singapore Garden,2010_Singapore Garden_Box Cafe Bar,51.542473,-0.180059,2010-08-06
+379,Origin,Box Cafe Bar,2010_Singapore Garden_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+380,Destination,Marriott Hotel,2010_Marriott Hotel_Box Cafe Bar,51.535973999999996,-0.190412,2010-02-11
+381,Origin,Box Cafe Bar,2010_Marriott Hotel_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+382,Destination,The Bountiful Cow,2010_The Bountiful Cow_Box Cafe Bar,51.518976,-0.117914,2010-05-13
+383,Origin,Box Cafe Bar,2010_The Bountiful Cow_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+384,Destination,Gold Fish,2010_Gold Fish_Box Cafe Bar,51.555378999999995,-0.176217,2010-02-24
+385,Origin,Box Cafe Bar,2010_Gold Fish_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+386,Destination,Simply Scrumptious,2010_Simply Scrumptious_Box Cafe Bar,51.556783,-0.177972,2010-06-15
+387,Origin,Box Cafe Bar,2010_Simply Scrumptious_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+388,Destination,205 - 207 Haverstock Hill,2010_205 - 207 Haverstock Hill_Box Cafe Bar,51.550631,-0.165875,2010-12-23
+389,Origin,Box Cafe Bar,2010_205 - 207 Haverstock Hill_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+390,Destination,Caffe Nero,2010_Caffe Nero_Box Cafe Bar,51.515423,-0.17440899999999998,2010-01-21
+391,Origin,Box Cafe Bar,2010_Caffe Nero_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+392,Destination,La Piazzetta,2010_La Piazzetta_Box Cafe Bar,51.514446,-0.126545,2010-01-12
+393,Origin,Box Cafe Bar,2010_La Piazzetta_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+394,Destination,Banana Tree Canteen,2010_Banana Tree Canteen_Box Cafe Bar,51.549248999999996,-0.191669,2010-08-03
+395,Origin,Box Cafe Bar,2010_Banana Tree Canteen_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+396,Destination,Wolfe's Bar & Grill,2010_Wolfe's Bar & Grill_Box Cafe Bar,51.515707,-0.12126300000000001,2010-10-12
+397,Origin,Box Cafe Bar,2010_Wolfe's Bar & Grill_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+398,Destination,Mani's,2010_Mani's_Box Cafe Bar,51.555759,-0.177656,2010-06-29
+399,Origin,Box Cafe Bar,2010_Mani's_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+400,Destination,Zamazingo,2010_Zamazingo_Box Cafe Bar,51.554378,-0.16508299999999998,2010-10-19
+401,Origin,Box Cafe Bar,2010_Zamazingo_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+402,Destination,The Queen's Larder,2010_The Queen's Larder_Box Cafe Bar,51.520839,-0.12166400000000001,2010-06-17
+403,Origin,Box Cafe Bar,2010_The Queen's Larder_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+404,Destination,Pancake Cafe,2010_Pancake Cafe_Box Cafe Bar,51.517865,-0.12620499999999998,2010-09-04
+405,Origin,Box Cafe Bar,2010_Pancake Cafe_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+406,Destination,Kitchenette,2010_Kitchenette_Box Cafe Bar,51.519597,-0.109508,2010-01-09
+407,Origin,Box Cafe Bar,2010_Kitchenette_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+408,Destination,Lamentine,2010_Lamentine_Box Cafe Bar,51.539219,-0.141978,2010-04-22
+409,Origin,Box Cafe Bar,2010_Lamentine_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+410,Destination,Med Kitchen,2010_Med Kitchen_Box Cafe Bar,51.513631,-0.129773,2010-02-03
+411,Origin,Box Cafe Bar,2010_Med Kitchen_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+412,Destination,Pret A Manger,2010_Pret A Manger_Box Cafe Bar,51.51726,-0.142543,2010-02-22
+413,Origin,Box Cafe Bar,2010_Pret A Manger_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+414,Destination,Subway,2010_Subway_Box Cafe Bar,51.539219,-0.141978,2010-03-15
+415,Origin,Box Cafe Bar,2010_Subway_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+416,Destination,The Horseshoe,2010_The Horseshoe_Box Cafe Bar,51.55619,-0.178368,2010-06-25
+417,Origin,Box Cafe Bar,2010_The Horseshoe_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+418,Destination,6 St Chad's Place,2010_6 St Chad's Place_Box Cafe Bar,51.530577,-0.119622,2010-06-15
+419,Origin,Box Cafe Bar,2010_6 St Chad's Place_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+420,Destination,The Museum Tavern,2010_The Museum Tavern_Box Cafe Bar,51.518343,-0.12531199999999998,2010-07-14
+421,Origin,Box Cafe Bar,2010_The Museum Tavern_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+422,Destination,Starbuck Coffee,2010_Starbuck Coffee_Box Cafe Bar,51.528517,-0.126822,2010-08-31
+423,Origin,Box Cafe Bar,2010_Starbuck Coffee_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+424,Destination,Melrose and Morgan,2010_Melrose and Morgan_Box Cafe Bar,51.540572999999995,-0.150756,2010-02-03
+425,Origin,Box Cafe Bar,2010_Melrose and Morgan_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+426,Destination,Guido's,2010_Guido's_Box Cafe Bar,51.51668,-0.119209,2010-01-02
+427,Origin,Box Cafe Bar,2010_Guido's_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+428,Destination,The Blue Lion,2010_The Blue Lion_Box Cafe Bar,51.523551,-0.11578,2010-02-18
+429,Origin,Box Cafe Bar,2010_The Blue Lion_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+430,Destination,Costa Coffee,2010_Costa Coffee_Box Cafe Bar,51.51726,-0.126603,2010-07-09
+431,Origin,Box Cafe Bar,2010_Costa Coffee_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+432,Destination,Samwiges,2010_Samwiges_Box Cafe Bar,51.548138,-0.141677,2010-06-04
+433,Origin,Box Cafe Bar,2010_Samwiges_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+434,Destination,The Old Crown Public House,2010_The Old Crown Public House_Box Cafe Bar,51.516890999999994,-0.12531,2010-04-03
+435,Origin,Box Cafe Bar,2010_The Old Crown Public House_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+436,Destination,Nando's,2010_Nando's_Box Cafe Bar,51.551494,-0.191253,2010-08-25
+437,Origin,Box Cafe Bar,2010_Nando's_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+438,Destination,Lanka,2010_Lanka_Box Cafe Bar,51.541273,-0.157718,2010-06-15
+439,Origin,Box Cafe Bar,2010_Lanka_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+440,Destination,Cigala Restaurant,2010_Cigala Restaurant_Box Cafe Bar,51.522244,-0.118002,2010-10-11
+441,Origin,Box Cafe Bar,2010_Cigala Restaurant_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+442,Destination,Rossopomodoro,2010_Rossopomodoro_Box Cafe Bar,51.513243,-0.127366,2010-07-28
+443,Origin,Box Cafe Bar,2010_Rossopomodoro_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+444,Destination,Pret a Manger,2010_Pret a Manger_Box Cafe Bar,51.517041,-0.127459,2010-09-28
+445,Origin,Box Cafe Bar,2010_Pret a Manger_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+446,Destination,Violette Cafe,2010_Violette Cafe_Box Cafe Bar,51.546611999999996,-0.161548,2010-02-08
+447,Origin,Box Cafe Bar,2010_Violette Cafe_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+448,Destination,Hot Rock Cafe,2010_Hot Rock Cafe_Box Cafe Bar,51.539219,-0.141978,2010-05-10
+449,Origin,Box Cafe Bar,2010_Hot Rock Cafe_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+450,Destination,Cagneys,2010_Cagneys_Box Cafe Bar,51.520839,-0.12166400000000001,2010-08-06
+451,Origin,Box Cafe Bar,2010_Cagneys_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+452,Destination,Busaba Eathai,2010_Busaba Eathai_Box Cafe Bar,51.519946999999995,-0.133178,2010-08-03
+453,Origin,Box Cafe Bar,2010_Busaba Eathai_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+454,Destination,LeTea Cosy,2010_LeTea Cosy_Box Cafe Bar,51.540818,-0.158121,2010-03-12
+455,Origin,Box Cafe Bar,2010_LeTea Cosy_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+456,Destination,Candy Cakes,2010_Candy Cakes_Box Cafe Bar,51.513596,-0.127317,2010-10-06
+457,Origin,Box Cafe Bar,2010_Candy Cakes_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+458,Destination,Haverstock Arms,2010_Haverstock Arms_Box Cafe Bar,51.549077000000004,-0.16178900000000002,2010-07-27
+459,Origin,Box Cafe Bar,2010_Haverstock Arms_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+460,Destination,The Two Brewers,2010_The Two Brewers_Box Cafe Bar,51.513243,-0.127366,2010-10-26
+461,Origin,Box Cafe Bar,2010_The Two Brewers_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+462,Destination,Sir Christopher Hatton,2010_Sir Christopher Hatton_Box Cafe Bar,51.518529,-0.108519,2010-03-02
+463,Origin,Box Cafe Bar,2010_Sir Christopher Hatton_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+464,Destination,Paul,2010_Paul_Box Cafe Bar,51.556783,-0.177972,2010-04-26
+465,Origin,Box Cafe Bar,2010_Paul_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+466,Destination,The Crown Public House,2010_The Crown Public House_Box Cafe Bar,51.516842,-0.126469,2010-03-24
+467,Origin,Box Cafe Bar,2010_The Crown Public House_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+468,Destination,La Porchetta,2010_La Porchetta_Box Cafe Bar,51.543861,-0.150849,2010-05-28
+469,Origin,Box Cafe Bar,2010_La Porchetta_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+470,Destination,Bloomsbury Tavern,2010_Bloomsbury Tavern_Box Cafe Bar,51.516890999999994,-0.12531,2010-03-30
+471,Origin,Box Cafe Bar,2010_Bloomsbury Tavern_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+472,Destination,Coffee Republic,2010_Coffee Republic_Box Cafe Bar,51.52243,-0.13683900000000002,2010-12-13
+473,Origin,Box Cafe Bar,2010_Coffee Republic_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+474,Destination,The Marlborough Arms,2010_The Marlborough Arms_Box Cafe Bar,51.521608,-0.132898,2010-08-27
+475,Origin,Box Cafe Bar,2010_The Marlborough Arms_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+476,Destination,Ruskins Cafe,2010_Ruskins Cafe_Box Cafe Bar,51.517687,-0.125027,2010-03-23
+477,Origin,Box Cafe Bar,2010_Ruskins Cafe_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+478,Destination,Gail's,2010_Gail's_Box Cafe Bar,51.55619,-0.178368,2010-07-27
+479,Origin,Box Cafe Bar,2010_Gail's_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+480,Destination,Crown Cafe,2010_Crown Cafe_Box Cafe Bar,51.535618,-0.134023,2010-09-11
+481,Origin,Box Cafe Bar,2010_Crown Cafe_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+482,Destination,Rosslyn Arms,2010_Rosslyn Arms_Box Cafe Bar,51.555053,-0.172822,2010-06-23
+483,Origin,Box Cafe Bar,2010_Rosslyn Arms_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+484,Destination,Princess of Wales,2010_Princess of Wales_Box Cafe Bar,51.540301,-0.15378,2010-08-03
+485,Origin,Box Cafe Bar,2010_Princess of Wales_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+486,Destination,Garfunkels Restaurant,2010_Garfunkels Restaurant_Box Cafe Bar,51.516945,-0.12989,2010-04-10
+487,Origin,Box Cafe Bar,2010_Garfunkels Restaurant_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+488,Destination,Fleet River Bakery,2010_Fleet River Bakery_Box Cafe Bar,51.51668,-0.119209,2010-07-19
+489,Origin,Box Cafe Bar,2010_Fleet River Bakery_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+490,Destination,Neal's Yard Deli,2010_Neal's Yard Deli_Box Cafe Bar,51.514446,-0.126545,2010-03-31
+491,Origin,Box Cafe Bar,2010_Neal's Yard Deli_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+492,Destination,Tapeo Restaurant,2010_Tapeo Restaurant_Box Cafe Bar,51.550245000000004,-0.165588,2010-06-22
+493,Origin,Box Cafe Bar,2010_Tapeo Restaurant_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+494,Destination,Fratelli La Bufala,2010_Fratelli La Bufala_Box Cafe Bar,51.555367,-0.167068,2010-06-04
+495,Origin,Box Cafe Bar,2010_Fratelli La Bufala_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+496,Destination,The Yorkshire Grey Public House,2010_The Yorkshire Grey Public House_Box Cafe Bar,51.521265,-0.11384000000000001,2010-03-02
+497,Origin,Box Cafe Bar,2010_The Yorkshire Grey Public House_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+498,Destination,Otarian,2010_Otarian_Box Cafe Bar,51.515044,-0.126064,2010-03-06
+499,Origin,Box Cafe Bar,2010_Otarian_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+500,Destination,Goodfare Cafe Restaurant,2010_Goodfare Cafe Restaurant_Box Cafe Bar,51.539139,-0.14369500000000002,2010-05-18
+501,Origin,Box Cafe Bar,2010_Goodfare Cafe Restaurant_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+502,Destination,Abokado,2010_Abokado_Box Cafe Bar,51.514813000000004,-0.12298900000000001,2010-01-21
+503,Origin,Box Cafe Bar,2010_Abokado_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+504,Destination,Pix Bar,2010_Pix Bar_Box Cafe Bar,51.515044,-0.126064,2010-06-16
+505,Origin,Box Cafe Bar,2010_Pix Bar_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+506,Destination,Cafe Seventy Nine,2010_Cafe Seventy Nine_Box Cafe Bar,51.541273,-0.157718,2010-12-10
+507,Origin,Box Cafe Bar,2010_Cafe Seventy Nine_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+508,Destination,The Swan,2010_The Swan_Box Cafe Bar,51.521776,-0.12359300000000001,2010-03-09
+509,Origin,Box Cafe Bar,2010_The Swan_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+510,Destination,First Out Cafe Bar,2010_First Out Cafe Bar_Box Cafe Bar,51.515526,-0.12947,2010-12-04
+511,Origin,Box Cafe Bar,2010_First Out Cafe Bar_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+512,Destination,The Lyttelton Arms,2010_The Lyttelton Arms_Box Cafe Bar,51.534911,-0.139649,2010-11-30
+513,Origin,Box Cafe Bar,2010_The Lyttelton Arms_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+514,Destination,Diana's Diner,2010_Diana's Diner_Box Cafe Bar,51.514406,-0.12488599999999998,2010-04-19
+515,Origin,Box Cafe Bar,2010_Diana's Diner_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+516,Destination,Villandry Kitchen,2010_Villandry Kitchen_Box Cafe Bar,51.518268,-0.11845499999999999,2010-10-05
+517,Origin,Box Cafe Bar,2010_Villandry Kitchen_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+518,Destination,Penderals Oak,2010_Penderals Oak_Box Cafe Bar,51.517858000000004,-0.11538599999999999,2010-06-18
+519,Origin,Box Cafe Bar,2010_Penderals Oak_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+520,Destination,The Bull & Gate PH,2010_The Bull & Gate PH_Box Cafe Bar,51.551885,-0.141932,2010-06-23
+521,Origin,Box Cafe Bar,2010_The Bull & Gate PH_Box Cafe Bar,51.513596,-0.127317,2010-01-02
+522,Destination,Cigala,2016_Cigala_SaladPride,51.522244,-0.118002,2016-02-17
+523,Origin,SaladPride,2016_Cigala_SaladPride,51.514446,-0.126545,2016-01-02
+524,Destination,Paul,2016_Paul_SaladPride,51.515819,-0.177972,2016-06-12
+525,Origin,SaladPride,2016_Paul_SaladPride,51.514446,-0.126545,2016-01-02
+526,Destination,Grill Market Limited,2016_Grill Market Limited_SaladPride,51.521265,-0.11384000000000001,2016-04-25
+527,Origin,SaladPride,2016_Grill Market Limited_SaladPride,51.514446,-0.126545,2016-01-02
+528,Destination,Bleeding Heart Restaurants,2016_Bleeding Heart Restaurants_SaladPride,51.518941,-0.106305,2016-11-05
+529,Origin,SaladPride,2016_Bleeding Heart Restaurants_SaladPride,51.514446,-0.126545,2016-01-02
+530,Destination,leon,2016_leon_SaladPride,51.51757,-0.132725,2016-04-27
+531,Origin,SaladPride,2016_leon_SaladPride,51.514446,-0.126545,2016-01-02
+532,Destination,Sea Fire Grill,2016_Sea Fire Grill_SaladPride,51.543572999999995,-0.15024200000000001,2016-09-22
+533,Origin,SaladPride,2016_Sea Fire Grill_SaladPride,51.514446,-0.126545,2016-01-02
+534,Destination,Penderels Oak,2016_Penderels Oak_SaladPride,51.517858000000004,-0.11538599999999999,2016-11-16
+535,Origin,SaladPride,2016_Penderels Oak_SaladPride,51.514446,-0.126545,2016-01-02
+536,Destination,Anthony's Deli,2016_Anthony's Deli_SaladPride,51.541352,-0.15648199999999998,2016-03-14
+537,Origin,SaladPride,2016_Anthony's Deli_SaladPride,51.514446,-0.126545,2016-01-02
+538,Destination,Gails,2016_Gails_SaladPride,51.549746,-0.191159,2016-06-16
+539,Origin,SaladPride,2016_Gails_SaladPride,51.514446,-0.126545,2016-01-02
+540,Destination,Rinaldo Club UK Ltd T/AS Fish Cafe,2016_Rinaldo Club UK Ltd T/AS Fish Cafe_SaladPride,51.555759,-0.177656,2016-05-21
+541,Origin,SaladPride,2016_Rinaldo Club UK Ltd T/AS Fish Cafe_SaladPride,51.514446,-0.126545,2016-01-02
+542,Destination,Singapore Garden,2016_Singapore Garden_SaladPride,51.542473,-0.180059,2016-07-19
+543,Origin,SaladPride,2016_Singapore Garden_SaladPride,51.514446,-0.126545,2016-01-02
+544,Destination,Ruskins Cafe,2016_Ruskins Cafe_SaladPride,51.517687,-0.125027,2016-06-06
+545,Origin,SaladPride,2016_Ruskins Cafe_SaladPride,51.514446,-0.126545,2016-01-02
+546,Destination,Pierre Hermes Paris,2016_Pierre Hermes Paris_SaladPride,51.513596,-0.127317,2016-06-20
+547,Origin,SaladPride,2016_Pierre Hermes Paris_SaladPride,51.514446,-0.126545,2016-01-02
+548,Destination,Daddy Donkey Mexican Grill,2016_Daddy Donkey Mexican Grill_SaladPride,51.521044,-0.10923499999999998,2016-11-03
+549,Origin,SaladPride,2016_Daddy Donkey Mexican Grill_SaladPride,51.514446,-0.126545,2016-01-02
+550,Destination,Tandoori Nights,2016_Tandoori Nights_SaladPride,51.515707,-0.12126300000000001,2016-05-31
+551,Origin,SaladPride,2016_Tandoori Nights_SaladPride,51.514446,-0.126545,2016-01-02
+552,Destination,The George,2016_The George_SaladPride,51.55271,-0.166968,2016-07-21
+553,Origin,SaladPride,2016_The George_SaladPride,51.514446,-0.126545,2016-01-02
+554,Destination,Pret A Manger,2016_Pret A Manger_SaladPride,51.517041,-0.142543,2016-01-20
+555,Origin,SaladPride,2016_Pret A Manger_SaladPride,51.514446,-0.126545,2016-01-02
+556,Destination,Viet Eat,2016_Viet Eat_SaladPride,51.51668,-0.119209,2016-08-26
+557,Origin,SaladPride,2016_Viet Eat_SaladPride,51.514446,-0.126545,2016-01-02
+558,Destination,McDonalds,2016_McDonalds_SaladPride,51.513999,-0.128985,2016-09-14
+559,Origin,SaladPride,2016_McDonalds_SaladPride,51.514446,-0.126545,2016-01-02
+560,Destination,Apple Tree,2016_Apple Tree_SaladPride,51.523275,-0.112017,2016-04-15
+561,Origin,SaladPride,2016_Apple Tree_SaladPride,51.514446,-0.126545,2016-01-02
+562,Destination,SaladPride,2016_SaladPride_SaladPride,51.514446,-0.126545,2016-01-02
+563,Origin,SaladPride,2016_SaladPride_SaladPride,51.514446,-0.126545,2016-01-02
+564,Destination,Belgo,2016_Belgo_SaladPride,51.515103,-0.150849,2016-02-06
+565,Origin,SaladPride,2016_Belgo_SaladPride,51.514446,-0.126545,2016-01-02
+566,Destination,Oddono's Gelati,2016_Oddono's Gelati_SaladPride,51.556783,-0.177972,2016-03-31
+567,Origin,SaladPride,2016_Oddono's Gelati_SaladPride,51.514446,-0.126545,2016-01-02
+568,Destination,Starbucks Coffee,2016_Starbucks Coffee_SaladPride,51.516945,-0.19143,2016-05-13
+569,Origin,SaladPride,2016_Starbucks Coffee_SaladPride,51.514446,-0.126545,2016-01-02
+570,Destination,The Crown Public House,2016_The Crown Public House_SaladPride,51.516842,-0.126469,2016-09-14
+571,Origin,SaladPride,2016_The Crown Public House_SaladPride,51.514446,-0.126545,2016-01-02
+572,Destination,Pizza Express,2016_Pizza Express_SaladPride,51.517865,-0.126822,2016-04-15
+573,Origin,SaladPride,2016_Pizza Express_SaladPride,51.514446,-0.126545,2016-01-02
+574,Destination,Hercules Pillars,2016_Hercules Pillars_SaladPride,51.515707,-0.12126300000000001,2016-10-19
+575,Origin,SaladPride,2016_Hercules Pillars_SaladPride,51.514446,-0.126545,2016-01-02
+576,Destination,The Bucks Head,2016_The Bucks Head_SaladPride,51.540186,-0.143102,2016-05-08
+577,Origin,SaladPride,2016_The Bucks Head_SaladPride,51.514446,-0.126545,2016-01-02
+578,Destination,Philomenas,2016_Philomenas_SaladPride,51.514813000000004,-0.12298900000000001,2016-01-11
+579,Origin,SaladPride,2016_Philomenas_SaladPride,51.514446,-0.126545,2016-01-02
+580,Destination,Leyas,2016_Leyas_SaladPride,51.535228000000004,-0.138658,2016-03-11
+581,Origin,SaladPride,2016_Leyas_SaladPride,51.514446,-0.126545,2016-01-02
+582,Destination,Cafe Mode,2016_Cafe Mode_SaladPride,51.515044,-0.126064,2016-09-20
+583,Origin,SaladPride,2016_Cafe Mode_SaladPride,51.514446,-0.126545,2016-01-02
+584,Destination,Caffe Fratelli SP2,2016_Caffe Fratelli SP2_SaladPride,51.531775,-0.126577,2016-11-03
+585,Origin,SaladPride,2016_Caffe Fratelli SP2_SaladPride,51.514446,-0.126545,2016-01-02
+586,Destination,Wagamama Ltd,2016_Wagamama Ltd_SaladPride,51.516965,-0.120941,2016-11-15
+587,Origin,SaladPride,2016_Wagamama Ltd_SaladPride,51.514446,-0.126545,2016-01-02
+588,Destination,Sirous Tapas Bar and Restaurant,2016_Sirous Tapas Bar and Restaurant_SaladPride,51.551787,-0.19178699999999999,2016-04-14
+589,Origin,SaladPride,2016_Sirous Tapas Bar and Restaurant_SaladPride,51.514446,-0.126545,2016-01-02
+590,Destination,Paradise,2016_Paradise_SaladPride,51.555367,-0.167068,2016-11-05
+591,Origin,SaladPride,2016_Paradise_SaladPride,51.514446,-0.126545,2016-01-02
+592,Destination,Pod Food Ltd,2016_Pod Food Ltd_SaladPride,51.518529,-0.108519,2016-04-14
+593,Origin,SaladPride,2016_Pod Food Ltd_SaladPride,51.514446,-0.126545,2016-01-02
+594,Destination,Nandos,2016_Nandos_SaladPride,51.543572999999995,-0.191253,2016-06-10
+595,Origin,SaladPride,2016_Nandos_SaladPride,51.514446,-0.126545,2016-01-02
+596,Destination,McDonalds Restaurant Ltd,2016_McDonalds Restaurant Ltd_SaladPride,51.517405,-0.119842,2016-08-24
+597,Origin,SaladPride,2016_McDonalds Restaurant Ltd_SaladPride,51.514446,-0.126545,2016-01-02
+598,Destination,Mani's,2016_Mani's_SaladPride,51.555759,-0.177656,2016-10-13
+599,Origin,SaladPride,2016_Mani's_SaladPride,51.514446,-0.126545,2016-01-02
+600,Destination,Chilango,2016_Chilango_SaladPride,51.518529,-0.108519,2016-11-29
+601,Origin,SaladPride,2016_Chilango_SaladPride,51.514446,-0.126545,2016-01-02
+602,Destination,Bills,2016_Bills_SaladPride,51.515819,-0.118702,2016-01-27
+603,Origin,SaladPride,2016_Bills_SaladPride,51.514446,-0.126545,2016-01-02
+604,Destination,Shakespeares Head,2016_Shakespeares Head_SaladPride,51.517002000000005,-0.11943599999999999,2016-02-18
+605,Origin,SaladPride,2016_Shakespeares Head_SaladPride,51.514446,-0.126545,2016-01-02
+606,Destination,Cote,2016_Cote_SaladPride,51.538119,-0.176217,2016-02-20
+607,Origin,SaladPride,2016_Cote_SaladPride,51.514446,-0.126545,2016-01-02
+608,Destination,Caffe Nero,2016_Caffe Nero_SaladPride,51.521433,-0.19178699999999999,2016-01-04
+609,Origin,SaladPride,2016_Caffe Nero_SaladPride,51.514446,-0.126545,2016-01-02
+610,Destination,Greggs PLC,2016_Greggs PLC_SaladPride,51.521703,-0.136071,2016-04-25
+611,Origin,SaladPride,2016_Greggs PLC_SaladPride,51.514446,-0.126545,2016-01-02
+612,Destination,The Plough,2016_The Plough_SaladPride,51.517865,-0.12620499999999998,2016-06-01
+613,Origin,SaladPride,2016_The Plough_SaladPride,51.514446,-0.126545,2016-01-02
+614,Destination,Chez Bob,2016_Chez Bob_SaladPride,51.550631,-0.165875,2016-04-14
+615,Origin,SaladPride,2016_Chez Bob_SaladPride,51.514446,-0.126545,2016-01-02
+616,Destination,Brot Kultur  (Formerly Kemps Bakery),2016_Brot Kultur  (Formerly Kemps Bakery)_SaladPride,51.523398,-0.136463,2016-09-12
+617,Origin,SaladPride,2016_Brot Kultur  (Formerly Kemps Bakery)_SaladPride,51.514446,-0.126545,2016-01-02
+618,Destination,The 10 Cases,2016_The 10 Cases_SaladPride,51.514406,-0.12488599999999998,2016-06-14
+619,Origin,SaladPride,2016_The 10 Cases_SaladPride,51.514446,-0.126545,2016-01-02
+620,Destination,Wot the Dickens,2016_Wot the Dickens_SaladPride,51.526845,-0.129579,2016-06-22
+621,Origin,SaladPride,2016_Wot the Dickens_SaladPride,51.514446,-0.126545,2016-01-02
+622,Destination,Abokado,2016_Abokado_SaladPride,51.518529,-0.108519,2016-04-26
+623,Origin,SaladPride,2016_Abokado_SaladPride,51.514446,-0.126545,2016-01-02
+624,Destination,Fleet River Bakery,2016_Fleet River Bakery_SaladPride,51.51668,-0.119209,2016-04-26
+625,Origin,SaladPride,2016_Fleet River Bakery_SaladPride,51.514446,-0.126545,2016-01-02
+626,Destination,Q Grill,2016_Q Grill_SaladPride,51.543233,-0.147024,2016-06-06
+627,Origin,SaladPride,2016_Q Grill_SaladPride,51.514446,-0.126545,2016-01-02
+628,Destination,Simit Sarayi,2016_Simit Sarayi_SaladPride,51.520227,-0.12197000000000001,2016-08-26
+629,Origin,SaladPride,2016_Simit Sarayi_SaladPride,51.514446,-0.126545,2016-01-02
+630,Destination,Starbuck Coffee,2016_Starbuck Coffee_SaladPride,51.528517,-0.126822,2016-01-21
+631,Origin,SaladPride,2016_Starbuck Coffee_SaladPride,51.514446,-0.126545,2016-01-02
+632,Destination,Pilau Ltd,2016_Pilau Ltd_SaladPride,51.519855,-0.135379,2016-11-28
+633,Origin,SaladPride,2016_Pilau Ltd_SaladPride,51.514446,-0.126545,2016-01-02
+634,Destination,The Bountiful Cow,2016_The Bountiful Cow_SaladPride,51.518976,-0.117914,2016-09-05
+635,Origin,SaladPride,2016_The Bountiful Cow_SaladPride,51.514446,-0.126545,2016-01-02
+636,Destination,Sir Christopher Hatton,2016_Sir Christopher Hatton_SaladPride,51.518529,-0.108519,2016-05-13
+637,Origin,SaladPride,2016_Sir Christopher Hatton_SaladPride,51.514446,-0.126545,2016-01-02
+638,Destination,Earl of Camden,2016_Earl of Camden_SaladPride,51.537586,-0.14385,2016-11-30
+639,Origin,SaladPride,2016_Earl of Camden_SaladPride,51.514446,-0.126545,2016-01-02
+640,Destination,The  Detox Kitchen,2016_The  Detox Kitchen_SaladPride,51.52268,-0.12503599999999998,2016-12-23
+641,Origin,SaladPride,2016_The  Detox Kitchen_SaladPride,51.514446,-0.126545,2016-01-02
+642,Destination,Krimas in Parma,2016_Krimas in Parma_SaladPride,51.519021,-0.135793,2016-05-04
+643,Origin,SaladPride,2016_Krimas in Parma_SaladPride,51.514446,-0.126545,2016-01-02
+644,Destination,Carluccio's,2016_Carluccio's_SaladPride,51.521703,-0.171827,2016-01-17
+645,Origin,SaladPride,2016_Carluccio's_SaladPride,51.514446,-0.126545,2016-01-02
+646,Destination,Odeon Cinema,2016_Odeon Cinema_SaladPride,51.542636,-0.17460799999999999,2016-09-15
+647,Origin,SaladPride,2016_Odeon Cinema_SaladPride,51.514446,-0.126545,2016-01-02
+648,Destination,Chives,2016_Chives_SaladPride,51.526845,-0.129579,2016-02-06
+649,Origin,SaladPride,2016_Chives_SaladPride,51.514446,-0.126545,2016-01-02
+650,Destination,The Queens Larder,2016_The Queens Larder_SaladPride,51.520839,-0.12166400000000001,2016-06-01
+651,Origin,SaladPride,2016_The Queens Larder_SaladPride,51.514446,-0.126545,2016-01-02
+652,Destination,Itsu,2016_Itsu_SaladPride,51.514534999999995,-0.14369500000000002,2016-06-13
+653,Origin,SaladPride,2016_Itsu_SaladPride,51.514446,-0.126545,2016-01-02
+654,Destination,The Old Crown,2016_The Old Crown_SaladPride,51.516890999999994,-0.12531,2016-11-22
+655,Origin,SaladPride,2016_The Old Crown_SaladPride,51.514446,-0.126545,2016-01-02
+656,Destination,Lamentine,2016_Lamentine_SaladPride,51.539219,-0.141978,2016-02-29
+657,Origin,SaladPride,2016_Lamentine_SaladPride,51.514446,-0.126545,2016-01-02
+658,Destination,The Black Penny,2016_The Black Penny_SaladPride,51.515707,-0.12126300000000001,2016-10-05
+659,Origin,SaladPride,2016_The Black Penny_SaladPride,51.514446,-0.126545,2016-01-02
+660,Destination,Balans Restaurants Ltd,2016_Balans Restaurants Ltd_SaladPride,51.513596,-0.127317,2016-06-14
+661,Origin,SaladPride,2016_Balans Restaurants Ltd_SaladPride,51.514446,-0.126545,2016-01-02
+662,Destination,Le Pain Quotidien,2016_Le Pain Quotidien_SaladPride,51.554295,-0.16628800000000002,2016-05-31
+663,Origin,SaladPride,2016_Le Pain Quotidien_SaladPride,51.514446,-0.126545,2016-01-02
+664,Destination,Spaghetti House,2016_Spaghetti House_SaladPride,51.519513,-0.133795,2016-05-04
+665,Origin,SaladPride,2016_Spaghetti House_SaladPride,51.514446,-0.126545,2016-01-02
+666,Destination,OKA Restaurant,2016_OKA Restaurant_SaladPride,51.541273,-0.157718,2016-02-08
+667,Origin,SaladPride,2016_OKA Restaurant_SaladPride,51.514446,-0.126545,2016-01-02
+668,Destination,Marriott Hotel Maida Vale,2016_Marriott Hotel Maida Vale_SaladPride,51.535973999999996,-0.190412,2016-07-21
+669,Origin,SaladPride,2016_Marriott Hotel Maida Vale_SaladPride,51.514446,-0.126545,2016-01-02
+670,Destination,Rock and Sole Plaice,2016_Rock and Sole Plaice_SaladPride,51.514406,-0.12488599999999998,2016-04-15
+671,Origin,SaladPride,2016_Rock and Sole Plaice_SaladPride,51.514446,-0.126545,2016-01-02
+672,Destination,Cagneys,2016_Cagneys_SaladPride,51.520839,-0.12166400000000001,2016-02-08
+673,Origin,SaladPride,2016_Cagneys_SaladPride,51.514446,-0.126545,2016-01-02
+674,Destination,Rugby Tavern,2016_Rugby Tavern_SaladPride,51.522104999999996,-0.116994,2016-02-06
+675,Origin,SaladPride,2016_Rugby Tavern_SaladPride,51.514446,-0.126545,2016-01-02
+676,Destination,The Yorkshire Grey,2016_The Yorkshire Grey_SaladPride,51.521265,-0.11384000000000001,2016-03-14
+677,Origin,SaladPride,2016_The Yorkshire Grey_SaladPride,51.514446,-0.126545,2016-01-02
+678,Destination,Wired Co,2016_Wired Co_SaladPride,51.546657,-0.19045499999999999,2016-06-20
+679,Origin,SaladPride,2016_Wired Co_SaladPride,51.514446,-0.126545,2016-01-02
+680,Destination,Eat Ltd,2016_Eat Ltd_SaladPride,51.518089,-0.121324,2016-09-06
+681,Origin,SaladPride,2016_Eat Ltd_SaladPride,51.514446,-0.126545,2016-01-02
+682,Destination,Le Tea Cosy Cafe,2016_Le Tea Cosy Cafe_SaladPride,51.540818,-0.158121,2016-12-14
+683,Origin,SaladPride,2016_Le Tea Cosy Cafe_SaladPride,51.514446,-0.126545,2016-01-02
+684,Destination,Centrale  Delicatessen,2016_Centrale  Delicatessen_SaladPride,51.54314,-0.148383,2016-06-24
+685,Origin,SaladPride,2016_Centrale  Delicatessen_SaladPride,51.514446,-0.126545,2016-01-02
+686,Destination,Canela Cafe,2016_Canela Cafe_SaladPride,51.514056,-0.12601400000000001,2016-07-19
+687,Origin,SaladPride,2016_Canela Cafe_SaladPride,51.514446,-0.126545,2016-01-02
+688,Destination,Tea and Glory Ltd,2016_Tea and Glory Ltd_SaladPride,51.543233,-0.147024,2016-10-24
+689,Origin,SaladPride,2016_Tea and Glory Ltd_SaladPride,51.514446,-0.126545,2016-01-02
+690,Destination,Bisou Cafe Diner,2016_Bisou Cafe Diner_SaladPride,51.529988,-0.11699999999999999,2016-03-22
+691,Origin,SaladPride,2016_Bisou Cafe Diner_SaladPride,51.514446,-0.126545,2016-01-02
+692,Destination,Franco Manca,2016_Franco Manca_SaladPride,51.550323,-0.141154,2016-10-13
+693,Origin,SaladPride,2016_Franco Manca_SaladPride,51.514446,-0.126545,2016-01-02
+694,Destination,L'Absinthe,2016_L'Absinthe_SaladPride,51.540301,-0.15378,2016-06-14
+695,Origin,SaladPride,2016_L'Absinthe_SaladPride,51.514446,-0.126545,2016-01-02
+696,Destination,The Wet Fish Cafe,2016_The Wet Fish Cafe_SaladPride,51.551158,-0.191369,2016-08-23
+697,Origin,SaladPride,2016_The Wet Fish Cafe_SaladPride,51.514446,-0.126545,2016-01-02
+698,Destination,The Crown,2016_The Crown_SaladPride,51.514389,-0.12725799999999998,2016-06-05
+699,Origin,SaladPride,2016_The Crown_SaladPride,51.514446,-0.126545,2016-01-02
+700,Destination,Coffee Blooms,2016_Coffee Blooms_SaladPride,51.521384999999995,-0.11891600000000001,2016-09-20
+701,Origin,SaladPride,2016_Coffee Blooms_SaladPride,51.514446,-0.126545,2016-01-02
+702,Destination,Bloomsbury Tavern,2016_Bloomsbury Tavern_SaladPride,51.516890999999994,-0.12531,2016-10-05
+703,Origin,SaladPride,2016_Bloomsbury Tavern_SaladPride,51.514446,-0.126545,2016-01-02
+704,Destination,My Village Cafe,2016_My Village Cafe_SaladPride,51.54314,-0.148383,2016-11-16
+705,Origin,SaladPride,2016_My Village Cafe_SaladPride,51.514446,-0.126545,2016-01-02
+706,Destination,Cagney's,2016_Cagney's_SaladPride,51.520839,-0.12166400000000001,2016-10-27
+707,Origin,SaladPride,2016_Cagney's_SaladPride,51.514446,-0.126545,2016-01-02
+708,Destination,Homeslice,2016_Homeslice_SaladPride,51.514446,-0.126545,2016-09-09
+709,Origin,SaladPride,2016_Homeslice_SaladPride,51.514446,-0.126545,2016-01-02
+710,Destination,IL Primo,2016_IL Primo_SaladPride,51.546611999999996,-0.161548,2016-11-05
+711,Origin,SaladPride,2016_IL Primo_SaladPride,51.514446,-0.126545,2016-01-02
+712,Destination,Pret a Manger,2016_Pret a Manger_SaladPride,51.51562,-0.138658,2016-03-05
+713,Origin,SaladPride,2016_Pret a Manger_SaladPride,51.514446,-0.126545,2016-01-02
+714,Destination,The Horseshoe,2016_The Horseshoe_SaladPride,51.55619,-0.178368,2016-04-21
+715,Origin,SaladPride,2016_The Horseshoe_SaladPride,51.514446,-0.126545,2016-01-02
+716,Destination,Hotel Chocolat,2016_Hotel Chocolat_SaladPride,51.514962,-0.12751800000000002,2016-08-30
+717,Origin,SaladPride,2016_Hotel Chocolat_SaladPride,51.514446,-0.126545,2016-01-02
+718,Destination,Mcdonald's restaurant,2016_Mcdonald's restaurant_SaladPride,51.523937,-0.138173,2016-10-10
+719,Origin,SaladPride,2016_Mcdonald's restaurant_SaladPride,51.514446,-0.126545,2016-01-02
+720,Destination,Bonjour Brioche Cafe,2016_Bonjour Brioche Cafe_SaladPride,51.546611999999996,-0.161548,2016-10-18
+721,Origin,SaladPride,2016_Bonjour Brioche Cafe_SaladPride,51.514446,-0.126545,2016-01-02
+722,Destination,Rising Sun,2016_Rising Sun_SaladPride,51.519513,-0.133795,2016-06-10
+723,Origin,SaladPride,2016_Rising Sun_SaladPride,51.514446,-0.126545,2016-01-02
+724,Destination,Meadows Cafe,2016_Meadows Cafe_SaladPride,51.548138,-0.141677,2016-11-30
+725,Origin,SaladPride,2016_Meadows Cafe_SaladPride,51.514446,-0.126545,2016-01-02
+726,Destination,Mezza Eatery,2016_Mezza Eatery_SaladPride,51.534911,-0.139649,2016-10-19
+727,Origin,SaladPride,2016_Mezza Eatery_SaladPride,51.514446,-0.126545,2016-01-02
+728,Destination,Sorrento Snack Bar,2016_Sorrento Snack Bar_SaladPride,51.526845,-0.129579,2016-02-08
+729,Origin,SaladPride,2016_Sorrento Snack Bar_SaladPride,51.514446,-0.126545,2016-01-02
+730,Destination,Good Pizza,2016_Good Pizza_SaladPride,51.520227,-0.12197000000000001,2016-06-22
+731,Origin,SaladPride,2016_Good Pizza_SaladPride,51.514446,-0.126545,2016-01-02
+732,Destination,Gold Fish,2016_Gold Fish_SaladPride,51.555869,-0.175292,2016-11-05
+733,Origin,SaladPride,2016_Gold Fish_SaladPride,51.514446,-0.126545,2016-01-02
+734,Destination,Queens Public House,2016_Queens Public House_SaladPride,51.540818,-0.158121,2016-11-22
+735,Origin,SaladPride,2016_Queens Public House_SaladPride,51.514446,-0.126545,2016-01-02
+736,Destination,Campbell's Canal  Cafe,2016_Campbell's Canal  Cafe_SaladPride,51.541090000000004,-0.145348,2016-04-14
+737,Origin,SaladPride,2016_Campbell's Canal  Cafe_SaladPride,51.514446,-0.126545,2016-01-02
+738,Destination,Mimmo La Bufala,2016_Mimmo La Bufala_SaladPride,51.555367,-0.167068,2016-03-23
+739,Origin,SaladPride,2016_Mimmo La Bufala_SaladPride,51.514446,-0.126545,2016-01-02
+740,Destination,Two Brewers,2016_Two Brewers_SaladPride,51.513243,-0.127366,2016-07-21
+741,Origin,SaladPride,2016_Two Brewers_SaladPride,51.514446,-0.126545,2016-01-02
+742,Destination,Leon,2016_Leon_SaladPride,51.515423,-0.13683900000000002,2016-03-22
+743,Origin,SaladPride,2016_Leon_SaladPride,51.514446,-0.126545,2016-01-02
+744,Destination,Cafe ( Knightwalk Restaurant Ltd),2016_Cafe ( Knightwalk Restaurant Ltd)_SaladPride,51.517405,-0.119842,2016-06-27
+745,Origin,SaladPride,2016_Cafe ( Knightwalk Restaurant Ltd)_SaladPride,51.514446,-0.126545,2016-01-02
+746,Destination,The Flask Public House,2016_The Flask Public House_SaladPride,51.556693,-0.176761,2016-04-25
+747,Origin,SaladPride,2016_The Flask Public House_SaladPride,51.514446,-0.126545,2016-01-02
+748,Destination,The Place ( Contemporary Dance Trust ),2016_The Place ( Contemporary Dance Trust )_SaladPride,51.527645,-0.128604,2016-11-16
+749,Origin,SaladPride,2016_The Place ( Contemporary Dance Trust )_SaladPride,51.514446,-0.126545,2016-01-02
+750,Destination,Friend At Hand,2016_Friend At Hand_SaladPride,51.52268,-0.12503599999999998,2016-06-05
+751,Origin,SaladPride,2016_Friend At Hand_SaladPride,51.514446,-0.126545,2016-01-02
+752,Destination,Venchi,2016_Venchi_SaladPride,51.555873999999996,-0.177993,2016-01-20
+753,Origin,SaladPride,2016_Venchi_SaladPride,51.514446,-0.126545,2016-01-02
+754,Destination,Cafe Rouge,2016_Cafe Rouge_SaladPride,51.515423,-0.176816,2016-06-13
+755,Origin,SaladPride,2016_Cafe Rouge_SaladPride,51.514446,-0.126545,2016-01-02
+756,Destination,Wildwood Kitchen,2016_Wildwood Kitchen_SaladPride,51.514962,-0.12751800000000002,2016-09-22
+757,Origin,SaladPride,2016_Wildwood Kitchen_SaladPride,51.514446,-0.126545,2016-01-02
+758,Destination,Beriso,2016_Beriso_SaladPride,51.518268,-0.11845499999999999,2016-10-25
+759,Origin,SaladPride,2016_Beriso_SaladPride,51.514446,-0.126545,2016-01-02
+760,Destination,Dim T,2016_Dim T_SaladPride,51.571441,-0.15045999999999998,2016-03-14
+761,Origin,SaladPride,2016_Dim T_SaladPride,51.514446,-0.126545,2016-01-02
+762,Destination,Museum Tavern,2016_Museum Tavern_SaladPride,51.518343,-0.12531199999999998,2016-06-10
+763,Origin,SaladPride,2016_Museum Tavern_SaladPride,51.514446,-0.126545,2016-01-02
+764,Destination,Coco Di Mama,2016_Coco Di Mama_SaladPride,51.518529,-0.108519,2016-10-14
+765,Origin,SaladPride,2016_Coco Di Mama_SaladPride,51.514446,-0.126545,2016-01-02
+766,Destination,Hush Brasseries,2016_Hush Brasseries_SaladPride,51.518268,-0.11845499999999999,2016-02-18
+767,Origin,SaladPride,2016_Hush Brasseries_SaladPride,51.514446,-0.126545,2016-01-02
+768,Destination,Fabrique Limitd,2016_Fabrique Limitd_SaladPride,51.519021,-0.135793,2016-09-22
+769,Origin,SaladPride,2016_Fabrique Limitd_SaladPride,51.514446,-0.126545,2016-01-02
+770,Destination,Subway,2016_Subway_SaladPride,51.539219,-0.141978,2016-06-26
+771,Origin,SaladPride,2016_Subway_SaladPride,51.514446,-0.126545,2016-01-02
+772,Destination,26 Grains,2016_26 Grains_SaladPride,51.514446,-0.126545,2016-08-24
+773,Origin,SaladPride,2016_26 Grains_SaladPride,51.514446,-0.126545,2016-01-02
+774,Destination,Washington,2016_Washington_SaladPride,51.545876,-0.162983,2016-11-22
+775,Origin,SaladPride,2016_Washington_SaladPride,51.514446,-0.126545,2016-01-02
+776,Destination,Zara Caffee,2016_Zara Caffee_SaladPride,51.542081,-0.180533,2016-03-14
+777,Origin,SaladPride,2016_Zara Caffee_SaladPride,51.514446,-0.126545,2016-01-02
+778,Destination,Al Parco,2016_Al Parco_SaladPride,51.539139,-0.14369500000000002,2016-06-20
+779,Origin,SaladPride,2016_Al Parco_SaladPride,51.514446,-0.126545,2016-01-02
+780,Destination,Compagnie Des Vins Surnaturel,2016_Compagnie Des Vins Surnaturel_SaladPride,51.514446,-0.126545,2016-11-16
+781,Origin,SaladPride,2016_Compagnie Des Vins Surnaturel_SaladPride,51.514446,-0.126545,2016-01-02
+782,Destination,Marine Ices,2016_Marine Ices_SaladPride,51.543572999999995,-0.15024200000000001,2016-10-03
+783,Origin,SaladPride,2016_Marine Ices_SaladPride,51.514446,-0.126545,2016-01-02
+784,Destination,The Euston Flyer,2016_The Euston Flyer_SaladPride,51.528517,-0.126822,2016-03-03
+785,Origin,SaladPride,2016_The Euston Flyer_SaladPride,51.514446,-0.126545,2016-01-02
+786,Destination,Tuttis,2016_Tuttis_SaladPride,51.522684000000005,-0.118774,2016-10-05
+787,Origin,SaladPride,2016_Tuttis_SaladPride,51.514446,-0.126545,2016-01-02
+788,Destination,The Diner,2016_The Diner_SaladPride,51.515044,-0.126064,2016-08-30
+789,Origin,SaladPride,2016_The Diner_SaladPride,51.514446,-0.126545,2016-01-02
+790,Destination,Knockbox Coffee,2016_Knockbox Coffee_SaladPride,51.521363,-0.117827,2016-01-23
+791,Origin,SaladPride,2016_Knockbox Coffee_SaladPride,51.514446,-0.126545,2016-01-02
+792,Destination,Starbucks Coffee Co ( UK) Ltd,2016_Starbucks Coffee Co ( UK) Ltd_SaladPride,51.545268,-0.16252,2016-08-26
+793,Origin,SaladPride,2016_Starbucks Coffee Co ( UK) Ltd_SaladPride,51.514446,-0.126545,2016-01-02
+794,Destination,Swan,2016_Swan_SaladPride,51.521776,-0.12359300000000001,2016-10-13
+795,Origin,SaladPride,2016_Swan_SaladPride,51.514446,-0.126545,2016-01-02
+796,Destination,Jar Kitchen,2016_Jar Kitchen_SaladPride,51.516075,-0.122922,2016-06-04
+797,Origin,SaladPride,2016_Jar Kitchen_SaladPride,51.514446,-0.126545,2016-01-02
+798,Destination,Noble Rot Ltd,2016_Noble Rot Ltd_SaladPride,51.521754,-0.11884700000000001,2016-09-05
+799,Origin,SaladPride,2016_Noble Rot Ltd_SaladPride,51.514446,-0.126545,2016-01-02
+800,Destination,The Argyle,2016_The Argyle_SaladPride,51.518529,-0.108519,2016-01-14
+801,Origin,SaladPride,2016_The Argyle_SaladPride,51.514446,-0.126545,2016-01-02
+802,Destination,Railway,2016_Railway_SaladPride,51.546124,-0.19050799999999998,2016-04-22
+803,Origin,SaladPride,2016_Railway_SaladPride,51.514446,-0.126545,2016-01-02
+804,Destination,Moment Coffee Bar Ltd,2016_Moment Coffee Bar Ltd_SaladPride,51.551158,-0.191369,2016-06-14
+805,Origin,SaladPride,2016_Moment Coffee Bar Ltd_SaladPride,51.514446,-0.126545,2016-01-02
+806,Destination,York and Albany,2016_York and Albany_SaladPride,51.53608,-0.146199,2016-11-22
+807,Origin,SaladPride,2016_York and Albany_SaladPride,51.514446,-0.126545,2016-01-02
+808,Destination,Five Guys,2016_Five Guys_SaladPride,51.516945,-0.12989,2016-06-12
+809,Origin,SaladPride,2016_Five Guys_SaladPride,51.514446,-0.126545,2016-01-02
+810,Destination,Belushi's Bar,2016_Belushi's Bar_SaladPride,51.536631,-0.14013499999999998,2016-03-25
+811,Origin,SaladPride,2016_Belushi's Bar_SaladPride,51.514446,-0.126545,2016-01-02
+812,Destination,Busaba Eathai,2016_Busaba Eathai_SaladPride,51.519946999999995,-0.133178,2016-09-05
+813,Origin,SaladPride,2016_Busaba Eathai_SaladPride,51.514446,-0.126545,2016-01-02
+814,Destination,Melrose and Morgan,2016_Melrose and Morgan_SaladPride,51.540572999999995,-0.177993,2016-11-03
+815,Origin,SaladPride,2016_Melrose and Morgan_SaladPride,51.514446,-0.126545,2016-01-02
+816,Destination,XO Restaurant,2016_XO Restaurant_SaladPride,51.549339,-0.171002,2016-05-08
+817,Origin,SaladPride,2016_XO Restaurant_SaladPride,51.514446,-0.126545,2016-01-02
+818,Destination,Tortilla,2016_Tortilla_SaladPride,51.52268,-0.12503599999999998,2016-03-11
+819,Origin,SaladPride,2016_Tortilla_SaladPride,51.514446,-0.126545,2016-01-02
+820,Destination,Doppia Coffee,2016_Doppia Coffee_SaladPride,51.545931,-0.14239000000000002,2016-05-26
+821,Origin,SaladPride,2016_Doppia Coffee_SaladPride,51.514446,-0.126545,2016-01-02
+822,Destination,Pomme De Pain Sandwich and Cafe,2016_Pomme De Pain Sandwich and Cafe_SaladPride,51.517452,-0.130432,2016-08-23
+823,Origin,SaladPride,2016_Pomme De Pain Sandwich and Cafe_SaladPride,51.514446,-0.126545,2016-01-02
+824,Destination,Da Mario Restaurant,2016_Da Mario Restaurant_SaladPride,51.515044,-0.126064,2016-04-26
+825,Origin,SaladPride,2016_Da Mario Restaurant_SaladPride,51.514446,-0.126545,2016-01-02
+826,Destination,The Lyttelton Arms,2016_The Lyttelton Arms_SaladPride,51.534911,-0.139649,2016-02-17
+827,Origin,SaladPride,2016_The Lyttelton Arms_SaladPride,51.514446,-0.126545,2016-01-02
+828,Destination,The Conduit Coffee House,2016_The Conduit Coffee House_SaladPride,51.521754,-0.11884700000000001,2016-01-19
+829,Origin,SaladPride,2016_The Conduit Coffee House_SaladPride,51.514446,-0.126545,2016-01-02
+830,Destination,The Monarch,2016_The Monarch_SaladPride,51.54314,-0.148383,2016-10-05
+831,Origin,SaladPride,2016_The Monarch_SaladPride,51.514446,-0.126545,2016-01-02
+832,Destination,Banana Tree,2016_Banana Tree_SaladPride,51.549248999999996,-0.191669,2016-07-19
+833,Origin,SaladPride,2016_Banana Tree_SaladPride,51.514446,-0.126545,2016-01-02
+834,Destination,Karma Bread Ltd,2016_Karma Bread Ltd_SaladPride,51.554295,-0.16628800000000002,2016-10-21
+835,Origin,SaladPride,2016_Karma Bread Ltd_SaladPride,51.514446,-0.126545,2016-01-02
+836,Destination,Costa Coffee,2016_Costa Coffee_SaladPride,51.519956,-0.177052,2016-01-09
+837,Origin,SaladPride,2016_Costa Coffee_SaladPride,51.514446,-0.126545,2016-01-02
+838,Destination,Truly Scrumptious,2016_Truly Scrumptious_SaladPride,51.543572999999995,-0.15024200000000001,2016-11-16
+839,Origin,SaladPride,2016_Truly Scrumptious_SaladPride,51.514446,-0.126545,2016-01-02
+840,Destination,Bull and Gate,2016_Bull and Gate_SaladPride,51.551885,-0.141932,2016-01-09
+841,Origin,SaladPride,2016_Bull and Gate_SaladPride,51.514446,-0.126545,2016-01-02
+842,Destination,Double J's Sandwich Bar,2016_Double J's Sandwich Bar_SaladPride,51.524398,-0.139311,2016-07-21
+843,Origin,SaladPride,2016_Double J's Sandwich Bar_SaladPride,51.514446,-0.126545,2016-01-02
+844,Destination,Pizza Hut,2016_Pizza Hut_SaladPride,51.521776,-0.12359300000000001,2016-12-10
+845,Origin,SaladPride,2016_Pizza Hut_SaladPride,51.514446,-0.126545,2016-01-02
+846,Destination,Mon Plaisir Restaurant,2016_Mon Plaisir Restaurant_SaladPride,51.514446,-0.126545,2016-02-08
+847,Origin,SaladPride,2016_Mon Plaisir Restaurant_SaladPride,51.514446,-0.126545,2016-01-02
+848,Destination,Amarcord Museum,2016_Amarcord Museum_SaladPride,51.517865,-0.12620499999999998,2016-10-24
+849,Origin,SaladPride,2016_Amarcord Museum_SaladPride,51.514446,-0.126545,2016-01-02
+850,Destination,Goodfare Cafe,2016_Goodfare Cafe_SaladPride,51.539139,-0.14369500000000002,2016-01-15
+851,Origin,SaladPride,2016_Goodfare Cafe_SaladPride,51.514446,-0.126545,2016-01-02
+852,Destination,Queens Head,2016_Queens Head_SaladPride,51.520793,-0.11748800000000001,2016-02-29
+853,Origin,SaladPride,2016_Queens Head_SaladPride,51.514446,-0.126545,2016-01-02
+854,Destination,Bunga Bunga,2016_Bunga Bunga_SaladPride,51.51578,-0.12225699999999999,2016-04-21
+855,Origin,SaladPride,2016_Bunga Bunga_SaladPride,51.514446,-0.126545,2016-01-02
+856,Destination,Princess of Wales,2016_Princess of Wales_SaladPride,51.540301,-0.15378,2016-10-03
+857,Origin,SaladPride,2016_Princess of Wales_SaladPride,51.514446,-0.126545,2016-01-02
+858,Destination,Adobo,2014_Adobo_Crown Cafe,51.518268,-0.11845499999999999,2014-04-14
+859,Origin,Crown Cafe,2014_Adobo_Crown Cafe,51.535618,-0.134023,2014-01-04
+860,Destination,Chives,2014_Chives_Crown Cafe,51.526845,-0.129579,2014-03-06
+861,Origin,Crown Cafe,2014_Chives_Crown Cafe,51.535618,-0.134023,2014-01-04
+862,Destination,Eves Sandwich Bar,2014_Eves Sandwich Bar_Crown Cafe,51.517914000000005,-0.12887,2014-01-28
+863,Origin,Crown Cafe,2014_Eves Sandwich Bar_Crown Cafe,51.535618,-0.134023,2014-01-04
+864,Destination,Banana Tree Canteen,2014_Banana Tree Canteen_Crown Cafe,51.549248999999996,-0.191669,2014-05-27
+865,Origin,Crown Cafe,2014_Banana Tree Canteen_Crown Cafe,51.535618,-0.134023,2014-01-04
+866,Destination,Cigala Restaurant,2014_Cigala Restaurant_Crown Cafe,51.522244,-0.118002,2014-01-21
+867,Origin,Crown Cafe,2014_Cigala Restaurant_Crown Cafe,51.535618,-0.134023,2014-01-04
+868,Destination,The Queens Public House,2014_The Queens Public House_Crown Cafe,51.540818,-0.158121,2014-03-01
+869,Origin,Crown Cafe,2014_The Queens Public House_Crown Cafe,51.535618,-0.134023,2014-01-04
+870,Destination,Ruskins Cafe,2014_Ruskins Cafe_Crown Cafe,51.517687,-0.125027,2014-05-22
+871,Origin,Crown Cafe,2014_Ruskins Cafe_Crown Cafe,51.535618,-0.134023,2014-01-04
+872,Destination,Chez Bob,2014_Chez Bob_Crown Cafe,51.550631,-0.165875,2014-02-14
+873,Origin,Crown Cafe,2014_Chez Bob_Crown Cafe,51.535618,-0.134023,2014-01-04
+874,Destination,6 St Chad's Place,2014_6 St Chad's Place_Crown Cafe,51.530577,-0.119622,2014-01-16
+875,Origin,Crown Cafe,2014_6 St Chad's Place_Crown Cafe,51.535618,-0.134023,2014-01-04
+876,Destination,Nandos,2014_Nandos_Crown Cafe,51.543572999999995,-0.15024200000000001,2014-10-23
+877,Origin,Crown Cafe,2014_Nandos_Crown Cafe,51.535618,-0.134023,2014-01-04
+878,Destination,KAMPS,2014_KAMPS_Crown Cafe,51.523398,-0.136463,2014-12-15
+879,Origin,Crown Cafe,2014_KAMPS_Crown Cafe,51.535618,-0.134023,2014-01-04
+880,Destination,Rossopomodoro,2014_Rossopomodoro_Crown Cafe,51.513243,-0.127366,2014-02-01
+881,Origin,Crown Cafe,2014_Rossopomodoro_Crown Cafe,51.535618,-0.134023,2014-01-04
+882,Destination,XO Restaurant,2014_XO Restaurant_Crown Cafe,51.549339,-0.171002,2014-04-09
+883,Origin,Crown Cafe,2014_XO Restaurant_Crown Cafe,51.535618,-0.134023,2014-01-04
+884,Destination,Starbucks Coffee,2014_Starbucks Coffee_Crown Cafe,51.516945,-0.19143,2014-05-20
+885,Origin,Crown Cafe,2014_Starbucks Coffee_Crown Cafe,51.535618,-0.134023,2014-01-04
+886,Destination,Euphorium Bakery,2014_Euphorium Bakery_Crown Cafe,51.555367,-0.167068,2014-06-05
+887,Origin,Crown Cafe,2014_Euphorium Bakery_Crown Cafe,51.535618,-0.134023,2014-01-04
+888,Destination,The Monarch,2014_The Monarch_Crown Cafe,51.54314,-0.148383,2014-05-27
+889,Origin,Crown Cafe,2014_The Monarch_Crown Cafe,51.535618,-0.134023,2014-01-04
+890,Destination,Knockbox Coffee,2014_Knockbox Coffee_Crown Cafe,51.521363,-0.117827,2014-07-29
+891,Origin,Crown Cafe,2014_Knockbox Coffee_Crown Cafe,51.535618,-0.134023,2014-01-04
+892,Destination,Caradell,2014_Caradell_Crown Cafe,51.519397,-0.11733099999999999,2014-07-23
+893,Origin,Crown Cafe,2014_Caradell_Crown Cafe,51.535618,-0.134023,2014-01-04
+894,Destination,The Food Place,2014_The Food Place_Crown Cafe,51.532058,-0.130245,2014-01-29
+895,Origin,Crown Cafe,2014_The Food Place_Crown Cafe,51.535618,-0.134023,2014-01-04
+896,Destination,Rocket Restaurant,2014_Rocket Restaurant_Crown Cafe,51.515819,-0.118702,2014-12-12
+897,Origin,Crown Cafe,2014_Rocket Restaurant_Crown Cafe,51.535618,-0.134023,2014-01-04
+898,Destination,Bleeding Heart Restaurant,2014_Bleeding Heart Restaurant_Crown Cafe,51.518941,-0.106305,2014-09-04
+899,Origin,Crown Cafe,2014_Bleeding Heart Restaurant_Crown Cafe,51.535618,-0.134023,2014-01-04
+900,Destination,Dylans Bakery,2014_Dylans Bakery_Crown Cafe,51.551787,-0.19178699999999999,2014-08-28
+901,Origin,Crown Cafe,2014_Dylans Bakery_Crown Cafe,51.535618,-0.134023,2014-01-04
+902,Destination,Artigiano Espresso Bar,2014_Artigiano Espresso Bar_Crown Cafe,51.51685,-0.128578,2014-01-23
+903,Origin,Crown Cafe,2014_Artigiano Espresso Bar_Crown Cafe,51.535618,-0.134023,2014-01-04
+904,Destination,Zama Zingo,2014_Zama Zingo_Crown Cafe,51.554378,-0.16508299999999998,2014-12-03
+905,Origin,Crown Cafe,2014_Zama Zingo_Crown Cafe,51.535618,-0.134023,2014-01-04
+906,Destination,Daddy Donkey Mexican Grill,2014_Daddy Donkey Mexican Grill_Crown Cafe,51.521044,-0.10923499999999998,2014-06-22
+907,Origin,Crown Cafe,2014_Daddy Donkey Mexican Grill_Crown Cafe,51.535618,-0.134023,2014-01-04
+908,Destination,La Gourmetteria,2014_La Gourmetteria_Crown Cafe,51.521754,-0.11884700000000001,2014-02-01
+909,Origin,Crown Cafe,2014_La Gourmetteria_Crown Cafe,51.535618,-0.134023,2014-01-04
+910,Destination,Pret A Manger,2014_Pret A Manger_Crown Cafe,51.518089,-0.138173,2014-01-14
+911,Origin,Crown Cafe,2014_Pret A Manger_Crown Cafe,51.535618,-0.134023,2014-01-04
+912,Destination,Caffe Nero,2014_Caffe Nero_Crown Cafe,51.521433,-0.19178699999999999,2014-02-04
+913,Origin,Crown Cafe,2014_Caffe Nero_Crown Cafe,51.535618,-0.134023,2014-01-04
+914,Destination,Sushi Bar Atariya,2014_Sushi Bar Atariya_Crown Cafe,51.542473,-0.180059,2014-08-27
+915,Origin,Crown Cafe,2014_Sushi Bar Atariya_Crown Cafe,51.535618,-0.134023,2014-01-04
+916,Destination,Belushis Bar,2014_Belushis Bar_Crown Cafe,51.536631,-0.14013499999999998,2014-10-06
+917,Origin,Crown Cafe,2014_Belushis Bar_Crown Cafe,51.535618,-0.134023,2014-01-04
+918,Destination,The Horseshoe,2014_The Horseshoe_Crown Cafe,51.55619,-0.178368,2014-05-28
+919,Origin,Crown Cafe,2014_The Horseshoe_Crown Cafe,51.535618,-0.134023,2014-01-04
+920,Destination,The Bountiful Cow,2014_The Bountiful Cow_Crown Cafe,51.518976,-0.117914,2014-07-04
+921,Origin,Crown Cafe,2014_The Bountiful Cow_Crown Cafe,51.535618,-0.134023,2014-01-04
+922,Destination,Lamentine,2014_Lamentine_Crown Cafe,51.539219,-0.141978,2014-03-17
+923,Origin,Crown Cafe,2014_Lamentine_Crown Cafe,51.535618,-0.134023,2014-01-04
+924,Destination,Starbuck Coffee,2014_Starbuck Coffee_Crown Cafe,51.528517,-0.126822,2014-10-09
+925,Origin,Crown Cafe,2014_Starbuck Coffee_Crown Cafe,51.535618,-0.134023,2014-01-04
+926,Destination,Lemonia,2014_Lemonia_Crown Cafe,51.542027000000004,-0.157269,2014-10-04
+927,Origin,Crown Cafe,2014_Lemonia_Crown Cafe,51.535618,-0.134023,2014-01-04
+928,Destination,The Diner,2014_The Diner_Crown Cafe,51.515044,-0.126064,2014-05-27
+929,Origin,Crown Cafe,2014_The Diner_Crown Cafe,51.535618,-0.134023,2014-01-04
+930,Destination,Garfunkels Restaurant,2014_Garfunkels Restaurant_Crown Cafe,51.516945,-0.12989,2014-01-22
+931,Origin,Crown Cafe,2014_Garfunkels Restaurant_Crown Cafe,51.535618,-0.134023,2014-01-04
+932,Destination,Amarcord Museum,2014_Amarcord Museum_Crown Cafe,51.517865,-0.12620499999999998,2014-06-18
+933,Origin,Crown Cafe,2014_Amarcord Museum_Crown Cafe,51.535618,-0.134023,2014-01-04
+934,Destination,Goodfare Cafe Restaurant,2014_Goodfare Cafe Restaurant_Crown Cafe,51.539139,-0.14369500000000002,2014-01-30
+935,Origin,Crown Cafe,2014_Goodfare Cafe Restaurant_Crown Cafe,51.535618,-0.134023,2014-01-04
+936,Destination,Costa Coffee,2014_Costa Coffee_Crown Cafe,51.51726,-0.126603,2014-02-01
+937,Origin,Crown Cafe,2014_Costa Coffee_Crown Cafe,51.535618,-0.134023,2014-01-04
+938,Destination,The Blue Lion,2014_The Blue Lion_Crown Cafe,51.523551,-0.11578,2014-03-20
+939,Origin,Crown Cafe,2014_The Blue Lion_Crown Cafe,51.535618,-0.134023,2014-01-04
+940,Destination,Leon,2014_Leon_Crown Cafe,51.519006,-0.13683900000000002,2014-05-13
+941,Origin,Crown Cafe,2014_Leon_Crown Cafe,51.535618,-0.134023,2014-01-04
+942,Destination,Fish Cafe,2014_Fish Cafe_Crown Cafe,51.555759,-0.177656,2014-12-24
+943,Origin,Crown Cafe,2014_Fish Cafe_Crown Cafe,51.535618,-0.134023,2014-01-04
+944,Destination,Bills,2014_Bills_Crown Cafe,51.515819,-0.118702,2014-05-02
+945,Origin,Crown Cafe,2014_Bills_Crown Cafe,51.535618,-0.134023,2014-01-04
+946,Destination,The Euston Flyer,2014_The Euston Flyer_Crown Cafe,51.528517,-0.126822,2014-02-14
+947,Origin,Crown Cafe,2014_The Euston Flyer_Crown Cafe,51.535618,-0.134023,2014-01-04
+948,Destination,Chilango Mexican Kitchen,2014_Chilango Mexican Kitchen_Crown Cafe,51.537827,-0.141005,2014-09-25
+949,Origin,Crown Cafe,2014_Chilango Mexican Kitchen_Crown Cafe,51.535618,-0.134023,2014-01-04
+950,Destination,Dannys,2014_Dannys_Crown Cafe,51.521384999999995,-0.11891600000000001,2014-05-16
+951,Origin,Crown Cafe,2014_Dannys_Crown Cafe,51.535618,-0.134023,2014-01-04
+952,Destination,Chilango,2014_Chilango_Crown Cafe,51.518529,-0.141005,2014-05-23
+953,Origin,Crown Cafe,2014_Chilango_Crown Cafe,51.535618,-0.134023,2014-01-04
+954,Destination,Belgo,2014_Belgo_Crown Cafe,51.515103,-0.119874,2014-04-24
+955,Origin,Crown Cafe,2014_Belgo_Crown Cafe,51.535618,-0.134023,2014-01-04
+956,Destination,Loaf,2014_Loaf_Crown Cafe,51.521703,-0.136071,2014-12-03
+957,Origin,Crown Cafe,2014_Loaf_Crown Cafe,51.535618,-0.134023,2014-01-04
+958,Destination,Double J's Sandwich Bar,2014_Double J's Sandwich Bar_Crown Cafe,51.524398,-0.139311,2014-07-22
+959,Origin,Crown Cafe,2014_Double J's Sandwich Bar_Crown Cafe,51.535618,-0.134023,2014-01-04
+960,Destination,Marriott Hotel Maida Vale,2014_Marriott Hotel Maida Vale_Crown Cafe,51.535973999999996,-0.190412,2014-11-28
+961,Origin,Crown Cafe,2014_Marriott Hotel Maida Vale_Crown Cafe,51.535618,-0.134023,2014-01-04
+962,Destination,McDonalds Restaurant LTD,2014_McDonalds Restaurant LTD_Crown Cafe,51.523937,-0.138173,2014-01-10
+963,Origin,Crown Cafe,2014_McDonalds Restaurant LTD_Crown Cafe,51.535618,-0.134023,2014-01-04
+964,Destination,Ginger & White,2014_Ginger & White_Crown Cafe,51.555611,-0.17816400000000002,2014-02-12
+965,Origin,Crown Cafe,2014_Ginger & White_Crown Cafe,51.535618,-0.134023,2014-01-04
+966,Destination,Pret a Manger,2014_Pret a Manger_Crown Cafe,51.517041,-0.138658,2014-04-14
+967,Origin,Crown Cafe,2014_Pret a Manger_Crown Cafe,51.535618,-0.134023,2014-01-04
+968,Destination,Greggs,2014_Greggs_Crown Cafe,51.521703,-0.136071,2014-04-04
+969,Origin,Crown Cafe,2014_Greggs_Crown Cafe,51.535618,-0.134023,2014-01-04
+970,Destination,Odeon Cinema,2014_Odeon Cinema_Crown Cafe,51.542636,-0.17460799999999999,2014-09-20
+971,Origin,Crown Cafe,2014_Odeon Cinema_Crown Cafe,51.535618,-0.134023,2014-01-04
+972,Destination,Sir Christopher Hatton,2014_Sir Christopher Hatton_Crown Cafe,51.518529,-0.108519,2014-03-27
+973,Origin,Crown Cafe,2014_Sir Christopher Hatton_Crown Cafe,51.535618,-0.134023,2014-01-04
+974,Destination,Singapore Garden,2014_Singapore Garden_Crown Cafe,51.542473,-0.180059,2014-01-23
+975,Origin,Crown Cafe,2014_Singapore Garden_Crown Cafe,51.535618,-0.134023,2014-01-04
+976,Destination,The Crown Public House,2014_The Crown Public House_Crown Cafe,51.516842,-0.126469,2014-04-24
+977,Origin,Crown Cafe,2014_The Crown Public House_Crown Cafe,51.535618,-0.134023,2014-01-04
+978,Destination,The Rock & Sole Plaice,2014_The Rock & Sole Plaice_Crown Cafe,51.514406,-0.12488599999999998,2014-02-26
+979,Origin,Crown Cafe,2014_The Rock & Sole Plaice_Crown Cafe,51.535618,-0.134023,2014-01-04
+980,Destination,Gails,2014_Gails_Crown Cafe,51.549746,-0.16428399999999999,2014-09-07
+981,Origin,Crown Cafe,2014_Gails_Crown Cafe,51.535618,-0.134023,2014-01-04
+982,Destination,Tuttis,2014_Tuttis_Crown Cafe,51.522684000000005,-0.118774,2014-04-22
+983,Origin,Crown Cafe,2014_Tuttis_Crown Cafe,51.535618,-0.134023,2014-01-04
+984,Destination,Giraffe,2014_Giraffe_Crown Cafe,51.555053,-0.172822,2014-03-04
+985,Origin,Crown Cafe,2014_Giraffe_Crown Cafe,51.535618,-0.134023,2014-01-04
+986,Destination,Cafe Eterno,2014_Cafe Eterno_Crown Cafe,51.514247999999995,-0.125254,2014-04-16
+987,Origin,Crown Cafe,2014_Cafe Eterno_Crown Cafe,51.535618,-0.134023,2014-01-04
+988,Destination,Paradise,2014_Paradise_Crown Cafe,51.555367,-0.167068,2014-10-04
+989,Origin,Crown Cafe,2014_Paradise_Crown Cafe,51.535618,-0.134023,2014-01-04
+990,Destination,Oddono's Gelati Hampstead,2014_Oddono's Gelati Hampstead_Crown Cafe,51.556783,-0.177972,2014-05-14
+991,Origin,Crown Cafe,2014_Oddono's Gelati Hampstead_Crown Cafe,51.535618,-0.134023,2014-01-04
+992,Destination,The Lyttelton Arms,2014_The Lyttelton Arms_Crown Cafe,51.534911,-0.139649,2014-10-12
+993,Origin,Crown Cafe,2014_The Lyttelton Arms_Crown Cafe,51.535618,-0.134023,2014-01-04
+994,Destination,Just Falafel,2014_Just Falafel_Crown Cafe,51.515044,-0.126064,2014-04-17
+995,Origin,Crown Cafe,2014_Just Falafel_Crown Cafe,51.535618,-0.134023,2014-01-04
+996,Destination,The Swan,2014_The Swan_Crown Cafe,51.521776,-0.12359300000000001,2014-03-09
+997,Origin,Crown Cafe,2014_The Swan_Crown Cafe,51.535618,-0.134023,2014-01-04
+998,Destination,The Plough,2014_The Plough_Crown Cafe,51.517865,-0.12620499999999998,2014-10-01
+999,Origin,Crown Cafe,2014_The Plough_Crown Cafe,51.535618,-0.134023,2014-01-04
+1000,Destination,Pod Food Ltd,2014_Pod Food Ltd_Crown Cafe,51.518529,-0.108519,2014-10-11
+1001,Origin,Crown Cafe,2014_Pod Food Ltd_Crown Cafe,51.535618,-0.134023,2014-01-04
+1002,Destination,The Old Crown Pub House,2014_The Old Crown Pub House_Crown Cafe,51.516890999999994,-0.12531,2014-05-22
+1003,Origin,Crown Cafe,2014_The Old Crown Pub House_Crown Cafe,51.535618,-0.134023,2014-01-04
+1004,Destination,Marquis of Cornwallis,2014_Marquis of Cornwallis_Crown Cafe,51.524233,-0.12493,2014-12-03
+1005,Origin,Crown Cafe,2014_Marquis of Cornwallis_Crown Cafe,51.535618,-0.134023,2014-01-04
+1006,Destination,The Rugby Tavern,2014_The Rugby Tavern_Crown Cafe,51.522104999999996,-0.116994,2014-12-05
+1007,Origin,Crown Cafe,2014_The Rugby Tavern_Crown Cafe,51.535618,-0.134023,2014-01-04
+1008,Destination,Dim T,2014_Dim T_Crown Cafe,51.571441,-0.15045999999999998,2014-04-23
+1009,Origin,Crown Cafe,2014_Dim T_Crown Cafe,51.535618,-0.134023,2014-01-04
+1010,Destination,Cafe Rouge,2014_Cafe Rouge_Crown Cafe,51.515423,-0.12989,2014-05-28
+1011,Origin,Crown Cafe,2014_Cafe Rouge_Crown Cafe,51.535618,-0.134023,2014-01-04
+1012,Destination,Krimas in Parma,2014_Krimas in Parma_Crown Cafe,51.519021,-0.135793,2014-03-17
+1013,Origin,Crown Cafe,2014_Krimas in Parma_Crown Cafe,51.535618,-0.134023,2014-01-04
+1014,Destination,Crown Cafe,2014_Crown Cafe_Crown Cafe,51.535618,-0.134023,2014-01-04
+1015,Origin,Crown Cafe,2014_Crown Cafe_Crown Cafe,51.535618,-0.134023,2014-01-04
+1016,Destination,L'Express Coffe Co Ltd,2014_L'Express Coffe Co Ltd_Crown Cafe,51.518268,-0.11845499999999999,2014-12-24
+1017,Origin,Crown Cafe,2014_L'Express Coffe Co Ltd_Crown Cafe,51.535618,-0.134023,2014-01-04
+1018,Destination,Coco Momo,2014_Coco Momo_Crown Cafe,51.520793,-0.11748800000000001,2014-04-03
+1019,Origin,Crown Cafe,2014_Coco Momo_Crown Cafe,51.535618,-0.134023,2014-01-04
+1020,Destination,Yaki,2014_Yaki_Crown Cafe,51.519021,-0.135793,2014-05-19
+1021,Origin,Crown Cafe,2014_Yaki_Crown Cafe,51.535618,-0.134023,2014-01-04
+1022,Destination,ITSU,2014_ITSU_Crown Cafe,51.514534999999995,-0.122584,2014-01-22
+1023,Origin,Crown Cafe,2014_ITSU_Crown Cafe,51.535618,-0.134023,2014-01-04
+1024,Destination,Early Bird Cafe,2014_Early Bird Cafe_Crown Cafe,51.543793,-0.153248,2014-03-25
+1025,Origin,Crown Cafe,2014_Early Bird Cafe_Crown Cafe,51.535618,-0.134023,2014-01-04
+1026,Destination,Negozio Classica,2014_Negozio Classica_Crown Cafe,51.541352,-0.15648199999999998,2014-06-25
+1027,Origin,Crown Cafe,2014_Negozio Classica_Crown Cafe,51.535618,-0.134023,2014-01-04
+1028,Destination,Sharps Barber and Shop,2014_Sharps Barber and Shop_Crown Cafe,51.518605,-0.13372,2014-06-19
+1029,Origin,Crown Cafe,2014_Sharps Barber and Shop_Crown Cafe,51.535618,-0.134023,2014-01-04
+1030,Destination,The Crown,2014_The Crown_Crown Cafe,51.514389,-0.12725799999999998,2014-11-04
+1031,Origin,Crown Cafe,2014_The Crown_Crown Cafe,51.535618,-0.134023,2014-01-04
+1032,Destination,The Argyle,2014_The Argyle_Crown Cafe,51.518529,-0.108519,2014-03-12
+1033,Origin,Crown Cafe,2014_The Argyle_Crown Cafe,51.535618,-0.134023,2014-01-04
+1034,Destination,Moment Espresso Bar,2014_Moment Espresso Bar_Crown Cafe,51.551158,-0.191369,2014-06-24
+1035,Origin,Crown Cafe,2014_Moment Espresso Bar_Crown Cafe,51.535618,-0.134023,2014-01-04
+1036,Destination,Chimney Cake Bakers Cafe,2014_Chimney Cake Bakers Cafe_Crown Cafe,51.54546,-0.177086,2014-04-16
+1037,Origin,Crown Cafe,2014_Chimney Cake Bakers Cafe_Crown Cafe,51.535618,-0.134023,2014-01-04
+1038,Destination,La Torre,2014_La Torre_Crown Cafe,51.516234000000004,-0.12594,2014-03-04
+1039,Origin,Crown Cafe,2014_La Torre_Crown Cafe,51.535618,-0.134023,2014-01-04
+1040,Destination,McDonalds Restaurant Ltd,2014_McDonalds Restaurant Ltd_Crown Cafe,51.517405,-0.119842,2014-02-07
+1041,Origin,Crown Cafe,2014_McDonalds Restaurant Ltd_Crown Cafe,51.535618,-0.134023,2014-01-04
+1042,Destination,Cafe Mode,2014_Cafe Mode_Crown Cafe,51.515044,-0.126064,2014-02-01
+1043,Origin,Crown Cafe,2014_Cafe Mode_Crown Cafe,51.535618,-0.134023,2014-01-04
+1044,Destination,Anthony Delicatessen,2014_Anthony Delicatessen_Crown Cafe,51.541352,-0.15648199999999998,2014-01-28
+1045,Origin,Crown Cafe,2014_Anthony Delicatessen_Crown Cafe,51.535618,-0.134023,2014-01-04
+1046,Destination,Belgo Noord,2014_Belgo Noord_Crown Cafe,51.543861,-0.150849,2014-05-09
+1047,Origin,Crown Cafe,2014_Belgo Noord_Crown Cafe,51.535618,-0.134023,2014-01-04
+1048,Destination,York and Albany,2014_York and Albany_Crown Cafe,51.53608,-0.146199,2014-10-15
+1049,Origin,Crown Cafe,2014_York and Albany_Crown Cafe,51.535618,-0.134023,2014-01-04
+1050,Destination,Vats Wine Bar,2014_Vats Wine Bar_Crown Cafe,51.521754,-0.11884700000000001,2014-03-26
+1051,Origin,Crown Cafe,2014_Vats Wine Bar_Crown Cafe,51.535618,-0.134023,2014-01-04
+1052,Destination,The Museum Tavern,2014_The Museum Tavern_Crown Cafe,51.518343,-0.12531199999999998,2014-08-14
+1053,Origin,Crown Cafe,2014_The Museum Tavern_Crown Cafe,51.535618,-0.134023,2014-01-04
+1054,Destination,Pizza Express,2014_Pizza Express_Crown Cafe,51.517865,-0.126822,2014-05-21
+1055,Origin,Crown Cafe,2014_Pizza Express_Crown Cafe,51.535618,-0.134023,2014-01-04
+1056,Destination,Wot The Dickens,2014_Wot The Dickens_Crown Cafe,51.526845,-0.129579,2014-04-29
+1057,Origin,Crown Cafe,2014_Wot The Dickens_Crown Cafe,51.535618,-0.134023,2014-01-04
+1058,Destination,Friend at Hand,2014_Friend at Hand_Crown Cafe,51.52268,-0.12503599999999998,2014-05-14
+1059,Origin,Crown Cafe,2014_Friend at Hand_Crown Cafe,51.535618,-0.134023,2014-01-04
+1060,Destination,J Restaurant,2014_J Restaurant_Crown Cafe,51.541352,-0.15648199999999998,2014-09-18
+1061,Origin,Crown Cafe,2014_J Restaurant_Crown Cafe,51.535618,-0.134023,2014-01-04
+1062,Destination,Yao Yao Cha,2014_Yao Yao Cha_Crown Cafe,51.513596,-0.127317,2014-12-06
+1063,Origin,Crown Cafe,2014_Yao Yao Cha_Crown Cafe,51.535618,-0.134023,2014-01-04
+1064,Destination,Princess of Wales,2014_Princess of Wales_Crown Cafe,51.540301,-0.15378,2014-03-31
+1065,Origin,Crown Cafe,2014_Princess of Wales_Crown Cafe,51.535618,-0.134023,2014-01-04
+1066,Destination,Hot Rock Cafe,2014_Hot Rock Cafe_Crown Cafe,51.539219,-0.141978,2014-03-21
+1067,Origin,Crown Cafe,2014_Hot Rock Cafe_Crown Cafe,51.535618,-0.134023,2014-01-04
+1068,Destination,Cote,2014_Cote_Crown Cafe,51.538119,-0.176217,2014-06-02
+1069,Origin,Crown Cafe,2014_Cote_Crown Cafe,51.535618,-0.134023,2014-01-04
+1070,Destination,Sorrento Snack Bar,2014_Sorrento Snack Bar_Crown Cafe,51.526845,-0.129579,2014-05-14
+1071,Origin,Crown Cafe,2014_Sorrento Snack Bar_Crown Cafe,51.535618,-0.134023,2014-01-04
+1072,Destination,Bloomsbury Tavern,2014_Bloomsbury Tavern_Crown Cafe,51.516890999999994,-0.12531,2014-05-20
+1073,Origin,Crown Cafe,2014_Bloomsbury Tavern_Crown Cafe,51.535618,-0.134023,2014-01-04
+1074,Destination,JOE'S,2014_JOE'S_Crown Cafe,51.543994,-0.151855,2014-03-17
+1075,Origin,Crown Cafe,2014_JOE'S_Crown Cafe,51.535618,-0.134023,2014-01-04
+1076,Destination,Starbucks,2014_Starbucks_Crown Cafe,51.522307,-0.134901,2014-10-09
+1077,Origin,Crown Cafe,2014_Starbucks_Crown Cafe,51.535618,-0.134023,2014-01-04
+1078,Destination,Pizza Hut,2014_Pizza Hut_Crown Cafe,51.521776,-0.12359300000000001,2014-10-18
+1079,Origin,Crown Cafe,2014_Pizza Hut_Crown Cafe,51.535618,-0.134023,2014-01-04
+1080,Destination,The Wet Fish Cafe,2014_The Wet Fish Cafe_Crown Cafe,51.551158,-0.191369,2014-09-07
+1081,Origin,Crown Cafe,2014_The Wet Fish Cafe_Crown Cafe,51.535618,-0.134023,2014-01-04
+1082,Destination,Kitchenette,2014_Kitchenette_Crown Cafe,51.519597,-0.109508,2014-08-12
+1083,Origin,Crown Cafe,2014_Kitchenette_Crown Cafe,51.535618,-0.134023,2014-01-04
+1084,Destination,Masqmenos,2014_Masqmenos_Crown Cafe,51.517590999999996,-0.115452,2014-08-09
+1085,Origin,Crown Cafe,2014_Masqmenos_Crown Cafe,51.535618,-0.134023,2014-01-04
+1086,Destination,The Bull & Gate,2014_The Bull & Gate_Crown Cafe,51.551885,-0.141932,2014-01-04
+1087,Origin,Crown Cafe,2014_The Bull & Gate_Crown Cafe,51.535618,-0.134023,2014-01-04
+1088,Destination,The Bucks Head,2014_The Bucks Head_Crown Cafe,51.540186,-0.143102,2014-06-03
+1089,Origin,Crown Cafe,2014_The Bucks Head_Crown Cafe,51.535618,-0.134023,2014-01-04
+1090,Destination,The Rising Sun,2014_The Rising Sun_Crown Cafe,51.519513,-0.133795,2014-03-09
+1091,Origin,Crown Cafe,2014_The Rising Sun_Crown Cafe,51.535618,-0.134023,2014-01-04
+1092,Destination,Penderals Oak,2014_Penderals Oak_Crown Cafe,51.517858000000004,-0.11538599999999999,2014-10-09
+1093,Origin,Crown Cafe,2014_Penderals Oak_Crown Cafe,51.535618,-0.134023,2014-01-04
+1094,Destination,Pix Bar,2014_Pix Bar_Crown Cafe,51.515044,-0.126064,2014-06-19
+1095,Origin,Crown Cafe,2014_Pix Bar_Crown Cafe,51.535618,-0.134023,2014-01-04
+1096,Destination,The Two Brewers,2014_The Two Brewers_Crown Cafe,51.513243,-0.127366,2014-03-27
+1097,Origin,Crown Cafe,2014_The Two Brewers_Crown Cafe,51.535618,-0.134023,2014-01-04
+1098,Destination,The Marlborough Arms,2014_The Marlborough Arms_Crown Cafe,51.521608,-0.132898,2014-03-09
+1099,Origin,Crown Cafe,2014_The Marlborough Arms_Crown Cafe,51.535618,-0.134023,2014-01-04
+1100,Destination,La Porchetta,2014_La Porchetta_Crown Cafe,51.543861,-0.150849,2014-12-03
+1101,Origin,Crown Cafe,2014_La Porchetta_Crown Cafe,51.535618,-0.134023,2014-01-04
+1102,Destination,Railway,2014_Railway_Crown Cafe,51.546124,-0.19050799999999998,2014-03-25
+1103,Origin,Crown Cafe,2014_Railway_Crown Cafe,51.535618,-0.134023,2014-01-04
+1104,Destination,The Conduit Coffee House,2014_The Conduit Coffee House_Crown Cafe,51.521754,-0.11884700000000001,2014-01-29
+1105,Origin,Crown Cafe,2014_The Conduit Coffee House_Crown Cafe,51.535618,-0.134023,2014-01-04
+1106,Destination,Busaba Eathai,2014_Busaba Eathai_Crown Cafe,51.519946999999995,-0.133178,2014-02-04
+1107,Origin,Crown Cafe,2014_Busaba Eathai_Crown Cafe,51.535618,-0.134023,2014-01-04
+1108,Destination,Trattoria Verdi,2014_Trattoria Verdi_Crown Cafe,51.520227,-0.12197000000000001,2014-12-03
+1109,Origin,Crown Cafe,2014_Trattoria Verdi_Crown Cafe,51.535618,-0.134023,2014-01-04
+1110,Destination,Le Tea Cosy Cafe,2014_Le Tea Cosy Cafe_Crown Cafe,51.540818,-0.158121,2014-08-26
+1111,Origin,Crown Cafe,2014_Le Tea Cosy Cafe_Crown Cafe,51.535618,-0.134023,2014-01-04
+1112,Destination,Da Mario Restaurant,2014_Da Mario Restaurant_Crown Cafe,51.515044,-0.126064,2014-11-04
+1113,Origin,Crown Cafe,2014_Da Mario Restaurant_Crown Cafe,51.535618,-0.134023,2014-01-04
+1114,Destination,The Flask Public House,2014_The Flask Public House_Crown Cafe,51.556693,-0.176761,2014-01-04
+1115,Origin,Crown Cafe,2014_The Flask Public House_Crown Cafe,51.535618,-0.134023,2014-01-04
+1116,Destination,The Queen's Larder,2014_The Queen's Larder_Crown Cafe,51.520839,-0.12166400000000001,2014-10-02
+1117,Origin,Crown Cafe,2014_The Queen's Larder_Crown Cafe,51.535618,-0.134023,2014-01-04
+1118,Destination,Tower 47,2014_Tower 47_Crown Cafe,51.54314,-0.148383,2014-05-25
+1119,Origin,Crown Cafe,2014_Tower 47_Crown Cafe,51.535618,-0.134023,2014-01-04
+1120,Destination,Jamon Jamon,2014_Jamon Jamon_Crown Cafe,51.550245000000004,-0.165588,2014-05-14
+1121,Origin,Crown Cafe,2014_Jamon Jamon_Crown Cafe,51.535618,-0.134023,2014-01-04
+1122,Destination,Diana's Diner,2014_Diana's Diner_Crown Cafe,51.514406,-0.12488599999999998,2014-02-26
+1123,Origin,Crown Cafe,2014_Diana's Diner_Crown Cafe,51.535618,-0.134023,2014-01-04
+1124,Destination,Mimmo La Bufala,2014_Mimmo La Bufala_Crown Cafe,51.555367,-0.167068,2014-05-23
+1125,Origin,Crown Cafe,2014_Mimmo La Bufala_Crown Cafe,51.535618,-0.134023,2014-01-04
+1126,Destination,Pizza Express,2012_Pizza Express_Chez Bob,51.517865,-0.126822,2012-11-05
+1127,Origin,Chez Bob,2012_Pizza Express_Chez Bob,51.550631,-0.165875,2012-01-02
+1128,Destination,Cafe Rouge,2012_Cafe Rouge_Chez Bob,51.515423,-0.176816,2012-06-07
+1129,Origin,Chez Bob,2012_Cafe Rouge_Chez Bob,51.550631,-0.165875,2012-01-02
+1130,Destination,Cote,2012_Cote_Chez Bob,51.538119,-0.176217,2012-01-26
+1131,Origin,Chez Bob,2012_Cote_Chez Bob,51.550631,-0.165875,2012-01-02
+1132,Destination,Caffe Nero,2012_Caffe Nero_Chez Bob,51.515423,-0.138173,2012-01-27
+1133,Origin,Chez Bob,2012_Caffe Nero_Chez Bob,51.550631,-0.165875,2012-01-02
+1134,Destination,Coffee Republic,2012_Coffee Republic_Chez Bob,51.52243,-0.13683900000000002,2012-03-02
+1135,Origin,Chez Bob,2012_Coffee Republic_Chez Bob,51.550631,-0.165875,2012-01-02
+1136,Destination,The Lyttelton Arms,2012_The Lyttelton Arms_Chez Bob,51.534911,-0.139649,2012-05-01
+1137,Origin,Chez Bob,2012_The Lyttelton Arms_Chez Bob,51.550631,-0.165875,2012-01-02
+1138,Destination,Le Pain Quotidien,2012_Le Pain Quotidien_Chez Bob,51.554295,-0.16628800000000002,2012-06-01
+1139,Origin,Chez Bob,2012_Le Pain Quotidien_Chez Bob,51.550631,-0.165875,2012-01-02
+1140,Destination,Starbucks Coffee,2012_Starbucks Coffee_Chez Bob,51.516945,-0.19143,2012-03-05
+1141,Origin,Chez Bob,2012_Starbucks Coffee_Chez Bob,51.550631,-0.165875,2012-01-02
+1142,Destination,Meadows,2012_Meadows_Chez Bob,51.548138,-0.141677,2012-11-06
+1143,Origin,Chez Bob,2012_Meadows_Chez Bob,51.550631,-0.165875,2012-01-02
+1144,Destination,Rossopomodoro,2012_Rossopomodoro_Chez Bob,51.513243,-0.127366,2012-05-15
+1145,Origin,Chez Bob,2012_Rossopomodoro_Chez Bob,51.550631,-0.165875,2012-01-02
+1146,Destination,The Queens Public House,2012_The Queens Public House_Chez Bob,51.540818,-0.158121,2012-03-27
+1147,Origin,Chez Bob,2012_The Queens Public House_Chez Bob,51.550631,-0.165875,2012-01-02
+1148,Destination,Yaki,2012_Yaki_Chez Bob,51.519021,-0.135793,2012-07-23
+1149,Origin,Chez Bob,2012_Yaki_Chez Bob,51.550631,-0.165875,2012-01-02
+1150,Destination,Shakespeares Head,2012_Shakespeares Head_Chez Bob,51.517002000000005,-0.11943599999999999,2012-10-19
+1151,Origin,Chez Bob,2012_Shakespeares Head_Chez Bob,51.550631,-0.165875,2012-01-02
+1152,Destination,Pret a Manger,2012_Pret a Manger_Chez Bob,51.52243,-0.138658,2012-03-13
+1153,Origin,Chez Bob,2012_Pret a Manger_Chez Bob,51.550631,-0.165875,2012-01-02
+1154,Destination,O'Neills,2012_O'Neills_Chez Bob,51.514813000000004,-0.12298900000000001,2012-06-12
+1155,Origin,Chez Bob,2012_O'Neills_Chez Bob,51.550631,-0.165875,2012-01-02
+1156,Destination,Busaba Eathai,2012_Busaba Eathai_Chez Bob,51.519946999999995,-0.133178,2012-01-03
+1157,Origin,Chez Bob,2012_Busaba Eathai_Chez Bob,51.550631,-0.165875,2012-01-02
+1158,Destination,"ILLY,  Coffee in Camden","2012_ILLY,  Coffee in Camden_Chez Bob",51.537808,-0.142531,2012-09-02
+1159,Origin,Chez Bob,"2012_ILLY,  Coffee in Camden_Chez Bob",51.550631,-0.165875,2012-01-02
+1160,Destination,XO Restaurant,2012_XO Restaurant_Chez Bob,51.549339,-0.171002,2012-07-20
+1161,Origin,Chez Bob,2012_XO Restaurant_Chez Bob,51.550631,-0.165875,2012-01-02
+1162,Destination,Cafe Seventy Nine,2012_Cafe Seventy Nine_Chez Bob,51.541273,-0.157718,2012-12-24
+1163,Origin,Chez Bob,2012_Cafe Seventy Nine_Chez Bob,51.550631,-0.165875,2012-01-02
+1164,Destination,Loaf,2012_Loaf_Chez Bob,51.521703,-0.136071,2012-05-16
+1165,Origin,Chez Bob,2012_Loaf_Chez Bob,51.550631,-0.165875,2012-01-02
+1166,Destination,The Diner,2012_The Diner_Chez Bob,51.515044,-0.126064,2012-09-13
+1167,Origin,Chez Bob,2012_The Diner_Chez Bob,51.550631,-0.165875,2012-01-02
+1168,Destination,The Lady Ottoline,2012_The Lady Ottoline_Chez Bob,51.521719,-0.114622,2012-02-04
+1169,Origin,Chez Bob,2012_The Lady Ottoline_Chez Bob,51.550631,-0.165875,2012-01-02
+1170,Destination,Hampstead Tea Rooms,2012_Hampstead Tea Rooms_Chez Bob,51.554295,-0.16628800000000002,2012-05-25
+1171,Origin,Chez Bob,2012_Hampstead Tea Rooms_Chez Bob,51.550631,-0.165875,2012-01-02
+1172,Destination,Paul,2012_Paul_Chez Bob,51.556783,-0.177972,2012-05-14
+1173,Origin,Chez Bob,2012_Paul_Chez Bob,51.550631,-0.165875,2012-01-02
+1174,Destination,Pauls,2012_Pauls_Chez Bob,51.515819,-0.118702,2012-09-26
+1175,Origin,Chez Bob,2012_Pauls_Chez Bob,51.550631,-0.165875,2012-01-02
+1176,Destination,Starbucks,2012_Starbucks_Chez Bob,51.539139,-0.14369500000000002,2012-05-24
+1177,Origin,Chez Bob,2012_Starbucks_Chez Bob,51.550631,-0.165875,2012-01-02
+1178,Destination,Feng Sushi,2012_Feng Sushi_Chez Bob,51.543793,-0.19166,2012-08-05
+1179,Origin,Chez Bob,2012_Feng Sushi_Chez Bob,51.550631,-0.165875,2012-01-02
+1180,Destination,Marquis of Cornwallis,2012_Marquis of Cornwallis_Chez Bob,51.524233,-0.12493,2012-02-28
+1181,Origin,Chez Bob,2012_Marquis of Cornwallis_Chez Bob,51.550631,-0.165875,2012-01-02
+1182,Destination,Ginger & White,2012_Ginger & White_Chez Bob,51.555611,-0.17816400000000002,2012-11-15
+1183,Origin,Chez Bob,2012_Ginger & White_Chez Bob,51.550631,-0.165875,2012-01-02
+1184,Destination,Earl of Camden,2012_Earl of Camden_Chez Bob,51.537586,-0.14385,2012-11-09
+1185,Origin,Chez Bob,2012_Earl of Camden_Chez Bob,51.550631,-0.165875,2012-01-02
+1186,Destination,Gold Fish,2012_Gold Fish_Chez Bob,51.555378999999995,-0.176217,2012-06-20
+1187,Origin,Chez Bob,2012_Gold Fish_Chez Bob,51.550631,-0.165875,2012-01-02
+1188,Destination,Vats Wine Bar,2012_Vats Wine Bar_Chez Bob,51.521754,-0.11884700000000001,2012-02-29
+1189,Origin,Chez Bob,2012_Vats Wine Bar_Chez Bob,51.550631,-0.165875,2012-01-02
+1190,Destination,The Two Brewers,2012_The Two Brewers_Chez Bob,51.513243,-0.127366,2012-12-03
+1191,Origin,Chez Bob,2012_The Two Brewers_Chez Bob,51.550631,-0.165875,2012-01-02
+1192,Destination,The Place (Contemporary Dance Trust),2012_The Place (Contemporary Dance Trust)_Chez Bob,51.526845,-0.129579,2012-07-13
+1193,Origin,Chez Bob,2012_The Place (Contemporary Dance Trust)_Chez Bob,51.550631,-0.165875,2012-01-02
+1194,Destination,Costa Coffee,2012_Costa Coffee_Chez Bob,51.549577,-0.141256,2012-06-18
+1195,Origin,Chez Bob,2012_Costa Coffee_Chez Bob,51.550631,-0.165875,2012-01-02
+1196,Destination,Nando's,2012_Nando's_Chez Bob,51.551494,-0.191253,2012-10-25
+1197,Origin,Chez Bob,2012_Nando's_Chez Bob,51.550631,-0.165875,2012-01-02
+1198,Destination,Cagneys,2012_Cagneys_Chez Bob,51.520839,-0.12166400000000001,2012-04-26
+1199,Origin,Chez Bob,2012_Cagneys_Chez Bob,51.550631,-0.165875,2012-01-02
+1200,Destination,Negozio Classica,2012_Negozio Classica_Chez Bob,51.541352,-0.15648199999999998,2012-03-28
+1201,Origin,Chez Bob,2012_Negozio Classica_Chez Bob,51.550631,-0.165875,2012-01-02
+1202,Destination,The Old Crown Public House,2012_The Old Crown Public House_Chez Bob,51.516890999999994,-0.12531,2012-12-03
+1203,Origin,Chez Bob,2012_The Old Crown Public House_Chez Bob,51.550631,-0.165875,2012-01-02
+1204,Destination,Nandos,2012_Nandos_Chez Bob,51.543572999999995,-0.15024200000000001,2012-10-17
+1205,Origin,Chez Bob,2012_Nandos_Chez Bob,51.550631,-0.165875,2012-01-02
+1206,Destination,The Marlborough Arms,2012_The Marlborough Arms_Chez Bob,51.521608,-0.132898,2012-10-25
+1207,Origin,Chez Bob,2012_The Marlborough Arms_Chez Bob,51.550631,-0.165875,2012-01-02
+1208,Destination,Bam-Bou,2012_Bam-Bou_Chez Bob,51.518605,-0.13372,2012-05-20
+1209,Origin,Chez Bob,2012_Bam-Bou_Chez Bob,51.550631,-0.165875,2012-01-02
+1210,Destination,L'Absinthe,2012_L'Absinthe_Chez Bob,51.540301,-0.15378,2012-05-28
+1211,Origin,Chez Bob,2012_L'Absinthe_Chez Bob,51.550631,-0.165875,2012-01-02
+1212,Destination,McDonalds Restaurant Ltd,2012_McDonalds Restaurant Ltd_Chez Bob,51.517405,-0.119842,2012-01-11
+1213,Origin,Chez Bob,2012_McDonalds Restaurant Ltd_Chez Bob,51.550631,-0.165875,2012-01-02
+1214,Destination,Bloomsbury Tavern,2012_Bloomsbury Tavern_Chez Bob,51.516890999999994,-0.12531,2012-08-05
+1215,Origin,Chez Bob,2012_Bloomsbury Tavern_Chez Bob,51.550631,-0.165875,2012-01-02
+1216,Destination,York and Albany,2012_York and Albany_Chez Bob,51.53608,-0.146199,2012-10-19
+1217,Origin,Chez Bob,2012_York and Albany_Chez Bob,51.550631,-0.165875,2012-01-02
+1218,Destination,La Gourmetteria,2012_La Gourmetteria_Chez Bob,51.521754,-0.11884700000000001,2012-10-23
+1219,Origin,Chez Bob,2012_La Gourmetteria_Chez Bob,51.550631,-0.165875,2012-01-02
+1220,Destination,Hi Sushi,2012_Hi Sushi_Chez Bob,51.555869,-0.175292,2012-06-20
+1221,Origin,Chez Bob,2012_Hi Sushi_Chez Bob,51.550631,-0.165875,2012-01-02
+1222,Destination,Sir Christopher Hatton,2012_Sir Christopher Hatton_Chez Bob,51.518529,-0.108519,2012-03-21
+1223,Origin,Chez Bob,2012_Sir Christopher Hatton_Chez Bob,51.550631,-0.165875,2012-01-02
+1224,Destination,Draft House,2012_Draft House_Chez Bob,51.519021,-0.135793,2012-06-08
+1225,Origin,Chez Bob,2012_Draft House_Chez Bob,51.550631,-0.165875,2012-01-02
+1226,Destination,Carluccio's,2012_Carluccio's_Chez Bob,51.555026,-0.171827,2012-04-01
+1227,Origin,Chez Bob,2012_Carluccio's_Chez Bob,51.550631,-0.165875,2012-01-02
+1228,Destination,Muya Restaurant,2012_Muya Restaurant_Chez Bob,51.548982,-0.130221,2012-05-30
+1229,Origin,Chez Bob,2012_Muya Restaurant_Chez Bob,51.550631,-0.165875,2012-01-02
+1230,Destination,Gail's,2012_Gail's_Chez Bob,51.55619,-0.178368,2012-05-16
+1231,Origin,Chez Bob,2012_Gail's_Chez Bob,51.550631,-0.165875,2012-01-02
+1232,Destination,The White Horse,2012_The White Horse_Chez Bob,51.554378,-0.16508299999999998,2012-08-05
+1233,Origin,Chez Bob,2012_The White Horse_Chez Bob,51.550631,-0.165875,2012-01-02
+1234,Destination,Pizza Hut,2012_Pizza Hut_Chez Bob,51.521776,-0.12359300000000001,2012-08-11
+1235,Origin,Chez Bob,2012_Pizza Hut_Chez Bob,51.550631,-0.165875,2012-01-02
+1236,Destination,Odeon Cinema,2012_Odeon Cinema_Chez Bob,51.542636,-0.17460799999999999,2012-10-17
+1237,Origin,Chez Bob,2012_Odeon Cinema_Chez Bob,51.550631,-0.165875,2012-01-02
+1238,Destination,Giraffe,2012_Giraffe_Chez Bob,51.555053,-0.172822,2012-01-24
+1239,Origin,Chez Bob,2012_Giraffe_Chez Bob,51.550631,-0.165875,2012-01-02
+1240,Destination,Banana Tree Canteen,2012_Banana Tree Canteen_Chez Bob,51.549248999999996,-0.191669,2012-03-07
+1241,Origin,Chez Bob,2012_Banana Tree Canteen_Chez Bob,51.550631,-0.165875,2012-01-02
+1242,Destination,Melrose and Morgan,2012_Melrose and Morgan_Chez Bob,51.540572999999995,-0.150756,2012-06-14
+1243,Origin,Chez Bob,2012_Melrose and Morgan_Chez Bob,51.550631,-0.165875,2012-01-02
+1244,Destination,Crown Cafe,2012_Crown Cafe_Chez Bob,51.535618,-0.134023,2012-03-30
+1245,Origin,Chez Bob,2012_Crown Cafe_Chez Bob,51.550631,-0.165875,2012-01-02
+1246,Destination,Coco Momo,2012_Coco Momo_Chez Bob,51.520793,-0.11748800000000001,2012-04-17
+1247,Origin,Chez Bob,2012_Coco Momo_Chez Bob,51.550631,-0.165875,2012-01-02
+1248,Destination,Hercules Pillars,2012_Hercules Pillars_Chez Bob,51.515707,-0.12126300000000001,2012-01-17
+1249,Origin,Chez Bob,2012_Hercules Pillars_Chez Bob,51.550631,-0.165875,2012-01-02
+1250,Destination,The Rugby Tavern,2012_The Rugby Tavern_Chez Bob,51.522104999999996,-0.116994,2012-08-05
+1251,Origin,Chez Bob,2012_The Rugby Tavern_Chez Bob,51.550631,-0.165875,2012-01-02
+1252,Destination,Princess of Wales,2012_Princess of Wales_Chez Bob,51.540301,-0.15378,2012-03-19
+1253,Origin,Chez Bob,2012_Princess of Wales_Chez Bob,51.550631,-0.165875,2012-01-02
+1254,Destination,Assa Japan,2012_Assa Japan_Chez Bob,51.515526,-0.12947,2012-02-27
+1255,Origin,Chez Bob,2012_Assa Japan_Chez Bob,51.550631,-0.165875,2012-01-02
+1256,Destination,The Perseverance,2012_The Perseverance_Chez Bob,51.521754,-0.11884700000000001,2012-02-20
+1257,Origin,Chez Bob,2012_The Perseverance_Chez Bob,51.550631,-0.165875,2012-01-02
+1258,Destination,Chez Bob,2012_Chez Bob_Chez Bob,51.550631,-0.165875,2012-01-02
+1259,Origin,Chez Bob,2012_Chez Bob_Chez Bob,51.550631,-0.165875,2012-01-02
+1260,Destination,Chimis Burrito Bar,2012_Chimis Burrito Bar_Chez Bob,51.52243,-0.13683900000000002,2012-05-25
+1261,Origin,Chez Bob,2012_Chimis Burrito Bar_Chez Bob,51.550631,-0.165875,2012-01-02
+1262,Destination,Pret A Manger,2012_Pret A Manger_Chez Bob,51.514247999999995,-0.125254,2012-08-20
+1263,Origin,Chez Bob,2012_Pret A Manger_Chez Bob,51.550631,-0.165875,2012-01-02
+1264,Destination,The Museum Tavern,2012_The Museum Tavern_Chez Bob,51.518343,-0.12531199999999998,2012-10-25
+1265,Origin,Chez Bob,2012_The Museum Tavern_Chez Bob,51.550631,-0.165875,2012-01-02
+1266,Destination,Simply Scrumptious,2012_Simply Scrumptious_Chez Bob,51.556783,-0.177972,2012-07-23
+1267,Origin,Chez Bob,2012_Simply Scrumptious_Chez Bob,51.550631,-0.165875,2012-01-02
+1268,Destination,La Torre,2012_La Torre_Chez Bob,51.516234000000004,-0.12594,2012-03-15
+1269,Origin,Chez Bob,2012_La Torre_Chez Bob,51.550631,-0.165875,2012-01-02
+1270,Destination,Euphorium Bakery,2012_Euphorium Bakery_Chez Bob,51.550908,-0.167068,2012-03-12
+1271,Origin,Chez Bob,2012_Euphorium Bakery_Chez Bob,51.550631,-0.165875,2012-01-02
+1272,Destination,Anthony Delicatessen,2012_Anthony Delicatessen_Chez Bob,51.541352,-0.15648199999999998,2012-09-02
+1273,Origin,Chez Bob,2012_Anthony Delicatessen_Chez Bob,51.550631,-0.165875,2012-01-02
+1274,Destination,The Conduit Coffee House,2012_The Conduit Coffee House_Chez Bob,51.521754,-0.11884700000000001,2012-01-27
+1275,Origin,Chez Bob,2012_The Conduit Coffee House_Chez Bob,51.550631,-0.165875,2012-01-02
+1276,Destination,Violette Cafe,2012_Violette Cafe_Chez Bob,51.546611999999996,-0.161548,2012-10-18
+1277,Origin,Chez Bob,2012_Violette Cafe_Chez Bob,51.550631,-0.165875,2012-01-02
+1278,Destination,The Flask Public House,2012_The Flask Public House_Chez Bob,51.556693,-0.176761,2012-02-27
+1279,Origin,Chez Bob,2012_The Flask Public House_Chez Bob,51.550631,-0.165875,2012-01-02
+1280,Destination,Cafe Eterno,2012_Cafe Eterno_Chez Bob,51.514247999999995,-0.125254,2012-06-28
+1281,Origin,Chez Bob,2012_Cafe Eterno_Chez Bob,51.550631,-0.165875,2012-01-02
+1282,Destination,Hush Brasseries,2012_Hush Brasseries_Chez Bob,51.518268,-0.11845499999999999,2012-02-11
+1283,Origin,Chez Bob,2012_Hush Brasseries_Chez Bob,51.550631,-0.165875,2012-01-02
+1284,Destination,Belgo,2012_Belgo_Chez Bob,51.515103,-0.119874,2012-05-30
+1285,Origin,Chez Bob,2012_Belgo_Chez Bob,51.550631,-0.165875,2012-01-02
+1286,Destination,The Crown,2012_The Crown_Chez Bob,51.514389,-0.12725799999999998,2012-07-20
+1287,Origin,Chez Bob,2012_The Crown_Chez Bob,51.550631,-0.165875,2012-01-02
+1288,Destination,The Monarch,2012_The Monarch_Chez Bob,51.54314,-0.148383,2012-07-20
+1289,Origin,Chez Bob,2012_The Monarch_Chez Bob,51.550631,-0.165875,2012-01-02
+1290,Destination,The Argyle,2013_The Argyle_The Engineer,51.518529,-0.108519,2013-07-16
+1291,Origin,The Engineer,2013_The Argyle_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1292,Destination,Fish Cafe,2013_Fish Cafe_The Engineer,51.555759,-0.177656,2013-11-13
+1293,Origin,The Engineer,2013_Fish Cafe_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1294,Destination,La Bottega,2013_La Bottega_The Engineer,51.513596,-0.127317,2013-12-13
+1295,Origin,The Engineer,2013_La Bottega_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1296,Destination,6 Neal's Yard,2013_6 Neal's Yard_The Engineer,51.514446,-0.126545,2013-12-11
+1297,Origin,The Engineer,2013_6 Neal's Yard_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1298,Destination,The Crown,2013_The Crown_The Engineer,51.514389,-0.12725799999999998,2013-06-25
+1299,Origin,The Engineer,2013_The Crown_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1300,Destination,Falla & Mocaer,2013_Falla & Mocaer_The Engineer,51.537762,-0.14571199999999998,2013-07-24
+1301,Origin,The Engineer,2013_Falla & Mocaer_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1302,Destination,The Swan,2013_The Swan_The Engineer,51.521776,-0.12359300000000001,2013-09-26
+1303,Origin,The Engineer,2013_The Swan_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1304,Destination,Marriott Hotel Maida Vale,2013_Marriott Hotel Maida Vale_The Engineer,51.535973999999996,-0.190412,2013-10-25
+1305,Origin,The Engineer,2013_Marriott Hotel Maida Vale_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1306,Destination,Caffe Nero,2013_Caffe Nero_The Engineer,51.515423,-0.19178699999999999,2013-03-10
+1307,Origin,The Engineer,2013_Caffe Nero_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1308,Destination,Abokado,2013_Abokado_The Engineer,51.514813000000004,-0.12298900000000001,2013-07-16
+1309,Origin,The Engineer,2013_Abokado_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1310,Destination,The Rugby Tavern,2013_The Rugby Tavern_The Engineer,51.522104999999996,-0.116994,2013-08-19
+1311,Origin,The Engineer,2013_The Rugby Tavern_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1312,Destination,Cafe Rouge,2013_Cafe Rouge_The Engineer,51.516945,-0.176816,2013-05-13
+1313,Origin,The Engineer,2013_Cafe Rouge_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1314,Destination,Friend at Hand,2013_Friend at Hand_The Engineer,51.52268,-0.12503599999999998,2013-03-18
+1315,Origin,The Engineer,2013_Friend at Hand_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1316,Destination,Penderals Oak,2013_Penderals Oak_The Engineer,51.517858000000004,-0.11538599999999999,2013-12-24
+1317,Origin,The Engineer,2013_Penderals Oak_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1318,Destination,Cosmoba Restaurant,2013_Cosmoba Restaurant_The Engineer,51.521776,-0.12359300000000001,2013-02-12
+1319,Origin,The Engineer,2013_Cosmoba Restaurant_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1320,Destination,Hampstead Tea Rooms,2013_Hampstead Tea Rooms_The Engineer,51.554295,-0.16628800000000002,2013-10-15
+1321,Origin,The Engineer,2013_Hampstead Tea Rooms_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1322,Destination,Melrose and Morgan,2013_Melrose and Morgan_The Engineer,51.555873999999996,-0.177993,2013-11-20
+1323,Origin,The Engineer,2013_Melrose and Morgan_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1324,Destination,Gold Fish,2013_Gold Fish_The Engineer,51.555869,-0.175292,2013-05-17
+1325,Origin,The Engineer,2013_Gold Fish_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1326,Destination,Chilango,2013_Chilango_The Engineer,51.518529,-0.108519,2013-09-30
+1327,Origin,The Engineer,2013_Chilango_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1328,Destination,Costa Coffee,2013_Costa Coffee_The Engineer,51.514247999999995,-0.126603,2013-08-07
+1329,Origin,The Engineer,2013_Costa Coffee_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1330,Destination,Hercules Pillars,2013_Hercules Pillars_The Engineer,51.515707,-0.12126300000000001,2013-09-17
+1331,Origin,The Engineer,2013_Hercules Pillars_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1332,Destination,York and Albany,2013_York and Albany_The Engineer,51.53608,-0.146199,2013-04-12
+1333,Origin,The Engineer,2013_York and Albany_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1334,Destination,Leon de Bruxelles,2013_Leon de Bruxelles_The Engineer,51.513631,-0.129773,2013-11-11
+1335,Origin,The Engineer,2013_Leon de Bruxelles_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1336,Destination,Viet Eat,2013_Viet Eat_The Engineer,51.51668,-0.119209,2013-07-30
+1337,Origin,The Engineer,2013_Viet Eat_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1338,Destination,The Place (Contemporary Dance Trust),2013_The Place (Contemporary Dance Trust)_The Engineer,51.526845,-0.129579,2013-06-24
+1339,Origin,The Engineer,2013_The Place (Contemporary Dance Trust)_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1340,Destination,Tuttis,2013_Tuttis_The Engineer,51.522684000000005,-0.118774,2013-01-29
+1341,Origin,The Engineer,2013_Tuttis_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1342,Destination,Double J's Sandwich Bar,2013_Double J's Sandwich Bar_The Engineer,51.524398,-0.139311,2013-06-27
+1343,Origin,The Engineer,2013_Double J's Sandwich Bar_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1344,Destination,Spaghetti House Ltd,2013_Spaghetti House Ltd_The Engineer,51.519513,-0.133795,2013-08-15
+1345,Origin,The Engineer,2013_Spaghetti House Ltd_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1346,Destination,Simply Scrumptious,2013_Simply Scrumptious_The Engineer,51.556783,-0.177972,2013-09-07
+1347,Origin,The Engineer,2013_Simply Scrumptious_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1348,Destination,Go To Mid Town,2013_Go To Mid Town_The Engineer,51.51726,-0.126603,2013-06-19
+1349,Origin,The Engineer,2013_Go To Mid Town_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1350,Destination,The Wet Fish Cafe,2013_The Wet Fish Cafe_The Engineer,51.551158,-0.191369,2013-11-06
+1351,Origin,The Engineer,2013_The Wet Fish Cafe_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1352,Destination,Railway,2013_Railway_The Engineer,51.546124,-0.19050799999999998,2013-04-30
+1353,Origin,The Engineer,2013_Railway_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1354,Destination,Kimchee To Go,2013_Kimchee To Go_The Engineer,51.51685,-0.128578,2013-05-07
+1355,Origin,The Engineer,2013_Kimchee To Go_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1356,Destination,Pret a Manger,2013_Pret a Manger_The Engineer,51.517041,-0.127459,2013-03-09
+1357,Origin,The Engineer,2013_Pret a Manger_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1358,Destination,Paul,2013_Paul_The Engineer,51.556783,-0.177972,2013-05-12
+1359,Origin,The Engineer,2013_Paul_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1360,Destination,Starbucks,2013_Starbucks_The Engineer,51.522307,-0.134901,2013-09-08
+1361,Origin,The Engineer,2013_Starbucks_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1362,Destination,Washington Hotel,2013_Washington Hotel_The Engineer,51.545876,-0.162983,2013-03-10
+1363,Origin,The Engineer,2013_Washington Hotel_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1364,Destination,Vieteat,2013_Vieteat_The Engineer,51.51668,-0.119209,2013-07-30
+1365,Origin,The Engineer,2013_Vieteat_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1366,Destination,Starbucks Coffee,2013_Starbucks Coffee_The Engineer,51.518044,-0.16628800000000002,2013-10-18
+1367,Origin,The Engineer,2013_Starbucks Coffee_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1368,Destination,The Conduit Coffee House,2013_The Conduit Coffee House_The Engineer,51.521754,-0.11884700000000001,2013-01-22
+1369,Origin,The Engineer,2013_The Conduit Coffee House_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1370,Destination,Bloomsbury Tavern,2013_Bloomsbury Tavern_The Engineer,51.516890999999994,-0.12531,2013-06-08
+1371,Origin,The Engineer,2013_Bloomsbury Tavern_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1372,Destination,Hush Brasseries,2013_Hush Brasseries_The Engineer,51.518268,-0.11845499999999999,2013-11-20
+1373,Origin,The Engineer,2013_Hush Brasseries_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1374,Destination,Wot The Dickens,2013_Wot The Dickens_The Engineer,51.526845,-0.129579,2013-02-27
+1375,Origin,The Engineer,2013_Wot The Dickens_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1376,Destination,Pizza Express,2013_Pizza Express_The Engineer,51.517865,-0.12620499999999998,2013-09-09
+1377,Origin,The Engineer,2013_Pizza Express_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1378,Destination,Pod Food Ltd,2013_Pod Food Ltd_The Engineer,51.518529,-0.108519,2013-11-20
+1379,Origin,The Engineer,2013_Pod Food Ltd_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1380,Destination,St Giles Hotel,2013_St Giles Hotel_The Engineer,51.517452,-0.130432,2013-10-07
+1381,Origin,The Engineer,2013_St Giles Hotel_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1382,Destination,The Monarch,2013_The Monarch_The Engineer,51.54314,-0.148383,2013-08-13
+1383,Origin,The Engineer,2013_The Monarch_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1384,Destination,Gails,2013_Gails_The Engineer,51.549746,-0.16428399999999999,2013-06-19
+1385,Origin,The Engineer,2013_Gails_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1386,Destination,Le Tea Cosy Cafe,2013_Le Tea Cosy Cafe_The Engineer,51.540818,-0.158121,2013-07-24
+1387,Origin,The Engineer,2013_Le Tea Cosy Cafe_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1388,Destination,Negozio Classica,2013_Negozio Classica_The Engineer,51.541352,-0.15648199999999998,2013-12-06
+1389,Origin,The Engineer,2013_Negozio Classica_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1390,Destination,Homeslice,2013_Homeslice_The Engineer,51.514446,-0.126545,2013-10-30
+1391,Origin,The Engineer,2013_Homeslice_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1392,Destination,Des Vins Surnatural,2013_Des Vins Surnatural_The Engineer,51.514446,-0.126545,2013-12-11
+1393,Origin,The Engineer,2013_Des Vins Surnatural_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1394,Destination,Philomenas,2013_Philomenas_The Engineer,51.514813000000004,-0.12298900000000001,2013-12-18
+1395,Origin,The Engineer,2013_Philomenas_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1396,Destination,Truly Scrumptious,2013_Truly Scrumptious_The Engineer,51.543572999999995,-0.15024200000000001,2013-11-20
+1397,Origin,The Engineer,2013_Truly Scrumptious_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1398,Destination,Meadows,2013_Meadows_The Engineer,51.548138,-0.141677,2013-09-12
+1399,Origin,The Engineer,2013_Meadows_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1400,Destination,OKA Restaurant,2013_OKA Restaurant_The Engineer,51.541273,-0.157718,2013-04-24
+1401,Origin,The Engineer,2013_OKA Restaurant_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1402,Destination,Pix Bar,2013_Pix Bar_The Engineer,51.515044,-0.126064,2013-09-19
+1403,Origin,The Engineer,2013_Pix Bar_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1404,Destination,Mani's,2013_Mani's_The Engineer,51.555759,-0.177656,2013-04-11
+1405,Origin,The Engineer,2013_Mani's_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1406,Destination,The Rising Sun,2013_The Rising Sun_The Engineer,51.519513,-0.133795,2013-09-26
+1407,Origin,The Engineer,2013_The Rising Sun_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1408,Destination,Cagneys,2013_Cagneys_The Engineer,51.520839,-0.12166400000000001,2013-02-07
+1409,Origin,The Engineer,2013_Cagneys_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1410,Destination,Tower 47,2013_Tower 47_The Engineer,51.54314,-0.148383,2013-09-04
+1411,Origin,The Engineer,2013_Tower 47_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1412,Destination,KAMPS,2013_KAMPS_The Engineer,51.523398,-0.136463,2013-10-15
+1413,Origin,The Engineer,2013_KAMPS_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1414,Destination,Just Falafel,2013_Just Falafel_The Engineer,51.515044,-0.126064,2013-08-05
+1415,Origin,The Engineer,2013_Just Falafel_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1416,Destination,The Old Crown Public House,2013_The Old Crown Public House_The Engineer,51.516890999999994,-0.12531,2013-09-30
+1417,Origin,The Engineer,2013_The Old Crown Public House_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1418,Destination,Chimney Cake Bakers Cafe,2013_Chimney Cake Bakers Cafe_The Engineer,51.54546,-0.177086,2013-12-03
+1419,Origin,The Engineer,2013_Chimney Cake Bakers Cafe_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1420,Destination,The Lyttelton Arms,2013_The Lyttelton Arms_The Engineer,51.534911,-0.139649,2013-06-12
+1421,Origin,The Engineer,2013_The Lyttelton Arms_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1422,Destination,The Museum Tavern,2013_The Museum Tavern_The Engineer,51.518343,-0.12531199999999998,2013-09-26
+1423,Origin,The Engineer,2013_The Museum Tavern_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1424,Destination,Pizza East,2013_Pizza East_The Engineer,51.55423,-0.144109,2013-06-08
+1425,Origin,The Engineer,2013_Pizza East_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1426,Destination,Assa Japan,2013_Assa Japan_The Engineer,51.515526,-0.12947,2013-01-07
+1427,Origin,The Engineer,2013_Assa Japan_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1428,Destination,Caffe Concerto,2013_Caffe Concerto_The Engineer,51.52243,-0.13683900000000002,2013-09-13
+1429,Origin,The Engineer,2013_Caffe Concerto_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1430,Destination,Violette Cafe,2013_Violette Cafe_The Engineer,51.546611999999996,-0.161548,2013-10-15
+1431,Origin,The Engineer,2013_Violette Cafe_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1432,Destination,Kopapa,2013_Kopapa_The Engineer,51.513596,-0.127317,2013-12-09
+1433,Origin,The Engineer,2013_Kopapa_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1434,Destination,The Engineer,2013_The Engineer_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1435,Origin,The Engineer,2013_The Engineer_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1436,Destination,Cafe Seventy Nine,2013_Cafe Seventy Nine_The Engineer,51.541273,-0.157718,2013-10-17
+1437,Origin,The Engineer,2013_Cafe Seventy Nine_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1438,Destination,Tossed,2013_Tossed_The Engineer,51.521334,-0.112046,2013-11-26
+1439,Origin,The Engineer,2013_Tossed_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1440,Destination,McDonalds Restaurant LTD,2013_McDonalds Restaurant LTD_The Engineer,51.523937,-0.138173,2013-07-22
+1441,Origin,The Engineer,2013_McDonalds Restaurant LTD_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1442,Destination,Starbuck Coffee,2013_Starbuck Coffee_The Engineer,51.528517,-0.126822,2013-08-30
+1443,Origin,The Engineer,2013_Starbuck Coffee_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1444,Destination,Subway,2013_Subway_The Engineer,51.539219,-0.141978,2013-07-05
+1445,Origin,The Engineer,2013_Subway_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1446,Destination,Ginger & White,2013_Ginger & White_The Engineer,51.555611,-0.17816400000000002,2013-07-11
+1447,Origin,The Engineer,2013_Ginger & White_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1448,Destination,J Restaurant,2013_J Restaurant_The Engineer,51.541352,-0.15648199999999998,2013-09-18
+1449,Origin,The Engineer,2013_J Restaurant_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1450,Destination,Kitchenette,2013_Kitchenette_The Engineer,51.519597,-0.109508,2013-10-31
+1451,Origin,The Engineer,2013_Kitchenette_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1452,Destination,Caffe Fratelli,2013_Caffe Fratelli_The Engineer,51.531775,-0.126577,2013-10-12
+1453,Origin,The Engineer,2013_Caffe Fratelli_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1454,Destination,Draft House,2013_Draft House_The Engineer,51.519021,-0.135793,2013-09-24
+1455,Origin,The Engineer,2013_Draft House_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1456,Destination,Cinnamon Deli & Coffee,2013_Cinnamon Deli & Coffee_The Engineer,51.546611999999996,-0.161548,2013-06-28
+1457,Origin,The Engineer,2013_Cinnamon Deli & Coffee_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1458,Destination,The Marlborough Arms,2013_The Marlborough Arms_The Engineer,51.521608,-0.132898,2013-09-26
+1459,Origin,The Engineer,2013_The Marlborough Arms_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1460,Destination,Gail's,2013_Gail's_The Engineer,51.55619,-0.178368,2013-06-08
+1461,Origin,The Engineer,2013_Gail's_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1462,Destination,Daddy Donkey Mexican Grill,2013_Daddy Donkey Mexican Grill_The Engineer,51.521044,-0.10923499999999998,2013-04-24
+1463,Origin,The Engineer,2013_Daddy Donkey Mexican Grill_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1464,Destination,Belgo,2013_Belgo_The Engineer,51.515103,-0.119874,2013-05-24
+1465,Origin,The Engineer,2013_Belgo_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1466,Destination,XO Restaurant,2013_XO Restaurant_The Engineer,51.549339,-0.171002,2013-08-14
+1467,Origin,The Engineer,2013_XO Restaurant_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1468,Destination,Greggs,2013_Greggs_The Engineer,51.520227,-0.12197000000000001,2013-10-31
+1469,Origin,The Engineer,2013_Greggs_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1470,Destination,Pizza Hut,2013_Pizza Hut_The Engineer,51.521776,-0.12359300000000001,2013-10-10
+1471,Origin,The Engineer,2013_Pizza Hut_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1472,Destination,Banana Tree Canteen,2013_Banana Tree Canteen_The Engineer,51.549248999999996,-0.191669,2013-05-07
+1473,Origin,The Engineer,2013_Banana Tree Canteen_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1474,Destination,Nandos,2013_Nandos_The Engineer,51.543572999999995,-0.15024200000000001,2013-09-23
+1475,Origin,The Engineer,2013_Nandos_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1476,Destination,Cafe Bel,2013_Cafe Bel_The Engineer,51.552279,-0.141423,2013-12-08
+1477,Origin,The Engineer,2013_Cafe Bel_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1478,Destination,Euphorium Bakery,2013_Euphorium Bakery_The Engineer,51.550908,-0.16658399999999998,2013-12-23
+1479,Origin,The Engineer,2013_Euphorium Bakery_The Engineer,51.540040000000005,-0.15085,2013-01-05
+1480,Destination,Bleeding Heart Restaurants,2015_Bleeding Heart Restaurants_MoBa,51.518941,-0.106305,2015-05-22
+1481,Origin,MoBa,2015_Bleeding Heart Restaurants_MoBa,51.519021,-0.135793,2015-01-01
+1482,Destination,The Bucks Head,2015_The Bucks Head_MoBa,51.537827,-0.143102,2015-10-03
+1483,Origin,MoBa,2015_The Bucks Head_MoBa,51.519021,-0.135793,2015-01-01
+1484,Destination,The Bountiful Cow,2015_The Bountiful Cow_MoBa,51.518976,-0.117914,2015-04-23
+1485,Origin,MoBa,2015_The Bountiful Cow_MoBa,51.519021,-0.135793,2015-01-01
+1486,Destination,Vats Wine Bar,2015_Vats Wine Bar_MoBa,51.521754,-0.11884700000000001,2015-09-04
+1487,Origin,MoBa,2015_Vats Wine Bar_MoBa,51.519021,-0.135793,2015-01-01
+1488,Destination,The Horseshoe,2015_The Horseshoe_MoBa,51.55619,-0.178368,2015-04-13
+1489,Origin,MoBa,2015_The Horseshoe_MoBa,51.519021,-0.135793,2015-01-01
+1490,Destination,Washington,2015_Washington_MoBa,51.545876,-0.162983,2015-10-15
+1491,Origin,MoBa,2015_Washington_MoBa,51.519021,-0.135793,2015-01-01
+1492,Destination,Paul,2015_Paul_MoBa,51.556783,-0.177972,2015-11-13
+1493,Origin,MoBa,2015_Paul_MoBa,51.519021,-0.135793,2015-01-01
+1494,Destination,Cottons Carribbean,2015_Cottons Carribbean_MoBa,51.542882,-0.14976099999999998,2015-05-20
+1495,Origin,MoBa,2015_Cottons Carribbean_MoBa,51.519021,-0.135793,2015-01-01
+1496,Destination,Greggs Plc,2015_Greggs Plc_MoBa,51.521703,-0.136071,2015-05-21
+1497,Origin,MoBa,2015_Greggs Plc_MoBa,51.519021,-0.135793,2015-01-01
+1498,Destination,Cafe Rouge,2015_Cafe Rouge_MoBa,51.515423,-0.176816,2015-05-06
+1499,Origin,MoBa,2015_Cafe Rouge_MoBa,51.519021,-0.135793,2015-01-01
+1500,Destination,Earl Of Camden,2015_Earl Of Camden_MoBa,51.537586,-0.14385,2015-01-12
+1501,Origin,MoBa,2015_Earl Of Camden_MoBa,51.519021,-0.135793,2015-01-01
+1502,Destination,Euphorium Bakery,2015_Euphorium Bakery_MoBa,51.550908,-0.167068,2015-11-13
+1503,Origin,MoBa,2015_Euphorium Bakery_MoBa,51.519021,-0.135793,2015-01-01
+1504,Destination,Pret A Manger,2015_Pret A Manger_MoBa,51.513999,-0.142543,2015-03-10
+1505,Origin,MoBa,2015_Pret A Manger_MoBa,51.519021,-0.135793,2015-01-01
+1506,Destination,Swan,2015_Swan_MoBa,51.521776,-0.12359300000000001,2015-07-14
+1507,Origin,MoBa,2015_Swan_MoBa,51.519021,-0.135793,2015-01-01
+1508,Destination,Pincess of Wales,2015_Pincess of Wales_MoBa,51.540301,-0.15378,2015-03-30
+1509,Origin,MoBa,2015_Pincess of Wales_MoBa,51.519021,-0.135793,2015-01-01
+1510,Destination,Masqmenos,2015_Masqmenos_MoBa,51.517590999999996,-0.115452,2015-06-15
+1511,Origin,MoBa,2015_Masqmenos_MoBa,51.519021,-0.135793,2015-01-01
+1512,Destination,Subway,2015_Subway_MoBa,51.539219,-0.141978,2015-07-31
+1513,Origin,MoBa,2015_Subway_MoBa,51.519021,-0.135793,2015-01-01
+1514,Destination,Crown Cafe,2015_Crown Cafe_MoBa,51.535618,-0.134023,2015-06-04
+1515,Origin,MoBa,2015_Crown Cafe_MoBa,51.519021,-0.135793,2015-01-01
+1516,Destination,Meadows cafe,2015_Meadows cafe_MoBa,51.548138,-0.141677,2015-11-15
+1517,Origin,MoBa,2015_Meadows cafe_MoBa,51.519021,-0.135793,2015-01-01
+1518,Destination,Lemonia,2015_Lemonia_MoBa,51.542027000000004,-0.157269,2015-05-08
+1519,Origin,MoBa,2015_Lemonia_MoBa,51.519021,-0.135793,2015-01-01
+1520,Destination,I Love Nata,2015_I Love Nata_MoBa,51.515044,-0.126064,2015-12-03
+1521,Origin,MoBa,2015_I Love Nata_MoBa,51.519021,-0.135793,2015-01-01
+1522,Destination,Rising Sun,2015_Rising Sun_MoBa,51.519513,-0.133795,2015-08-25
+1523,Origin,MoBa,2015_Rising Sun_MoBa,51.519021,-0.135793,2015-01-01
+1524,Destination,Pix Pintxos,2015_Pix Pintxos_MoBa,51.515044,-0.126064,2015-03-12
+1525,Origin,MoBa,2015_Pix Pintxos_MoBa,51.519021,-0.135793,2015-01-01
+1526,Destination,The Queen's Larder,2015_The Queen's Larder_MoBa,51.520839,-0.12166400000000001,2015-06-03
+1527,Origin,MoBa,2015_The Queen's Larder_MoBa,51.519021,-0.135793,2015-01-01
+1528,Destination,Costa Coffee,2015_Costa Coffee_MoBa,51.51685,-0.128578,2015-07-09
+1529,Origin,MoBa,2015_Costa Coffee_MoBa,51.519021,-0.135793,2015-01-01
+1530,Destination,Cagneys,2015_Cagneys_MoBa,51.520839,-0.12166400000000001,2015-05-08
+1531,Origin,MoBa,2015_Cagneys_MoBa,51.519021,-0.135793,2015-01-01
+1532,Destination,Hampstead Tea Rooms,2015_Hampstead Tea Rooms_MoBa,51.554295,-0.16628800000000002,2015-02-11
+1533,Origin,MoBa,2015_Hampstead Tea Rooms_MoBa,51.519021,-0.135793,2015-01-01
+1534,Destination,Earl of Camden,2015_Earl of Camden_MoBa,51.537586,-0.14385,2015-12-03
+1535,Origin,MoBa,2015_Earl of Camden_MoBa,51.519021,-0.135793,2015-01-01
+1536,Destination,The Food Place,2015_The Food Place_MoBa,51.532058,-0.130245,2015-03-14
+1537,Origin,MoBa,2015_The Food Place_MoBa,51.519021,-0.135793,2015-01-01
+1538,Destination,Belgo,2015_Belgo_MoBa,51.515103,-0.119874,2015-05-15
+1539,Origin,MoBa,2015_Belgo_MoBa,51.519021,-0.135793,2015-01-01
+1540,Destination,Pret a Manger,2015_Pret a Manger_MoBa,51.520227,-0.13683900000000002,2015-02-11
+1541,Origin,MoBa,2015_Pret a Manger_MoBa,51.519021,-0.135793,2015-01-01
+1542,Destination,Cote,2015_Cote_MoBa,51.538119,-0.176217,2015-02-25
+1543,Origin,MoBa,2015_Cote_MoBa,51.519021,-0.135793,2015-01-01
+1544,Destination,Leon,2015_Leon_MoBa,51.515423,-0.13683900000000002,2015-04-03
+1545,Origin,MoBa,2015_Leon_MoBa,51.519021,-0.135793,2015-01-01
+1546,Destination,Bourne & Hollingsworth,2015_Bourne & Hollingsworth_MoBa,51.518432000000004,-0.135121,2015-08-28
+1547,Origin,MoBa,2015_Bourne & Hollingsworth_MoBa,51.519021,-0.135793,2015-01-01
+1548,Destination,Toomai Restaurant,2015_Toomai Restaurant_MoBa,51.548794,-0.19137300000000002,2015-04-13
+1549,Origin,MoBa,2015_Toomai Restaurant_MoBa,51.519021,-0.135793,2015-01-01
+1550,Destination,Simmons,2015_Simmons_MoBa,51.534911,-0.139649,2015-08-26
+1551,Origin,MoBa,2015_Simmons_MoBa,51.519021,-0.135793,2015-01-01
+1552,Destination,Leyas,2015_Leyas_MoBa,51.535228000000004,-0.138658,2015-08-24
+1553,Origin,MoBa,2015_Leyas_MoBa,51.519021,-0.135793,2015-01-01
+1554,Destination,Nandos,2015_Nandos_MoBa,51.543572999999995,-0.191253,2015-02-11
+1555,Origin,MoBa,2015_Nandos_MoBa,51.519021,-0.135793,2015-01-01
+1556,Destination,The George,2015_The George_MoBa,51.55271,-0.166968,2015-07-05
+1557,Origin,MoBa,2015_The George_MoBa,51.519021,-0.135793,2015-01-01
+1558,Destination,Museum Tavern,2015_Museum Tavern_MoBa,51.518343,-0.12531199999999998,2015-08-26
+1559,Origin,MoBa,2015_Museum Tavern_MoBa,51.519021,-0.135793,2015-01-01
+1560,Destination,My Village Cafe,2015_My Village Cafe_MoBa,51.54314,-0.148383,2015-12-08
+1561,Origin,MoBa,2015_My Village Cafe_MoBa,51.519021,-0.135793,2015-01-01
+1562,Destination,Knockbox Coffee,2015_Knockbox Coffee_MoBa,51.521363,-0.117827,2015-08-25
+1563,Origin,MoBa,2015_Knockbox Coffee_MoBa,51.519021,-0.135793,2015-01-01
+1564,Destination,Homeslice,2015_Homeslice_MoBa,51.514446,-0.126545,2015-10-27
+1565,Origin,MoBa,2015_Homeslice_MoBa,51.519021,-0.135793,2015-01-01
+1566,Destination,Great Northern Hotel,2015_Great Northern Hotel_MoBa,51.530714,-0.12441600000000001,2015-06-18
+1567,Origin,MoBa,2015_Great Northern Hotel_MoBa,51.519021,-0.135793,2015-01-01
+1568,Destination,Sir Christopher Hatton,2015_Sir Christopher Hatton_MoBa,51.518529,-0.108519,2015-03-21
+1569,Origin,MoBa,2015_Sir Christopher Hatton_MoBa,51.519021,-0.135793,2015-01-01
+1570,Destination,Pizza Hut,2015_Pizza Hut_MoBa,51.521776,-0.12359300000000001,2015-03-11
+1571,Origin,MoBa,2015_Pizza Hut_MoBa,51.519021,-0.135793,2015-01-01
+1572,Destination,Double J's Sandwich Bar,2015_Double J's Sandwich Bar_MoBa,51.524398,-0.139311,2015-07-28
+1573,Origin,MoBa,2015_Double J's Sandwich Bar_MoBa,51.519021,-0.135793,2015-01-01
+1574,Destination,The Worlds End,2015_The Worlds End_MoBa,51.539219,-0.141978,2015-07-31
+1575,Origin,MoBa,2015_The Worlds End_MoBa,51.519021,-0.135793,2015-01-01
+1576,Destination,Bloomsbury Tavern,2015_Bloomsbury Tavern_MoBa,51.516890999999994,-0.12531,2015-11-05
+1577,Origin,MoBa,2015_Bloomsbury Tavern_MoBa,51.519021,-0.135793,2015-01-01
+1578,Destination,Gail's,2015_Gail's_MoBa,51.55619,-0.178368,2015-11-18
+1579,Origin,MoBa,2015_Gail's_MoBa,51.519021,-0.135793,2015-01-01
+1580,Destination,La Bottega,2015_La Bottega_MoBa,51.513596,-0.127317,2015-03-18
+1581,Origin,MoBa,2015_La Bottega_MoBa,51.519021,-0.135793,2015-01-01
+1582,Destination,Pizza express,2015_Pizza express_MoBa,51.528517,-0.126822,2015-04-23
+1583,Origin,MoBa,2015_Pizza express_MoBa,51.519021,-0.135793,2015-01-01
+1584,Destination,Save The Children,2015_Save The Children_MoBa,51.55619,-0.178368,2015-05-17
+1585,Origin,MoBa,2015_Save The Children_MoBa,51.519021,-0.135793,2015-01-01
+1586,Destination,Starbucks Coffee,2015_Starbucks Coffee_MoBa,51.518044,-0.19143,2015-06-11
+1587,Origin,MoBa,2015_Starbucks Coffee_MoBa,51.519021,-0.135793,2015-01-01
+1588,Destination,Mimmo La Bufala,2015_Mimmo La Bufala_MoBa,51.555367,-0.167068,2015-10-06
+1589,Origin,MoBa,2015_Mimmo La Bufala_MoBa,51.519021,-0.135793,2015-01-01
+1590,Destination,Wot the Dickens,2015_Wot the Dickens_MoBa,51.526845,-0.129579,2015-08-18
+1591,Origin,MoBa,2015_Wot the Dickens_MoBa,51.519021,-0.135793,2015-01-01
+1592,Destination,Pauls,2015_Pauls_MoBa,51.515819,-0.118702,2015-12-16
+1593,Origin,MoBa,2015_Pauls_MoBa,51.519021,-0.135793,2015-01-01
+1594,Destination,The Euston Flyer,2015_The Euston Flyer_MoBa,51.528517,-0.126822,2015-03-27
+1595,Origin,MoBa,2015_The Euston Flyer_MoBa,51.519021,-0.135793,2015-01-01
+1596,Destination,Starbucks,2015_Starbucks_MoBa,51.516945,-0.12989,2015-03-06
+1597,Origin,MoBa,2015_Starbucks_MoBa,51.519021,-0.135793,2015-01-01
+1598,Destination,Queens Public House,2015_Queens Public House_MoBa,51.540818,-0.158121,2015-03-12
+1599,Origin,MoBa,2015_Queens Public House_MoBa,51.519021,-0.135793,2015-01-01
+1600,Destination,Hot Rock Cafe,2015_Hot Rock Cafe_MoBa,51.539219,-0.141978,2015-12-08
+1601,Origin,MoBa,2015_Hot Rock Cafe_MoBa,51.519021,-0.135793,2015-01-01
+1602,Destination,Mcdonald's restaurant,2015_Mcdonald's restaurant_MoBa,51.523937,-0.138173,2015-10-08
+1603,Origin,MoBa,2015_Mcdonald's restaurant_MoBa,51.519021,-0.135793,2015-01-01
+1604,Destination,Amarcord Museum,2015_Amarcord Museum_MoBa,51.517865,-0.12620499999999998,2015-10-19
+1605,Origin,MoBa,2015_Amarcord Museum_MoBa,51.519021,-0.135793,2015-01-01
+1606,Destination,Cosmoba,2015_Cosmoba_MoBa,51.521776,-0.12359300000000001,2015-02-12
+1607,Origin,MoBa,2015_Cosmoba_MoBa,51.519021,-0.135793,2015-01-01
+1608,Destination,Caffe Nero,2015_Caffe Nero_MoBa,51.515423,-0.17440899999999998,2015-05-05
+1609,Origin,MoBa,2015_Caffe Nero_MoBa,51.519021,-0.135793,2015-01-01
+1610,Destination,Newmarke Ale House,2015_Newmarke Ale House_MoBa,51.543074,-0.126691,2015-10-29
+1611,Origin,MoBa,2015_Newmarke Ale House_MoBa,51.519021,-0.135793,2015-01-01
+1612,Destination,Leon Restaurant,2015_Leon Restaurant_MoBa,51.51757,-0.132725,2015-04-13
+1613,Origin,MoBa,2015_Leon Restaurant_MoBa,51.519021,-0.135793,2015-01-01
+1614,Destination,Penderals Oak,2015_Penderals Oak_MoBa,51.517858000000004,-0.11538599999999999,2015-12-11
+1615,Origin,MoBa,2015_Penderals Oak_MoBa,51.519021,-0.135793,2015-01-01
+1616,Destination,Krimas in Parma,2015_Krimas in Parma_MoBa,51.519021,-0.135793,2015-03-13
+1617,Origin,MoBa,2015_Krimas in Parma_MoBa,51.519021,-0.135793,2015-01-01
+1618,Destination,Cinnamon NW3 Cafe,2015_Cinnamon NW3 Cafe_MoBa,51.546611999999996,-0.161548,2015-08-24
+1619,Origin,MoBa,2015_Cinnamon NW3 Cafe_MoBa,51.519021,-0.135793,2015-01-01
+1620,Destination,Chilango,2015_Chilango_MoBa,51.518529,-0.108519,2015-11-19
+1621,Origin,MoBa,2015_Chilango_MoBa,51.519021,-0.135793,2015-01-01
+1622,Destination,Tuttis,2015_Tuttis_MoBa,51.522684000000005,-0.118774,2015-01-04
+1623,Origin,MoBa,2015_Tuttis_MoBa,51.519021,-0.135793,2015-01-01
+1624,Destination,Kimchee To Go,2015_Kimchee To Go_MoBa,51.51685,-0.128578,2015-07-21
+1625,Origin,MoBa,2015_Kimchee To Go_MoBa,51.519021,-0.135793,2015-01-01
+1626,Destination,Garfunkels Resturant,2015_Garfunkels Resturant_MoBa,51.516945,-0.12989,2015-10-12
+1627,Origin,MoBa,2015_Garfunkels Resturant_MoBa,51.519021,-0.135793,2015-01-01
+1628,Destination,Coco Momo,2015_Coco Momo_MoBa,51.520793,-0.11748800000000001,2015-02-27
+1629,Origin,MoBa,2015_Coco Momo_MoBa,51.519021,-0.135793,2015-01-01
+1630,Destination,Rugby Tavern,2015_Rugby Tavern_MoBa,51.522104999999996,-0.116994,2015-05-28
+1631,Origin,MoBa,2015_Rugby Tavern_MoBa,51.519021,-0.135793,2015-01-01
+1632,Destination,Carebrook Ltd t/a Pret a Manger,2015_Carebrook Ltd t/a Pret a Manger_MoBa,51.535228000000004,-0.138658,2015-01-06
+1633,Origin,MoBa,2015_Carebrook Ltd t/a Pret a Manger_MoBa,51.519021,-0.135793,2015-01-01
+1634,Destination,Two Brewers,2015_Two Brewers_MoBa,51.513243,-0.127366,2015-04-14
+1635,Origin,MoBa,2015_Two Brewers_MoBa,51.519021,-0.135793,2015-01-01
+1636,Destination,The Crown,2015_The Crown_MoBa,51.514389,-0.12725799999999998,2015-11-03
+1637,Origin,MoBa,2015_The Crown_MoBa,51.519021,-0.135793,2015-01-01
+1638,Destination,Caradell,2015_Caradell_MoBa,51.519397,-0.11733099999999999,2015-08-18
+1639,Origin,MoBa,2015_Caradell_MoBa,51.519021,-0.135793,2015-01-01
+1640,Destination,Busaba Eathai,2015_Busaba Eathai_MoBa,51.519946999999995,-0.133178,2015-08-04
+1641,Origin,MoBa,2015_Busaba Eathai_MoBa,51.519021,-0.135793,2015-01-01
+1642,Destination,Viet Eat,2015_Viet Eat_MoBa,51.51668,-0.119209,2015-08-18
+1643,Origin,MoBa,2015_Viet Eat_MoBa,51.519021,-0.135793,2015-01-01
+1644,Destination,Friend At Hand,2015_Friend At Hand_MoBa,51.52268,-0.12503599999999998,2015-03-27
+1645,Origin,MoBa,2015_Friend At Hand_MoBa,51.519021,-0.135793,2015-01-01
+1646,Destination,La Gourmandina,2015_La Gourmandina_MoBa,51.521754,-0.11884700000000001,2015-12-12
+1647,Origin,MoBa,2015_La Gourmandina_MoBa,51.519021,-0.135793,2015-01-01
+1648,Destination,Hercules Pillars,2015_Hercules Pillars_MoBa,51.515707,-0.12126300000000001,2015-02-10
+1649,Origin,MoBa,2015_Hercules Pillars_MoBa,51.519021,-0.135793,2015-01-01
+1650,Destination,Shakespeares Head,2015_Shakespeares Head_MoBa,51.517002000000005,-0.11943599999999999,2015-03-23
+1651,Origin,MoBa,2015_Shakespeares Head_MoBa,51.519021,-0.135793,2015-01-01
+1652,Destination,Da Mario Restaurant,2015_Da Mario Restaurant_MoBa,51.515044,-0.126064,2015-11-05
+1653,Origin,MoBa,2015_Da Mario Restaurant_MoBa,51.519021,-0.135793,2015-01-01
+1654,Destination,Truly Scrumptious,2015_Truly Scrumptious_MoBa,51.543572999999995,-0.15024200000000001,2015-11-19
+1655,Origin,MoBa,2015_Truly Scrumptious_MoBa,51.519021,-0.135793,2015-01-01
+1656,Destination,ITSU,2015_ITSU_MoBa,51.514534999999995,-0.122584,2015-12-16
+1657,Origin,MoBa,2015_ITSU_MoBa,51.519021,-0.135793,2015-01-01
+1658,Destination,Belushi's Bar,2015_Belushi's Bar_MoBa,51.536631,-0.14013499999999998,2015-04-29
+1659,Origin,MoBa,2015_Belushi's Bar_MoBa,51.519021,-0.135793,2015-01-01
+1660,Destination,Kopapa,2015_Kopapa_MoBa,51.513596,-0.127317,2015-11-19
+1661,Origin,MoBa,2015_Kopapa_MoBa,51.519021,-0.135793,2015-01-01
+1662,Destination,The Leighton Arms,2015_The Leighton Arms_MoBa,51.552346,-0.132877,2015-08-05
+1663,Origin,MoBa,2015_The Leighton Arms_MoBa,51.519021,-0.135793,2015-01-01
+1664,Destination,The Black Penny,2015_The Black Penny_MoBa,51.515707,-0.12126300000000001,2015-03-20
+1665,Origin,MoBa,2015_The Black Penny_MoBa,51.519021,-0.135793,2015-01-01
+1666,Destination,Coffee Blooms,2015_Coffee Blooms_MoBa,51.521384999999995,-0.11891600000000001,2015-04-22
+1667,Origin,MoBa,2015_Coffee Blooms_MoBa,51.519021,-0.135793,2015-01-01
+1668,Destination,Mani's,2015_Mani's_MoBa,51.555759,-0.177656,2015-11-18
+1669,Origin,MoBa,2015_Mani's_MoBa,51.519021,-0.135793,2015-01-01
+1670,Destination,York and Albany,2015_York and Albany_MoBa,51.53608,-0.146199,2015-12-17
+1671,Origin,MoBa,2015_York and Albany_MoBa,51.519021,-0.135793,2015-01-01
+1672,Destination,Railway,2015_Railway_MoBa,51.546124,-0.19050799999999998,2015-03-27
+1673,Origin,MoBa,2015_Railway_MoBa,51.519021,-0.135793,2015-01-01
+1674,Destination,Belgo Noord,2015_Belgo Noord_MoBa,51.543861,-0.150849,2015-08-24
+1675,Origin,MoBa,2015_Belgo Noord_MoBa,51.519021,-0.135793,2015-01-01
+1676,Destination,The Wet Fish Cafe,2015_The Wet Fish Cafe_MoBa,51.551158,-0.191369,2015-12-08
+1677,Origin,MoBa,2015_The Wet Fish Cafe_MoBa,51.519021,-0.135793,2015-01-01
+1678,Destination,Adobo,2015_Adobo_MoBa,51.518268,-0.11845499999999999,2015-11-05
+1679,Origin,MoBa,2015_Adobo_MoBa,51.519021,-0.135793,2015-01-01
+1680,Destination,La Porchetta,2015_La Porchetta_MoBa,51.543861,-0.150849,2015-04-20
+1681,Origin,MoBa,2015_La Porchetta_MoBa,51.519021,-0.135793,2015-01-01
+1682,Destination,Banana Tree,2015_Banana Tree_MoBa,51.549248999999996,-0.191669,2015-01-06
+1683,Origin,MoBa,2015_Banana Tree_MoBa,51.519021,-0.135793,2015-01-01
+1684,Destination,Odeon Cinema,2015_Odeon Cinema_MoBa,51.542636,-0.17460799999999999,2015-10-28
+1685,Origin,MoBa,2015_Odeon Cinema_MoBa,51.519021,-0.135793,2015-01-01
+1686,Destination,McDonalds Restaurant Ltd,2015_McDonalds Restaurant Ltd_MoBa,51.517405,-0.119842,2015-08-28
+1687,Origin,MoBa,2015_McDonalds Restaurant Ltd_MoBa,51.519021,-0.135793,2015-01-01
+1688,Destination,Mezza & Grill Express,2015_Mezza & Grill Express_MoBa,51.534911,-0.139649,2015-08-21
+1689,Origin,MoBa,2015_Mezza & Grill Express_MoBa,51.519021,-0.135793,2015-01-01
+1690,Destination,Sharps Barbers and Shop,2015_Sharps Barbers and Shop_MoBa,51.518605,-0.13372,2015-12-10
+1691,Origin,MoBa,2015_Sharps Barbers and Shop_MoBa,51.519021,-0.135793,2015-01-01
+1692,Destination,Bull and Gate,2015_Bull and Gate_MoBa,51.551885,-0.141932,2015-05-05
+1693,Origin,MoBa,2015_Bull and Gate_MoBa,51.519021,-0.135793,2015-01-01
+1694,Destination,MoBa,2015_MoBa_MoBa,51.519021,-0.135793,2015-01-01
+1695,Origin,MoBa,2015_MoBa_MoBa,51.519021,-0.135793,2015-01-01
+1696,Destination,Karma Bread,2015_Karma Bread_MoBa,51.554295,-0.16628800000000002,2015-05-08
+1697,Origin,MoBa,2015_Karma Bread_MoBa,51.519021,-0.135793,2015-01-01
+1698,Destination,The Place (Contemporary Dance Trust),2015_The Place (Contemporary Dance Trust)_MoBa,51.526845,-0.129579,2015-10-28
+1699,Origin,MoBa,2015_The Place (Contemporary Dance Trust)_MoBa,51.519021,-0.135793,2015-01-01
+1700,Destination,The Diner,2015_The Diner_MoBa,51.515044,-0.126064,2015-04-09
+1701,Origin,MoBa,2015_The Diner_MoBa,51.519021,-0.135793,2015-01-01
+1702,Destination,Ginger & White,2015_Ginger & White_MoBa,51.555611,-0.17816400000000002,2015-11-18
+1703,Origin,MoBa,2015_Ginger & White_MoBa,51.519021,-0.135793,2015-01-01
+1704,Destination,Pomme De Pain Sandwich and Cafe,2015_Pomme De Pain Sandwich and Cafe_MoBa,51.517452,-0.130432,2015-04-16
+1705,Origin,MoBa,2015_Pomme De Pain Sandwich and Cafe_MoBa,51.519021,-0.135793,2015-01-01
+1706,Destination,Rock and Sole Plaice,2015_Rock and Sole Plaice_MoBa,51.514406,-0.12488599999999998,2015-03-23
+1707,Origin,MoBa,2015_Rock and Sole Plaice_MoBa,51.519021,-0.135793,2015-01-01
+1708,Destination,Starbucks Coffee Co ( UK) Ltd,2015_Starbucks Coffee Co ( UK) Ltd_MoBa,51.545268,-0.16252,2015-08-22
+1709,Origin,MoBa,2015_Starbucks Coffee Co ( UK) Ltd_MoBa,51.519021,-0.135793,2015-01-01
+1710,Destination,L'Absinthe,2015_L'Absinthe_MoBa,51.540301,-0.15378,2015-06-18
+1711,Origin,MoBa,2015_L'Absinthe_MoBa,51.519021,-0.135793,2015-01-01
+1712,Destination,Garfunkels Restaurant,2015_Garfunkels Restaurant_MoBa,51.516945,-0.12989,2015-01-18
+1713,Origin,MoBa,2015_Garfunkels Restaurant_MoBa,51.519021,-0.135793,2015-01-01
+1714,Destination,The Bowler Restaurant,2015_The Bowler Restaurant_MoBa,51.515044,-0.126064,2015-08-18
+1715,Origin,MoBa,2015_The Bowler Restaurant_MoBa,51.519021,-0.135793,2015-01-01
+1716,Destination,The Monarch,2015_The Monarch_MoBa,51.54314,-0.148383,2015-10-06
+1717,Origin,MoBa,2015_The Monarch_MoBa,51.519021,-0.135793,2015-01-01
+1718,Destination,Cafe Mode,2015_Cafe Mode_MoBa,51.515044,-0.126064,2015-12-10
+1719,Origin,MoBa,2015_Cafe Mode_MoBa,51.519021,-0.135793,2015-01-01
+1720,Destination,The Flask Public House,2015_The Flask Public House_MoBa,51.556693,-0.176761,2015-06-18
+1721,Origin,MoBa,2015_The Flask Public House_MoBa,51.519021,-0.135793,2015-01-01
+1722,Destination,J Restuarant,2015_J Restuarant_MoBa,51.541352,-0.15648199999999998,2015-11-16
+1723,Origin,MoBa,2015_J Restuarant_MoBa,51.519021,-0.135793,2015-01-01
+1724,Destination,Le Pain Quotidien,2015_Le Pain Quotidien_MoBa,51.554295,-0.16628800000000002,2015-06-30
+1725,Origin,MoBa,2015_Le Pain Quotidien_MoBa,51.519021,-0.135793,2015-01-01
+1726,Destination,Compagnie Des Vins Surnaturel,2015_Compagnie Des Vins Surnaturel_MoBa,51.514446,-0.126545,2015-01-12
+1727,Origin,MoBa,2015_Compagnie Des Vins Surnaturel_MoBa,51.519021,-0.135793,2015-01-01
+1728,Destination,Meadows,2015_Meadows_MoBa,51.548138,-0.141677,2015-11-01
+1729,Origin,MoBa,2015_Meadows_MoBa,51.519021,-0.135793,2015-01-01
+1730,Destination,Jar Kitchen,2015_Jar Kitchen_MoBa,51.516075,-0.122922,2015-03-31
+1731,Origin,MoBa,2015_Jar Kitchen_MoBa,51.519021,-0.135793,2015-01-01
+1732,Destination,Abokado,2015_Abokado_MoBa,51.514813000000004,-0.12298900000000001,2015-11-08
+1733,Origin,MoBa,2015_Abokado_MoBa,51.519021,-0.135793,2015-01-01
+1734,Destination,Beriso,2015_Beriso_MoBa,51.518268,-0.11845499999999999,2015-05-21
+1735,Origin,MoBa,2015_Beriso_MoBa,51.519021,-0.135793,2015-01-01
+1736,Destination,Pizza Express,2015_Pizza Express_MoBa,51.517865,-0.12620499999999998,2015-09-19
+1737,Origin,MoBa,2015_Pizza Express_MoBa,51.519021,-0.135793,2015-01-01
+1738,Destination,Negozio Classica,2015_Negozio Classica_MoBa,51.541352,-0.15648199999999998,2015-08-26
+1739,Origin,MoBa,2015_Negozio Classica_MoBa,51.519021,-0.135793,2015-01-01
+1740,Destination,West One Food Ltd T/A Mc Donald's Restaurant,2015_West One Food Ltd T/A Mc Donald's Restaurant_MoBa,51.513999,-0.128985,2015-04-29
+1741,Origin,MoBa,2015_West One Food Ltd T/A Mc Donald's Restaurant_MoBa,51.519021,-0.135793,2015-01-01
+1742,Destination,XO Restaurant,2015_XO Restaurant_MoBa,51.549339,-0.171002,2015-09-11
+1743,Origin,MoBa,2015_XO Restaurant_MoBa,51.519021,-0.135793,2015-01-01
+1744,Destination,OKA Restaurant,2015_OKA Restaurant_MoBa,51.541273,-0.157718,2015-11-08
+1745,Origin,MoBa,2015_OKA Restaurant_MoBa,51.519021,-0.135793,2015-01-01
+1746,Destination,The Conduit Coffee House,2015_The Conduit Coffee House_MoBa,51.521754,-0.11884700000000001,2015-01-27
+1747,Origin,MoBa,2015_The Conduit Coffee House_MoBa,51.519021,-0.135793,2015-01-01
+1748,Destination,Gails,2015_Gails_MoBa,51.549746,-0.16428399999999999,2015-05-08
+1749,Origin,MoBa,2015_Gails_MoBa,51.519021,-0.135793,2015-01-01
+1750,Destination,The Crown Public House,2015_The Crown Public House_MoBa,51.516842,-0.126469,2015-05-15
+1751,Origin,MoBa,2015_The Crown Public House_MoBa,51.519021,-0.135793,2015-01-01
+1752,Destination,Le Tea Cosy Cafe,2015_Le Tea Cosy Cafe_MoBa,51.540818,-0.158121,2015-11-25
+1753,Origin,MoBa,2015_Le Tea Cosy Cafe_MoBa,51.519021,-0.135793,2015-01-01
+1754,Destination,Rossopomodoro,2015_Rossopomodoro_MoBa,51.513243,-0.127366,2015-10-14
+1755,Origin,MoBa,2015_Rossopomodoro_MoBa,51.519021,-0.135793,2015-01-01
+1756,Destination,Sorrento Snack Bar,2015_Sorrento Snack Bar_MoBa,51.526845,-0.129579,2015-07-31
+1757,Origin,MoBa,2015_Sorrento Snack Bar_MoBa,51.519021,-0.135793,2015-01-01
+1758,Destination,Chipotle Mexican Grill,2015_Chipotle Mexican Grill_MoBa,51.514562,-0.12926500000000002,2015-04-12
+1759,Origin,MoBa,2015_Chipotle Mexican Grill_MoBa,51.519021,-0.135793,2015-01-01
+1760,Destination,Sushi Hana,2017_Sushi Hana_Great Northern Hotel,51.556783,-0.177972,2017-02-14
+1761,Origin,Great Northern Hotel,2017_Sushi Hana_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1762,Destination,The Perseverance,2017_The Perseverance_Great Northern Hotel,51.521754,-0.11884700000000001,2017-02-28
+1763,Origin,Great Northern Hotel,2017_The Perseverance_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1764,Destination,Cosmoba,2017_Cosmoba_Great Northern Hotel,51.521776,-0.12359300000000001,2017-06-03
+1765,Origin,Great Northern Hotel,2017_Cosmoba_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1766,Destination,Cottons Caribbean,2017_Cottons Caribbean_Great Northern Hotel,51.542882,-0.14976099999999998,2017-01-27
+1767,Origin,Great Northern Hotel,2017_Cottons Caribbean_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1768,Destination,Goodfare Cafe,2017_Goodfare Cafe_Great Northern Hotel,51.539139,-0.14369500000000002,2017-02-21
+1769,Origin,Great Northern Hotel,2017_Goodfare Cafe_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1770,Destination,Knockbox Coffee,2017_Knockbox Coffee_Great Northern Hotel,51.521363,-0.117827,2017-08-02
+1771,Origin,Great Northern Hotel,2017_Knockbox Coffee_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1772,Destination,Bleeding Heart Restaurants,2017_Bleeding Heart Restaurants_Great Northern Hotel,51.518941,-0.106305,2017-01-27
+1773,Origin,Great Northern Hotel,2017_Bleeding Heart Restaurants_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1774,Destination,Newmarke Ale House,2017_Newmarke Ale House_Great Northern Hotel,51.543074,-0.126691,2017-02-15
+1775,Origin,Great Northern Hotel,2017_Newmarke Ale House_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1776,Destination,Lemonia,2017_Lemonia_Great Northern Hotel,51.542027000000004,-0.157269,2017-01-18
+1777,Origin,Great Northern Hotel,2017_Lemonia_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1778,Destination,J Restuarant,2017_J Restuarant_Great Northern Hotel,51.541352,-0.15648199999999998,2017-01-23
+1779,Origin,Great Northern Hotel,2017_J Restuarant_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1780,Destination,Sids Conduit Coffee House,2017_Sids Conduit Coffee House_Great Northern Hotel,51.521754,-0.11884700000000001,2017-03-16
+1781,Origin,Great Northern Hotel,2017_Sids Conduit Coffee House_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1782,Destination,Bills,2017_Bills_Great Northern Hotel,51.515819,-0.118702,2017-02-17
+1783,Origin,Great Northern Hotel,2017_Bills_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1784,Destination,Garfunkels Resturant,2017_Garfunkels Resturant_Great Northern Hotel,51.516945,-0.12989,2017-01-13
+1785,Origin,Great Northern Hotel,2017_Garfunkels Resturant_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1786,Destination,La Gourmandina,2017_La Gourmandina_Great Northern Hotel,51.521754,-0.11884700000000001,2017-01-18
+1787,Origin,Great Northern Hotel,2017_La Gourmandina_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1788,Destination,Rock and Sole Plaice,2017_Rock and Sole Plaice_Great Northern Hotel,51.514406,-0.12488599999999998,2017-01-30
+1789,Origin,Great Northern Hotel,2017_Rock and Sole Plaice_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1790,Destination,Lamentine,2017_Lamentine_Great Northern Hotel,51.539219,-0.141978,2017-07-03
+1791,Origin,Great Northern Hotel,2017_Lamentine_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1792,Destination,Pix Pintxos,2017_Pix Pintxos_Great Northern Hotel,51.515044,-0.126064,2017-02-21
+1793,Origin,Great Northern Hotel,2017_Pix Pintxos_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1794,Destination,The Lyttelton Arms,2017_The Lyttelton Arms_Great Northern Hotel,51.534911,-0.139649,2017-12-01
+1795,Origin,Great Northern Hotel,2017_The Lyttelton Arms_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1796,Destination,Queens Head,2017_Queens Head_Great Northern Hotel,51.520793,-0.11748800000000001,2017-02-23
+1797,Origin,Great Northern Hotel,2017_Queens Head_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1798,Destination,The Queens Larder,2017_The Queens Larder_Great Northern Hotel,51.520839,-0.12166400000000001,2017-01-16
+1799,Origin,Great Northern Hotel,2017_The Queens Larder_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1800,Destination,Hampstead Tea Rooms,2017_Hampstead Tea Rooms_Great Northern Hotel,51.554295,-0.16628800000000002,2017-12-01
+1801,Origin,Great Northern Hotel,2017_Hampstead Tea Rooms_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1802,Destination,Gail's,2017_Gail's_Great Northern Hotel,51.55619,-0.178368,2017-02-28
+1803,Origin,Great Northern Hotel,2017_Gail's_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1804,Destination,Leon,2017_Leon_Great Northern Hotel,51.515423,-0.12044400000000001,2017-02-17
+1805,Origin,Great Northern Hotel,2017_Leon_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1806,Destination,Euphorium Bakery Company Ltd,2017_Euphorium Bakery Company Ltd_Great Northern Hotel,51.550908,-0.16658399999999998,2017-02-15
+1807,Origin,Great Northern Hotel,2017_Euphorium Bakery Company Ltd_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1808,Destination,Bisou Cafe Diner,2017_Bisou Cafe Diner_Great Northern Hotel,51.529988,-0.11699999999999999,2017-03-20
+1809,Origin,Great Northern Hotel,2017_Bisou Cafe Diner_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1810,Destination,The Plough,2017_The Plough_Great Northern Hotel,51.517865,-0.12620499999999998,2017-01-23
+1811,Origin,Great Northern Hotel,2017_The Plough_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1812,Destination,Chez Bob,2017_Chez Bob_Great Northern Hotel,51.550631,-0.165875,2017-06-03
+1813,Origin,Great Northern Hotel,2017_Chez Bob_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1814,Destination,Chipotle Mexican Grill,2017_Chipotle Mexican Grill_Great Northern Hotel,51.514562,-0.12926500000000002,2017-07-03
+1815,Origin,Great Northern Hotel,2017_Chipotle Mexican Grill_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1816,Destination,Truffle Secco Bar,2017_Truffle Secco Bar_Great Northern Hotel,51.534911,-0.139649,2017-02-28
+1817,Origin,Great Northern Hotel,2017_Truffle Secco Bar_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1818,Destination,Great Northern Hotel,2017_Great Northern Hotel_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1819,Origin,Great Northern Hotel,2017_Great Northern Hotel_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1820,Destination,The Euston Flyer,2017_The Euston Flyer_Great Northern Hotel,51.528517,-0.126822,2017-06-02
+1821,Origin,Great Northern Hotel,2017_The Euston Flyer_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1822,Destination,Hot Rock Cafe,2017_Hot Rock Cafe_Great Northern Hotel,51.539219,-0.141978,2017-02-14
+1823,Origin,Great Northern Hotel,2017_Hot Rock Cafe_Great Northern Hotel,51.530714,-0.12441600000000001,2017-01-02
+1824,Destination,Bagel Street,2009_Bagel Street_Carluccio's,51.555873999999996,-0.177993,2009-06-08
+1825,Origin,Carluccio's,2009_Bagel Street_Carluccio's,51.555026,-0.171827,2009-01-12
+1826,Destination,Cafe Rouge,2009_Cafe Rouge_Carluccio's,51.556119,-0.176816,2009-11-12
+1827,Origin,Carluccio's,2009_Cafe Rouge_Carluccio's,51.555026,-0.171827,2009-01-12
+1828,Destination,Cagney's,2009_Cagney's_Carluccio's,51.520839,-0.12166400000000001,2009-06-16
+1829,Origin,Carluccio's,2009_Cagney's_Carluccio's,51.555026,-0.171827,2009-01-12
+1830,Destination,Violette Cafe,2009_Violette Cafe_Carluccio's,51.546611999999996,-0.161548,2009-07-24
+1831,Origin,Carluccio's,2009_Violette Cafe_Carluccio's,51.555026,-0.171827,2009-01-12
+1832,Destination,JOE'S,2009_JOE'S_Carluccio's,51.543994,-0.151855,2009-07-09
+1833,Origin,Carluccio's,2009_JOE'S_Carluccio's,51.555026,-0.171827,2009-01-12
+1834,Destination,The Rock & Sole Plaice,2009_The Rock & Sole Plaice_Carluccio's,51.514406,-0.12488599999999998,2009-11-11
+1835,Origin,Carluccio's,2009_The Rock & Sole Plaice_Carluccio's,51.555026,-0.171827,2009-01-12
+1836,Destination,Rosslyn Arms,2009_Rosslyn Arms_Carluccio's,51.555053,-0.172822,2009-02-06
+1837,Origin,Carluccio's,2009_Rosslyn Arms_Carluccio's,51.555026,-0.171827,2009-01-12
+1838,Destination,Northumberland Arms,2009_Northumberland Arms_Carluccio's,51.519021,-0.135793,2009-09-11
+1839,Origin,Carluccio's,2009_Northumberland Arms_Carluccio's,51.555026,-0.171827,2009-01-12
+1840,Destination,Sorrento Snack Bar,2009_Sorrento Snack Bar_Carluccio's,51.526845,-0.129579,2009-10-22
+1841,Origin,Carluccio's,2009_Sorrento Snack Bar_Carluccio's,51.555026,-0.171827,2009-01-12
+1842,Destination,The Plough,2009_The Plough_Carluccio's,51.517865,-0.12620499999999998,2009-11-16
+1843,Origin,Carluccio's,2009_The Plough_Carluccio's,51.555026,-0.171827,2009-01-12
+1844,Destination,Neal's Corner  Sandwich shop,2009_Neal's Corner  Sandwich shop_Carluccio's,51.515044,-0.126064,2009-08-10
+1845,Origin,Carluccio's,2009_Neal's Corner  Sandwich shop_Carluccio's,51.555026,-0.171827,2009-01-12
+1846,Destination,The Swan,2009_The Swan_Carluccio's,51.521776,-0.12359300000000001,2009-08-19
+1847,Origin,Carluccio's,2009_The Swan_Carluccio's,51.555026,-0.171827,2009-01-12
+1848,Destination,La Torre,2009_La Torre_Carluccio's,51.516234000000004,-0.12594,2009-11-12
+1849,Origin,Carluccio's,2009_La Torre_Carluccio's,51.555026,-0.171827,2009-01-12
+1850,Destination,Pizza Hut,2009_Pizza Hut_Carluccio's,51.521776,-0.12359300000000001,2009-09-23
+1851,Origin,Carluccio's,2009_Pizza Hut_Carluccio's,51.555026,-0.171827,2009-01-12
+1852,Destination,The Lytteton Arms,2009_The Lytteton Arms_Carluccio's,51.534911,-0.139649,2009-06-11
+1853,Origin,Carluccio's,2009_The Lytteton Arms_Carluccio's,51.555026,-0.171827,2009-01-12
+1854,Destination,Haverstock Arms,2009_Haverstock Arms_Carluccio's,51.549077000000004,-0.16178900000000002,2009-05-08
+1855,Origin,Carluccio's,2009_Haverstock Arms_Carluccio's,51.555026,-0.171827,2009-01-12
+1856,Destination,Itsu,2009_Itsu_Carluccio's,51.514534999999995,-0.122584,2009-07-15
+1857,Origin,Carluccio's,2009_Itsu_Carluccio's,51.555026,-0.171827,2009-01-12
+1858,Destination,Crown Cafe,2009_Crown Cafe_Carluccio's,51.535618,-0.134023,2009-08-12
+1859,Origin,Carluccio's,2009_Crown Cafe_Carluccio's,51.555026,-0.171827,2009-01-12
+1860,Destination,36 Monmouth Street,2009_36 Monmouth Street_Carluccio's,51.513596,-0.127317,2009-10-01
+1861,Origin,Carluccio's,2009_36 Monmouth Street_Carluccio's,51.555026,-0.171827,2009-01-12
+1862,Destination,Pret a Manger,2009_Pret a Manger_Carluccio's,51.52884,-0.12748299999999999,2009-05-02
+1863,Origin,Carluccio's,2009_Pret a Manger_Carluccio's,51.555026,-0.171827,2009-01-12
+1864,Destination,Hot Rock cafe,2009_Hot Rock cafe_Carluccio's,51.539219,-0.141978,2009-08-09
+1865,Origin,Carluccio's,2009_Hot Rock cafe_Carluccio's,51.555026,-0.171827,2009-01-12
+1866,Destination,Carluccio's,2009_Carluccio's_Carluccio's,51.555026,-0.171827,2009-01-12
+1867,Origin,Carluccio's,2009_Carluccio's_Carluccio's,51.555026,-0.171827,2009-01-12
+1868,Destination,Pizza Express,2009_Pizza Express_Carluccio's,51.517865,-0.126822,2009-02-06
+1869,Origin,Carluccio's,2009_Pizza Express_Carluccio's,51.555026,-0.171827,2009-01-12
+1870,Destination,Sushi -So,2009_Sushi -So_Carluccio's,51.514406,-0.12488599999999998,2009-07-24
+1871,Origin,Carluccio's,2009_Sushi -So_Carluccio's,51.555026,-0.171827,2009-01-12
+1872,Destination,Fleet River Bakery,2009_Fleet River Bakery_Carluccio's,51.51668,-0.119209,2009-11-05
+1873,Origin,Carluccio's,2009_Fleet River Bakery_Carluccio's,51.555026,-0.171827,2009-01-12
+1874,Destination,Eves Sandwich Bar,2009_Eves Sandwich Bar_Carluccio's,51.517914000000005,-0.12887,2009-10-12
+1875,Origin,Carluccio's,2009_Eves Sandwich Bar_Carluccio's,51.555026,-0.171827,2009-01-12
+1876,Destination,Trattoria Verdi,2009_Trattoria Verdi_Carluccio's,51.520227,-0.12197000000000001,2009-10-20
+1877,Origin,Carluccio's,2009_Trattoria Verdi_Carluccio's,51.555026,-0.171827,2009-01-12
+1878,Destination,Ultimate Burger,2009_Ultimate Burger_Carluccio's,51.52243,-0.13683900000000002,2009-04-27
+1879,Origin,Carluccio's,2009_Ultimate Burger_Carluccio's,51.555026,-0.171827,2009-01-12
+1880,Destination,Dannys,2009_Dannys_Carluccio's,51.521384999999995,-0.11891600000000001,2009-08-21
+1881,Origin,Carluccio's,2009_Dannys_Carluccio's,51.555026,-0.171827,2009-01-12
+1882,Destination,Pitcher and Piano,2009_Pitcher and Piano_Carluccio's,51.515819,-0.118702,2009-03-11
+1883,Origin,Carluccio's,2009_Pitcher and Piano_Carluccio's,51.555026,-0.171827,2009-01-12
+1884,Destination,Pret A Manger,2009_Pret A Manger_Carluccio's,51.518089,-0.138658,2009-09-23
+1885,Origin,Carluccio's,2009_Pret A Manger_Carluccio's,51.555026,-0.171827,2009-01-12
+1886,Destination,Chives,2009_Chives_Carluccio's,51.526845,-0.129579,2009-08-10
+1887,Origin,Carluccio's,2009_Chives_Carluccio's,51.555026,-0.171827,2009-01-12
+1888,Destination,The Crown,2009_The Crown_Carluccio's,51.514389,-0.12725799999999998,2009-04-23
+1889,Origin,Carluccio's,2009_The Crown_Carluccio's,51.555026,-0.171827,2009-01-12
+1890,Destination,The Perseverance,2009_The Perseverance_Carluccio's,51.521754,-0.11884700000000001,2009-03-11
+1891,Origin,Carluccio's,2009_The Perseverance_Carluccio's,51.555026,-0.171827,2009-01-12
+1892,Destination,Kitchenette,2009_Kitchenette_Carluccio's,51.519597,-0.109508,2009-07-24
+1893,Origin,Carluccio's,2009_Kitchenette_Carluccio's,51.555026,-0.171827,2009-01-12
+1894,Destination,Rossopomodoro,2009_Rossopomodoro_Carluccio's,51.513243,-0.127366,2009-04-30
+1895,Origin,Carluccio's,2009_Rossopomodoro_Carluccio's,51.555026,-0.171827,2009-01-12
+1896,Destination,Starbucks Coffee,2009_Starbucks Coffee_Carluccio's,51.545268,-0.16252,2009-02-09
+1897,Origin,Carluccio's,2009_Starbucks Coffee_Carluccio's,51.555026,-0.171827,2009-01-12
+1898,Destination,Anthony Delicatessen,2009_Anthony Delicatessen_Carluccio's,51.541352,-0.15648199999999998,2009-10-27
+1899,Origin,Carluccio's,2009_Anthony Delicatessen_Carluccio's,51.555026,-0.171827,2009-01-12
+1900,Destination,Mennula,2009_Mennula_Carluccio's,51.518432000000004,-0.135121,2009-07-12
+1901,Origin,Carluccio's,2009_Mennula_Carluccio's,51.555026,-0.171827,2009-01-12
+1902,Destination,Starbucks,2009_Starbucks_Carluccio's,51.522307,-0.16628800000000002,2009-08-09
+1903,Origin,Carluccio's,2009_Starbucks_Carluccio's,51.555026,-0.171827,2009-01-12
+1904,Destination,Starbuck Coffee,2009_Starbuck Coffee_Carluccio's,51.528517,-0.126822,2009-08-19
+1905,Origin,Carluccio's,2009_Starbuck Coffee_Carluccio's,51.555026,-0.171827,2009-01-12
+1906,Destination,Slice of Ice,2009_Slice of Ice_Carluccio's,51.556783,-0.177972,2009-08-19
+1907,Origin,Carluccio's,2009_Slice of Ice_Carluccio's,51.555026,-0.171827,2009-01-12
+1908,Destination,Rossopomadoro,2008_Rossopomadoro_The Goddfare Cafe,51.513243,-0.127366,2008-12-03
+1909,Origin,The Goddfare Cafe,2008_Rossopomadoro_The Goddfare Cafe,51.539139,-0.14369500000000002,2008-01-16
+1910,Destination,Bar Room Bar Hampstead,2008_Bar Room Bar Hampstead_The Goddfare Cafe,51.555053,-0.172822,2008-03-22
+1911,Origin,The Goddfare Cafe,2008_Bar Room Bar Hampstead_The Goddfare Cafe,51.539139,-0.14369500000000002,2008-01-16
+1912,Destination,The Crown,2008_The Crown_The Goddfare Cafe,51.514389,-0.12725799999999998,2008-12-03
+1913,Origin,The Goddfare Cafe,2008_The Crown_The Goddfare Cafe,51.539139,-0.14369500000000002,2008-01-16
+1914,Destination,The Great American Bagel Factory,2008_The Great American Bagel Factory_The Goddfare Cafe,51.514406,-0.12488599999999998,2008-12-03
+1915,Origin,The Goddfare Cafe,2008_The Great American Bagel Factory_The Goddfare Cafe,51.539139,-0.14369500000000002,2008-01-16
+1916,Destination,The Horse shoe,2008_The Horse shoe_The Goddfare Cafe,51.55619,-0.178368,2008-12-03
+1917,Origin,The Goddfare Cafe,2008_The Horse shoe_The Goddfare Cafe,51.539139,-0.14369500000000002,2008-01-16
+1918,Destination,Violette Cafe,2008_Violette Cafe_The Goddfare Cafe,51.546611999999996,-0.161548,2008-12-03
+1919,Origin,The Goddfare Cafe,2008_Violette Cafe_The Goddfare Cafe,51.539139,-0.14369500000000002,2008-01-16
+1920,Destination,The Goddfare Cafe,2008_The Goddfare Cafe_The Goddfare Cafe,51.539139,-0.14369500000000002,2008-01-16
+1921,Origin,The Goddfare Cafe,2008_The Goddfare Cafe_The Goddfare Cafe,51.539139,-0.14369500000000002,2008-01-16
+1922,Destination,Cafe Nero,2008_Cafe Nero_The Goddfare Cafe,51.538422,-0.143124,2008-12-03
+1923,Origin,The Goddfare Cafe,2008_Cafe Nero_The Goddfare Cafe,51.539139,-0.14369500000000002,2008-01-16
+1924,Destination,Caffe 43,2008_Caffe 43_The Goddfare Cafe,51.538277,-0.13881500000000002,2008-12-03
+1925,Origin,The Goddfare Cafe,2008_Caffe 43_The Goddfare Cafe,51.539139,-0.14369500000000002,2008-01-16

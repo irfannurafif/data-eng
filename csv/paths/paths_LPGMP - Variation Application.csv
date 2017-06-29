@@ -1,0 +1,11 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Sir John Oldcastle,2016_Sir John Oldcastle_Sir John Oldcastle,51.520437,-0.106431,2016-05-03
+1,Origin,Sir John Oldcastle,2016_Sir John Oldcastle_Sir John Oldcastle,51.520437,-0.106431,2016-05-03
+2,Destination,Ice Wharf - Lloyds No 1,2012_Ice Wharf - Lloyds No 1_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2012-06-22
+3,Origin,Ice Wharf - Lloyds No 1,2012_Ice Wharf - Lloyds No 1_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2012-06-22
+4,Destination,Unicorn,2013_Unicorn_Unicorn,51.548664,-0.129813,2013-12-20
+5,Origin,Unicorn,2013_Unicorn_Unicorn,51.548664,-0.129813,2013-12-20
+6,Destination,Rocket,2014_Rocket_Rocket,51.528287,-0.129436,2014-07-18
+7,Origin,Rocket,2014_Rocket_Rocket,51.528287,-0.129436,2014-07-18
+8,Destination,Rocket,2015_Rocket_Rocket,51.528287,-0.129436,2015-11-06
+9,Origin,Rocket,2015_Rocket_Rocket,51.528287,-0.129436,2015-11-06

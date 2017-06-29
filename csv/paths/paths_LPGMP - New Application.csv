@@ -1,0 +1,33 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,The Railway,2012_The Railway_The George,51.546124,-0.19050799999999998,2012-12-03
+1,Origin,The George,2012_The Railway_The George,51.55271,-0.166968,2012-11-06
+2,Destination,The George,2012_The George_The George,51.55271,-0.166968,2012-11-06
+3,Origin,The George,2012_The George_The George,51.55271,-0.166968,2012-11-06
+4,Destination,Mcglynn's,2014_Mcglynn's_Mcglynn's,51.528616,-0.12355,2014-10-01
+5,Origin,Mcglynn's,2014_Mcglynn's_Mcglynn's,51.528616,-0.12355,2014-10-01
+6,Destination,Walkabout,2009_Walkabout_Sir John Oldcastle,51.547698,-0.181321,2009-09-28
+7,Origin,Sir John Oldcastle,2009_Walkabout_Sir John Oldcastle,51.520437,-0.106431,2009-01-10
+8,Destination,The Railway,2009_The Railway_Sir John Oldcastle,51.546124,-0.19050799999999998,2009-03-20
+9,Origin,Sir John Oldcastle,2009_The Railway_Sir John Oldcastle,51.520437,-0.106431,2009-01-10
+10,Destination,Sir John Oldcastle,2009_Sir John Oldcastle_Sir John Oldcastle,51.520437,-0.106431,2009-01-10
+11,Origin,Sir John Oldcastle,2009_Sir John Oldcastle_Sir John Oldcastle,51.520437,-0.106431,2009-01-10
+12,Destination,Duke of Grafton (previously Britannia),2009_Duke of Grafton (previously Britannia)_Sir John Oldcastle,51.529302,-0.13258499999999998,2009-07-27
+13,Origin,Sir John Oldcastle,2009_Duke of Grafton (previously Britannia)_Sir John Oldcastle,51.520437,-0.106431,2009-01-10
+14,Destination,The Fitzrovia,2009_The Fitzrovia_Sir John Oldcastle,51.519855,-0.135379,2009-03-20
+15,Origin,Sir John Oldcastle,2009_The Fitzrovia_Sir John Oldcastle,51.520437,-0.106431,2009-01-10
+16,Destination,Euston Flyer,2013_Euston Flyer_Euston Flyer,51.528517,-0.126822,2013-09-24
+17,Origin,Euston Flyer,2013_Euston Flyer_Euston Flyer,51.528517,-0.126822,2013-09-24
+18,Destination,Unicorn,2013_Unicorn_Euston Flyer,51.548664,-0.129813,2013-11-04
+19,Origin,Euston Flyer,2013_Unicorn_Euston Flyer,51.528517,-0.126822,2013-09-24
+20,Destination,The Fitzrovia,2015_The Fitzrovia_Hercules Pillars,51.519855,-0.135379,2015-09-25
+21,Origin,Hercules Pillars,2015_The Fitzrovia_Hercules Pillars,51.515707,-0.12126300000000001,2015-02-07
+22,Destination,Hercules Pillars,2015_Hercules Pillars_Hercules Pillars,51.515707,-0.12126300000000001,2015-02-07
+23,Origin,Hercules Pillars,2015_Hercules Pillars_Hercules Pillars,51.515707,-0.12126300000000001,2015-02-07
+24,Destination,The Railway,2016_The Railway_The Railway,51.546124,-0.19050799999999998,2016-07-10
+25,Origin,The Railway,2016_The Railway_The Railway,51.546124,-0.19050799999999998,2016-07-10
+26,Destination,Birkbeck College (Malet St),2010_Birkbeck College (Malet St)_Euston Flyer,51.522251000000004,-0.130659,2010-06-21
+27,Origin,Euston Flyer,2010_Birkbeck College (Malet St)_Euston Flyer,51.528517,-0.126822,2010-04-15
+28,Destination,Euston Flyer,2010_Euston Flyer_Euston Flyer,51.528517,-0.126822,2010-04-15
+29,Origin,Euston Flyer,2010_Euston Flyer_Euston Flyer,51.528517,-0.126822,2010-04-15
+30,Destination,Sir Christopher Hatton,2010_Sir Christopher Hatton_Euston Flyer,51.518529,-0.108519,2010-09-06
+31,Origin,Euston Flyer,2010_Sir Christopher Hatton_Euston Flyer,51.528517,-0.126822,2010-04-15

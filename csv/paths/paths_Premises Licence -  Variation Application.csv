@@ -1,0 +1,1629 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Itsu,"2016_Itsu_Drake and Morgan, Unit 3",51.517041,-0.133795,2016-07-20
+1,Origin,"Drake and Morgan, Unit 3","2016_Itsu_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+2,Destination,Old Bell,"2016_Old Bell_Drake and Morgan, Unit 3",51.537207,-0.192154,2016-10-26
+3,Origin,"Drake and Morgan, Unit 3","2016_Old Bell_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+4,Destination,Terroni & Son,"2016_Terroni & Son_Drake and Morgan, Unit 3",51.522458,-0.109051,2016-07-06
+5,Origin,"Drake and Morgan, Unit 3","2016_Terroni & Son_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+6,Destination,"Hampstead Connect, Hampstead Service Area","2016_Hampstead Connect, Hampstead Service Area_Drake and Morgan, Unit 3",51.54546,-0.177086,2016-01-07
+7,Origin,"Drake and Morgan, Unit 3","2016_Hampstead Connect, Hampstead Service Area_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+8,Destination,Nisa (formerly Leighton Arms),"2016_Nisa (formerly Leighton Arms)_Drake and Morgan, Unit 3",51.552346,-0.132877,2016-06-12
+9,Origin,"Drake and Morgan, Unit 3","2016_Nisa (formerly Leighton Arms)_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+10,Destination,The Oxford Pub,"2016_The Oxford Pub_Drake and Morgan, Unit 3",51.550104,-0.140492,2016-06-14
+11,Origin,"Drake and Morgan, Unit 3","2016_The Oxford Pub_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+12,Destination,Ambassadors in Bloomsbury,"2016_Ambassadors in Bloomsbury_Drake and Morgan, Unit 3",51.526845,-0.129579,2016-08-01
+13,Origin,"Drake and Morgan, Unit 3","2016_Ambassadors in Bloomsbury_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+14,Destination,Cote,"2016_Cote_Drake and Morgan, Unit 3",51.538119,-0.176217,2016-05-19
+15,Origin,"Drake and Morgan, Unit 3","2016_Cote_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+16,Destination,Crepes a la Carte,"2016_Crepes a la Carte_Drake and Morgan, Unit 3",51.544361,-0.141795,2016-09-12
+17,Origin,"Drake and Morgan, Unit 3","2016_Crepes a la Carte_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+18,Destination,The Building Centre Group Ltd.,"2016_The Building Centre Group Ltd._Drake and Morgan, Unit 3",51.519467,-0.13128199999999998,2016-04-01
+19,Origin,"Drake and Morgan, Unit 3","2016_The Building Centre Group Ltd._Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+20,Destination,Nisa Local (previously Price Check),"2016_Nisa Local (previously Price Check)_Drake and Morgan, Unit 3",51.546657,-0.19045499999999999,2016-02-08
+21,Origin,"Drake and Morgan, Unit 3","2016_Nisa Local (previously Price Check)_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+22,Destination,Secrets (Parker St),"2016_Secrets (Parker St)_Drake and Morgan, Unit 3",51.516965,-0.120941,2016-09-20
+23,Origin,"Drake and Morgan, Unit 3","2016_Secrets (Parker St)_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+24,Destination,XO Restaurant,"2016_XO Restaurant_Drake and Morgan, Unit 3",51.549339,-0.171002,2016-08-08
+25,Origin,"Drake and Morgan, Unit 3","2016_XO Restaurant_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+26,Destination,Be At One,"2016_Be At One_Drake and Morgan, Unit 3",51.535494,-0.140296,2016-02-25
+27,Origin,"Drake and Morgan, Unit 3","2016_Be At One_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+28,Destination,"Drake and Morgan, Unit 3","2016_Drake and Morgan, Unit 3_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+29,Origin,"Drake and Morgan, Unit 3","2016_Drake and Morgan, Unit 3_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+30,Destination,My Shop,"2016_My Shop_Drake and Morgan, Unit 3",51.556776,-0.13938499999999998,2016-02-23
+31,Origin,"Drake and Morgan, Unit 3","2016_My Shop_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+32,Destination,Electric Ballroom,"2016_Electric Ballroom_Drake and Morgan, Unit 3",51.539688,-0.142772,2016-05-12
+33,Origin,"Drake and Morgan, Unit 3","2016_Electric Ballroom_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+34,Destination,Spaghetti House,"2016_Spaghetti House_Drake and Morgan, Unit 3",51.519513,-0.133795,2016-06-23
+35,Origin,"Drake and Morgan, Unit 3","2016_Spaghetti House_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+36,Destination,Tortilla,"2016_Tortilla_Drake and Morgan, Unit 3",51.52268,-0.12503599999999998,2016-08-18
+37,Origin,"Drake and Morgan, Unit 3","2016_Tortilla_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+38,Destination,Hotel Ibis,"2016_Hotel Ibis_Drake and Morgan, Unit 3",51.527838,-0.13583499999999998,2016-06-22
+39,Origin,"Drake and Morgan, Unit 3","2016_Hotel Ibis_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+40,Destination,Tapping the Admiral,"2016_Tapping the Admiral_Drake and Morgan, Unit 3",51.545061,-0.146527,2016-01-27
+41,Origin,"Drake and Morgan, Unit 3","2016_Tapping the Admiral_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+42,Destination,Yorkshire Grey Brewery,"2016_Yorkshire Grey Brewery_Drake and Morgan, Unit 3",51.521265,-0.11384000000000001,2016-10-26
+43,Origin,"Drake and Morgan, Unit 3","2016_Yorkshire Grey Brewery_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+44,Destination,The Knights Templar,"2016_The Knights Templar_Drake and Morgan, Unit 3",51.51562,-0.112171,2016-02-22
+45,Origin,"Drake and Morgan, Unit 3","2016_The Knights Templar_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+46,Destination,Locanda Canton(Formerly Le Mignon),"2016_Locanda Canton(Formerly Le Mignon)_Drake and Morgan, Unit 3",51.536705,-0.142095,2016-09-30
+47,Origin,"Drake and Morgan, Unit 3","2016_Locanda Canton(Formerly Le Mignon)_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+48,Destination,Simmons,"2016_Simmons_Drake and Morgan, Unit 3",51.534911,-0.139649,2016-06-03
+49,Origin,"Drake and Morgan, Unit 3","2016_Simmons_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+50,Destination,British Film Institute,"2016_British Film Institute_Drake and Morgan, Unit 3",51.51757,-0.132725,2016-04-20
+51,Origin,"Drake and Morgan, Unit 3","2016_British Film Institute_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+52,Destination,Tannin and Oak,"2016_Tannin and Oak_Drake and Morgan, Unit 3",51.552048,-0.19166,2016-10-28
+53,Origin,"Drake and Morgan, Unit 3","2016_Tannin and Oak_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+54,Destination,Way 2 Save,"2016_Way 2 Save_Drake and Morgan, Unit 3",51.546555,-0.203003,2016-01-29
+55,Origin,"Drake and Morgan, Unit 3","2016_Way 2 Save_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+56,Destination,113 Restaurant & Bar,"2016_113 Restaurant & Bar_Drake and Morgan, Unit 3",51.52796,-0.139145,2016-10-20
+57,Origin,"Drake and Morgan, Unit 3","2016_113 Restaurant & Bar_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+58,Destination,SALT,"2016_SALT_Drake and Morgan, Unit 3",51.550391999999995,-0.19197899999999998,2016-03-23
+59,Origin,"Drake and Morgan, Unit 3","2016_SALT_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+60,Destination,Covent Garden Health Spa,"2016_Covent Garden Health Spa_Drake and Morgan, Unit 3",51.514406,-0.12488599999999998,2016-06-14
+61,Origin,"Drake and Morgan, Unit 3","2016_Covent Garden Health Spa_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+62,Destination,Bobo Social,"2016_Bobo Social_Drake and Morgan, Unit 3",51.520912,-0.137428,2016-03-31
+63,Origin,"Drake and Morgan, Unit 3","2016_Bobo Social_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+64,Destination,The Refinery,"2016_The Refinery_Drake and Morgan, Unit 3",51.525923,-0.13968699999999998,2016-01-15
+65,Origin,"Drake and Morgan, Unit 3","2016_The Refinery_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+66,Destination,Shell Camden Town,"2016_Shell Camden Town_Drake and Morgan, Unit 3",51.546323,-0.12706900000000002,2016-12-02
+67,Origin,"Drake and Morgan, Unit 3","2016_Shell Camden Town_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+68,Destination,Shoryu,"2016_Shoryu_Drake and Morgan, Unit 3",51.515707,-0.12126300000000001,2016-06-16
+69,Origin,"Drake and Morgan, Unit 3","2016_Shoryu_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+70,Destination,The Wesley Formerly MIC Social Club,"2016_The Wesley Formerly MIC Social Club_Drake and Morgan, Unit 3",51.526554,-0.135793,2016-08-02
+71,Origin,"Drake and Morgan, Unit 3","2016_The Wesley Formerly MIC Social Club_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+72,Destination,Mia,"2016_Mia_Drake and Morgan, Unit 3",51.543234000000005,-0.17561500000000002,2016-12-19
+73,Origin,"Drake and Morgan, Unit 3","2016_Mia_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+74,Destination,Bubbledogs &,"2016_Bubbledogs &_Drake and Morgan, Unit 3",51.520672999999995,-0.136245,2016-07-06
+75,Origin,"Drake and Morgan, Unit 3","2016_Bubbledogs &_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+76,Destination,Donmar Warehouse Theatre,"2016_Donmar Warehouse Theatre_Drake and Morgan, Unit 3",51.514056,-0.12601400000000001,2016-09-21
+77,Origin,"Drake and Morgan, Unit 3","2016_Donmar Warehouse Theatre_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+78,Destination,Super Choice,"2016_Super Choice_Drake and Morgan, Unit 3",51.549989000000004,-0.15253699999999998,2016-02-06
+79,Origin,"Drake and Morgan, Unit 3","2016_Super Choice_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+80,Destination,Adil Food and Dry Cleaners,"2016_Adil Food and Dry Cleaners_Drake and Morgan, Unit 3",51.543234000000005,-0.17561500000000002,2016-05-19
+81,Origin,"Drake and Morgan, Unit 3","2016_Adil Food and Dry Cleaners_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+82,Destination,Truflesecco,"2016_Truflesecco_Drake and Morgan, Unit 3",51.534911,-0.139649,2016-04-27
+83,Origin,"Drake and Morgan, Unit 3","2016_Truflesecco_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+84,Destination,Caps & Taps,"2016_Caps & Taps_Drake and Morgan, Unit 3",51.54587,-0.14094600000000002,2016-11-03
+85,Origin,"Drake and Morgan, Unit 3","2016_Caps & Taps_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+86,Destination,The Constitution,"2016_The Constitution_Drake and Morgan, Unit 3",51.540313,-0.135401,2016-07-13
+87,Origin,"Drake and Morgan, Unit 3","2016_The Constitution_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+88,Destination,Verdelin,"2016_Verdelin_Drake and Morgan, Unit 3",51.514406,-0.12488599999999998,2016-05-23
+89,Origin,"Drake and Morgan, Unit 3","2016_Verdelin_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+90,Destination,Kilburn Iron Works  (previously Powers Acoustic Bar),"2016_Kilburn Iron Works  (previously Powers Acoustic Bar)_Drake and Morgan, Unit 3",51.545465,-0.20251,2016-07-07
+91,Origin,"Drake and Morgan, Unit 3","2016_Kilburn Iron Works  (previously Powers Acoustic Bar)_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+92,Destination,Carluccio's Caffe,"2016_Carluccio's Caffe_Drake and Morgan, Unit 3",51.555026,-0.171827,2016-01-06
+93,Origin,"Drake and Morgan, Unit 3","2016_Carluccio's Caffe_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+94,Destination,Prince Arthur,"2016_Prince Arthur_Drake and Morgan, Unit 3",51.530378999999996,-0.133439,2016-03-03
+95,Origin,"Drake and Morgan, Unit 3","2016_Prince Arthur_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+96,Destination,Pescatori,"2016_Pescatori_Drake and Morgan, Unit 3",51.519667,-0.136475,2016-06-22
+97,Origin,"Drake and Morgan, Unit 3","2016_Pescatori_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+98,Destination,Sir John Oldcastle,"2016_Sir John Oldcastle_Drake and Morgan, Unit 3",51.520437,-0.106431,2016-02-22
+99,Origin,"Drake and Morgan, Unit 3","2016_Sir John Oldcastle_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+100,Destination,HanKang,"2016_HanKang_Drake and Morgan, Unit 3",51.516921999999994,-0.132023,2016-03-24
+101,Origin,"Drake and Morgan, Unit 3","2016_HanKang_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+102,Destination,"Itsu, Unit","2016_Itsu, Unit_Drake and Morgan, Unit 3",51.523298,-0.12282,2016-07-20
+103,Origin,"Drake and Morgan, Unit 3","2016_Itsu, Unit_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+104,Destination,The Water Rats,"2016_The Water Rats_Drake and Morgan, Unit 3",51.529164,-0.118967,2016-09-30
+105,Origin,"Drake and Morgan, Unit 3","2016_The Water Rats_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+106,Destination,The Beaten Docket,"2016_The Beaten Docket_Drake and Morgan, Unit 3",51.553591,-0.211394,2016-02-22
+107,Origin,"Drake and Morgan, Unit 3","2016_The Beaten Docket_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+108,Destination,Penderel's Oak,"2016_Penderel's Oak_Drake and Morgan, Unit 3",51.517858000000004,-0.11538599999999999,2016-02-22
+109,Origin,"Drake and Morgan, Unit 3","2016_Penderel's Oak_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+110,Destination,Q Grill,"2016_Q Grill_Drake and Morgan, Unit 3",51.543233,-0.147024,2016-01-28
+111,Origin,"Drake and Morgan, Unit 3","2016_Q Grill_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+112,Destination,The Bedford Hotel,"2016_The Bedford Hotel_Drake and Morgan, Unit 3",51.520474,-0.12375,2016-11-02
+113,Origin,"Drake and Morgan, Unit 3","2016_The Bedford Hotel_Drake and Morgan, Unit 3",51.532662,-0.125656,2016-01-02
+114,Destination,Canton Element,2008_Canton Element_Starbucks (formerly known as Sloe Bar),51.519793,-0.117736,2008-03-26
+115,Origin,Starbucks (formerly known as Sloe Bar),2008_Canton Element_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+116,Destination,Caffe Ritazza,2008_Caffe Ritazza_Starbucks (formerly known as Sloe Bar),51.527829,-0.132573,2008-01-23
+117,Origin,Starbucks (formerly known as Sloe Bar),2008_Caffe Ritazza_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+118,Destination,One Tun,2008_One Tun_Starbucks (formerly known as Sloe Bar),51.51935,-0.13703900000000002,2008-01-18
+119,Origin,Starbucks (formerly known as Sloe Bar),2008_One Tun_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+120,Destination,Ice Wharf - Lloyds No 1,2008_Ice Wharf - Lloyds No 1_Starbucks (formerly known as Sloe Bar),51.540754,-0.145258,2008-06-20
+121,Origin,Starbucks (formerly known as Sloe Bar),2008_Ice Wharf - Lloyds No 1_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+122,Destination,Londsbury Express (Formerly Fleet Food Stop Off Licence),2008_Londsbury Express (Formerly Fleet Food Stop Off Licence)_Starbucks (formerly known as Sloe Bar),51.553721,-0.16133699999999998,2008-01-22
+123,Origin,Starbucks (formerly known as Sloe Bar),2008_Londsbury Express (Formerly Fleet Food Stop Off Licence)_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+124,Destination,"Proud  Camden, The Horse Hospital","2008_Proud  Camden, The Horse Hospital_Starbucks (formerly known as Sloe Bar)",51.542256,-0.14816,2008-04-08
+125,Origin,Starbucks (formerly known as Sloe Bar),"2008_Proud  Camden, The Horse Hospital_Starbucks (formerly known as Sloe Bar)",51.529302,-0.13258499999999998,2008-01-07
+126,Destination,Allora,2008_Allora_Starbucks (formerly known as Sloe Bar),51.536970000000004,-0.18639,2008-08-18
+127,Origin,Starbucks (formerly known as Sloe Bar),2008_Allora_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+128,Destination,Zen Turkce Bar,2008_Zen Turkce Bar_Starbucks (formerly known as Sloe Bar),51.515526,-0.12947,2008-06-25
+129,Origin,Starbucks (formerly known as Sloe Bar),2008_Zen Turkce Bar_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+130,Destination,Le Pain Quotidien Ltd,2008_Le Pain Quotidien Ltd_Starbucks (formerly known as Sloe Bar),51.554295,-0.16628800000000002,2008-11-28
+131,Origin,Starbucks (formerly known as Sloe Bar),2008_Le Pain Quotidien Ltd_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+132,Destination,German Doner Kebab,2008_German Doner Kebab_Starbucks (formerly known as Sloe Bar),51.544173,-0.200406,2008-01-15
+133,Origin,Starbucks (formerly known as Sloe Bar),2008_German Doner Kebab_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+134,Destination,The Diner,2008_The Diner_Starbucks (formerly known as Sloe Bar),51.540754,-0.145258,2008-04-28
+135,Origin,Starbucks (formerly known as Sloe Bar),2008_The Diner_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+136,Destination,Bar Gansa,2008_Bar Gansa_Starbucks (formerly known as Sloe Bar),51.540039,-0.14449700000000001,2008-07-11
+137,Origin,Starbucks (formerly known as Sloe Bar),2008_Bar Gansa_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+138,Destination,Old Crown,2008_Old Crown_Starbucks (formerly known as Sloe Bar),51.516890999999994,-0.12531,2008-04-02
+139,Origin,Starbucks (formerly known as Sloe Bar),2008_Old Crown_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+140,Destination,Pembroke,2008_Pembroke_Starbucks (formerly known as Sloe Bar),51.542336999999996,-0.154256,2008-05-16
+141,Origin,Starbucks (formerly known as Sloe Bar),2008_Pembroke_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+142,Destination,The Load of Hay Tavern (Previously Hill),2008_The Load of Hay Tavern (Previously Hill)_Starbucks (formerly known as Sloe Bar),51.546873,-0.157876,2008-03-17
+143,Origin,Starbucks (formerly known as Sloe Bar),2008_The Load of Hay Tavern (Previously Hill)_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+144,Destination,Sir Colin Campbell,2008_Sir Colin Campbell_Starbucks (formerly known as Sloe Bar),51.543393,-0.199197,2008-07-17
+145,Origin,Starbucks (formerly known as Sloe Bar),2008_Sir Colin Campbell_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+146,Destination,One Alfred Place,2008_One Alfred Place_Starbucks (formerly known as Sloe Bar),51.519946999999995,-0.133178,2008-08-08
+147,Origin,Starbucks (formerly known as Sloe Bar),2008_One Alfred Place_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+148,Destination,Theatro Technis Co Ltd,2008_Theatro Technis Co Ltd_Starbucks (formerly known as Sloe Bar),51.53564,-0.13486800000000002,2008-02-22
+149,Origin,Starbucks (formerly known as Sloe Bar),2008_Theatro Technis Co Ltd_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+150,Destination,26 Grains (formerly known as Neal's Yard Salad Bar),2008_26 Grains (formerly known as Neal's Yard Salad Bar)_Starbucks (formerly known as Sloe Bar),51.514446,-0.126545,2008-07-11
+151,Origin,Starbucks (formerly known as Sloe Bar),2008_26 Grains (formerly known as Neal's Yard Salad Bar)_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+152,Destination,Kingsway Hall Hotel,2008_Kingsway Hall Hotel_Starbucks (formerly known as Sloe Bar),51.515423,-0.12044400000000001,2008-08-14
+153,Origin,Starbucks (formerly known as Sloe Bar),2008_Kingsway Hall Hotel_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+154,Destination,The Crazy Bear,2008_The Crazy Bear_Starbucks (formerly known as Sloe Bar),51.519513,-0.133795,2008-02-06
+155,Origin,Starbucks (formerly known as Sloe Bar),2008_The Crazy Bear_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+156,Destination,The Sun,2008_The Sun_Starbucks (formerly known as Sloe Bar),51.514813000000004,-0.12298900000000001,2008-09-06
+157,Origin,Starbucks (formerly known as Sloe Bar),2008_The Sun_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+158,Destination,The Roebuck,2008_The Roebuck_Starbucks (formerly known as Sloe Bar),51.553819,-0.167738,2008-11-18
+159,Origin,Starbucks (formerly known as Sloe Bar),2008_The Roebuck_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+160,Destination,Bistro Lazz,2008_Bistro Lazz_Starbucks (formerly known as Sloe Bar),51.561461,-0.15108,2008-09-01
+161,Origin,Starbucks (formerly known as Sloe Bar),2008_Bistro Lazz_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+162,Destination,Diamond Supermarket,2008_Diamond Supermarket_Starbucks (formerly known as Sloe Bar),51.546679,-0.15871300000000002,2008-02-13
+163,Origin,Starbucks (formerly known as Sloe Bar),2008_Diamond Supermarket_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+164,Destination,Roka & Sho Chu,2008_Roka & Sho Chu_Starbucks (formerly known as Sloe Bar),51.519021,-0.135793,2008-11-04
+165,Origin,Starbucks (formerly known as Sloe Bar),2008_Roka & Sho Chu_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+166,Destination,Dominion Theatre,2008_Dominion Theatre_Starbucks (formerly known as Sloe Bar),51.516945,-0.12989,2008-02-04
+167,Origin,Starbucks (formerly known as Sloe Bar),2008_Dominion Theatre_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+168,Destination,Cafe Rouge,2008_Cafe Rouge_Starbucks (formerly known as Sloe Bar),51.515423,-0.12044400000000001,2008-08-29
+169,Origin,Starbucks (formerly known as Sloe Bar),2008_Cafe Rouge_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+170,Destination,Flight Club,2008_Flight Club_Starbucks (formerly known as Sloe Bar),51.516711,-0.127133,2008-05-22
+171,Origin,Starbucks (formerly known as Sloe Bar),2008_Flight Club_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+172,Destination,Bill's (formerly Pitcher and Piano),2008_Bill's (formerly Pitcher and Piano)_Starbucks (formerly known as Sloe Bar),51.515819,-0.118702,2008-01-12
+173,Origin,Starbucks (formerly known as Sloe Bar),2008_Bill's (formerly Pitcher and Piano)_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+174,Destination,Covent Garden Hotel,2008_Covent Garden Hotel_Starbucks (formerly known as Sloe Bar),51.514389,-0.12725799999999998,2008-07-17
+175,Origin,Starbucks (formerly known as Sloe Bar),2008_Covent Garden Hotel_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+176,Destination,Bleeding Heart Restaurant,2008_Bleeding Heart Restaurant_Starbucks (formerly known as Sloe Bar),51.518941,-0.106305,2008-08-29
+177,Origin,Starbucks (formerly known as Sloe Bar),2008_Bleeding Heart Restaurant_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+178,Destination,The Fitzrovia,2008_The Fitzrovia_Starbucks (formerly known as Sloe Bar),51.519855,-0.135379,2008-10-30
+179,Origin,Starbucks (formerly known as Sloe Bar),2008_The Fitzrovia_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+180,Destination,Pizza East/Chicken Shop (formerly Grand Union - Highgate),2008_Pizza East/Chicken Shop (formerly Grand Union - Highgate)_Starbucks (formerly known as Sloe Bar),51.55423,-0.144109,2008-03-26
+181,Origin,Starbucks (formerly known as Sloe Bar),2008_Pizza East/Chicken Shop (formerly Grand Union - Highgate)_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+182,Destination,Sainsbury's Supermarket,2008_Sainsbury's Supermarket_Starbucks (formerly known as Sloe Bar),51.538855,-0.193651,2008-02-01
+183,Origin,Starbucks (formerly known as Sloe Bar),2008_Sainsbury's Supermarket_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+184,Destination,Curzon Bloomsbury  Cinema,2008_Curzon Bloomsbury  Cinema_Starbucks (formerly known as Sloe Bar),51.524397,-0.12385,2008-01-08
+185,Origin,Starbucks (formerly known as Sloe Bar),2008_Curzon Bloomsbury  Cinema_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+186,Destination,Everyman Belsize Park,2008_Everyman Belsize Park_Starbucks (formerly known as Sloe Bar),51.550631,-0.165875,2008-07-10
+187,Origin,Starbucks (formerly known as Sloe Bar),2008_Everyman Belsize Park_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+188,Destination,Western Food Stores,2008_Western Food Stores_Starbucks (formerly known as Sloe Bar),51.546339,-0.191433,2008-06-16
+189,Origin,Starbucks (formerly known as Sloe Bar),2008_Western Food Stores_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+190,Destination,Made in Brasil Boteco (formerly Coco Bamboo),2008_Made in Brasil Boteco (formerly Coco Bamboo)_Starbucks (formerly known as Sloe Bar),51.54314,-0.148383,2008-02-19
+191,Origin,Starbucks (formerly known as Sloe Bar),2008_Made in Brasil Boteco (formerly Coco Bamboo)_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+192,Destination,Hat & Tun,2008_Hat & Tun_Starbucks (formerly known as Sloe Bar),51.521937,-0.108427,2008-07-30
+193,Origin,Starbucks (formerly known as Sloe Bar),2008_Hat & Tun_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+194,Destination,XO Restaurant,2008_XO Restaurant_Starbucks (formerly known as Sloe Bar),51.549339,-0.171002,2008-06-11
+195,Origin,Starbucks (formerly known as Sloe Bar),2008_XO Restaurant_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+196,Destination,Ballyhoo,2008_Ballyhoo_Starbucks (formerly known as Sloe Bar),51.517396000000005,-0.125711,2008-11-21
+197,Origin,Starbucks (formerly known as Sloe Bar),2008_Ballyhoo_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+198,Destination,Sway,2008_Sway_Starbucks (formerly known as Sloe Bar),51.515423,-0.12044400000000001,2008-11-27
+199,Origin,Starbucks (formerly known as Sloe Bar),2008_Sway_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+200,Destination,Starbucks (formerly known as Sloe Bar),2008_Starbucks (formerly known as Sloe Bar)_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+201,Origin,Starbucks (formerly known as Sloe Bar),2008_Starbucks (formerly known as Sloe Bar)_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+202,Destination,Bleeding Heart Bistro,2008_Bleeding Heart Bistro_Starbucks (formerly known as Sloe Bar),51.518941,-0.106305,2008-08-27
+203,Origin,Starbucks (formerly known as Sloe Bar),2008_Bleeding Heart Bistro_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+204,Destination,Metro Local - Ground Floor,2008_Metro Local - Ground Floor_Starbucks (formerly known as Sloe Bar),51.529988,-0.11699999999999999,2008-02-15
+205,Origin,Starbucks (formerly known as Sloe Bar),2008_Metro Local - Ground Floor_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+206,Destination,Sevilla Mia,2008_Sevilla Mia_Starbucks (formerly known as Sloe Bar),51.516921999999994,-0.132023,2008-08-27
+207,Origin,Starbucks (formerly known as Sloe Bar),2008_Sevilla Mia_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+208,Destination,Bar at TCR,2008_Bar at TCR_Starbucks (formerly known as Sloe Bar),51.522218,-0.13492200000000001,2008-11-11
+209,Origin,Starbucks (formerly known as Sloe Bar),2008_Bar at TCR_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+210,Destination,Bull And Last,2008_Bull And Last_Starbucks (formerly known as Sloe Bar),51.559104999999995,-0.148742,2008-02-05
+211,Origin,Starbucks (formerly known as Sloe Bar),2008_Bull And Last_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+212,Destination,Prince Albert,2008_Prince Albert_Starbucks (formerly known as Sloe Bar),51.540099,-0.137417,2008-08-10
+213,Origin,Starbucks (formerly known as Sloe Bar),2008_Prince Albert_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+214,Destination,Kentish Town Supermarket,2008_Kentish Town Supermarket_Starbucks (formerly known as Sloe Bar),51.545931,-0.14239000000000002,2008-04-12
+215,Origin,Starbucks (formerly known as Sloe Bar),2008_Kentish Town Supermarket_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+216,Destination,McDonald's Restaurants Ltd,2008_McDonald's Restaurants Ltd_Starbucks (formerly known as Sloe Bar),51.537827,-0.141005,2008-03-25
+217,Origin,Starbucks (formerly known as Sloe Bar),2008_McDonald's Restaurants Ltd_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+218,Destination,Tropicana Beach Club,2008_Tropicana Beach Club_Starbucks (formerly known as Sloe Bar),51.51578,-0.12225699999999999,2008-02-15
+219,Origin,Starbucks (formerly known as Sloe Bar),2008_Tropicana Beach Club_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+220,Destination,Blusoul,2008_Blusoul_Starbucks (formerly known as Sloe Bar),51.519667,-0.136475,2008-10-03
+221,Origin,Starbucks (formerly known as Sloe Bar),2008_Blusoul_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+222,Destination,Smithy's Wine Bar,2008_Smithy's Wine Bar_Starbucks (formerly known as Sloe Bar),51.529902,-0.119118,2008-09-15
+223,Origin,Starbucks (formerly known as Sloe Bar),2008_Smithy's Wine Bar_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+224,Destination,Camden Delight,2008_Camden Delight_Starbucks (formerly known as Sloe Bar),51.534911,-0.139649,2008-03-17
+225,Origin,Starbucks (formerly known as Sloe Bar),2008_Camden Delight_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+226,Destination,Campbell's Canal Cafe,2008_Campbell's Canal Cafe_Starbucks (formerly known as Sloe Bar),51.541090000000004,-0.145348,2008-07-25
+227,Origin,Starbucks (formerly known as Sloe Bar),2008_Campbell's Canal Cafe_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+228,Destination,SALT,2008_SALT_Starbucks (formerly known as Sloe Bar),51.550391999999995,-0.19197899999999998,2008-02-05
+229,Origin,Starbucks (formerly known as Sloe Bar),2008_SALT_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+230,Destination,Craft Beer Co - Covent Garden,2008_Craft Beer Co - Covent Garden_Starbucks (formerly known as Sloe Bar),51.515615999999994,-0.12485,2008-01-21
+231,Origin,Starbucks (formerly known as Sloe Bar),2008_Craft Beer Co - Covent Garden_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+232,Destination,Tsunami,2008_Tsunami_Starbucks (formerly known as Sloe Bar),51.520912,-0.137428,2008-11-07
+233,Origin,Starbucks (formerly known as Sloe Bar),2008_Tsunami_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+234,Destination,Futura,2008_Futura_Starbucks (formerly known as Sloe Bar),51.546221,-0.15824000000000002,2008-02-22
+235,Origin,Starbucks (formerly known as Sloe Bar),2008_Futura_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+236,Destination,Wesley House,2008_Wesley House_Starbucks (formerly known as Sloe Bar),51.515423,-0.12044400000000001,2008-08-14
+237,Origin,Starbucks (formerly known as Sloe Bar),2008_Wesley House_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+238,Destination,Hot Rock Cafe,2008_Hot Rock Cafe_Starbucks (formerly known as Sloe Bar),51.539219,-0.141978,2008-12-22
+239,Origin,Starbucks (formerly known as Sloe Bar),2008_Hot Rock Cafe_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+240,Destination,Sizzling China,2008_Sizzling China_Starbucks (formerly known as Sloe Bar),51.534197,-0.13888599999999998,2008-05-21
+241,Origin,Starbucks (formerly known as Sloe Bar),2008_Sizzling China_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+242,Destination,Reverend JW Simpson,2008_Reverend JW Simpson_Starbucks (formerly known as Sloe Bar),51.519855,-0.135379,2008-03-17
+243,Origin,Starbucks (formerly known as Sloe Bar),2008_Reverend JW Simpson_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+244,Destination,New Market Inn,2008_New Market Inn_Starbucks (formerly known as Sloe Bar),51.543074,-0.126691,2008-10-14
+245,Origin,Starbucks (formerly known as Sloe Bar),2008_New Market Inn_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+246,Destination,White Kitchen,2008_White Kitchen_Starbucks (formerly known as Sloe Bar),51.536374,-0.140995,2008-01-31
+247,Origin,Starbucks (formerly known as Sloe Bar),2008_White Kitchen_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+248,Destination,Secrets (Gray's Inn Road),2008_Secrets (Gray's Inn Road)_Starbucks (formerly known as Sloe Bar),51.518921,-0.11112999999999999,2008-04-25
+249,Origin,Starbucks (formerly known as Sloe Bar),2008_Secrets (Gray's Inn Road)_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+250,Destination,Thai Square,2008_Thai Square_Starbucks (formerly known as Sloe Bar),51.514389,-0.12725799999999998,2008-08-04
+251,Origin,Starbucks (formerly known as Sloe Bar),2008_Thai Square_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+252,Destination,Mediacom,2008_Mediacom_Starbucks (formerly known as Sloe Bar),51.520022999999995,-0.120031,2008-10-06
+253,Origin,Starbucks (formerly known as Sloe Bar),2008_Mediacom_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+254,Destination,AP Food Express,2008_AP Food Express_Starbucks (formerly known as Sloe Bar),51.516842,-0.126469,2008-10-28
+255,Origin,Starbucks (formerly known as Sloe Bar),2008_AP Food Express_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+256,Destination,Stingray Cafe,2008_Stingray Cafe_Starbucks (formerly known as Sloe Bar),51.556272,-0.139235,2008-10-14
+257,Origin,Starbucks (formerly known as Sloe Bar),2008_Stingray Cafe_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+258,Destination,Coffee Cup,2008_Coffee Cup_Starbucks (formerly known as Sloe Bar),51.555759,-0.177656,2008-12-18
+259,Origin,Starbucks (formerly known as Sloe Bar),2008_Coffee Cup_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+260,Destination,Latin Square,2008_Latin Square_Starbucks (formerly known as Sloe Bar),51.520437,-0.106431,2008-07-31
+261,Origin,Starbucks (formerly known as Sloe Bar),2008_Latin Square_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+262,Destination,Garufin,2008_Garufin_Starbucks (formerly known as Sloe Bar),51.519793,-0.117736,2008-03-20
+263,Origin,Starbucks (formerly known as Sloe Bar),2008_Garufin_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+264,Destination,Real Taste,2008_Real Taste_Starbucks (formerly known as Sloe Bar),51.535494,-0.140296,2008-04-11
+265,Origin,Starbucks (formerly known as Sloe Bar),2008_Real Taste_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+266,Destination,Jazz Cafe,2008_Jazz Cafe_Starbucks (formerly known as Sloe Bar),51.538422,-0.143124,2008-11-14
+267,Origin,Starbucks (formerly known as Sloe Bar),2008_Jazz Cafe_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+268,Destination,O'Neills,2008_O'Neills_Starbucks (formerly known as Sloe Bar),51.528517,-0.126822,2008-12-02
+269,Origin,Starbucks (formerly known as Sloe Bar),2008_O'Neills_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+270,Destination,Simply Food and Wine,2008_Simply Food and Wine_Starbucks (formerly known as Sloe Bar),51.556272,-0.139235,2008-02-22
+271,Origin,Starbucks (formerly known as Sloe Bar),2008_Simply Food and Wine_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+272,Destination,The Bleeding Heart Tavern,2008_The Bleeding Heart Tavern_Starbucks (formerly known as Sloe Bar),51.518941,-0.106305,2008-08-29
+273,Origin,Starbucks (formerly known as Sloe Bar),2008_The Bleeding Heart Tavern_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+274,Destination,Compagnie des Vins Surnaturel,2008_Compagnie des Vins Surnaturel_Starbucks (formerly known as Sloe Bar),51.514446,-0.126545,2008-07-11
+275,Origin,Starbucks (formerly known as Sloe Bar),2008_Compagnie des Vins Surnaturel_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+276,Destination,Admiral Mann,2008_Admiral Mann_Starbucks (formerly known as Sloe Bar),51.549326,-0.130676,2008-10-15
+277,Origin,Starbucks (formerly known as Sloe Bar),2008_Admiral Mann_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+278,Destination,"Paramount (Floors 31, 32, 33)","2008_Paramount (Floors 31, 32, 33)_Starbucks (formerly known as Sloe Bar)",51.516178000000004,-0.12926500000000002,2008-05-21
+279,Origin,Starbucks (formerly known as Sloe Bar),"2008_Paramount (Floors 31, 32, 33)_Starbucks (formerly known as Sloe Bar)",51.529302,-0.13258499999999998,2008-01-07
+280,Destination,Goodmay Wines,2008_Goodmay Wines_Starbucks (formerly known as Sloe Bar),51.540816,-0.17946600000000001,2008-06-20
+281,Origin,Starbucks (formerly known as Sloe Bar),2008_Goodmay Wines_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+282,Destination,London Euston Premier Travel Inn,2008_London Euston Premier Travel Inn_Starbucks (formerly known as Sloe Bar),51.527645,-0.128604,2008-02-14
+283,Origin,Starbucks (formerly known as Sloe Bar),2008_London Euston Premier Travel Inn_Starbucks (formerly known as Sloe Bar),51.529302,-0.13258499999999998,2008-01-07
+284,Destination,Coffee Cup,2009_Coffee Cup_McDonald's Restaurants Ltd,51.555759,-0.177656,2009-02-01
+285,Origin,McDonald's Restaurants Ltd,2009_Coffee Cup_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+286,Destination,Parkers,2009_Parkers_McDonald's Restaurants Ltd,51.516965,-0.120941,2009-01-28
+287,Origin,McDonald's Restaurants Ltd,2009_Parkers_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+288,Destination,Sir Christopher Hatton,2009_Sir Christopher Hatton_McDonald's Restaurants Ltd,51.518529,-0.108519,2009-03-04
+289,Origin,McDonald's Restaurants Ltd,2009_Sir Christopher Hatton_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+290,Destination,Brookes Brothers Wine Bar & Brasserie,2009_Brookes Brothers Wine Bar & Brasserie_McDonald's Restaurants Ltd,51.518921,-0.11112999999999999,2009-12-08
+291,Origin,McDonald's Restaurants Ltd,2009_Brookes Brothers Wine Bar & Brasserie_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+292,Destination,Sainsbury's Supermarkets Ltd,2009_Sainsbury's Supermarkets Ltd_McDonald's Restaurants Ltd,51.516965,-0.120941,2009-09-25
+293,Origin,McDonald's Restaurants Ltd,2009_Sainsbury's Supermarkets Ltd_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+294,Destination,Villandry Kitchen,2009_Villandry Kitchen_McDonald's Restaurants Ltd,51.518268,-0.11845499999999999,2009-11-02
+295,Origin,McDonald's Restaurants Ltd,2009_Villandry Kitchen_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+296,Destination,Kami Japanese Restaurant (formerly Satuma Japanese Restaurant),2009_Kami Japanese Restaurant (formerly Satuma Japanese Restaurant)_McDonald's Restaurants Ltd,51.551747,-0.140791,2009-04-17
+297,Origin,McDonald's Restaurants Ltd,2009_Kami Japanese Restaurant (formerly Satuma Japanese Restaurant)_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+298,Destination,02 Forum,2009_02 Forum_McDonald's Restaurants Ltd,51.551885,-0.141932,2009-12-23
+299,Origin,McDonald's Restaurants Ltd,2009_02 Forum_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+300,Destination,Cafe & Grill,2009_Cafe & Grill_McDonald's Restaurants Ltd,51.540172999999996,-0.14257999999999998,2009-10-16
+301,Origin,McDonald's Restaurants Ltd,2009_Cafe & Grill_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+302,Destination,Pescatori,2009_Pescatori_McDonald's Restaurants Ltd,51.519667,-0.136475,2009-04-24
+303,Origin,McDonald's Restaurants Ltd,2009_Pescatori_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+304,Destination,The Ninth,2009_The Ninth_McDonald's Restaurants Ltd,51.518959,-0.134555,2009-06-24
+305,Origin,McDonald's Restaurants Ltd,2009_The Ninth_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+306,Destination,Campbell's Canal Cafe,2009_Campbell's Canal Cafe_McDonald's Restaurants Ltd,51.541090000000004,-0.145348,2009-02-19
+307,Origin,McDonald's Restaurants Ltd,2009_Campbell's Canal Cafe_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+308,Destination,Kings Kebab (Formerly Cafe Nova),2009_Kings Kebab (Formerly Cafe Nova)_McDonald's Restaurants Ltd,51.516965,-0.120941,2009-03-24
+309,Origin,McDonald's Restaurants Ltd,2009_Kings Kebab (Formerly Cafe Nova)_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+310,Destination,Dim T,2009_Dim T_McDonald's Restaurants Ltd,51.571441,-0.15045999999999998,2009-03-18
+311,Origin,McDonald's Restaurants Ltd,2009_Dim T_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+312,Destination,Chicken Cottage,2009_Chicken Cottage_McDonald's Restaurants Ltd,51.517672,-0.142245,2009-10-30
+313,Origin,McDonald's Restaurants Ltd,2009_Chicken Cottage_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+314,Destination,Bobby's (formerly La Brocca),2009_Bobby's (formerly La Brocca)_McDonald's Restaurants Ltd,51.550391999999995,-0.19197899999999998,2009-05-11
+315,Origin,McDonald's Restaurants Ltd,2009_Bobby's (formerly La Brocca)_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+316,Destination,The Cedar Restaurant and Bar,2009_The Cedar Restaurant and Bar_McDonald's Restaurants Ltd,51.549717,-0.191104,2009-05-10
+317,Origin,McDonald's Restaurants Ltd,2009_The Cedar Restaurant and Bar_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+318,Destination,Made in Brasil Boteco (formerly Coco Bamboo),2009_Made in Brasil Boteco (formerly Coco Bamboo)_McDonald's Restaurants Ltd,51.54314,-0.148383,2009-06-04
+319,Origin,McDonald's Restaurants Ltd,2009_Made in Brasil Boteco (formerly Coco Bamboo)_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+320,Destination,Kings Cross Social Club,2009_Kings Cross Social Club_McDonald's Restaurants Ltd,51.530207,-0.11801199999999999,2009-04-28
+321,Origin,McDonald's Restaurants Ltd,2009_Kings Cross Social Club_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+322,Destination,Kingsway Hall Hotel,2009_Kingsway Hall Hotel_McDonald's Restaurants Ltd,51.515423,-0.12044400000000001,2009-09-02
+323,Origin,McDonald's Restaurants Ltd,2009_Kingsway Hall Hotel_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+324,Destination,New Market Inn,2009_New Market Inn_McDonald's Restaurants Ltd,51.543074,-0.126691,2009-04-20
+325,Origin,McDonald's Restaurants Ltd,2009_New Market Inn_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+326,Destination,Juice Pool Bar,2009_Juice Pool Bar_McDonald's Restaurants Ltd,51.549434999999995,-0.183002,2009-08-18
+327,Origin,McDonald's Restaurants Ltd,2009_Juice Pool Bar_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+328,Destination,26 Grains (formerly known as Neal's Yard Salad Bar),2009_26 Grains (formerly known as Neal's Yard Salad Bar)_McDonald's Restaurants Ltd,51.514446,-0.126545,2009-06-18
+329,Origin,McDonald's Restaurants Ltd,2009_26 Grains (formerly known as Neal's Yard Salad Bar)_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+330,Destination,The Dartmouth Arms,2009_The Dartmouth Arms_McDonald's Restaurants Ltd,51.558535,-0.143825,2009-05-08
+331,Origin,McDonald's Restaurants Ltd,2009_The Dartmouth Arms_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+332,Destination,Cancer Research UK,2009_Cancer Research UK_McDonald's Restaurants Ltd,51.515819,-0.118702,2009-07-17
+333,Origin,McDonald's Restaurants Ltd,2009_Cancer Research UK_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+334,Destination,The Crowndale,2009_The Crowndale_McDonald's Restaurants Ltd,51.534285,-0.13764300000000002,2009-08-18
+335,Origin,McDonald's Restaurants Ltd,2009_The Crowndale_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+336,Destination,Shaka Zulu,2009_Shaka Zulu_McDonald's Restaurants Ltd,51.542256,-0.14816,2009-02-19
+337,Origin,McDonald's Restaurants Ltd,2009_Shaka Zulu_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+338,Destination,Angel Inn,2009_Angel Inn_McDonald's Restaurants Ltd,51.57043,-0.147778,2009-02-17
+339,Origin,McDonald's Restaurants Ltd,2009_Angel Inn_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+340,Destination,"Paramount (Floors 31, 32, 33)","2009_Paramount (Floors 31, 32, 33)_McDonald's Restaurants Ltd",51.516178000000004,-0.12926500000000002,2009-07-30
+341,Origin,McDonald's Restaurants Ltd,"2009_Paramount (Floors 31, 32, 33)_McDonald's Restaurants Ltd",51.52370833333333,-0.127035,2009-01-05
+342,Destination,The Camden Head,2009_The Camden Head_McDonald's Restaurants Ltd,51.537827,-0.141005,2009-03-12
+343,Origin,McDonald's Restaurants Ltd,2009_The Camden Head_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+344,Destination,The Monarch,2009_The Monarch_McDonald's Restaurants Ltd,51.54314,-0.148383,2009-03-12
+345,Origin,McDonald's Restaurants Ltd,2009_The Monarch_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+346,Destination,Holborn House,2009_Holborn House_McDonald's Restaurants Ltd,51.517503000000005,-0.117704,2009-05-19
+347,Origin,McDonald's Restaurants Ltd,2009_Holborn House_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+348,Destination,McDonald's Restaurants Ltd,2009_McDonald's Restaurants Ltd_McDonald's Restaurants Ltd,51.517405,-0.138173,2009-01-05
+349,Origin,McDonald's Restaurants Ltd,2009_McDonald's Restaurants Ltd_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+350,Destination,Interchange Studios,2009_Interchange Studios_McDonald's Restaurants Ltd,51.550908,-0.16658399999999998,2009-05-20
+351,Origin,McDonald's Restaurants Ltd,2009_Interchange Studios_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+352,Destination,Fifty Five Bar and Lounge,2009_Fifty Five Bar and Lounge_McDonald's Restaurants Ltd,51.540046000000004,-0.145992,2009-08-18
+353,Origin,McDonald's Restaurants Ltd,2009_Fifty Five Bar and Lounge_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+354,Destination,Del Aziz,2009_Del Aziz_McDonald's Restaurants Ltd,51.543793,-0.153248,2009-02-12
+355,Origin,McDonald's Restaurants Ltd,2009_Del Aziz_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+356,Destination,Wok Inn,2009_Wok Inn_McDonald's Restaurants Ltd,51.534911,-0.139649,2009-01-27
+357,Origin,McDonald's Restaurants Ltd,2009_Wok Inn_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+358,Destination,Diamond Supermarket,2009_Diamond Supermarket_McDonald's Restaurants Ltd,51.546679,-0.15871300000000002,2009-02-26
+359,Origin,McDonald's Restaurants Ltd,2009_Diamond Supermarket_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+360,Destination,Metro Express,2009_Metro Express_McDonald's Restaurants Ltd,51.530239,-0.12168499999999999,2009-03-18
+361,Origin,McDonald's Restaurants Ltd,2009_Metro Express_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+362,Destination,Hush Brasseries Holborn (formerly Villandry Kitchen),2009_Hush Brasseries Holborn (formerly Villandry Kitchen)_McDonald's Restaurants Ltd,51.518268,-0.11845499999999999,2009-11-02
+363,Origin,McDonald's Restaurants Ltd,2009_Hush Brasseries Holborn (formerly Villandry Kitchen)_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+364,Destination,Kentish Town Supermarket,2009_Kentish Town Supermarket_McDonald's Restaurants Ltd,51.545931,-0.14239000000000002,2009-09-09
+365,Origin,McDonald's Restaurants Ltd,2009_Kentish Town Supermarket_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+366,Destination,Faaji,2009_Faaji_McDonald's Restaurants Ltd,51.549434999999995,-0.183002,2009-05-11
+367,Origin,McDonald's Restaurants Ltd,2009_Faaji_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+368,Destination,Marks & Spencer Simply Food,2009_Marks & Spencer Simply Food_McDonald's Restaurants Ltd,51.529302,-0.13258499999999998,2009-04-08
+369,Origin,McDonald's Restaurants Ltd,2009_Marks & Spencer Simply Food_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+370,Destination,BuyBest,2009_BuyBest_McDonald's Restaurants Ltd,51.549717,-0.191104,2009-07-22
+371,Origin,McDonald's Restaurants Ltd,2009_BuyBest_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+372,Destination,Compagnie des Vins Surnaturel,2009_Compagnie des Vins Surnaturel_McDonald's Restaurants Ltd,51.514446,-0.126545,2009-06-18
+373,Origin,McDonald's Restaurants Ltd,2009_Compagnie des Vins Surnaturel_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+374,Destination,Kentucky Fried Chicken,2009_Kentucky Fried Chicken_McDonald's Restaurants Ltd,51.540039,-0.14449700000000001,2009-03-04
+375,Origin,McDonald's Restaurants Ltd,2009_Kentucky Fried Chicken_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+376,Destination,The Pack and Carriage (Formley known as Elixir),2009_The Pack and Carriage (Formley known as Elixir)_McDonald's Restaurants Ltd,51.531991,-0.13561900000000002,2009-02-23
+377,Origin,McDonald's Restaurants Ltd,2009_The Pack and Carriage (Formley known as Elixir)_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+378,Destination,Foggs Restaurant,2009_Foggs Restaurant_McDonald's Restaurants Ltd,51.542123,-0.146071,2009-05-06
+379,Origin,McDonald's Restaurants Ltd,2009_Foggs Restaurant_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+380,Destination,Sevilla Mia,2009_Sevilla Mia_McDonald's Restaurants Ltd,51.516921999999994,-0.132023,2009-07-17
+381,Origin,McDonald's Restaurants Ltd,2009_Sevilla Mia_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+382,Destination,Troy Club,2009_Troy Club_McDonald's Restaurants Ltd,51.516921999999994,-0.132023,2009-07-17
+383,Origin,McDonald's Restaurants Ltd,2009_Troy Club_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+384,Destination,Dixy Chicken,2009_Dixy Chicken_McDonald's Restaurants Ltd,51.556776,-0.13938499999999998,2009-06-19
+385,Origin,McDonald's Restaurants Ltd,2009_Dixy Chicken_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+386,Destination,First Choice,2009_First Choice_McDonald's Restaurants Ltd,51.539688,-0.142772,2009-04-20
+387,Origin,McDonald's Restaurants Ltd,2009_First Choice_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+388,Destination,The Roundhouse,2009_The Roundhouse_McDonald's Restaurants Ltd,51.543213,-0.151805,2009-04-03
+389,Origin,McDonald's Restaurants Ltd,2009_The Roundhouse_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+390,Destination,Balans Restaurant,2009_Balans Restaurant_McDonald's Restaurants Ltd,51.513596,-0.127317,2009-07-08
+391,Origin,McDonald's Restaurants Ltd,2009_Balans Restaurant_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+392,Destination,The Marathon,2009_The Marathon_McDonald's Restaurants Ltd,51.543994,-0.151855,2009-04-03
+393,Origin,McDonald's Restaurants Ltd,2009_The Marathon_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+394,Destination,Sainsbury's,2009_Sainsbury's_McDonald's Restaurants Ltd,51.516921999999994,-0.132023,2009-09-25
+395,Origin,McDonald's Restaurants Ltd,2009_Sainsbury's_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+396,Destination,The Blues Kitchen,2009_The Blues Kitchen_McDonald's Restaurants Ltd,51.536691,-0.141465,2009-02-07
+397,Origin,McDonald's Restaurants Ltd,2009_The Blues Kitchen_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+398,Destination,The Bloomsbury Hotel,2009_The Bloomsbury Hotel_McDonald's Restaurants Ltd,51.517232,-0.128717,2009-10-03
+399,Origin,McDonald's Restaurants Ltd,2009_The Bloomsbury Hotel_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+400,Destination,Real Taste,2009_Real Taste_McDonald's Restaurants Ltd,51.535494,-0.140296,2009-12-02
+401,Origin,McDonald's Restaurants Ltd,2009_Real Taste_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+402,Destination,The Earl of Camden,2009_The Earl of Camden_McDonald's Restaurants Ltd,51.537586,-0.14385,2009-02-13
+403,Origin,McDonald's Restaurants Ltd,2009_The Earl of Camden_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+404,Destination,Crown,2009_Crown_McDonald's Restaurants Ltd,51.514389,-0.12725799999999998,2009-10-16
+405,Origin,McDonald's Restaurants Ltd,2009_Crown_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+406,Destination,Phoenix Artist Club,2009_Phoenix Artist Club_McDonald's Restaurants Ltd,51.514562,-0.12926500000000002,2009-02-25
+407,Origin,McDonald's Restaurants Ltd,2009_Phoenix Artist Club_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+408,Destination,Zen Turkce Bar,2009_Zen Turkce Bar_McDonald's Restaurants Ltd,51.515526,-0.12947,2009-09-28
+409,Origin,McDonald's Restaurants Ltd,2009_Zen Turkce Bar_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+410,Destination,The Load of Hay Tavern (Previously Hill),2009_The Load of Hay Tavern (Previously Hill)_McDonald's Restaurants Ltd,51.546873,-0.157876,2009-02-16
+411,Origin,McDonald's Restaurants Ltd,2009_The Load of Hay Tavern (Previously Hill)_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+412,Destination,Conway Hall,2009_Conway Hall_McDonald's Restaurants Ltd,51.519397,-0.11733099999999999,2009-01-21
+413,Origin,McDonald's Restaurants Ltd,2009_Conway Hall_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+414,Destination,Spaghetti House,2009_Spaghetti House_McDonald's Restaurants Ltd,51.518636,-0.133795,2009-04-17
+415,Origin,McDonald's Restaurants Ltd,2009_Spaghetti House_McDonald's Restaurants Ltd,51.52370833333333,-0.127035,2009-01-05
+416,Destination,Orchard,2014_Orchard_Bloc Bar (Formerly Record Club/The Stillery,51.518636,-0.12129000000000001,2014-05-15
+417,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Orchard_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+418,Destination,Cafe Metro,2014_Cafe Metro_Bloc Bar (Formerly Record Club/The Stillery,51.539688,-0.142772,2014-05-21
+419,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Cafe Metro_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+420,Destination,The Noodle House,2014_The Noodle House_Bloc Bar (Formerly Record Club/The Stillery,51.513999,-0.128985,2014-01-27
+421,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_The Noodle House_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+422,Destination,Munchtime (previously Cafe Plaka),2014_Munchtime (previously Cafe Plaka)_Bloc Bar (Formerly Record Club/The Stillery,51.530239,-0.12168499999999999,2014-04-14
+423,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Munchtime (previously Cafe Plaka)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+424,Destination,Bloc Bar (Formerly Record Club/The Stillery,2014_Bloc Bar (Formerly Record Club/The Stillery_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+425,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Bloc Bar (Formerly Record Club/The Stillery_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+426,Destination,"Leon,  101 Tottenham Court Road","2014_Leon,  101 Tottenham Court Road_Bloc Bar (Formerly Record Club/The Stillery",51.52243,-0.13683900000000002,2014-05-11
+427,Origin,Bloc Bar (Formerly Record Club/The Stillery,"2014_Leon,  101 Tottenham Court Road_Bloc Bar (Formerly Record Club/The Stillery",51.540164000000004,-0.141998,2014-01-13
+428,Destination,University Of London,2014_University Of London_Bloc Bar (Formerly Record Club/The Stillery,51.521009,-0.128445,2014-08-05
+429,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_University Of London_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+430,Destination,Wesley House,2014_Wesley House_Bloc Bar (Formerly Record Club/The Stillery,51.515423,-0.12044400000000001,2014-10-30
+431,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Wesley House_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+432,Destination,Kilburn Iron Works  (previously Powers Acoustic Bar),2014_Kilburn Iron Works  (previously Powers Acoustic Bar)_Bloc Bar (Formerly Record Club/The Stillery,51.545465,-0.20251,2014-04-03
+433,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Kilburn Iron Works  (previously Powers Acoustic Bar)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+434,Destination,Camden Eye,2014_Camden Eye_Bloc Bar (Formerly Record Club/The Stillery,51.539219,-0.141978,2014-03-10
+435,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Camden Eye_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+436,Destination,BEAUMONT'S,2014_BEAUMONT'S_Bloc Bar (Formerly Record Club/The Stillery,51.545577,-0.162215,2014-07-31
+437,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_BEAUMONT'S_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+438,Destination,Fairly Square,2014_Fairly Square_Bloc Bar (Formerly Record Club/The Stillery,51.519793,-0.117736,2014-04-25
+439,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Fairly Square_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+440,Destination,Sovereign,2014_Sovereign_Bloc Bar (Formerly Record Club/The Stillery,51.530415999999995,-0.141208,2014-08-13
+441,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Sovereign_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+442,Destination,"Caffe Vergnano, Unit 5","2014_Caffe Vergnano, Unit 5_Bloc Bar (Formerly Record Club/The Stillery",51.516045,-0.127443,2014-07-10
+443,Origin,Bloc Bar (Formerly Record Club/The Stillery,"2014_Caffe Vergnano, Unit 5_Bloc Bar (Formerly Record Club/The Stillery",51.540164000000004,-0.141998,2014-01-13
+444,Destination,Elephants Head,2014_Elephants Head_Bloc Bar (Formerly Record Club/The Stillery,51.540541999999995,-0.14366199999999998,2014-06-03
+445,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Elephants Head_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+446,Destination,Ed's Easy Diner,2014_Ed's Easy Diner_Bloc Bar (Formerly Record Club/The Stillery,51.529302,-0.13258499999999998,2014-06-08
+447,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Ed's Easy Diner_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+448,Destination,Sainsbury's,2014_Sainsbury's_Bloc Bar (Formerly Record Club/The Stillery,51.523298,-0.12282,2014-04-17
+449,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Sainsbury's_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+450,Destination,Otto's,2014_Otto's_Bloc Bar (Formerly Record Club/The Stillery,51.523041,-0.11357300000000001,2014-01-17
+451,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Otto's_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+452,Destination,The Pineapple,2014_The Pineapple_Bloc Bar (Formerly Record Club/The Stillery,51.552951,-0.140094,2014-11-11
+453,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_The Pineapple_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+454,Destination,Bar Solo/Undersolo,2014_Bar Solo/Undersolo_Bloc Bar (Formerly Record Club/The Stillery,51.540039,-0.14449700000000001,2014-11-20
+455,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Bar Solo/Undersolo_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+456,Destination,British Library,2014_British Library_Bloc Bar (Formerly Record Club/The Stillery,51.53004,-0.127634,2014-06-18
+457,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_British Library_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+458,Destination,Reverend JW Simpson,2014_Reverend JW Simpson_Bloc Bar (Formerly Record Club/The Stillery,51.519855,-0.135379,2014-04-17
+459,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Reverend JW Simpson_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+460,Destination,The Railway,2014_The Railway_Bloc Bar (Formerly Record Club/The Stillery,51.546124,-0.19050799999999998,2014-03-26
+461,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_The Railway_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+462,Destination,Imperial Hotel,2014_Imperial Hotel_Bloc Bar (Formerly Record Club/The Stillery,51.521776,-0.12359300000000001,2014-04-23
+463,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Imperial Hotel_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+464,Destination,Canton Element,2014_Canton Element_Bloc Bar (Formerly Record Club/The Stillery,51.519793,-0.117736,2014-07-11
+465,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Canton Element_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+466,Destination,Bull & Gate,2014_Bull & Gate_Bloc Bar (Formerly Record Club/The Stillery,51.551885,-0.141932,2014-03-01
+467,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Bull & Gate_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+468,Destination,Brecknock Convenience Store,2014_Brecknock Convenience Store_Bloc Bar (Formerly Record Club/The Stillery,51.556475,-0.137786,2014-03-29
+469,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Brecknock Convenience Store_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+470,Destination,Love & Liquor,2014_Love & Liquor_Bloc Bar (Formerly Record Club/The Stillery,51.536709,-0.19143,2014-08-28
+471,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Love & Liquor_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+472,Destination,Smugglers Tavern,2014_Smugglers Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.523545,-0.140725,2014-06-30
+473,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Smugglers Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+474,Destination,Chalk Farm Grill,2014_Chalk Farm Grill_Bloc Bar (Formerly Record Club/The Stillery,51.544246,-0.152816,2014-08-06
+475,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Chalk Farm Grill_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+476,Destination,The Lower Fairground Site,2014_The Lower Fairground Site_Bloc Bar (Formerly Record Club/The Stillery,51.557159000000006,-0.169561,2014-03-22
+477,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_The Lower Fairground Site_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+478,Destination,Londis,2014_Londis_Bloc Bar (Formerly Record Club/The Stillery,51.524398,-0.139311,2014-10-06
+479,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Londis_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+480,Destination,The Holly Bush,2014_The Holly Bush_Bloc Bar (Formerly Record Club/The Stillery,51.557922999999995,-0.17946099999999998,2014-06-16
+481,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_The Holly Bush_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+482,Destination,Lidl UK GmbH,2014_Lidl UK GmbH_Bloc Bar (Formerly Record Club/The Stillery,51.547109000000006,-0.142245,2014-08-21
+483,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Lidl UK GmbH_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+484,Destination,Grafton Arms,2014_Grafton Arms_Bloc Bar (Formerly Record Club/The Stillery,51.547061,-0.14493599999999998,2014-05-08
+485,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Grafton Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+486,Destination,Touro Brazilian Steak House (formerly Coco Bamboo Belsize),2014_Touro Brazilian Steak House (formerly Coco Bamboo Belsize)_Bloc Bar (Formerly Record Club/The Stillery,51.546679,-0.15871300000000002,2014-02-09
+487,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Touro Brazilian Steak House (formerly Coco Bamboo Belsize)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+488,Destination,Kiera (formerly Nunu Cafe and Brasserie),2014_Kiera (formerly Nunu Cafe and Brasserie)_Bloc Bar (Formerly Record Club/The Stillery,51.515526,-0.12947,2014-06-26
+489,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Kiera (formerly Nunu Cafe and Brasserie)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+490,Destination,Parkers,2014_Parkers_Bloc Bar (Formerly Record Club/The Stillery,51.516965,-0.120941,2014-02-12
+491,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Parkers_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+492,Destination,Retail 24,2014_Retail 24_Bloc Bar (Formerly Record Club/The Stillery,51.554701,-0.165596,2014-05-31
+493,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Retail 24_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+494,Destination,Davy's Bar and Grill Holborn,2014_Davy's Bar and Grill Holborn_Bloc Bar (Formerly Record Club/The Stillery,51.518567,-0.11580399999999999,2014-07-30
+495,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Davy's Bar and Grill Holborn_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+496,Destination,Bloomsbury Theatre,2014_Bloomsbury Theatre_Bloc Bar (Formerly Record Club/The Stillery,51.525257,-0.13204000000000002,2014-11-08
+497,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Bloomsbury Theatre_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+498,Destination,Cure & Cut,2014_Cure & Cut_Bloc Bar (Formerly Record Club/The Stillery,51.513596,-0.127317,2014-03-20
+499,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Cure & Cut_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+500,Destination,Canela,2014_Canela_Bloc Bar (Formerly Record Club/The Stillery,51.514056,-0.12601400000000001,2014-10-04
+501,Origin,Bloc Bar (Formerly Record Club/The Stillery,2014_Canela_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2014-01-13
+502,Destination,Sainsburys,2013_Sainsburys_Camden Eye,51.54053,-0.140895,2013-05-21
+503,Origin,Camden Eye,2013_Sainsburys_Camden Eye,51.539219,-0.141978,2013-01-05
+504,Destination,Wine Rack,2013_Wine Rack_Camden Eye,51.550832,-0.164907,2013-05-29
+505,Origin,Camden Eye,2013_Wine Rack_Camden Eye,51.539219,-0.141978,2013-01-05
+506,Destination,McDonalds,2013_McDonalds_Camden Eye,51.544457,-0.176422,2013-08-16
+507,Origin,Camden Eye,2013_McDonalds_Camden Eye,51.539219,-0.141978,2013-01-05
+508,Destination,Illy's Supermarket,2013_Illy's Supermarket_Camden Eye,51.553591,-0.211394,2013-04-24
+509,Origin,Camden Eye,2013_Illy's Supermarket_Camden Eye,51.539219,-0.141978,2013-01-05
+510,Destination,Mezza Eatery,2013_Mezza Eatery_Camden Eye,51.534911,-0.139649,2013-03-25
+511,Origin,Camden Eye,2013_Mezza Eatery_Camden Eye,51.539219,-0.141978,2013-01-05
+512,Destination,Balans Restaurant,2013_Balans Restaurant_Camden Eye,51.513596,-0.127317,2013-06-28
+513,Origin,Camden Eye,2013_Balans Restaurant_Camden Eye,51.539219,-0.141978,2013-01-05
+514,Destination,Convenience Store,2013_Convenience Store_Camden Eye,51.550323,-0.141154,2013-07-29
+515,Origin,Camden Eye,2013_Convenience Store_Camden Eye,51.539219,-0.141978,2013-01-05
+516,Destination,Aldi,2013_Aldi_Camden Eye,51.539895,-0.195959,2013-01-24
+517,Origin,Camden Eye,2013_Aldi_Camden Eye,51.539219,-0.141978,2013-01-05
+518,Destination,Le Pain Quotidien (previously McDonalds),2013_Le Pain Quotidien (previously McDonalds)_Camden Eye,51.556783,-0.177972,2013-10-09
+519,Origin,Camden Eye,2013_Le Pain Quotidien (previously McDonalds)_Camden Eye,51.539219,-0.141978,2013-01-05
+520,Destination,Way 2 Save,2013_Way 2 Save_Camden Eye,51.546555,-0.203003,2013-05-16
+521,Origin,Camden Eye,2013_Way 2 Save_Camden Eye,51.539219,-0.141978,2013-01-05
+522,Destination,Local Express,2013_Local Express_Camden Eye,51.529164,-0.118967,2013-10-23
+523,Origin,Camden Eye,2013_Local Express_Camden Eye,51.539219,-0.141978,2013-01-05
+524,Destination,Love & Liquor,2013_Love & Liquor_Camden Eye,51.536709,-0.19143,2013-04-09
+525,Origin,Camden Eye,2013_Love & Liquor_Camden Eye,51.539219,-0.141978,2013-01-05
+526,Destination,Otto's,2013_Otto's_Camden Eye,51.523041,-0.11357300000000001,2013-12-07
+527,Origin,Camden Eye,2013_Otto's_Camden Eye,51.539219,-0.141978,2013-01-05
+528,Destination,Griffin,2013_Griffin_Camden Eye,51.521334,-0.112046,2013-05-20
+529,Origin,Camden Eye,2013_Griffin_Camden Eye,51.539219,-0.141978,2013-01-05
+530,Destination,Northumberland Arms,2013_Northumberland Arms_Camden Eye,51.523142,-0.137511,2013-12-02
+531,Origin,Camden Eye,2013_Northumberland Arms_Camden Eye,51.539219,-0.141978,2013-01-05
+532,Destination,PizzaExpress,2013_PizzaExpress_Camden Eye,51.520227,-0.12197000000000001,2013-05-07
+533,Origin,Camden Eye,2013_PizzaExpress_Camden Eye,51.539219,-0.141978,2013-01-05
+534,Destination,Zen Turkce Bar,2013_Zen Turkce Bar_Camden Eye,51.515526,-0.12947,2013-08-14
+535,Origin,Camden Eye,2013_Zen Turkce Bar_Camden Eye,51.539219,-0.141978,2013-01-05
+536,Destination,Reverend JW Simpson,2013_Reverend JW Simpson_Camden Eye,51.519855,-0.135379,2013-03-26
+537,Origin,Camden Eye,2013_Reverend JW Simpson_Camden Eye,51.539219,-0.141978,2013-01-05
+538,Destination,Jamon - Jamon Restaurant,2013_Jamon - Jamon Restaurant_Camden Eye,51.513999,-0.128985,2013-12-20
+539,Origin,Camden Eye,2013_Jamon - Jamon Restaurant_Camden Eye,51.539219,-0.141978,2013-01-05
+540,Destination,Ape and Bird,2013_Ape and Bird_Camden Eye,51.513245,-0.12820299999999998,2013-12-23
+541,Origin,Camden Eye,2013_Ape and Bird_Camden Eye,51.539219,-0.141978,2013-01-05
+542,Destination,The Parcel Yard,2013_The Parcel Yard_Camden Eye,51.531959,-0.12365,2013-09-16
+543,Origin,Camden Eye,2013_The Parcel Yard_Camden Eye,51.539219,-0.141978,2013-01-05
+544,Destination,Rising Sun,2013_Rising Sun_Camden Eye,51.519513,-0.133795,2013-09-04
+545,Origin,Camden Eye,2013_Rising Sun_Camden Eye,51.539219,-0.141978,2013-01-05
+546,Destination,Odeon Cinema,2013_Odeon Cinema_Camden Eye,51.539139,-0.14369500000000002,2013-01-15
+547,Origin,Camden Eye,2013_Odeon Cinema_Camden Eye,51.539219,-0.141978,2013-01-05
+548,Destination,Sheephaven Bay,2013_Sheephaven Bay_Camden Eye,51.53522,-0.14168699999999998,2013-03-13
+549,Origin,Camden Eye,2013_Sheephaven Bay_Camden Eye,51.539219,-0.141978,2013-01-05
+550,Destination,Sainsbury's Supermarket,2013_Sainsbury's Supermarket_Camden Eye,51.538855,-0.193651,2013-05-06
+551,Origin,Camden Eye,2013_Sainsbury's Supermarket_Camden Eye,51.539219,-0.141978,2013-01-05
+552,Destination,cafe mode,2013_cafe mode_Camden Eye,51.51578,-0.12225699999999999,2013-03-04
+553,Origin,Camden Eye,2013_cafe mode_Camden Eye,51.539219,-0.141978,2013-01-05
+554,Destination,Rosewood London (formerly Chancery Court Hotel),2013_Rosewood London (formerly Chancery Court Hotel)_Camden Eye,51.517503000000005,-0.117704,2013-06-25
+555,Origin,Camden Eye,2013_Rosewood London (formerly Chancery Court Hotel)_Camden Eye,51.539219,-0.141978,2013-01-05
+556,Destination,College Arms,2013_College Arms_Camden Eye,51.520386,-0.132202,2013-12-02
+557,Origin,Camden Eye,2013_College Arms_Camden Eye,51.539219,-0.141978,2013-01-05
+558,Destination,"Crystal Mini Market, Ground Floor","2013_Crystal Mini Market, Ground Floor_Camden Eye",51.5541,-0.15506199999999998,2013-11-02
+559,Origin,Camden Eye,"2013_Crystal Mini Market, Ground Floor_Camden Eye",51.539219,-0.141978,2013-01-05
+560,Destination,Rada,2013_Rada_Camden Eye,51.520386,-0.132202,2013-03-26
+561,Origin,Camden Eye,2013_Rada_Camden Eye,51.539219,-0.141978,2013-01-05
+562,Destination,Spread Eagle,2013_Spread Eagle_Camden Eye,51.537762,-0.14571199999999998,2013-05-12
+563,Origin,Camden Eye,2013_Spread Eagle_Camden Eye,51.539219,-0.141978,2013-01-05
+564,Destination,Camden Eye,2013_Camden Eye_Camden Eye,51.539219,-0.141978,2013-01-05
+565,Origin,Camden Eye,2013_Camden Eye_Camden Eye,51.539219,-0.141978,2013-01-05
+566,Destination,Daddy Donkey,2013_Daddy Donkey_Camden Eye,51.521044,-0.10923499999999998,2013-05-24
+567,Origin,Camden Eye,2013_Daddy Donkey_Camden Eye,51.539219,-0.141978,2013-01-05
+568,Destination,Marks and Spencer,2013_Marks and Spencer_Camden Eye,51.519513,-0.133795,2013-08-29
+569,Origin,Camden Eye,2013_Marks and Spencer_Camden Eye,51.539219,-0.141978,2013-01-05
+570,Destination,Bloomsbury Festival,2013_Bloomsbury Festival_Camden Eye,51.522219,-0.125756,2013-05-24
+571,Origin,Camden Eye,2013_Bloomsbury Festival_Camden Eye,51.539219,-0.141978,2013-01-05
+572,Destination,The Remedy,2013_The Remedy_Camden Eye,51.52301,-0.141308,2013-07-22
+573,Origin,Camden Eye,2013_The Remedy_Camden Eye,51.539219,-0.141978,2013-01-05
+574,Destination,The Black Lion,2013_The Black Lion_Camden Eye,51.551211,-0.19204000000000002,2013-01-31
+575,Origin,Camden Eye,2013_The Black Lion_Camden Eye,51.539219,-0.141978,2013-01-05
+576,Destination,My Shop,2013_My Shop_Camden Eye,51.556776,-0.13938499999999998,2013-01-24
+577,Origin,Camden Eye,2013_My Shop_Camden Eye,51.539219,-0.141978,2013-01-05
+578,Destination,Simmons,2013_Simmons_Camden Eye,51.534911,-0.139649,2013-02-12
+579,Origin,Camden Eye,2013_Simmons_Camden Eye,51.539219,-0.141978,2013-01-05
+580,Destination,"Radisson Blu Edwardian, Grafton","2013_Radisson Blu Edwardian, Grafton_Camden Eye",51.523937,-0.138173,2013-01-22
+581,Origin,Camden Eye,"2013_Radisson Blu Edwardian, Grafton_Camden Eye",51.539219,-0.141978,2013-01-05
+582,Destination,Franco Manca (formerly Chimichanga),2013_Franco Manca (formerly Chimichanga)_Camden Eye,51.551239,-0.165481,2013-06-19
+583,Origin,Camden Eye,2013_Franco Manca (formerly Chimichanga)_Camden Eye,51.539219,-0.141978,2013-01-05
+584,Destination,Brasserie Blanc,2013_Brasserie Blanc_Camden Eye,51.518432000000004,-0.135121,2013-03-22
+585,Origin,Camden Eye,2013_Brasserie Blanc_Camden Eye,51.539219,-0.141978,2013-01-05
+586,Destination,Hospital Group,2013_Hospital Group_Camden Eye,51.515089,-0.12413900000000001,2013-07-08
+587,Origin,Camden Eye,2013_Hospital Group_Camden Eye,51.539219,-0.141978,2013-01-05
+588,Destination,St Giles Hotel Ltd,2013_St Giles Hotel Ltd_Camden Eye,51.517452,-0.130432,2013-03-10
+589,Origin,Camden Eye,2013_St Giles Hotel Ltd_Camden Eye,51.539219,-0.141978,2013-01-05
+590,Destination,Camden Pizza Ltd,2013_Camden Pizza Ltd_Camden Eye,51.541977,-0.139098,2013-12-07
+591,Origin,Camden Eye,2013_Camden Pizza Ltd_Camden Eye,51.539219,-0.141978,2013-01-05
+592,Destination,Joe's Southern Table & Bar,2013_Joe's Southern Table & Bar_Camden Eye,51.551065,-0.140306,2013-03-28
+593,Origin,Camden Eye,2013_Joe's Southern Table & Bar_Camden Eye,51.539219,-0.141978,2013-01-05
+594,Destination,Centrale Delicatessen,2013_Centrale Delicatessen_Camden Eye,51.54314,-0.148383,2013-10-23
+595,Origin,Camden Eye,2013_Centrale Delicatessen_Camden Eye,51.539219,-0.141978,2013-01-05
+596,Destination,Burger King,2013_Burger King_Camden Eye,51.516965,-0.120941,2013-03-27
+597,Origin,Camden Eye,2013_Burger King_Camden Eye,51.539219,-0.141978,2013-01-05
+598,Destination,Bloomsbury Bowling Lanes,2013_Bloomsbury Bowling Lanes_Camden Eye,51.52386,-0.12945,2013-07-16
+599,Origin,Camden Eye,2013_Bloomsbury Bowling Lanes_Camden Eye,51.539219,-0.141978,2013-01-05
+600,Destination,Brecknock Convenience Store,2013_Brecknock Convenience Store_Camden Eye,51.556475,-0.137786,2013-05-06
+601,Origin,Camden Eye,2013_Brecknock Convenience Store_Camden Eye,51.539219,-0.141978,2013-01-05
+602,Destination,Grosvenor St Giles Casino,2013_Grosvenor St Giles Casino_Camden Eye,51.517452,-0.130432,2013-08-20
+603,Origin,Camden Eye,2013_Grosvenor St Giles Casino_Camden Eye,51.539219,-0.141978,2013-01-05
+604,Destination,Ice Wharf - Lloyds No 1,2006_Ice Wharf - Lloyds No 1_Costcutters,51.540754,-0.145258,2006-03-29
+605,Origin,Costcutters,2006_Ice Wharf - Lloyds No 1_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+606,Destination,Pasty Shop,2006_Pasty Shop_Costcutters,51.529302,-0.13258499999999998,2006-08-16
+607,Origin,Costcutters,2006_Pasty Shop_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+608,Destination,King's Cross Snooker Club,2006_King's Cross Snooker Club_Costcutters,51.530693,-0.121473,2006-04-08
+609,Origin,Costcutters,2006_King's Cross Snooker Club_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+610,Destination,Fishworks,2006_Fishworks_Costcutters,51.540818,-0.158121,2006-06-07
+611,Origin,Costcutters,2006_Fishworks_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+612,Destination,Unwins,2006_Unwins_Costcutters,51.526258,-0.124827,2006-06-11
+613,Origin,Costcutters,2006_Unwins_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+614,Destination,Sir Richard Steele,2006_Sir Richard Steele_Costcutters,51.546679,-0.15871300000000002,2006-08-03
+615,Origin,Costcutters,2006_Sir Richard Steele_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+616,Destination,Buka,2006_Buka_Costcutters,51.541728000000006,-0.197458,2006-07-14
+617,Origin,Costcutters,2006_Buka_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+618,Destination,Supersave Food & Wine,2006_Supersave Food & Wine_Costcutters,51.542081,-0.180533,2006-04-22
+619,Origin,Costcutters,2006_Supersave Food & Wine_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+620,Destination,Indian Spice Lounge,2006_Indian Spice Lounge_Costcutters,51.561715,-0.150636,2006-07-19
+621,Origin,Costcutters,2006_Indian Spice Lounge_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+622,Destination,Bunga Bunga (Fomerly The Drury Club Basement),2006_Bunga Bunga (Fomerly The Drury Club Basement)_Costcutters,51.51578,-0.12225699999999999,2006-04-18
+623,Origin,Costcutters,2006_Bunga Bunga (Fomerly The Drury Club Basement)_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+624,Destination,Speenghar Express,2006_Speenghar Express_Costcutters,51.549434999999995,-0.183002,2006-04-08
+625,Origin,Costcutters,2006_Speenghar Express_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+626,Destination,King William The Fourth,2006_King William The Fourth_Costcutters,51.555440999999995,-0.176922,2006-07-19
+627,Origin,Costcutters,2006_King William The Fourth_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+628,Destination,Cross Keys,2006_Cross Keys_Costcutters,51.514406,-0.12488599999999998,2006-09-03
+629,Origin,Costcutters,2006_Cross Keys_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+630,Destination,McDonald's Restaurants Ltd,2006_McDonald's Restaurants Ltd_Costcutters,51.523937,-0.141005,2006-07-18
+631,Origin,Costcutters,2006_McDonald's Restaurants Ltd_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+632,Destination,Proud Gallery Camden (PREMISES CLOSED - SEE THE HORSE HOSPITAL),2006_Proud Gallery Camden (PREMISES CLOSED - SEE THE HORSE HOSPITAL)_Costcutters,51.542256,-0.14816,2006-07-28
+633,Origin,Costcutters,2006_Proud Gallery Camden (PREMISES CLOSED - SEE THE HORSE HOSPITAL)_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+634,Destination,Old Oak,2006_Old Oak_Costcutters,51.554717,-0.151107,2006-07-17
+635,Origin,Costcutters,2006_Old Oak_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+636,Destination,Love & Liquor,2006_Love & Liquor_Costcutters,51.536709,-0.19143,2006-06-21
+637,Origin,Costcutters,2006_Love & Liquor_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+638,Destination,Bucks Head,2006_Bucks Head_Costcutters,51.540186,-0.143102,2006-02-08
+639,Origin,Costcutters,2006_Bucks Head_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+640,Destination,St Aloysious Social Club,2006_St Aloysious Social Club_Costcutters,51.530378999999996,-0.133439,2006-08-29
+641,Origin,Costcutters,2006_St Aloysious Social Club_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+642,Destination,Touro Brazilian Steak House (formerly Coco Bamboo Belsize),2006_Touro Brazilian Steak House (formerly Coco Bamboo Belsize)_Costcutters,51.546679,-0.15871300000000002,2006-01-23
+643,Origin,Costcutters,2006_Touro Brazilian Steak House (formerly Coco Bamboo Belsize)_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+644,Destination,The Blues Kitchen,2006_The Blues Kitchen_Costcutters,51.536691,-0.141465,2006-02-05
+645,Origin,Costcutters,2006_The Blues Kitchen_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+646,Destination,The Trades Union Congress,2006_The Trades Union Congress_Costcutters,51.517232,-0.128717,2006-12-15
+647,Origin,Costcutters,2006_The Trades Union Congress_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+648,Destination,Hellenic Restaurant,2006_Hellenic Restaurant_Costcutters,51.536848,-0.14191099999999998,2006-09-15
+649,Origin,Costcutters,2006_Hellenic Restaurant_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+650,Destination,Butters,2006_Butters_Costcutters,51.528917,-0.1447,2006-08-18
+651,Origin,Costcutters,2006_Butters_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+652,Destination,Karavas Restaurant,2006_Karavas Restaurant_Costcutters,51.53555,-0.138472,2006-12-14
+653,Origin,Costcutters,2006_Karavas Restaurant_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+654,Destination,L'Etoile,2006_L'Etoile_Costcutters,51.518959,-0.134555,2006-12-05
+655,Origin,Costcutters,2006_L'Etoile_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+656,Destination,52 Club,2006_52 Club_Costcutters,51.521454999999996,-0.130922,2006-04-20
+657,Origin,Costcutters,2006_52 Club_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+658,Destination,Central News,2006_Central News_Costcutters,51.515526,-0.12947,2006-10-03
+659,Origin,Costcutters,2006_Central News_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+660,Destination,Foggs Restaurant,2006_Foggs Restaurant_Costcutters,51.542123,-0.146071,2006-07-26
+661,Origin,Costcutters,2006_Foggs Restaurant_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+662,Destination,Poolcrest Snooker Club,2006_Poolcrest Snooker Club_Costcutters,51.545148,-0.201396,2006-09-25
+663,Origin,Costcutters,2006_Poolcrest Snooker Club_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+664,Destination,Circus,2006_Circus_Costcutters,51.514406,-0.12488599999999998,2006-12-14
+665,Origin,Costcutters,2006_Circus_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+666,Destination,Sir Robert Peel,2006_Sir Robert Peel_Costcutters,51.549575,-0.15285,2006-02-15
+667,Origin,Costcutters,2006_Sir Robert Peel_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+668,Destination,Shaftesbury Bar,2006_Shaftesbury Bar_Costcutters,51.516842,-0.126469,2006-01-27
+669,Origin,Costcutters,2006_Shaftesbury Bar_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+670,Destination,SALT,2006_SALT_Costcutters,51.550391999999995,-0.19197899999999998,2006-10-20
+671,Origin,Costcutters,2006_SALT_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+672,Destination,Grange Whitehall Hotel,2006_Grange Whitehall Hotel_Costcutters,51.520201,-0.126383,2006-09-02
+673,Origin,Costcutters,2006_Grange Whitehall Hotel_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+674,Destination,Spearmint Rhino,2006_Spearmint Rhino_Costcutters,51.523398,-0.136463,2006-09-20
+675,Origin,Costcutters,2006_Spearmint Rhino_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+676,Destination,Pricecheck,2006_Pricecheck_Costcutters,51.530239,-0.12168499999999999,2006-06-14
+677,Origin,Costcutters,2006_Pricecheck_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+678,Destination,IL Fornello Restaurant,2006_IL Fornello Restaurant_Costcutters,51.521776,-0.12359300000000001,2006-01-23
+679,Origin,Costcutters,2006_IL Fornello Restaurant_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+680,Destination,Quick Stop,2006_Quick Stop_Costcutters,51.543793,-0.153248,2006-01-02
+681,Origin,Costcutters,2006_Quick Stop_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+682,Destination,Bloc Bar (Formerly Record Club/The Stillery,2006_Bloc Bar (Formerly Record Club/The Stillery_Costcutters,51.540164000000004,-0.141998,2006-03-28
+683,Origin,Costcutters,2006_Bloc Bar (Formerly Record Club/The Stillery_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+684,Destination,The Earl of Camden,2006_The Earl of Camden_Costcutters,51.537586,-0.14385,2006-03-22
+685,Origin,Costcutters,2006_The Earl of Camden_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+686,Destination,Marquis Of Granby,2006_Marquis Of Granby_Costcutters,51.513245,-0.12820299999999998,2006-01-13
+687,Origin,Costcutters,2006_Marquis Of Granby_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+688,Destination,Costcutters,2006_Costcutters_Costcutters,51.530239,-0.141795,2006-01-02
+689,Origin,Costcutters,2006_Costcutters_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+690,Destination,Kings Cross Food and Wine,2006_Kings Cross Food and Wine_Costcutters,51.530239,-0.12168499999999999,2006-04-04
+691,Origin,Costcutters,2006_Kings Cross Food and Wine_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+692,Destination,Euro Food & Wines,2006_Euro Food & Wines_Costcutters,51.523513,-0.12592899999999999,2006-02-14
+693,Origin,Costcutters,2006_Euro Food & Wines_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+694,Destination,Ballyhoo,2006_Ballyhoo_Costcutters,51.517396000000005,-0.125711,2006-06-21
+695,Origin,Costcutters,2006_Ballyhoo_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+696,Destination,Bloomsbury Bowling Lanes,2006_Bloomsbury Bowling Lanes_Costcutters,51.52386,-0.12945,2006-01-19
+697,Origin,Costcutters,2006_Bloomsbury Bowling Lanes_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+698,Destination,Duke of York,2006_Duke of York_Costcutters,51.531959,-0.12365,2006-09-15
+699,Origin,Costcutters,2006_Duke of York_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+700,Destination,Dach and Sons,2006_Dach and Sons_Costcutters,51.557276,-0.17795,2006-01-23
+701,Origin,Costcutters,2006_Dach and Sons_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+702,Destination,113 Restaurant & Bar,2006_113 Restaurant & Bar_Costcutters,51.52796,-0.139145,2006-07-03
+703,Origin,Costcutters,2006_113 Restaurant & Bar_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+704,Destination,Walkabout,2006_Walkabout_Costcutters,51.547698,-0.181321,2006-08-16
+705,Origin,Costcutters,2006_Walkabout_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+706,Destination,Cavendish Food & Wine (Hannells),2006_Cavendish Food & Wine (Hannells)_Costcutters,51.51726,-0.126603,2006-02-03
+707,Origin,Costcutters,2006_Cavendish Food & Wine (Hannells)_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+708,Destination,Burger King,2006_Burger King_Costcutters,51.529302,-0.13258499999999998,2006-08-16
+709,Origin,Costcutters,2006_Burger King_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+710,Destination,Enterprise,2006_Enterprise_Costcutters,51.520167,-0.11696199999999998,2006-11-29
+711,Origin,Costcutters,2006_Enterprise_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+712,Destination,J Restaurant,2006_J Restaurant_Costcutters,51.550545,-0.191159,2006-03-27
+713,Origin,Costcutters,2006_J Restaurant_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+714,Destination,NWC (formerly Legacy),2006_NWC (formerly Legacy)_Costcutters,51.543234000000005,-0.17561500000000002,2006-12-19
+715,Origin,Costcutters,2006_NWC (formerly Legacy)_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+716,Destination,Sushi Hiroba,2006_Sushi Hiroba_Costcutters,51.51668,-0.119209,2006-01-24
+717,Origin,Costcutters,2006_Sushi Hiroba_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+718,Destination,Latin Square,2006_Latin Square_Costcutters,51.520437,-0.106431,2006-05-23
+719,Origin,Costcutters,2006_Latin Square_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+720,Destination,Sevilla Mia,2006_Sevilla Mia_Costcutters,51.516921999999994,-0.132023,2006-05-17
+721,Origin,Costcutters,2006_Sevilla Mia_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+722,Destination,Alice House,2006_Alice House_Costcutters,51.551211,-0.19204000000000002,2006-07-17
+723,Origin,Costcutters,2006_Alice House_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+724,Destination,Po Chang Ma Cha Restaurant,2006_Po Chang Ma Cha Restaurant_Costcutters,51.515526,-0.12947,2006-01-13
+725,Origin,Costcutters,2006_Po Chang Ma Cha Restaurant_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+726,Destination,The Black Lion,2006_The Black Lion_Costcutters,51.551211,-0.19204000000000002,2006-07-27
+727,Origin,Costcutters,2006_The Black Lion_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+728,Destination,Zen Turkce Bar,2006_Zen Turkce Bar_Costcutters,51.515526,-0.12947,2006-01-11
+729,Origin,Costcutters,2006_Zen Turkce Bar_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+730,Destination,St Chad's,2006_St Chad's_Costcutters,51.530577,-0.119622,2006-05-15
+731,Origin,Costcutters,2006_St Chad's_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+732,Destination,The Fitzrovia,2006_The Fitzrovia_Costcutters,51.519855,-0.135379,2006-07-14
+733,Origin,Costcutters,2006_The Fitzrovia_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+734,Destination,"Radisson Blu Edwardian, Bloomsbury Street","2006_Radisson Blu Edwardian, Bloomsbury Street_Costcutters",51.517459,-0.127891,2006-02-14
+735,Origin,Costcutters,"2006_Radisson Blu Edwardian, Bloomsbury Street_Costcutters",51.53965366666667,-0.13509166666666667,2006-01-02
+736,Destination,KOKO,2006_KOKO_Costcutters,51.534911,-0.139649,2006-05-16
+737,Origin,Costcutters,2006_KOKO_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+738,Destination,Executive Snooker Club,2006_Executive Snooker Club_Costcutters,51.530693,-0.121473,2006-04-08
+739,Origin,Costcutters,2006_Executive Snooker Club_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+740,Destination,Sway,2006_Sway_Costcutters,51.515423,-0.12044400000000001,2006-02-14
+741,Origin,Costcutters,2006_Sway_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+742,Destination,Tropicana Beach Club,2006_Tropicana Beach Club_Costcutters,51.51578,-0.12225699999999999,2006-12-20
+743,Origin,Costcutters,2006_Tropicana Beach Club_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+744,Destination,Hostel,2006_Hostel_Costcutters,51.545552,-0.176535,2006-09-25
+745,Origin,Costcutters,2006_Hostel_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+746,Destination,Cafe Rouge,2006_Cafe Rouge_Costcutters,51.556119,-0.176816,2006-08-03
+747,Origin,Costcutters,2006_Cafe Rouge_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+748,Destination,Bill's (formerly Pitcher and Piano),2006_Bill's (formerly Pitcher and Piano)_Costcutters,51.515819,-0.118702,2006-07-20
+749,Origin,Costcutters,2006_Bill's (formerly Pitcher and Piano)_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+750,Destination,La Provence,2006_La Provence_Costcutters,51.559391,-0.178055,2006-09-10
+751,Origin,Costcutters,2006_La Provence_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+752,Destination,Holborn House,2006_Holborn House_Costcutters,51.517503000000005,-0.117704,2006-03-31
+753,Origin,Costcutters,2006_Holborn House_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+754,Destination,Nisa Local (previously Price Check),2006_Nisa Local (previously Price Check)_Costcutters,51.546657,-0.19045499999999999,2006-06-14
+755,Origin,Costcutters,2006_Nisa Local (previously Price Check)_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+756,Destination,Yialousa Greek Taverna,2006_Yialousa Greek Taverna_Costcutters,51.524383,-0.12651099999999998,2006-10-02
+757,Origin,Costcutters,2006_Yialousa Greek Taverna_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+758,Destination,Feng Sushi,2006_Feng Sushi_Costcutters,51.543793,-0.153248,2006-05-16
+759,Origin,Costcutters,2006_Feng Sushi_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+760,Destination,Booty Food & Wine,2006_Booty Food & Wine_Costcutters,51.539688,-0.142772,2006-12-21
+761,Origin,Costcutters,2006_Booty Food & Wine_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+762,Destination,Grange Holborn Hotel,2006_Grange Holborn Hotel_Costcutters,51.519631,-0.120531,2006-09-02
+763,Origin,Costcutters,2006_Grange Holborn Hotel_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+764,Destination,British Library,2006_British Library_Costcutters,51.53004,-0.127634,2006-05-23
+765,Origin,Costcutters,2006_British Library_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+766,Destination,New Tennesseeland,2006_New Tennesseeland_Costcutters,51.534911,-0.139649,2006-09-06
+767,Origin,Costcutters,2006_New Tennesseeland_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+768,Destination,Bombay Flame Indian Cuisine,2006_Bombay Flame Indian Cuisine_Costcutters,51.542497999999995,-0.195686,2006-07-24
+769,Origin,Costcutters,2006_Bombay Flame Indian Cuisine_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+770,Destination,Bountiful Cow,2006_Bountiful Cow_Costcutters,51.518268,-0.11845499999999999,2006-09-25
+771,Origin,Costcutters,2006_Bountiful Cow_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+772,Destination,Superbuy,2006_Superbuy_Costcutters,51.523142,-0.137511,2006-12-15
+773,Origin,Costcutters,2006_Superbuy_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+774,Destination,Caffe Ritazza,2006_Caffe Ritazza_Costcutters,51.527829,-0.132573,2006-01-27
+775,Origin,Costcutters,2006_Caffe Ritazza_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+776,Destination,Doric Arch,2006_Doric Arch_Costcutters,51.527829,-0.132573,2006-04-01
+777,Origin,Costcutters,2006_Doric Arch_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+778,Destination,The Marathon,2006_The Marathon_Costcutters,51.543994,-0.151855,2006-05-12
+779,Origin,Costcutters,2006_The Marathon_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+780,Destination,Belgo,2006_Belgo_Costcutters,51.515103,-0.119874,2006-03-16
+781,Origin,Costcutters,2006_Belgo_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+782,Destination,Bar Vinyl,2006_Bar Vinyl_Costcutters,51.540039,-0.14449700000000001,2006-12-13
+783,Origin,Costcutters,2006_Bar Vinyl_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+784,Destination,First Choice,2006_First Choice_Costcutters,51.539688,-0.142772,2006-04-24
+785,Origin,Costcutters,2006_First Choice_Costcutters,51.53965366666667,-0.13509166666666667,2006-01-02
+786,Destination,Made In Brasil,2012_Made In Brasil_Pullman London St Pancras,51.540039,-0.14449700000000001,2012-03-07
+787,Origin,Pullman London St Pancras,2012_Made In Brasil_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+788,Destination,Domino's Pizza,2012_Domino's Pizza_Pullman London St Pancras,51.54937,-0.181221,2012-03-12
+789,Origin,Pullman London St Pancras,2012_Domino's Pizza_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+790,Destination,Vue Cinema,2012_Vue Cinema_Pullman London St Pancras,51.547698,-0.181321,2012-09-03
+791,Origin,Pullman London St Pancras,2012_Vue Cinema_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+792,Destination,Centrale Delicatessen,2012_Centrale Delicatessen_Pullman London St Pancras,51.54314,-0.148383,2012-01-13
+793,Origin,Pullman London St Pancras,2012_Centrale Delicatessen_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+794,Destination,The Blues Kitchen,2012_The Blues Kitchen_Pullman London St Pancras,51.536691,-0.141465,2012-08-29
+795,Origin,Pullman London St Pancras,2012_The Blues Kitchen_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+796,Destination,Unit 339/340,2012_Unit 339/340_Pullman London St Pancras,51.542256,-0.14816,2012-05-29
+797,Origin,Pullman London St Pancras,2012_Unit 339/340_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+798,Destination,Greenberry Cafe,2012_Greenberry Cafe_Pullman London St Pancras,51.542196999999994,-0.15653499999999998,2012-10-22
+799,Origin,Pullman London St Pancras,2012_Greenberry Cafe_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+800,Destination,Fitzrovia Belle (previously Mortimer Arms),2012_Fitzrovia Belle (previously Mortimer Arms)_Pullman London St Pancras,51.522976,-0.135628,2012-06-21
+801,Origin,Pullman London St Pancras,2012_Fitzrovia Belle (previously Mortimer Arms)_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+802,Destination,Pricewise Continental Wine And Foods,2012_Pricewise Continental Wine And Foods_Pullman London St Pancras,51.547268,-0.179527,2012-04-23
+803,Origin,Pullman London St Pancras,2012_Pricewise Continental Wine And Foods_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+804,Destination,Woody Grill,2012_Woody Grill_Pullman London St Pancras,51.539219,-0.141978,2012-10-19
+805,Origin,Pullman London St Pancras,2012_Woody Grill_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+806,Destination,The Marathon,2012_The Marathon_Pullman London St Pancras,51.543994,-0.151855,2012-06-28
+807,Origin,Pullman London St Pancras,2012_The Marathon_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+808,Destination,Papa Johns,2012_Papa Johns_Pullman London St Pancras,51.535494,-0.140296,2012-09-18
+809,Origin,Pullman London St Pancras,2012_Papa Johns_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+810,Destination,The Wine Cellar,2012_The Wine Cellar_Pullman London St Pancras,51.547109000000006,-0.142245,2012-03-21
+811,Origin,Pullman London St Pancras,2012_The Wine Cellar_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+812,Destination,Dublin Castle,2012_Dublin Castle_Pullman London St Pancras,51.537762,-0.14571199999999998,2012-04-12
+813,Origin,Pullman London St Pancras,2012_Dublin Castle_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+814,Destination,Capital Foods,2012_Capital Foods_Pullman London St Pancras,51.539688,-0.142772,2012-08-16
+815,Origin,Pullman London St Pancras,2012_Capital Foods_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+816,Destination,Giotto,2012_Giotto_Pullman London St Pancras,51.51726,-0.126603,2012-02-24
+817,Origin,Pullman London St Pancras,2012_Giotto_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+818,Destination,Garufin,2012_Garufin_Pullman London St Pancras,51.519793,-0.117736,2012-06-11
+819,Origin,Pullman London St Pancras,2012_Garufin_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+820,Destination,Pullman London St Pancras,2012_Pullman London St Pancras_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+821,Origin,Pullman London St Pancras,2012_Pullman London St Pancras_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+822,Destination,Lock Tavern,2012_Lock Tavern_Pullman London St Pancras,51.542619,-0.148387,2012-11-04
+823,Origin,Pullman London St Pancras,2012_Lock Tavern_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+824,Destination,Co-Operative Group Food Limited,2012_Co-Operative Group Food Limited_Pullman London St Pancras,51.549255,-0.140701,2012-02-28
+825,Origin,Pullman London St Pancras,2012_Co-Operative Group Food Limited_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+826,Destination,Corner Off Licence,2012_Corner Off Licence_Pullman London St Pancras,51.529063,-0.11636099999999999,2012-05-03
+827,Origin,Pullman London St Pancras,2012_Corner Off Licence_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+828,Destination,Express Food and Wine,2012_Express Food and Wine_Pullman London St Pancras,51.551322,-0.141042,2012-01-08
+829,Origin,Pullman London St Pancras,2012_Express Food and Wine_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+830,Destination,The Sparkle Bar & Lounge,2012_The Sparkle Bar & Lounge_Pullman London St Pancras,51.547698,-0.181321,2012-12-10
+831,Origin,Pullman London St Pancras,2012_The Sparkle Bar & Lounge_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+832,Destination,"Des Vins Cafe and Wine Bar, Units 12-14, Block B","2012_Des Vins Cafe and Wine Bar, Units 12-14, Block B_Pullman London St Pancras",51.531775,-0.126577,2012-05-31
+833,Origin,Pullman London St Pancras,"2012_Des Vins Cafe and Wine Bar, Units 12-14, Block B_Pullman London St Pancras",51.528687,-0.128402,2012-01-08
+834,Destination,Oceanic Fish Bar (formerly Gourmet Grill),2012_Oceanic Fish Bar (formerly Gourmet Grill)_Pullman London St Pancras,51.54742,-0.17971099999999998,2012-04-25
+835,Origin,Pullman London St Pancras,2012_Oceanic Fish Bar (formerly Gourmet Grill)_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+836,Destination,Le Pain Quotidien Unit 4,2012_Le Pain Quotidien Unit 4_Pullman London St Pancras,51.531775,-0.126577,2012-05-01
+837,Origin,Pullman London St Pancras,2012_Le Pain Quotidien Unit 4_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+838,Destination,Liberty Kebabish Restaurant,2012_Liberty Kebabish Restaurant_Pullman London St Pancras,51.557639,-0.14397100000000002,2012-06-11
+839,Origin,Pullman London St Pancras,2012_Liberty Kebabish Restaurant_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+840,Destination,The 10 Cases,2012_The 10 Cases_Pullman London St Pancras,51.514406,-0.12488599999999998,2012-06-18
+841,Origin,Pullman London St Pancras,2012_The 10 Cases_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+842,Destination,Camden Pizza Ltd,2012_Camden Pizza Ltd_Pullman London St Pancras,51.541977,-0.139098,2012-02-08
+843,Origin,Pullman London St Pancras,2012_Camden Pizza Ltd_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+844,Destination,Morrisons,2012_Morrisons_Pullman London St Pancras,51.541346000000004,-0.149794,2012-11-05
+845,Origin,Pullman London St Pancras,2012_Morrisons_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+846,Destination,Bar Solo/Undersolo,2012_Bar Solo/Undersolo_Pullman London St Pancras,51.540039,-0.14449700000000001,2012-09-07
+847,Origin,Pullman London St Pancras,2012_Bar Solo/Undersolo_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+848,Destination,B T Tower,2012_B T Tower_Pullman London St Pancras,51.521435,-0.139178,2012-06-27
+849,Origin,Pullman London St Pancras,2012_B T Tower_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+850,Destination,Shaka Zulu,2012_Shaka Zulu_Pullman London St Pancras,51.542256,-0.14816,2012-04-17
+851,Origin,Pullman London St Pancras,2012_Shaka Zulu_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+852,Destination,Sawadika,2012_Sawadika_Pullman London St Pancras,51.518567,-0.11580399999999999,2012-04-23
+853,Origin,Pullman London St Pancras,2012_Sawadika_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+854,Destination,Ballyhoo,2012_Ballyhoo_Pullman London St Pancras,51.517396000000005,-0.125711,2012-05-09
+855,Origin,Pullman London St Pancras,2012_Ballyhoo_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+856,Destination,Smugglers Tavern,2012_Smugglers Tavern_Pullman London St Pancras,51.523545,-0.140725,2012-06-14
+857,Origin,Pullman London St Pancras,2012_Smugglers Tavern_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+858,Destination,Odeon Cinema,2012_Odeon Cinema_Pullman London St Pancras,51.539139,-0.14369500000000002,2012-12-14
+859,Origin,Pullman London St Pancras,2012_Odeon Cinema_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+860,Destination,Salvador and Amanda Bloomsbury (Formely Traffic),2012_Salvador and Amanda Bloomsbury (Formely Traffic)_Pullman London St Pancras,51.519286,-0.12206700000000001,2012-06-12
+861,Origin,Pullman London St Pancras,2012_Salvador and Amanda Bloomsbury (Formely Traffic)_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+862,Destination,Trattoria Verdi,2012_Trattoria Verdi_Pullman London St Pancras,51.520227,-0.12197000000000001,2012-06-11
+863,Origin,Pullman London St Pancras,2012_Trattoria Verdi_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+864,Destination,The Black Lion,2012_The Black Lion_Pullman London St Pancras,51.551211,-0.19204000000000002,2012-05-22
+865,Origin,Pullman London St Pancras,2012_The Black Lion_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+866,Destination,Hungerdog (previously Chicken Cottage),2012_Hungerdog (previously Chicken Cottage)_Pullman London St Pancras,51.534911,-0.139649,2012-05-24
+867,Origin,Pullman London St Pancras,2012_Hungerdog (previously Chicken Cottage)_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+868,Destination,Somerstown Coffee House,2012_Somerstown Coffee House_Pullman London St Pancras,51.529990000000005,-0.130767,2012-03-28
+869,Origin,Pullman London St Pancras,2012_Somerstown Coffee House_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+870,Destination,Latelys,2012_Latelys_Pullman London St Pancras,51.546339,-0.191433,2012-12-24
+871,Origin,Pullman London St Pancras,2012_Latelys_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+872,Destination,Duke of Grafton (previously Britannia),2012_Duke of Grafton (previously Britannia)_Pullman London St Pancras,51.529302,-0.13258499999999998,2012-06-13
+873,Origin,Pullman London St Pancras,2012_Duke of Grafton (previously Britannia)_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+874,Destination,Grafton Arms,2012_Grafton Arms_Pullman London St Pancras,51.547061,-0.14493599999999998,2012-02-11
+875,Origin,Pullman London St Pancras,2012_Grafton Arms_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+876,Destination,The Old Hall Of Lincoln'S Inn,2012_The Old Hall Of Lincoln'S Inn_Pullman London St Pancras,51.516224,-0.11278800000000001,2012-11-21
+877,Origin,Pullman London St Pancras,2012_The Old Hall Of Lincoln'S Inn_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+878,Destination,Euston Supermarket,2012_Euston Supermarket_Pullman London St Pancras,51.529540000000004,-0.132553,2012-08-23
+879,Origin,Pullman London St Pancras,2012_Euston Supermarket_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+880,Destination,280 Degrees African Restaurant and Bar (formerly Sabor Latino UK - Ground Floor Premises),2012_280 Degrees African Restaurant and Bar (formerly Sabor Latino UK - Ground Floor Premises)_Pullman London St Pancras,51.544173,-0.200406,2012-06-07
+881,Origin,Pullman London St Pancras,2012_280 Degrees African Restaurant and Bar (formerly Sabor Latino UK - Ground Floor Premises)_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+882,Destination,Euro Food & Wines,2012_Euro Food & Wines_Pullman London St Pancras,51.523513,-0.12592899999999999,2012-03-27
+883,Origin,Pullman London St Pancras,2012_Euro Food & Wines_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+884,Destination,KFC (formerly Chicken Villa),2012_KFC (formerly Chicken Villa)_Pullman London St Pancras,51.535494,-0.140296,2012-02-05
+885,Origin,Pullman London St Pancras,2012_KFC (formerly Chicken Villa)_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+886,Destination,Terroni & Son,2012_Terroni & Son_Pullman London St Pancras,51.522458,-0.109051,2012-04-07
+887,Origin,Pullman London St Pancras,2012_Terroni & Son_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+888,Destination,Co-operative,2012_Co-operative_Pullman London St Pancras,51.519467,-0.13128199999999998,2012-02-28
+889,Origin,Pullman London St Pancras,2012_Co-operative_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+890,Destination,The Fitzrovia,2012_The Fitzrovia_Pullman London St Pancras,51.519855,-0.135379,2012-12-13
+891,Origin,Pullman London St Pancras,2012_The Fitzrovia_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+892,Destination,Camden Centre,2012_Camden Centre_Pullman London St Pancras,51.529087,-0.125351,2012-03-23
+893,Origin,Pullman London St Pancras,2012_Camden Centre_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+894,Destination,Rosslyn Arms,2012_Rosslyn Arms_Pullman London St Pancras,51.555053,-0.172822,2012-09-20
+895,Origin,Pullman London St Pancras,2012_Rosslyn Arms_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+896,Destination,Tapeo,2012_Tapeo_Pullman London St Pancras,51.550245000000004,-0.165588,2012-03-15
+897,Origin,Pullman London St Pancras,2012_Tapeo_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+898,Destination,Istanbul Meze Grill,2012_Istanbul Meze Grill_Pullman London St Pancras,51.534911,-0.139649,2012-02-11
+899,Origin,Pullman London St Pancras,2012_Istanbul Meze Grill_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+900,Destination,Starbucks (formerly known as Sloe Bar),2012_Starbucks (formerly known as Sloe Bar)_Pullman London St Pancras,51.529302,-0.13258499999999998,2012-12-06
+901,Origin,Pullman London St Pancras,2012_Starbucks (formerly known as Sloe Bar)_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+902,Destination,The Great Hall Of Lincoln's Inn,2012_The Great Hall Of Lincoln's Inn_Pullman London St Pancras,51.516504,-0.114603,2012-11-21
+903,Origin,Pullman London St Pancras,2012_The Great Hall Of Lincoln's Inn_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+904,Destination,House of Ho (formerly known as Bam-Bou),2012_House of Ho (formerly known as Bam-Bou)_Pullman London St Pancras,51.518605,-0.13372,2012-11-07
+905,Origin,Pullman London St Pancras,2012_House of Ho (formerly known as Bam-Bou)_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+906,Destination,Franco Manca (formerly Chimis Burrito Bar),2012_Franco Manca (formerly Chimis Burrito Bar)_Pullman London St Pancras,51.52243,-0.13683900000000002,2012-09-14
+907,Origin,Pullman London St Pancras,2012_Franco Manca (formerly Chimis Burrito Bar)_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+908,Destination,The Crazy Bear,2012_The Crazy Bear_Pullman London St Pancras,51.519513,-0.133795,2012-08-23
+909,Origin,Pullman London St Pancras,2012_The Crazy Bear_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+910,Destination,Spaghetti House,2012_Spaghetti House_Pullman London St Pancras,51.519513,-0.133795,2012-02-16
+911,Origin,Pullman London St Pancras,2012_Spaghetti House_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+912,Destination,Booker Cash And Carry,2012_Booker Cash And Carry_Pullman London St Pancras,51.538636,-0.130402,2012-05-29
+913,Origin,Pullman London St Pancras,2012_Booker Cash And Carry_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+914,Destination,Tapping the Admiral,2012_Tapping the Admiral_Pullman London St Pancras,51.545061,-0.146527,2012-11-15
+915,Origin,Pullman London St Pancras,2012_Tapping the Admiral_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+916,Destination,La Regina,2012_La Regina_Pullman London St Pancras,51.53009,-0.122548,2012-11-27
+917,Origin,Pullman London St Pancras,2012_La Regina_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+918,Destination,Queen's Head & Artichoke,2012_Queen's Head & Artichoke_Pullman London St Pancras,51.525803,-0.143906,2012-09-13
+919,Origin,Pullman London St Pancras,2012_Queen's Head & Artichoke_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+920,Destination,Sardo Restaurant,2012_Sardo Restaurant_Pullman London St Pancras,51.523142,-0.137511,2012-09-20
+921,Origin,Pullman London St Pancras,2012_Sardo Restaurant_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+922,Destination,The Crowndale,2012_The Crowndale_Pullman London St Pancras,51.534285,-0.13764300000000002,2012-12-07
+923,Origin,Pullman London St Pancras,2012_The Crowndale_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+924,Destination,Plough,2012_Plough_Pullman London St Pancras,51.517865,-0.12620499999999998,2012-08-05
+925,Origin,Pullman London St Pancras,2012_Plough_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+926,Destination,Sainsbury's Supermarket Ltd,2012_Sainsbury's Supermarket Ltd_Pullman London St Pancras,51.518941,-0.106305,2012-02-23
+927,Origin,Pullman London St Pancras,2012_Sainsbury's Supermarket Ltd_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+928,Destination,The Phoenix Theatre Ltd,2012_The Phoenix Theatre Ltd_Pullman London St Pancras,51.514562,-0.12926500000000002,2012-11-10
+929,Origin,Pullman London St Pancras,2012_The Phoenix Theatre Ltd_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+930,Destination,Nisa,2012_Nisa_Pullman London St Pancras,51.543475,-0.13201,2012-06-03
+931,Origin,Pullman London St Pancras,2012_Nisa_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+932,Destination,Flat Iron (formerly The Giaconda Dining Room),2012_Flat Iron (formerly The Giaconda Dining Room)_Pullman London St Pancras,51.515018,-0.129353,2012-04-09
+933,Origin,Pullman London St Pancras,2012_Flat Iron (formerly The Giaconda Dining Room)_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+934,Destination,Olivers Village Cafe,2012_Olivers Village Cafe_Pullman London St Pancras,51.548344,-0.1727,2012-09-13
+935,Origin,Pullman London St Pancras,2012_Olivers Village Cafe_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+936,Destination,Pizza East/Chicken Shop (formerly Grand Union - Highgate),2012_Pizza East/Chicken Shop (formerly Grand Union - Highgate)_Pullman London St Pancras,51.55423,-0.144109,2012-07-13
+937,Origin,Pullman London St Pancras,2012_Pizza East/Chicken Shop (formerly Grand Union - Highgate)_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+938,Destination,Colonel Fawcett,2012_Colonel Fawcett_Pullman London St Pancras,51.541639,-0.136007,2012-07-13
+939,Origin,Pullman London St Pancras,2012_Colonel Fawcett_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+940,Destination,New Bloomsbury Set,2012_New Bloomsbury Set_Pullman London St Pancras,51.525437,-0.125078,2012-01-26
+941,Origin,Pullman London St Pancras,2012_New Bloomsbury Set_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+942,Destination,Ciao Ciao,2012_Ciao Ciao_Pullman London St Pancras,51.545465,-0.20251,2012-07-30
+943,Origin,Pullman London St Pancras,2012_Ciao Ciao_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+944,Destination,Holborn House,2012_Holborn House_Pullman London St Pancras,51.517503000000005,-0.117704,2012-03-13
+945,Origin,Pullman London St Pancras,2012_Holborn House_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+946,Destination,Marlborough Arms,2012_Marlborough Arms_Pullman London St Pancras,51.521608,-0.132898,2012-12-13
+947,Origin,Pullman London St Pancras,2012_Marlborough Arms_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+948,Destination,Waitrose,2012_Waitrose_Pullman London St Pancras,51.537321999999996,-0.142042,2012-02-28
+949,Origin,Pullman London St Pancras,2012_Waitrose_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+950,Destination,Prezzo,2012_Prezzo_Pullman London St Pancras,51.531959,-0.12365,2012-10-10
+951,Origin,Pullman London St Pancras,2012_Prezzo_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+952,Destination,Chamisse (formerly Al Zaytoon),2012_Chamisse (formerly Al Zaytoon)_Pullman London St Pancras,51.521861,-0.11399200000000001,2012-02-11
+953,Origin,Pullman London St Pancras,2012_Chamisse (formerly Al Zaytoon)_Pullman London St Pancras,51.528687,-0.128402,2012-01-08
+954,Destination,IL Fornello Restaurant,2005_IL Fornello Restaurant_Scala,51.521776,-0.12359300000000001,2005-08-12
+955,Origin,Scala,2005_IL Fornello Restaurant_Scala,51.530693,-0.121473,2005-02-12
+956,Destination,Made In Brasil,2005_Made In Brasil_Scala,51.540039,-0.14449700000000001,2005-10-19
+957,Origin,Scala,2005_Made In Brasil_Scala,51.530693,-0.121473,2005-02-12
+958,Destination,Mcglynn's,2005_Mcglynn's_Scala,51.528616,-0.12355,2005-11-15
+959,Origin,Scala,2005_Mcglynn's_Scala,51.530693,-0.121473,2005-02-12
+960,Destination,The Fitzrovia,2005_The Fitzrovia_Scala,51.519855,-0.135379,2005-12-10
+961,Origin,Scala,2005_The Fitzrovia_Scala,51.530693,-0.121473,2005-02-12
+962,Destination,Prince Of Wales,2005_Prince Of Wales_Scala,51.545906,-0.148929,2005-05-10
+963,Origin,Scala,2005_Prince Of Wales_Scala,51.530693,-0.121473,2005-02-12
+964,Destination,Grand Union (Camden),2005_Grand Union (Camden)_Scala,51.541578,-0.13784200000000002,2005-09-29
+965,Origin,Scala,2005_Grand Union (Camden)_Scala,51.530693,-0.121473,2005-02-12
+966,Destination,Newton Arms,2005_Newton Arms_Scala,51.516965,-0.120941,2005-09-09
+967,Origin,Scala,2005_Newton Arms_Scala,51.530693,-0.121473,2005-02-12
+968,Destination,Mamelon Tower,2005_Mamelon Tower_Scala,51.550867,-0.14999200000000001,2005-09-29
+969,Origin,Scala,2005_Mamelon Tower_Scala,51.530693,-0.121473,2005-02-12
+970,Destination,Brown Sugar,2005_Brown Sugar_Scala,51.516892999999996,-0.124123,2005-11-21
+971,Origin,Scala,2005_Brown Sugar_Scala,51.530693,-0.121473,2005-02-12
+972,Destination,Bull And Last,2005_Bull And Last_Scala,51.559104999999995,-0.148742,2005-10-10
+973,Origin,Scala,2005_Bull And Last_Scala,51.530693,-0.121473,2005-02-12
+974,Destination,North Star,2005_North Star_Scala,51.545976,-0.178297,2005-12-10
+975,Origin,Scala,2005_North Star_Scala,51.530693,-0.121473,2005-02-12
+976,Destination,Carob Tree Restaurant,2005_Carob Tree Restaurant_Scala,51.560897,-0.14952100000000002,2005-09-22
+977,Origin,Scala,2005_Carob Tree Restaurant_Scala,51.530693,-0.121473,2005-02-12
+978,Destination,Plough,2005_Plough_Scala,51.517865,-0.12620499999999998,2005-09-09
+979,Origin,Scala,2005_Plough_Scala,51.530693,-0.121473,2005-02-12
+980,Destination,Vue Cinema,2005_Vue Cinema_Scala,51.547698,-0.181321,2005-10-21
+981,Origin,Scala,2005_Vue Cinema_Scala,51.530693,-0.121473,2005-02-12
+982,Destination,The Monarch,2005_The Monarch_Scala,51.54314,-0.148383,2005-10-24
+983,Origin,Scala,2005_The Monarch_Scala,51.530693,-0.121473,2005-02-12
+984,Destination,Cote,2005_Cote_Scala,51.538119,-0.145295,2005-09-26
+985,Origin,Scala,2005_Cote_Scala,51.530693,-0.121473,2005-02-12
+986,Destination,Ethiopian Community in Britain,2005_Ethiopian Community in Britain_Scala,51.549878,-0.183277,2005-03-11
+987,Origin,Scala,2005_Ethiopian Community in Britain_Scala,51.530693,-0.121473,2005-02-12
+988,Destination,Comptoir Libanais,2005_Comptoir Libanais_Scala,51.547698,-0.181321,2005-08-11
+989,Origin,Scala,2005_Comptoir Libanais_Scala,51.530693,-0.121473,2005-02-12
+990,Destination,Burger & Lobster,2005_Burger & Lobster_Scala,51.516745,-0.122603,2005-03-11
+991,Origin,Scala,2005_Burger & Lobster_Scala,51.530693,-0.121473,2005-02-12
+992,Destination,The Marathon,2005_The Marathon_Scala,51.543994,-0.151855,2005-11-11
+993,Origin,Scala,2005_The Marathon_Scala,51.530693,-0.121473,2005-02-12
+994,Destination,Magdala,2005_Magdala_Scala,51.55581,-0.165543,2005-05-10
+995,Origin,Scala,2005_Magdala_Scala,51.530693,-0.121473,2005-02-12
+996,Destination,Sir John Oldcastle,2005_Sir John Oldcastle_Scala,51.520437,-0.106431,2005-10-24
+997,Origin,Scala,2005_Sir John Oldcastle_Scala,51.530693,-0.121473,2005-02-12
+998,Destination,Belushis Bar,2005_Belushis Bar_Scala,51.536631,-0.14013499999999998,2005-11-10
+999,Origin,Scala,2005_Belushis Bar_Scala,51.530693,-0.121473,2005-02-12
+1000,Destination,KOKO,2005_KOKO_Scala,51.534911,-0.139649,2005-10-24
+1001,Origin,Scala,2005_KOKO_Scala,51.530693,-0.121473,2005-02-12
+1002,Destination,Montague Hotel,2005_Montague Hotel_Scala,51.520018,-0.124921,2005-11-16
+1003,Origin,Scala,2005_Montague Hotel_Scala,51.530693,-0.121473,2005-02-12
+1004,Destination,Freemasons Arms,2005_Freemasons Arms_Scala,51.557165999999995,-0.169192,2005-12-20
+1005,Origin,Scala,2005_Freemasons Arms_Scala,51.530693,-0.121473,2005-02-12
+1006,Destination,White Horse,2005_White Horse_Scala,51.554378,-0.16508299999999998,2005-11-17
+1007,Origin,Scala,2005_White Horse_Scala,51.530693,-0.121473,2005-02-12
+1008,Destination,Electric Ballroom,2005_Electric Ballroom_Scala,51.539688,-0.142772,2005-09-12
+1009,Origin,Scala,2005_Electric Ballroom_Scala,51.530693,-0.121473,2005-02-12
+1010,Destination,The Truscott Cellar (formerly Weng Wah Restaurant),2005_The Truscott Cellar (formerly Weng Wah Restaurant)_Scala,51.55223,-0.166857,2005-03-11
+1011,Origin,Scala,2005_The Truscott Cellar (formerly Weng Wah Restaurant)_Scala,51.530693,-0.121473,2005-02-12
+1012,Destination,Royal National Hotel,2005_Royal National Hotel_Scala,51.523588000000004,-0.12746500000000002,2005-10-17
+1013,Origin,Scala,2005_Royal National Hotel_Scala,51.530693,-0.121473,2005-02-12
+1014,Destination,Bar Vinyl,2005_Bar Vinyl_Scala,51.540039,-0.14449700000000001,2005-11-10
+1015,Origin,Scala,2005_Bar Vinyl_Scala,51.530693,-0.121473,2005-02-12
+1016,Destination,AH King (formerly Bull & Mouth),2005_AH King (formerly Bull & Mouth)_Scala,51.517939,-0.12436099999999999,2005-12-22
+1017,Origin,Scala,2005_AH King (formerly Bull & Mouth)_Scala,51.530693,-0.121473,2005-02-12
+1018,Destination,De Vere Grand Connaught Rooms,2005_De Vere Grand Connaught Rooms_Scala,51.515423,-0.12044400000000001,2005-12-12
+1019,Origin,Scala,2005_De Vere Grand Connaught Rooms_Scala,51.530693,-0.121473,2005-02-12
+1020,Destination,Morrisons,2005_Morrisons_Scala,51.541346000000004,-0.149794,2005-12-21
+1021,Origin,Scala,2005_Morrisons_Scala,51.530693,-0.121473,2005-02-12
+1022,Destination,Old Orleans,2005_Old Orleans_Scala,51.547698,-0.181321,2005-08-22
+1023,Origin,Scala,2005_Old Orleans_Scala,51.530693,-0.121473,2005-02-12
+1024,Destination,Bloomsbury Food & Wine,2005_Bloomsbury Food & Wine_Scala,51.525233,-0.125699,2005-11-29
+1025,Origin,Scala,2005_Bloomsbury Food & Wine_Scala,51.530693,-0.121473,2005-02-12
+1026,Destination,Admiral Mann,2005_Admiral Mann_Scala,51.549326,-0.130676,2005-06-10
+1027,Origin,Scala,2005_Admiral Mann_Scala,51.530693,-0.121473,2005-02-12
+1028,Destination,Cafe Metro,2005_Cafe Metro_Scala,51.539688,-0.142772,2005-11-10
+1029,Origin,Scala,2005_Cafe Metro_Scala,51.530693,-0.121473,2005-02-12
+1030,Destination,NWC (formerly Legacy),2005_NWC (formerly Legacy)_Scala,51.543234000000005,-0.17561500000000002,2005-05-10
+1031,Origin,Scala,2005_NWC (formerly Legacy)_Scala,51.530693,-0.121473,2005-02-12
+1032,Destination,Pricewise Continental Wine And Foods,2005_Pricewise Continental Wine And Foods_Scala,51.547268,-0.179527,2005-07-10
+1033,Origin,Scala,2005_Pricewise Continental Wine And Foods_Scala,51.530693,-0.121473,2005-02-12
+1034,Destination,Mabels Tavern,2005_Mabels Tavern_Scala,51.52793,-0.12685,2005-09-24
+1035,Origin,Scala,2005_Mabels Tavern_Scala,51.530693,-0.121473,2005-02-12
+1036,Destination,The George,2005_The George_Scala,51.55271,-0.166968,2005-08-18
+1037,Origin,Scala,2005_The George_Scala,51.530693,-0.121473,2005-02-12
+1038,Destination,Scala,2005_Scala_Scala,51.530693,-0.121473,2005-02-12
+1039,Origin,Scala,2005_Scala_Scala,51.530693,-0.121473,2005-02-12
+1040,Destination,Old Crown,2005_Old Crown_Scala,51.516890999999994,-0.12531,2005-10-17
+1041,Origin,Scala,2005_Old Crown_Scala,51.530693,-0.121473,2005-02-12
+1042,Destination,Queen's Head & Artichoke,2005_Queen's Head & Artichoke_Scala,51.525803,-0.143906,2005-09-26
+1043,Origin,Scala,2005_Queen's Head & Artichoke_Scala,51.530693,-0.121473,2005-02-12
+1044,Destination,MERE,2005_MERE_Scala,51.520672999999995,-0.136245,2005-10-26
+1045,Origin,Scala,2005_MERE_Scala,51.530693,-0.121473,2005-02-12
+1046,Destination,The Railway,2005_The Railway_Scala,51.546124,-0.19050799999999998,2005-12-10
+1047,Origin,Scala,2005_The Railway_Scala,51.530693,-0.121473,2005-02-12
+1048,Destination,113 Restaurant & Bar,2005_113 Restaurant & Bar_Scala,51.52796,-0.139145,2005-11-21
+1049,Origin,Scala,2005_113 Restaurant & Bar_Scala,51.530693,-0.121473,2005-02-12
+1050,Destination,Miusan (Formerly Zensai),2005_Miusan (Formerly Zensai)_Scala,51.540039,-0.14449700000000001,2005-11-10
+1051,Origin,Scala,2005_Miusan (Formerly Zensai)_Scala,51.530693,-0.121473,2005-02-12
+1052,Destination,Trattoria Verdi,2005_Trattoria Verdi_Scala,51.520227,-0.12197000000000001,2005-07-10
+1053,Origin,Scala,2005_Trattoria Verdi_Scala,51.530693,-0.121473,2005-02-12
+1054,Destination,Two Brewers,2005_Two Brewers_Scala,51.513243,-0.127366,2005-10-28
+1055,Origin,Scala,2005_Two Brewers_Scala,51.530693,-0.121473,2005-02-12
+1056,Destination,House Of Booze,2005_House Of Booze_Scala,51.54742,-0.17971099999999998,2005-07-10
+1057,Origin,Scala,2005_House Of Booze_Scala,51.530693,-0.121473,2005-02-12
+1058,Destination,Premier Inn,2005_Premier Inn_Scala,51.551534000000004,-0.167068,2005-09-15
+1059,Origin,Scala,2005_Premier Inn_Scala,51.530693,-0.121473,2005-02-12
+1060,Destination,White Hart,2005_White Hart_Scala,51.516312,-0.123688,2005-12-22
+1061,Origin,Scala,2005_White Hart_Scala,51.530693,-0.121473,2005-02-12
+1062,Destination,Assembly House,2005_Assembly House_Scala,51.551065,-0.140306,2005-09-23
+1063,Origin,Scala,2005_Assembly House_Scala,51.530693,-0.121473,2005-02-12
+1064,Destination,Finchley Bell,2007_Finchley Bell_Reverend JW Simpson,51.549878,-0.183277,2007-01-24
+1065,Origin,Reverend JW Simpson,2007_Finchley Bell_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1066,Destination,Smugglers Tavern,2007_Smugglers Tavern_Reverend JW Simpson,51.523545,-0.140725,2007-12-13
+1067,Origin,Reverend JW Simpson,2007_Smugglers Tavern_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1068,Destination,Flight Club,2007_Flight Club_Reverend JW Simpson,51.516711,-0.127133,2007-03-10
+1069,Origin,Reverend JW Simpson,2007_Flight Club_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1070,Destination,Kings Cross Post Office,2007_Kings Cross Post Office_Reverend JW Simpson,51.529783,-0.12309,2007-10-17
+1071,Origin,Reverend JW Simpson,2007_Kings Cross Post Office_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1072,Destination,The Pineapple,2007_The Pineapple_Reverend JW Simpson,51.552951,-0.140094,2007-06-11
+1073,Origin,Reverend JW Simpson,2007_The Pineapple_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1074,Destination,Smoking Goat,2007_Smoking Goat_Reverend JW Simpson,51.515018,-0.129353,2007-02-04
+1075,Origin,Reverend JW Simpson,2007_Smoking Goat_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1076,Destination,One Tun,2007_One Tun_Reverend JW Simpson,51.520098,-0.10698099999999999,2007-04-26
+1077,Origin,Reverend JW Simpson,2007_One Tun_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1078,Destination,Sainsbury's Supermarkets Ltd,2007_Sainsbury's Supermarkets Ltd_Reverend JW Simpson,51.516965,-0.14816,2007-08-29
+1079,Origin,Reverend JW Simpson,2007_Sainsbury's Supermarkets Ltd_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1080,Destination,The T.E. Dingwall Building (Formerly Lock 17/Highlight),2007_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Reverend JW Simpson,51.541428,-0.145851,2007-10-24
+1081,Origin,Reverend JW Simpson,2007_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1082,Destination,Dandelion (formerly Dublin Castle Cafe),2007_Dandelion (formerly Dublin Castle Cafe)_Reverend JW Simpson,51.537762,-0.14571199999999998,2007-12-21
+1083,Origin,Reverend JW Simpson,2007_Dandelion (formerly Dublin Castle Cafe)_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1084,Destination,New London Theatre,2007_New London Theatre_Reverend JW Simpson,51.51578,-0.12225699999999999,2007-02-11
+1085,Origin,Reverend JW Simpson,2007_New London Theatre_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1086,Destination,Grays Inn Card Shop,2007_Grays Inn Card Shop_Reverend JW Simpson,51.521861,-0.11399200000000001,2007-08-31
+1087,Origin,Reverend JW Simpson,2007_Grays Inn Card Shop_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1088,Destination,Tesco Metro,2007_Tesco Metro_Reverend JW Simpson,51.520337,-0.134654,2007-08-13
+1089,Origin,Reverend JW Simpson,2007_Tesco Metro_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1090,Destination,Wetherspoons,2007_Wetherspoons_Reverend JW Simpson,51.547698,-0.181321,2007-08-02
+1091,Origin,Reverend JW Simpson,2007_Wetherspoons_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1092,Destination,Po Chang Ma Cha Restaurant,2007_Po Chang Ma Cha Restaurant_Reverend JW Simpson,51.515526,-0.12947,2007-02-16
+1093,Origin,Reverend JW Simpson,2007_Po Chang Ma Cha Restaurant_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1094,Destination,Covent Garden Health Spa,2007_Covent Garden Health Spa_Reverend JW Simpson,51.514406,-0.12488599999999998,2007-11-22
+1095,Origin,Reverend JW Simpson,2007_Covent Garden Health Spa_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1096,Destination,Melia White House Hotel,2007_Melia White House Hotel_Reverend JW Simpson,51.525222,-0.14366600000000002,2007-06-06
+1097,Origin,Reverend JW Simpson,2007_Melia White House Hotel_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1098,Destination,Kentucky Fried Chicken,2007_Kentucky Fried Chicken_Reverend JW Simpson,51.530239,-0.12168499999999999,2007-02-16
+1099,Origin,Reverend JW Simpson,2007_Kentucky Fried Chicken_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1100,Destination,Thai Square,2007_Thai Square_Reverend JW Simpson,51.514389,-0.12725799999999998,2007-12-21
+1101,Origin,Reverend JW Simpson,2007_Thai Square_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1102,Destination,British Library,2007_British Library_Reverend JW Simpson,51.53004,-0.127634,2007-03-20
+1103,Origin,Reverend JW Simpson,2007_British Library_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1104,Destination,Lock Tavern,2007_Lock Tavern_Reverend JW Simpson,51.542619,-0.148387,2007-05-23
+1105,Origin,Reverend JW Simpson,2007_Lock Tavern_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1106,Destination,Terroni & Son,2007_Terroni & Son_Reverend JW Simpson,51.522458,-0.109051,2007-01-17
+1107,Origin,Reverend JW Simpson,2007_Terroni & Son_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1108,Destination,Royal Pizza,2007_Royal Pizza_Reverend JW Simpson,51.530693,-0.121473,2007-05-17
+1109,Origin,Reverend JW Simpson,2007_Royal Pizza_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1110,Destination,Northumberland Arms,2007_Northumberland Arms_Reverend JW Simpson,51.523142,-0.137511,2007-08-13
+1111,Origin,Reverend JW Simpson,2007_Northumberland Arms_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1112,Destination,Costcutters,2007_Costcutters_Reverend JW Simpson,51.544361,-0.141795,2007-02-23
+1113,Origin,Reverend JW Simpson,2007_Costcutters_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1114,Destination,Prince Albert,2007_Prince Albert_Reverend JW Simpson,51.540099,-0.137417,2007-03-16
+1115,Origin,Reverend JW Simpson,2007_Prince Albert_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1116,Destination,The Star,2007_The Star_Reverend JW Simpson,51.563399,-0.142562,2007-04-24
+1117,Origin,Reverend JW Simpson,2007_The Star_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1118,Destination,PizzaExpress,2007_PizzaExpress_Reverend JW Simpson,51.517865,-0.192888,2007-02-16
+1119,Origin,Reverend JW Simpson,2007_PizzaExpress_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1120,Destination,Belgo,2007_Belgo_Reverend JW Simpson,51.515103,-0.119874,2007-06-06
+1121,Origin,Reverend JW Simpson,2007_Belgo_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1122,Destination,Supersave Convenience Store,2007_Supersave Convenience Store_Reverend JW Simpson,51.539688,-0.142772,2007-04-25
+1123,Origin,Reverend JW Simpson,2007_Supersave Convenience Store_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1124,Destination,Green Note,2007_Green Note_Reverend JW Simpson,51.537762,-0.14571199999999998,2007-05-29
+1125,Origin,Reverend JW Simpson,2007_Green Note_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1126,Destination,London Euston Premier Travel Inn,2007_London Euston Premier Travel Inn_Reverend JW Simpson,51.527645,-0.128604,2007-06-29
+1127,Origin,Reverend JW Simpson,2007_London Euston Premier Travel Inn_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1128,Destination,Capital Food,2007_Capital Food_Reverend JW Simpson,51.534197,-0.13888599999999998,2007-04-24
+1129,Origin,Reverend JW Simpson,2007_Capital Food_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1130,Destination,Grosvenor Casino,2007_Grosvenor Casino_Reverend JW Simpson,51.521776,-0.12359300000000001,2007-07-09
+1131,Origin,Reverend JW Simpson,2007_Grosvenor Casino_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1132,Destination,UCL Union,2007_UCL Union_Reverend JW Simpson,51.525692,-0.134571,2007-08-14
+1133,Origin,Reverend JW Simpson,2007_UCL Union_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1134,Destination,Bestco Supermarkets,2007_Bestco Supermarkets_Reverend JW Simpson,51.545148,-0.201396,2007-06-06
+1135,Origin,Reverend JW Simpson,2007_Bestco Supermarkets_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1136,Destination,Cote,2007_Cote_Reverend JW Simpson,51.538119,-0.145295,2007-11-15
+1137,Origin,Reverend JW Simpson,2007_Cote_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1138,Destination,Salvador and Amanda Bloomsbury (Formely Traffic),2007_Salvador and Amanda Bloomsbury (Formely Traffic)_Reverend JW Simpson,51.519286,-0.12206700000000001,2007-03-09
+1139,Origin,Reverend JW Simpson,2007_Salvador and Amanda Bloomsbury (Formely Traffic)_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1140,Destination,Food City,2007_Food City_Reverend JW Simpson,51.521776,-0.12359300000000001,2007-06-06
+1141,Origin,Reverend JW Simpson,2007_Food City_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1142,Destination,Dixy Chicken,2007_Dixy Chicken_Reverend JW Simpson,51.556776,-0.13938499999999998,2007-11-01
+1143,Origin,Reverend JW Simpson,2007_Dixy Chicken_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1144,Destination,Sainsbury's Supermarket,2007_Sainsbury's Supermarket_Reverend JW Simpson,51.524257,-0.137096,2007-08-29
+1145,Origin,Reverend JW Simpson,2007_Sainsbury's Supermarket_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1146,Destination,Love & Liquor,2007_Love & Liquor_Reverend JW Simpson,51.536709,-0.19143,2007-01-10
+1147,Origin,Reverend JW Simpson,2007_Love & Liquor_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1148,Destination,La Provence,2007_La Provence_Reverend JW Simpson,51.559391,-0.178055,2007-06-13
+1149,Origin,Reverend JW Simpson,2007_La Provence_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1150,Destination,Old Crown,2007_Old Crown_Reverend JW Simpson,51.516890999999994,-0.12531,2007-01-06
+1151,Origin,Reverend JW Simpson,2007_Old Crown_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1152,Destination,SALT,2007_SALT_Reverend JW Simpson,51.550391999999995,-0.19197899999999998,2007-04-06
+1153,Origin,Reverend JW Simpson,2007_SALT_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1154,Destination,Troy Club,2007_Troy Club_Reverend JW Simpson,51.516921999999994,-0.132023,2007-04-09
+1155,Origin,Reverend JW Simpson,2007_Troy Club_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1156,Destination,Harrison Arms,2007_Harrison Arms_Reverend JW Simpson,51.52756,-0.120129,2007-05-17
+1157,Origin,Reverend JW Simpson,2007_Harrison Arms_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1158,Destination,Istanbul Meze Bar And Grill,2007_Istanbul Meze Bar And Grill_Reverend JW Simpson,51.52301,-0.141308,2007-01-19
+1159,Origin,Reverend JW Simpson,2007_Istanbul Meze Bar And Grill_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1160,Destination,Savemore Supermarket,2007_Savemore Supermarket_Reverend JW Simpson,51.542081,-0.180533,2007-06-13
+1161,Origin,Reverend JW Simpson,2007_Savemore Supermarket_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1162,Destination,Reverend JW Simpson,2007_Reverend JW Simpson_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1163,Origin,Reverend JW Simpson,2007_Reverend JW Simpson_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1164,Destination,Sainsburys,2007_Sainsburys_Reverend JW Simpson,51.525368,-0.139192,2007-08-29
+1165,Origin,Reverend JW Simpson,2007_Sainsburys_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1166,Destination,O'Neills,2007_O'Neills_Reverend JW Simpson,51.528517,-0.126822,2007-01-17
+1167,Origin,Reverend JW Simpson,2007_O'Neills_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1168,Destination,Rising Sun,2007_Rising Sun_Reverend JW Simpson,51.519513,-0.133795,2007-04-05
+1169,Origin,Reverend JW Simpson,2007_Rising Sun_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1170,Destination,Bucks Head,2007_Bucks Head_Reverend JW Simpson,51.540186,-0.143102,2007-03-30
+1171,Origin,Reverend JW Simpson,2007_Bucks Head_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1172,Destination,Assa Korean Restaurant,2007_Assa Korean Restaurant_Reverend JW Simpson,51.515526,-0.12947,2007-03-14
+1173,Origin,Reverend JW Simpson,2007_Assa Korean Restaurant_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1174,Destination,St Peters Italian Social Club,2007_St Peters Italian Social Club_Reverend JW Simpson,51.522458,-0.109051,2007-04-30
+1175,Origin,Reverend JW Simpson,2007_St Peters Italian Social Club_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1176,Destination,Pratt Off Licence,2007_Pratt Off Licence_Reverend JW Simpson,51.537869,-0.13966800000000001,2007-03-23
+1177,Origin,Reverend JW Simpson,2007_Pratt Off Licence_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1178,Destination,Princess Louise,2007_Princess Louise_Reverend JW Simpson,51.51712,-0.12208599999999999,2007-03-22
+1179,Origin,Reverend JW Simpson,2007_Princess Louise_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1180,Destination,Premier - Kaasco,2007_Premier - Kaasco_Reverend JW Simpson,51.538624,-0.141854,2007-06-06
+1181,Origin,Reverend JW Simpson,2007_Premier - Kaasco_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1182,Destination,The Black Lion,2007_The Black Lion_Reverend JW Simpson,51.551211,-0.19204000000000002,2007-12-04
+1183,Origin,Reverend JW Simpson,2007_The Black Lion_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1184,Destination,Grand Union (Camden),2007_Grand Union (Camden)_Reverend JW Simpson,51.541578,-0.13784200000000002,2007-08-16
+1185,Origin,Reverend JW Simpson,2007_Grand Union (Camden)_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1186,Destination,Mestizo,2007_Mestizo_Reverend JW Simpson,51.527464,-0.138928,2007-10-04
+1187,Origin,Reverend JW Simpson,2007_Mestizo_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1188,Destination,Mediacom,2007_Mediacom_Reverend JW Simpson,51.520022999999995,-0.120031,2007-05-22
+1189,Origin,Reverend JW Simpson,2007_Mediacom_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1190,Destination,Sway,2007_Sway_Reverend JW Simpson,51.515423,-0.12044400000000001,2007-09-05
+1191,Origin,Reverend JW Simpson,2007_Sway_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1192,Destination,Logan Hall Institute of Education,2007_Logan Hall Institute of Education_Reverend JW Simpson,51.523069,-0.128282,2007-10-31
+1193,Origin,Reverend JW Simpson,2007_Logan Hall Institute of Education_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1194,Destination,Vue Cinema,2007_Vue Cinema_Reverend JW Simpson,51.547698,-0.181321,2007-07-25
+1195,Origin,Reverend JW Simpson,2007_Vue Cinema_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1196,Destination,Hostel,2007_Hostel_Reverend JW Simpson,51.545552,-0.176535,2007-06-09
+1197,Origin,Reverend JW Simpson,2007_Hostel_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1198,Destination,London Maida Vale Marriott,2007_London Maida Vale Marriott_Reverend JW Simpson,51.535973999999996,-0.190412,2007-03-27
+1199,Origin,Reverend JW Simpson,2007_London Maida Vale Marriott_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1200,Destination,Chicken Cottage,2007_Chicken Cottage_Reverend JW Simpson,51.547109000000006,-0.142245,2007-11-30
+1201,Origin,Reverend JW Simpson,2007_Chicken Cottage_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1202,Destination,The Queens,2007_The Queens_Reverend JW Simpson,51.540818,-0.158121,2007-06-19
+1203,Origin,Reverend JW Simpson,2007_The Queens_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1204,Destination,The Foundling Museum,2007_The Foundling Museum_Reverend JW Simpson,51.525261,-0.12169200000000001,2007-07-27
+1205,Origin,Reverend JW Simpson,2007_The Foundling Museum_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1206,Destination,Grosvenor St Giles Casino,2007_Grosvenor St Giles Casino_Reverend JW Simpson,51.517452,-0.130432,2007-01-09
+1207,Origin,Reverend JW Simpson,2007_Grosvenor St Giles Casino_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1208,Destination,The Oxford Pub,2007_The Oxford Pub_Reverend JW Simpson,51.550104,-0.140492,2007-12-03
+1209,Origin,Reverend JW Simpson,2007_The Oxford Pub_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1210,Destination,Corks,2007_Corks_Reverend JW Simpson,51.562006,-0.150358,2007-05-24
+1211,Origin,Reverend JW Simpson,2007_Corks_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1212,Destination,Pizza Hut,2007_Pizza Hut_Reverend JW Simpson,51.521776,-0.12359300000000001,2007-06-07
+1213,Origin,Reverend JW Simpson,2007_Pizza Hut_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1214,Destination,Hat & Tun,2007_Hat & Tun_Reverend JW Simpson,51.521937,-0.108427,2007-02-08
+1215,Origin,Reverend JW Simpson,2007_Hat & Tun_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1216,Destination,02 Forum,2007_02 Forum_Reverend JW Simpson,51.551885,-0.141932,2007-10-15
+1217,Origin,Reverend JW Simpson,2007_02 Forum_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1218,Destination,Aquila Club (formerly Secrets),2007_Aquila Club (formerly Secrets)_Reverend JW Simpson,51.549878,-0.183277,2007-03-01
+1219,Origin,Reverend JW Simpson,2007_Aquila Club (formerly Secrets)_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1220,Destination,Booker Cash And Carry,2007_Booker Cash And Carry_Reverend JW Simpson,51.538636,-0.130402,2007-12-13
+1221,Origin,Reverend JW Simpson,2007_Booker Cash And Carry_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1222,Destination,Quick Stop,2007_Quick Stop_Reverend JW Simpson,51.543793,-0.153248,2007-05-21
+1223,Origin,Reverend JW Simpson,2007_Quick Stop_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1224,Destination,Maxwell Restaurants LTD,2007_Maxwell Restaurants LTD_Reverend JW Simpson,51.557990000000004,-0.17815999999999999,2007-01-22
+1225,Origin,Reverend JW Simpson,2007_Maxwell Restaurants LTD_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1226,Destination,Rosewood London (formerly Chancery Court Hotel),2007_Rosewood London (formerly Chancery Court Hotel)_Reverend JW Simpson,51.517503000000005,-0.117704,2007-04-05
+1227,Origin,Reverend JW Simpson,2007_Rosewood London (formerly Chancery Court Hotel)_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1228,Destination,Covent Garden Hotel,2007_Covent Garden Hotel_Reverend JW Simpson,51.514389,-0.12725799999999998,2007-05-06
+1229,Origin,Reverend JW Simpson,2007_Covent Garden Hotel_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1230,Destination,Allora,2007_Allora_Reverend JW Simpson,51.536970000000004,-0.18639,2007-11-29
+1231,Origin,Reverend JW Simpson,2007_Allora_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1232,Destination,Tufnell Park Kebab,2007_Tufnell Park Kebab_Reverend JW Simpson,51.556475,-0.137786,2007-01-25
+1233,Origin,Reverend JW Simpson,2007_Tufnell Park Kebab_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1234,Destination,Marks and Spencer Simply Food (2),2007_Marks and Spencer Simply Food (2)_Reverend JW Simpson,51.529302,-0.13258499999999998,2007-03-04
+1235,Origin,Reverend JW Simpson,2007_Marks and Spencer Simply Food (2)_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1236,Destination,Odeon Cinema,2007_Odeon Cinema_Reverend JW Simpson,51.542636,-0.17460799999999999,2007-07-11
+1237,Origin,Reverend JW Simpson,2007_Odeon Cinema_Reverend JW Simpson,51.519855,-0.135379,2007-01-02
+1238,Destination,Reverend JW Simpson,2015_Reverend JW Simpson_Scala,51.519855,-0.135379,2015-05-06
+1239,Origin,Scala,2015_Reverend JW Simpson_Scala,51.530693,-0.121473,2015-01-05
+1240,Destination,Caps & Taps,2015_Caps & Taps_Scala,51.54587,-0.14094600000000002,2015-03-27
+1241,Origin,Scala,2015_Caps & Taps_Scala,51.530693,-0.121473,2015-01-05
+1242,Destination,The Refinery -  USE 5 Brock Street,2015_The Refinery -  USE 5 Brock Street_Scala,51.525923,-0.13968699999999998,2015-03-23
+1243,Origin,Scala,2015_The Refinery -  USE 5 Brock Street_Scala,51.530693,-0.121473,2015-01-05
+1244,Destination,BrewDog,2015_BrewDog_Scala,51.538588,-0.141217,2015-02-11
+1245,Origin,Scala,2015_BrewDog_Scala,51.530693,-0.121473,2015-01-05
+1246,Destination,Nando's,2015_Nando's_Scala,51.529302,-0.13258499999999998,2015-06-25
+1247,Origin,Scala,2015_Nando's_Scala,51.530693,-0.121473,2015-01-05
+1248,Destination,The Queen's Head (formerly Coco Momo Restaurant),2015_The Queen's Head (formerly Coco Momo Restaurant)_Scala,51.520793,-0.11748800000000001,2015-10-14
+1249,Origin,Scala,2015_The Queen's Head (formerly Coco Momo Restaurant)_Scala,51.530693,-0.121473,2015-01-05
+1250,Destination,Union Bar and Grill,2015_Union Bar and Grill_Scala,51.525180999999996,-0.14246099999999998,2015-01-07
+1251,Origin,Scala,2015_Union Bar and Grill_Scala,51.530693,-0.121473,2015-01-05
+1252,Destination,Mezza Eatery,2015_Mezza Eatery_Scala,51.534911,-0.139649,2015-12-07
+1253,Origin,Scala,2015_Mezza Eatery_Scala,51.530693,-0.121473,2015-01-05
+1254,Destination,Q Grill,2015_Q Grill_Scala,51.543233,-0.147024,2015-01-19
+1255,Origin,Scala,2015_Q Grill_Scala,51.530693,-0.121473,2015-01-05
+1256,Destination,Fremantlemedia Limited,2015_Fremantlemedia Limited_Scala,51.51757,-0.132725,2015-08-06
+1257,Origin,Scala,2015_Fremantlemedia Limited_Scala,51.530693,-0.121473,2015-01-05
+1258,Destination,Ladies and Gentlemen,2015_Ladies and Gentlemen_Scala,51.559401,-0.151809,2015-05-14
+1259,Origin,Scala,2015_Ladies and Gentlemen_Scala,51.530693,-0.121473,2015-01-05
+1260,Destination,Woburn House Conference Centre,2015_Woburn House Conference Centre_Scala,51.526196,-0.13031099999999998,2015-06-25
+1261,Origin,Scala,2015_Woburn House Conference Centre_Scala,51.530693,-0.121473,2015-01-05
+1262,Destination,Camden Eye,2015_Camden Eye_Scala,51.539219,-0.141978,2015-04-29
+1263,Origin,Scala,2015_Camden Eye_Scala,51.530693,-0.121473,2015-01-05
+1264,Destination,Scala,2015_Scala_Scala,51.530693,-0.121473,2015-01-05
+1265,Origin,Scala,2015_Scala_Scala,51.530693,-0.121473,2015-01-05
+1266,Destination,Mia,2015_Mia_Scala,51.543234000000005,-0.17561500000000002,2015-07-07
+1267,Origin,Scala,2015_Mia_Scala,51.530693,-0.121473,2015-01-05
+1268,Destination,McDonald's Restaurants,2015_McDonald's Restaurants_Scala,51.513631,-0.129773,2015-07-30
+1269,Origin,Scala,2015_McDonald's Restaurants_Scala,51.530693,-0.121473,2015-01-05
+1270,Destination,Garufin,2015_Garufin_Scala,51.519793,-0.117736,2015-05-29
+1271,Origin,Scala,2015_Garufin_Scala,51.530693,-0.121473,2015-01-05
+1272,Destination,Havana Cafe & Bar,2015_Havana Cafe & Bar_Scala,51.539688,-0.142772,2015-03-24
+1273,Origin,Scala,2015_Havana Cafe & Bar_Scala,51.530693,-0.121473,2015-01-05
+1274,Destination,Made In Brasil,2015_Made In Brasil_Scala,51.540039,-0.14449700000000001,2015-10-07
+1275,Origin,Scala,2015_Made In Brasil_Scala,51.530693,-0.121473,2015-01-05
+1276,Destination,Bloc Bar (Formerly Record Club/The Stillery,2015_Bloc Bar (Formerly Record Club/The Stillery_Scala,51.540164000000004,-0.141998,2015-01-30
+1277,Origin,Scala,2015_Bloc Bar (Formerly Record Club/The Stillery_Scala,51.530693,-0.121473,2015-01-05
+1278,Destination,Angel,2015_Angel_Scala,51.515347,-0.12775799999999998,2015-09-07
+1279,Origin,Scala,2015_Angel_Scala,51.530693,-0.121473,2015-01-05
+1280,Destination,New Bloomsbury Set,2015_New Bloomsbury Set_Scala,51.525437,-0.125078,2015-04-22
+1281,Origin,Scala,2015_New Bloomsbury Set_Scala,51.530693,-0.121473,2015-01-05
+1282,Destination,Piano Bar Restaurant,2015_Piano Bar Restaurant_Scala,51.542823,-0.175825,2015-11-17
+1283,Origin,Scala,2015_Piano Bar Restaurant_Scala,51.530693,-0.121473,2015-01-05
+1284,Destination,Simmons,2015_Simmons_Scala,51.534911,-0.139649,2015-06-23
+1285,Origin,Scala,2015_Simmons_Scala,51.530693,-0.121473,2015-01-05
+1286,Destination,Secrets (Eversholt St),2015_Secrets (Eversholt St)_Scala,51.529302,-0.13258499999999998,2015-04-08
+1287,Origin,Scala,2015_Secrets (Eversholt St)_Scala,51.530693,-0.121473,2015-01-05
+1288,Destination,Barzetti Italian Kitchen,2015_Barzetti Italian Kitchen_Scala,51.531775,-0.126577,2015-03-09
+1289,Origin,Scala,2015_Barzetti Italian Kitchen_Scala,51.530693,-0.121473,2015-01-05
+1290,Destination,Bounce,2015_Bounce_Scala,51.518529,-0.108519,2015-04-14
+1291,Origin,Scala,2015_Bounce_Scala,51.530693,-0.121473,2015-01-05
+1292,Destination,"Crystal Mini Market, Ground Floor","2015_Crystal Mini Market, Ground Floor_Scala",51.5541,-0.15506199999999998,2015-07-05
+1293,Origin,Scala,"2015_Crystal Mini Market, Ground Floor_Scala",51.530693,-0.121473,2015-01-05
+1294,Destination,Sway,2015_Sway_Scala,51.515423,-0.12044400000000001,2015-03-11
+1295,Origin,Scala,2015_Sway_Scala,51.530693,-0.121473,2015-01-05
+1296,Destination,VQ,2015_VQ_Scala,51.517452,-0.130432,2015-04-02
+1297,Origin,Scala,2015_VQ_Scala,51.530693,-0.121473,2015-01-05
+1298,Destination,PizzaExpress,2015_PizzaExpress_Scala,51.550832,-0.164907,2015-07-14
+1299,Origin,Scala,2015_PizzaExpress_Scala,51.530693,-0.121473,2015-01-05
+1300,Destination,The Cedar Restaurant and Bar,2015_The Cedar Restaurant and Bar_Scala,51.549717,-0.191104,2015-09-16
+1301,Origin,Scala,2015_The Cedar Restaurant and Bar_Scala,51.530693,-0.121473,2015-01-05
+1302,Destination,County Hotel,2015_County Hotel_Scala,51.526845,-0.129579,2015-09-18
+1303,Origin,Scala,2015_County Hotel_Scala,51.530693,-0.121473,2015-01-05
+1304,Destination,Be At One,2015_Be At One_Scala,51.535494,-0.140296,2015-09-25
+1305,Origin,Scala,2015_Be At One_Scala,51.530693,-0.121473,2015-01-05
+1306,Destination,Starbucks (formerly known as Sloe Bar),2015_Starbucks (formerly known as Sloe Bar)_Scala,51.529302,-0.13258499999999998,2015-02-26
+1307,Origin,Scala,2015_Starbucks (formerly known as Sloe Bar)_Scala,51.530693,-0.121473,2015-01-05
+1308,Destination,The Truscott Cellar (formerly Weng Wah Restaurant),2015_The Truscott Cellar (formerly Weng Wah Restaurant)_Scala,51.55223,-0.166857,2015-12-22
+1309,Origin,Scala,2015_The Truscott Cellar (formerly Weng Wah Restaurant)_Scala,51.530693,-0.121473,2015-01-05
+1310,Destination,Double J's Catering Ltd (formerly Regent Peking Cuisine),2015_Double J's Catering Ltd (formerly Regent Peking Cuisine)_Scala,51.524398,-0.139311,2015-06-23
+1311,Origin,Scala,2015_Double J's Catering Ltd (formerly Regent Peking Cuisine)_Scala,51.530693,-0.121473,2015-01-05
+1312,Destination,Magdala,2015_Magdala_Scala,51.55581,-0.165543,2015-01-07
+1313,Origin,Scala,2015_Magdala_Scala,51.530693,-0.121473,2015-01-05
+1314,Destination,Sir Richard Steele,2015_Sir Richard Steele_Scala,51.546679,-0.15871300000000002,2015-01-10
+1315,Origin,Scala,2015_Sir Richard Steele_Scala,51.530693,-0.121473,2015-01-05
+1316,Destination,New Istanbul Supermarket,2015_New Istanbul Supermarket_Scala,51.545552,-0.176535,2015-12-23
+1317,Origin,Scala,2015_New Istanbul Supermarket_Scala,51.530693,-0.121473,2015-01-05
+1318,Destination,Bull & Gate,2015_Bull & Gate_Scala,51.551885,-0.141932,2015-02-13
+1319,Origin,Scala,2015_Bull & Gate_Scala,51.530693,-0.121473,2015-01-05
+1320,Destination,The Bloomsbury Hotel,2015_The Bloomsbury Hotel_Scala,51.517232,-0.128717,2015-09-25
+1321,Origin,Scala,2015_The Bloomsbury Hotel_Scala,51.530693,-0.121473,2015-01-05
+1322,Destination,Caffe Ritazza,2015_Caffe Ritazza_Scala,51.527829,-0.132573,2015-11-25
+1323,Origin,Scala,2015_Caffe Ritazza_Scala,51.530693,-0.121473,2015-01-05
+1324,Destination,Aquila Club (formerly Secrets),2015_Aquila Club (formerly Secrets)_Scala,51.549878,-0.183277,2015-02-03
+1325,Origin,Scala,2015_Aquila Club (formerly Secrets)_Scala,51.530693,-0.121473,2015-01-05
+1326,Destination,Square Tavern,2015_Square Tavern_Scala,51.525744,-0.137494,2015-01-26
+1327,Origin,Scala,2015_Square Tavern_Scala,51.530693,-0.121473,2015-01-05
+1328,Destination,Le Pain Quotidien Unit 4,2015_Le Pain Quotidien Unit 4_Scala,51.531775,-0.126577,2015-10-12
+1329,Origin,Scala,2015_Le Pain Quotidien Unit 4_Scala,51.530693,-0.121473,2015-01-05
+1330,Destination,Pizza Sophia (formerly Grrrilla),2015_Pizza Sophia (formerly Grrrilla)_Scala,51.525437,-0.125078,2015-11-16
+1331,Origin,Scala,2015_Pizza Sophia (formerly Grrrilla)_Scala,51.530693,-0.121473,2015-01-05
+1332,Destination,Simply Fish,2015_Simply Fish_Scala,51.540039,-0.14449700000000001,2015-07-10
+1333,Origin,Scala,2015_Simply Fish_Scala,51.530693,-0.121473,2015-01-05
+1334,Destination,Penderel's Oak,2015_Penderel's Oak_Scala,51.517858000000004,-0.11538599999999999,2015-11-02
+1335,Origin,Scala,2015_Penderel's Oak_Scala,51.530693,-0.121473,2015-01-05
+1336,Destination,DOMO 94 (Previously known as Thang Long Vietnamese Restaurant),2015_DOMO 94 (Previously known as Thang Long Vietnamese Restaurant)_Scala,51.541171000000006,-0.13830399999999998,2015-06-06
+1337,Origin,Scala,2015_DOMO 94 (Previously known as Thang Long Vietnamese Restaurant)_Scala,51.530693,-0.121473,2015-01-05
+1338,Destination,Munchtime (previously Cafe Plaka),2015_Munchtime (previously Cafe Plaka)_Scala,51.530239,-0.12168499999999999,2015-03-14
+1339,Origin,Scala,2015_Munchtime (previously Cafe Plaka)_Scala,51.530693,-0.121473,2015-01-05
+1340,Destination,The Kitchen Stores,2011_The Kitchen Stores_The Primrose Eatery,51.551927,-0.19803900000000002,2011-03-09
+1341,Origin,The Primrose Eatery,2011_The Kitchen Stores_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1342,Destination,Leighton Food & Wine,2011_Leighton Food & Wine_The Primrose Eatery,51.550947,-0.136195,2011-12-20
+1343,Origin,The Primrose Eatery,2011_Leighton Food & Wine_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1344,Destination,Griffin,2011_Griffin_The Primrose Eatery,51.521334,-0.112046,2011-09-23
+1345,Origin,The Primrose Eatery,2011_Griffin_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1346,Destination,The Offy and General Store,2011_The Offy and General Store_The Primrose Eatery,51.526422,-0.137931,2011-05-04
+1347,Origin,The Primrose Eatery,2011_The Offy and General Store_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1348,Destination,Ambassadors in Bloomsbury,2011_Ambassadors in Bloomsbury_The Primrose Eatery,51.526845,-0.129579,2011-01-17
+1349,Origin,The Primrose Eatery,2011_Ambassadors in Bloomsbury_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1350,Destination,Colonel Fawcett,2011_Colonel Fawcett_The Primrose Eatery,51.541639,-0.136007,2011-06-10
+1351,Origin,The Primrose Eatery,2011_Colonel Fawcett_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1352,Destination,Camden Eye,2011_Camden Eye_The Primrose Eatery,51.539219,-0.141978,2011-01-06
+1353,Origin,The Primrose Eatery,2011_Camden Eye_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1354,Destination,Nisa Local (previously Price Check),2011_Nisa Local (previously Price Check)_The Primrose Eatery,51.546657,-0.19045499999999999,2011-07-13
+1355,Origin,The Primrose Eatery,2011_Nisa Local (previously Price Check)_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1356,Destination,Be At One,2011_Be At One_The Primrose Eatery,51.535494,-0.140296,2011-06-15
+1357,Origin,The Primrose Eatery,2011_Be At One_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1358,Destination,Bourne and Hollingsworth,2011_Bourne and Hollingsworth_The Primrose Eatery,51.518432000000004,-0.135121,2011-01-12
+1359,Origin,The Primrose Eatery,2011_Bourne and Hollingsworth_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1360,Destination,Ice Wharf - Lloyds No 1,2011_Ice Wharf - Lloyds No 1_The Primrose Eatery,51.540754,-0.145258,2011-09-20
+1361,Origin,The Primrose Eatery,2011_Ice Wharf - Lloyds No 1_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1362,Destination,The Primrose Eatery,2011_The Primrose Eatery_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1363,Origin,The Primrose Eatery,2011_The Primrose Eatery_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1364,Destination,Elementree,2011_Elementree_The Primrose Eatery,51.555443,-0.212655,2011-04-11
+1365,Origin,The Primrose Eatery,2011_Elementree_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1366,Destination,Bobby's (formerly La Brocca),2011_Bobby's (formerly La Brocca)_The Primrose Eatery,51.550391999999995,-0.19197899999999998,2011-06-14
+1367,Origin,The Primrose Eatery,2011_Bobby's (formerly La Brocca)_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1368,Destination,02 Forum,2011_02 Forum_The Primrose Eatery,51.551885,-0.141932,2011-10-02
+1369,Origin,The Primrose Eatery,2011_02 Forum_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1370,Destination,Real Taste,2011_Real Taste_The Primrose Eatery,51.535494,-0.140296,2011-02-12
+1371,Origin,The Primrose Eatery,2011_Real Taste_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1372,Destination,Odeon Cinema,2011_Odeon Cinema_The Primrose Eatery,51.51831,-0.17460799999999999,2011-05-05
+1373,Origin,The Primrose Eatery,2011_Odeon Cinema_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1374,Destination,Joe's Southern Table & Bar,2011_Joe's Southern Table & Bar_The Primrose Eatery,51.551065,-0.140306,2011-12-08
+1375,Origin,The Primrose Eatery,2011_Joe's Southern Table & Bar_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1376,Destination,Square Pig,2011_Square Pig_The Primrose Eatery,51.518848999999996,-0.12026099999999999,2011-08-03
+1377,Origin,The Primrose Eatery,2011_Square Pig_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1378,Destination,Donmar Warehouse Theatre,2011_Donmar Warehouse Theatre_The Primrose Eatery,51.514056,-0.12601400000000001,2011-06-27
+1379,Origin,The Primrose Eatery,2011_Donmar Warehouse Theatre_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1380,Destination,Giovanni Rana,2011_Giovanni Rana_The Primrose Eatery,51.524615999999995,-0.141649,2011-12-10
+1381,Origin,The Primrose Eatery,2011_Giovanni Rana_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1382,Destination,Carpenters Arms,2011_Carpenters Arms_The Primrose Eatery,51.521703,-0.136071,2011-01-11
+1383,Origin,The Primrose Eatery,2011_Carpenters Arms_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1384,Destination,Shaftesbury Theatre,2011_Shaftesbury Theatre_The Primrose Eatery,51.516234000000004,-0.12594,2011-07-18
+1385,Origin,The Primrose Eatery,2011_Shaftesbury Theatre_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1386,Destination,NWC (formerly Legacy),2011_NWC (formerly Legacy)_The Primrose Eatery,51.543234000000005,-0.17561500000000002,2011-01-25
+1387,Origin,The Primrose Eatery,2011_NWC (formerly Legacy)_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1388,Destination,Hellenic Restaurant,2011_Hellenic Restaurant_The Primrose Eatery,51.536848,-0.14191099999999998,2011-12-20
+1389,Origin,The Primrose Eatery,2011_Hellenic Restaurant_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1390,Destination,Vine,2011_Vine_The Primrose Eatery,51.554836,-0.14468,2011-04-26
+1391,Origin,The Primrose Eatery,2011_Vine_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1392,Destination,BrewDog,2011_BrewDog_The Primrose Eatery,51.538588,-0.141217,2011-06-27
+1393,Origin,The Primrose Eatery,2011_BrewDog_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1394,Destination,"Mindshare Media Uk Limited, 7th and 8th Floors","2011_Mindshare Media Uk Limited, 7th and 8th Floors_The Primrose Eatery",51.516045,-0.127443,2011-07-09
+1395,Origin,The Primrose Eatery,"2011_Mindshare Media Uk Limited, 7th and 8th Floors_The Primrose Eatery",51.542559000000004,-0.162132,2011-01-05
+1396,Destination,Morrisons,2011_Morrisons_The Primrose Eatery,51.541346000000004,-0.149794,2011-08-03
+1397,Origin,The Primrose Eatery,2011_Morrisons_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1398,Destination,The Crowndale,2011_The Crowndale_The Primrose Eatery,51.534285,-0.13764300000000002,2011-02-12
+1399,Origin,The Primrose Eatery,2011_The Crowndale_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1400,Destination,Hodge Jones & Allen,2011_Hodge Jones & Allen_The Primrose Eatery,51.526920000000004,-0.136481,2011-02-08
+1401,Origin,The Primrose Eatery,2011_Hodge Jones & Allen_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1402,Destination,Express Food and Wine,2011_Express Food and Wine_The Primrose Eatery,51.551322,-0.141042,2011-11-24
+1403,Origin,The Primrose Eatery,2011_Express Food and Wine_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1404,Destination,Pret A Manger,2011_Pret A Manger_The Primrose Eatery,51.531775,-0.126577,2011-12-13
+1405,Origin,The Primrose Eatery,2011_Pret A Manger_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1406,Destination,Alice House,2011_Alice House_The Primrose Eatery,51.551211,-0.19204000000000002,2011-07-18
+1407,Origin,The Primrose Eatery,2011_Alice House_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1408,Destination,Radisson Blu Edwardian Mercer Street Hotel,2011_Radisson Blu Edwardian Mercer Street Hotel_The Primrose Eatery,51.514389,-0.12725799999999998,2011-05-01
+1409,Origin,The Primrose Eatery,2011_Radisson Blu Edwardian Mercer Street Hotel_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1410,Destination,The Phoenix Theatre Ltd,2011_The Phoenix Theatre Ltd_The Primrose Eatery,51.514562,-0.12926500000000002,2011-06-27
+1411,Origin,The Primrose Eatery,2011_The Phoenix Theatre Ltd_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1412,Destination,Bar Solo/Undersolo,2011_Bar Solo/Undersolo_The Primrose Eatery,51.540039,-0.14449700000000001,2011-08-15
+1413,Origin,The Primrose Eatery,2011_Bar Solo/Undersolo_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1414,Destination,Cafe Metro,2011_Cafe Metro_The Primrose Eatery,51.539688,-0.142772,2011-08-08
+1415,Origin,The Primrose Eatery,2011_Cafe Metro_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1416,Destination,Aces and Eights,2011_Aces and Eights_The Primrose Eatery,51.556475,-0.137786,2011-05-09
+1417,Origin,The Primrose Eatery,2011_Aces and Eights_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1418,Destination,New Market Inn,2011_New Market Inn_The Primrose Eatery,51.543074,-0.126691,2011-08-08
+1419,Origin,The Primrose Eatery,2011_New Market Inn_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1420,Destination,Blackheart (Prev  Camden Tup),2011_Blackheart (Prev  Camden Tup)_The Primrose Eatery,51.538624,-0.141854,2011-10-20
+1421,Origin,The Primrose Eatery,2011_Blackheart (Prev  Camden Tup)_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1422,Destination,Tuck Shop,2011_Tuck Shop_The Primrose Eatery,51.543257000000004,-0.14215999999999998,2011-01-26
+1423,Origin,The Primrose Eatery,2011_Tuck Shop_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1424,Destination,Mango Grill,2011_Mango Grill_The Primrose Eatery,51.553591,-0.211394,2011-04-14
+1425,Origin,The Primrose Eatery,2011_Mango Grill_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1426,Destination,"Zizzi, Unit 10","2011_Zizzi, Unit 10_The Primrose Eatery",51.515836,-0.128305,2011-01-31
+1427,Origin,The Primrose Eatery,"2011_Zizzi, Unit 10_The Primrose Eatery",51.542559000000004,-0.162132,2011-01-05
+1428,Destination,Nisa,2011_Nisa_The Primrose Eatery,51.543475,-0.13201,2011-01-09
+1429,Origin,The Primrose Eatery,2011_Nisa_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1430,Destination,Winnicott Etrusco,2011_Winnicott Etrusco_The Primrose Eatery,51.534197,-0.13888599999999998,2011-07-13
+1431,Origin,The Primrose Eatery,2011_Winnicott Etrusco_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1432,Destination,Kiss The Sky Bar,2011_Kiss The Sky Bar_The Primrose Eatery,51.55381,-0.16817100000000001,2011-01-18
+1433,Origin,The Primrose Eatery,2011_Kiss The Sky Bar_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1434,Destination,Kings Cross Post Office,2011_Kings Cross Post Office_The Primrose Eatery,51.529783,-0.12309,2011-06-27
+1435,Origin,The Primrose Eatery,2011_Kings Cross Post Office_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1436,Destination,My Shop,2011_My Shop_The Primrose Eatery,51.556776,-0.13938499999999998,2011-08-22
+1437,Origin,The Primrose Eatery,2011_My Shop_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1438,Destination,Nunu,2011_Nunu_The Primrose Eatery,51.515526,-0.12947,2011-09-02
+1439,Origin,The Primrose Eatery,2011_Nunu_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1440,Destination,Bestco Supermarkets,2011_Bestco Supermarkets_The Primrose Eatery,51.545148,-0.201396,2011-02-28
+1441,Origin,The Primrose Eatery,2011_Bestco Supermarkets_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1442,Destination,Kenwood Lakeside,2011_Kenwood Lakeside_The Primrose Eatery,51.571943,-0.171929,2011-01-25
+1443,Origin,The Primrose Eatery,2011_Kenwood Lakeside_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1444,Destination,Lara Wine,2011_Lara Wine_The Primrose Eatery,51.558535,-0.143825,2011-05-01
+1445,Origin,The Primrose Eatery,2011_Lara Wine_The Primrose Eatery,51.542559000000004,-0.162132,2011-01-05
+1446,Destination,The Pack and Carriage (Formley known as Elixir),2010_The Pack and Carriage (Formley known as Elixir)_Strada South Grove,51.531991,-0.13561900000000002,2010-11-05
+1447,Origin,Strada South Grove,2010_The Pack and Carriage (Formley known as Elixir)_Strada South Grove,51.57043,-0.147778,2010-01-04
+1448,Destination,First Choice,2010_First Choice_Strada South Grove,51.539688,-0.142772,2010-03-29
+1449,Origin,Strada South Grove,2010_First Choice_Strada South Grove,51.57043,-0.147778,2010-01-04
+1450,Destination,Gipsy Queen,2010_Gipsy Queen_Strada South Grove,51.550794,-0.15471400000000002,2010-02-09
+1451,Origin,Strada South Grove,2010_Gipsy Queen_Strada South Grove,51.57043,-0.147778,2010-01-04
+1452,Destination,LAS IGUANAS,2010_LAS IGUANAS_Strada South Grove,51.524397,-0.12385,2010-08-04
+1453,Origin,Strada South Grove,2010_LAS IGUANAS_Strada South Grove,51.57043,-0.147778,2010-01-04
+1454,Destination,Max Orient,2010_Max Orient_Strada South Grove,51.540754,-0.145258,2010-08-10
+1455,Origin,Strada South Grove,2010_Max Orient_Strada South Grove,51.57043,-0.147778,2010-01-04
+1456,Destination,Balans Restaurant,2010_Balans Restaurant_Strada South Grove,51.513596,-0.127317,2010-10-13
+1457,Origin,Strada South Grove,2010_Balans Restaurant_Strada South Grove,51.57043,-0.147778,2010-01-04
+1458,Destination,Lyttelton Arms,2010_Lyttelton Arms_Strada South Grove,51.534911,-0.139649,2010-04-02
+1459,Origin,Strada South Grove,2010_Lyttelton Arms_Strada South Grove,51.57043,-0.147778,2010-01-04
+1460,Destination,My Shop,2010_My Shop_Strada South Grove,51.556776,-0.13938499999999998,2010-05-17
+1461,Origin,Strada South Grove,2010_My Shop_Strada South Grove,51.57043,-0.147778,2010-01-04
+1462,Destination,Melia White House Hotel,2010_Melia White House Hotel_Strada South Grove,51.525222,-0.14366600000000002,2010-10-15
+1463,Origin,Strada South Grove,2010_Melia White House Hotel_Strada South Grove,51.57043,-0.147778,2010-01-04
+1464,Destination,Bar at TCR,2010_Bar at TCR_Strada South Grove,51.522218,-0.13492200000000001,2010-10-06
+1465,Origin,Strada South Grove,2010_Bar at TCR_Strada South Grove,51.57043,-0.147778,2010-01-04
+1466,Destination,Mezza Eatery,2010_Mezza Eatery_Strada South Grove,51.534911,-0.139649,2010-10-19
+1467,Origin,Strada South Grove,2010_Mezza Eatery_Strada South Grove,51.57043,-0.147778,2010-01-04
+1468,Destination,Stag,2010_Stag_Strada South Grove,51.553337,-0.161684,2010-02-19
+1469,Origin,Strada South Grove,2010_Stag_Strada South Grove,51.57043,-0.147778,2010-01-04
+1470,Destination,Rocket,2010_Rocket_Strada South Grove,51.528287,-0.129436,2010-07-20
+1471,Origin,Strada South Grove,2010_Rocket_Strada South Grove,51.57043,-0.147778,2010-01-04
+1472,Destination,Freemasons Hall,2010_Freemasons Hall_Strada South Grove,51.515423,-0.12044400000000001,2010-07-23
+1473,Origin,Strada South Grove,2010_Freemasons Hall_Strada South Grove,51.57043,-0.147778,2010-01-04
+1474,Destination,McDonald's Restaurants Ltd,2010_McDonald's Restaurants Ltd_Strada South Grove,51.523937,-0.141005,2010-09-21
+1475,Origin,Strada South Grove,2010_McDonald's Restaurants Ltd_Strada South Grove,51.57043,-0.147778,2010-01-04
+1476,Destination,Le Pain Quotidien,2010_Le Pain Quotidien_Strada South Grove,51.520337,-0.134654,2010-01-28
+1477,Origin,Strada South Grove,2010_Le Pain Quotidien_Strada South Grove,51.57043,-0.147778,2010-01-04
+1478,Destination,NWC (formerly Legacy),2010_NWC (formerly Legacy)_Strada South Grove,51.543234000000005,-0.17561500000000002,2010-07-09
+1479,Origin,Strada South Grove,2010_NWC (formerly Legacy)_Strada South Grove,51.57043,-0.147778,2010-01-04
+1480,Destination,Fleet River Bakery,2010_Fleet River Bakery_Strada South Grove,51.51668,-0.119209,2010-09-04
+1481,Origin,Strada South Grove,2010_Fleet River Bakery_Strada South Grove,51.57043,-0.147778,2010-01-04
+1482,Destination,Souk Restaurant,2010_Souk Restaurant_Strada South Grove,51.514446,-0.126545,2010-12-03
+1483,Origin,Strada South Grove,2010_Souk Restaurant_Strada South Grove,51.57043,-0.147778,2010-01-04
+1484,Destination,Strada South Grove,2010_Strada South Grove_Strada South Grove,51.57043,-0.147778,2010-01-04
+1485,Origin,Strada South Grove,2010_Strada South Grove_Strada South Grove,51.57043,-0.147778,2010-01-04
+1486,Destination,Central News and Wine,2010_Central News and Wine_Strada South Grove,51.516890999999994,-0.12531,2010-06-28
+1487,Origin,Strada South Grove,2010_Central News and Wine_Strada South Grove,51.57043,-0.147778,2010-01-04
+1488,Destination,Tannin and Oak,2010_Tannin and Oak_Strada South Grove,51.552048,-0.19166,2010-11-19
+1489,Origin,Strada South Grove,2010_Tannin and Oak_Strada South Grove,51.57043,-0.147778,2010-01-04
+1490,Destination,Doubletree by Hilton London - West End,2010_Doubletree by Hilton London - West End_Strada South Grove,51.520227,-0.12197000000000001,2010-10-25
+1491,Origin,Strada South Grove,2010_Doubletree by Hilton London - West End_Strada South Grove,51.57043,-0.147778,2010-01-04
+1492,Destination,Bar Vinyl,2010_Bar Vinyl_Strada South Grove,51.540039,-0.14449700000000001,2010-01-04
+1493,Origin,Strada South Grove,2010_Bar Vinyl_Strada South Grove,51.57043,-0.147778,2010-01-04
+1494,Destination,Everyman Cinema,2010_Everyman Cinema_Strada South Grove,51.556678000000005,-0.178912,2010-01-21
+1495,Origin,Strada South Grove,2010_Everyman Cinema_Strada South Grove,51.57043,-0.147778,2010-01-04
+1496,Destination,Kiss The Sky Bar,2010_Kiss The Sky Bar_Strada South Grove,51.55381,-0.16817100000000001,2010-01-18
+1497,Origin,Strada South Grove,2010_Kiss The Sky Bar_Strada South Grove,51.57043,-0.147778,2010-01-04
+1498,Destination,Sunrise,2010_Sunrise_Strada South Grove,51.515044,-0.126064,2010-03-29
+1499,Origin,Strada South Grove,2010_Sunrise_Strada South Grove,51.57043,-0.147778,2010-01-04
+1500,Destination,Peckwater Estate Tenant & R.A,2010_Peckwater Estate Tenant & R.A_Strada South Grove,51.550459000000004,-0.138127,2010-04-29
+1501,Origin,Strada South Grove,2010_Peckwater Estate Tenant & R.A_Strada South Grove,51.57043,-0.147778,2010-01-04
+1502,Destination,Hot Rock Cafe,2010_Hot Rock Cafe_Strada South Grove,51.539219,-0.141978,2010-12-21
+1503,Origin,Strada South Grove,2010_Hot Rock Cafe_Strada South Grove,51.57043,-0.147778,2010-01-04
+1504,Destination,Griffin,2010_Griffin_Strada South Grove,51.521334,-0.112046,2010-07-07
+1505,Origin,Strada South Grove,2010_Griffin_Strada South Grove,51.57043,-0.147778,2010-01-04
+1506,Destination,Prince Of Wales' Feathers,2010_Prince Of Wales' Feathers_Strada South Grove,51.523937,-0.138173,2010-01-18
+1507,Origin,Strada South Grove,2010_Prince Of Wales' Feathers_Strada South Grove,51.57043,-0.147778,2010-01-04
+1508,Destination,Villandry Kitchen,2010_Villandry Kitchen_Strada South Grove,51.518268,-0.11845499999999999,2010-12-05
+1509,Origin,Strada South Grove,2010_Villandry Kitchen_Strada South Grove,51.57043,-0.147778,2010-01-04
+1510,Destination,Sway,2010_Sway_Strada South Grove,51.515423,-0.12044400000000001,2010-09-28
+1511,Origin,Strada South Grove,2010_Sway_Strada South Grove,51.57043,-0.147778,2010-01-04
+1512,Destination,London Euston Premier Travel Inn,2010_London Euston Premier Travel Inn_Strada South Grove,51.527645,-0.128604,2010-04-27
+1513,Origin,Strada South Grove,2010_London Euston Premier Travel Inn_Strada South Grove,51.57043,-0.147778,2010-01-04
+1514,Destination,Grays Inn Card Shop,2010_Grays Inn Card Shop_Strada South Grove,51.521861,-0.11399200000000001,2010-04-20
+1515,Origin,Strada South Grove,2010_Grays Inn Card Shop_Strada South Grove,51.57043,-0.147778,2010-01-04
+1516,Destination,Grosvenor St Giles Casino,2010_Grosvenor St Giles Casino_Strada South Grove,51.517452,-0.130432,2010-04-15
+1517,Origin,Strada South Grove,2010_Grosvenor St Giles Casino_Strada South Grove,51.57043,-0.147778,2010-01-04
+1518,Destination,Lord Stanley,2010_Lord Stanley_Strada South Grove,51.547542,-0.12961,2010-05-07
+1519,Origin,Strada South Grove,2010_Lord Stanley_Strada South Grove,51.57043,-0.147778,2010-01-04
+1520,Destination,Faaji,2010_Faaji_Strada South Grove,51.549434999999995,-0.183002,2010-02-18
+1521,Origin,Strada South Grove,2010_Faaji_Strada South Grove,51.57043,-0.147778,2010-01-04
+1522,Destination,Enterprise,2010_Enterprise_Strada South Grove,51.544246,-0.152816,2010-03-16
+1523,Origin,Strada South Grove,2010_Enterprise_Strada South Grove,51.57043,-0.147778,2010-01-04
+1524,Destination,O'Neills,2010_O'Neills_Strada South Grove,51.528517,-0.126822,2010-04-27
+1525,Origin,Strada South Grove,2010_O'Neills_Strada South Grove,51.57043,-0.147778,2010-01-04
+1526,Destination,Burger King,2010_Burger King_Strada South Grove,51.516965,-0.120941,2010-04-16
+1527,Origin,Strada South Grove,2010_Burger King_Strada South Grove,51.57043,-0.147778,2010-01-04
+1528,Destination,Morrisons,2010_Morrisons_Strada South Grove,51.541346000000004,-0.149794,2010-10-14
+1529,Origin,Strada South Grove,2010_Morrisons_Strada South Grove,51.57043,-0.147778,2010-01-04
+1530,Destination,Tuck Shop,2010_Tuck Shop_Strada South Grove,51.543257000000004,-0.14215999999999998,2010-07-12
+1531,Origin,Strada South Grove,2010_Tuck Shop_Strada South Grove,51.57043,-0.147778,2010-01-04
+1532,Destination,Made in Brasil Boteco (formerly Coco Bamboo),2010_Made in Brasil Boteco (formerly Coco Bamboo)_Strada South Grove,51.54314,-0.148383,2010-09-04
+1533,Origin,Strada South Grove,2010_Made in Brasil Boteco (formerly Coco Bamboo)_Strada South Grove,51.57043,-0.147778,2010-01-04
+1534,Destination,Way 2 Save,2010_Way 2 Save_Strada South Grove,51.546555,-0.203003,2010-03-24
+1535,Origin,Strada South Grove,2010_Way 2 Save_Strada South Grove,51.57043,-0.147778,2010-01-04
+1536,Destination,Chicken Cottage,2010_Chicken Cottage_Strada South Grove,51.517672,-0.12209600000000001,2010-06-21
+1537,Origin,Strada South Grove,2010_Chicken Cottage_Strada South Grove,51.57043,-0.147778,2010-01-04
+1538,Destination,Old Oak,2010_Old Oak_Strada South Grove,51.554717,-0.151107,2010-01-20
+1539,Origin,Strada South Grove,2010_Old Oak_Strada South Grove,51.57043,-0.147778,2010-01-04
+1540,Destination,Tavio Express Food & Wine,2010_Tavio Express Food & Wine_Strada South Grove,51.514813000000004,-0.12298900000000001,2010-03-17
+1541,Origin,Strada South Grove,2010_Tavio Express Food & Wine_Strada South Grove,51.57043,-0.147778,2010-01-04
+1542,Destination,02 Forum,2010_02 Forum_Strada South Grove,51.551885,-0.141932,2010-01-06
+1543,Origin,Strada South Grove,2010_02 Forum_Strada South Grove,51.57043,-0.147778,2010-01-04
+1544,Destination,Manna Restaurant,2010_Manna Restaurant_Strada South Grove,51.542027000000004,-0.157269,2010-06-08
+1545,Origin,Strada South Grove,2010_Manna Restaurant_Strada South Grove,51.57043,-0.147778,2010-01-04
+1546,Destination,Gilgamesh,2010_Gilgamesh_Strada South Grove,51.542256,-0.14816,2010-12-22
+1547,Origin,Strada South Grove,2010_Gilgamesh_Strada South Grove,51.57043,-0.147778,2010-01-04
+1548,Destination,Compagnie des Vins Surnaturel,2010_Compagnie des Vins Surnaturel_Strada South Grove,51.514446,-0.126545,2010-03-26
+1549,Origin,Strada South Grove,2010_Compagnie des Vins Surnaturel_Strada South Grove,51.57043,-0.147778,2010-01-04
+1550,Destination,Sanxia Renjia,2010_Sanxia Renjia_Strada South Grove,51.519465999999994,-0.134998,2010-09-09
+1551,Origin,Strada South Grove,2010_Sanxia Renjia_Strada South Grove,51.57043,-0.147778,2010-01-04
+1552,Destination,Spearmint Rhino,2010_Spearmint Rhino_Strada South Grove,51.523398,-0.136463,2010-05-25
+1553,Origin,Strada South Grove,2010_Spearmint Rhino_Strada South Grove,51.57043,-0.147778,2010-01-04
+1554,Destination,Hampstead Theatre,2010_Hampstead Theatre_Strada South Grove,51.544482,-0.169523,2010-04-16
+1555,Origin,Strada South Grove,2010_Hampstead Theatre_Strada South Grove,51.57043,-0.147778,2010-01-04
+1556,Destination,Tomai Pan Asian Street Food,2010_Tomai Pan Asian Street Food_Strada South Grove,51.548794,-0.19137300000000002,2010-06-10
+1557,Origin,Strada South Grove,2010_Tomai Pan Asian Street Food_Strada South Grove,51.57043,-0.147778,2010-01-04
+1558,Destination,Hampstead Food Mart,2010_Hampstead Food Mart_Strada South Grove,51.546339,-0.191433,2010-12-23
+1559,Origin,Strada South Grove,2010_Hampstead Food Mart_Strada South Grove,51.57043,-0.147778,2010-01-04
+1560,Destination,Cafe Rouge,2010_Cafe Rouge_Strada South Grove,51.529302,-0.13258499999999998,2010-10-19
+1561,Origin,Strada South Grove,2010_Cafe Rouge_Strada South Grove,51.57043,-0.147778,2010-01-04
+1562,Destination,Rosslyn Arms,2010_Rosslyn Arms_Strada South Grove,51.555053,-0.172822,2010-11-03
+1563,Origin,Strada South Grove,2010_Rosslyn Arms_Strada South Grove,51.57043,-0.147778,2010-01-04
+1564,Destination,Franco Manca (formerly Chimichanga),2010_Franco Manca (formerly Chimichanga)_Strada South Grove,51.551239,-0.165481,2010-05-15
+1565,Origin,Strada South Grove,2010_Franco Manca (formerly Chimichanga)_Strada South Grove,51.57043,-0.147778,2010-01-04
+1566,Destination,Spiritual Caipirinha Bar,2010_Spiritual Caipirinha Bar_Strada South Grove,51.54347,-0.148787,2010-01-04
+1567,Origin,Strada South Grove,2010_Spiritual Caipirinha Bar_Strada South Grove,51.57043,-0.147778,2010-01-04
+1568,Destination,Kentish Kebab,2010_Kentish Kebab_Strada South Grove,51.54587,-0.14094600000000002,2010-02-18
+1569,Origin,Strada South Grove,2010_Kentish Kebab_Strada South Grove,51.57043,-0.147778,2010-01-04
+1570,Destination,The T.E. Dingwall Building (Formerly Lock 17/Highlight),2010_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Strada South Grove,51.541428,-0.145851,2010-05-20
+1571,Origin,Strada South Grove,2010_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Strada South Grove,51.57043,-0.147778,2010-01-04
+1572,Destination,Comptoir Libanais,2010_Comptoir Libanais_Strada South Grove,51.547698,-0.181321,2010-03-02
+1573,Origin,Strada South Grove,2010_Comptoir Libanais_Strada South Grove,51.57043,-0.147778,2010-01-04
+1574,Destination,Hush Brasseries Holborn (formerly Villandry Kitchen),2010_Hush Brasseries Holborn (formerly Villandry Kitchen)_Strada South Grove,51.518268,-0.11845499999999999,2010-12-05
+1575,Origin,Strada South Grove,2010_Hush Brasseries Holborn (formerly Villandry Kitchen)_Strada South Grove,51.57043,-0.147778,2010-01-04
+1576,Destination,26 Grains (formerly known as Neal's Yard Salad Bar),2010_26 Grains (formerly known as Neal's Yard Salad Bar)_Strada South Grove,51.514446,-0.126545,2010-03-26
+1577,Origin,Strada South Grove,2010_26 Grains (formerly known as Neal's Yard Salad Bar)_Strada South Grove,51.57043,-0.147778,2010-01-04
+1578,Destination,The Blues Kitchen,2010_The Blues Kitchen_Strada South Grove,51.536691,-0.141465,2010-03-23
+1579,Origin,Strada South Grove,2010_The Blues Kitchen_Strada South Grove,51.57043,-0.147778,2010-01-04
+1580,Destination,Ciao Ciao,2010_Ciao Ciao_Strada South Grove,51.545465,-0.20251,2010-08-19
+1581,Origin,Strada South Grove,2010_Ciao Ciao_Strada South Grove,51.57043,-0.147778,2010-01-04
+1582,Destination,Bill's (formerly Pitcher and Piano),2010_Bill's (formerly Pitcher and Piano)_Strada South Grove,51.515819,-0.118702,2010-06-04
+1583,Origin,Strada South Grove,2010_Bill's (formerly Pitcher and Piano)_Strada South Grove,51.57043,-0.147778,2010-01-04
+1584,Destination,Elementree,2010_Elementree_Strada South Grove,51.555443,-0.212655,2010-11-05
+1585,Origin,Strada South Grove,2010_Elementree_Strada South Grove,51.57043,-0.147778,2010-01-04
+1586,Destination,Elephants Head,2010_Elephants Head_Strada South Grove,51.540541999999995,-0.14366199999999998,2010-08-03
+1587,Origin,Strada South Grove,2010_Elephants Head_Strada South Grove,51.57043,-0.147778,2010-01-04
+1588,Destination,Tesco,2017_Tesco_Union Bar and Grill,51.523937,-0.138173,2017-03-14
+1589,Origin,Union Bar and Grill,2017_Tesco_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1590,Destination,East Lodge,2017_East Lodge_Union Bar and Grill,51.527128999999995,-0.132192,2017-03-21
+1591,Origin,Union Bar and Grill,2017_East Lodge_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1592,Destination,Cafe & Grill,2017_Cafe & Grill_Union Bar and Grill,51.540172999999996,-0.14257999999999998,2017-03-21
+1593,Origin,Union Bar and Grill,2017_Cafe & Grill_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1594,Destination,Kentish Food & Wine,2017_Kentish Food & Wine_Union Bar and Grill,51.546125,-0.147151,2017-04-21
+1595,Origin,Union Bar and Grill,2017_Kentish Food & Wine_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1596,Destination,Istanbul Meze Grill,2017_Istanbul Meze Grill_Union Bar and Grill,51.534911,-0.139649,2017-09-01
+1597,Origin,Union Bar and Grill,2017_Istanbul Meze Grill_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1598,Destination,Central News and Wine,2017_Central News and Wine_Union Bar and Grill,51.516890999999994,-0.12531,2017-01-23
+1599,Origin,Union Bar and Grill,2017_Central News and Wine_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1600,Destination,Tesco Heath Street Hampstead Express,2017_Tesco Heath Street Hampstead Express_Union Bar and Grill,51.556143,-0.179161,2017-03-14
+1601,Origin,Union Bar and Grill,2017_Tesco Heath Street Hampstead Express_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1602,Destination,Tesco Belsize Park Express,2017_Tesco Belsize Park Express_Union Bar and Grill,51.545968,-0.162543,2017-03-14
+1603,Origin,Union Bar and Grill,2017_Tesco Belsize Park Express_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1604,Destination,Tesco's,2017_Tesco's_Union Bar and Grill,51.562216,-0.149619,2017-03-14
+1605,Origin,Union Bar and Grill,2017_Tesco's_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1606,Destination,Union Bar and Grill,2017_Union Bar and Grill_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1607,Origin,Union Bar and Grill,2017_Union Bar and Grill_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1608,Destination,Ice Wharf - Lloyds No 1,2017_Ice Wharf - Lloyds No 1_Union Bar and Grill,51.540754,-0.145258,2017-04-05
+1609,Origin,Union Bar and Grill,2017_Ice Wharf - Lloyds No 1_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1610,Destination,Mestizo Restaurant (formerly Costcut Express Food and Wine),2017_Mestizo Restaurant (formerly Costcut Express Food and Wine)_Union Bar and Grill,51.527464,-0.138928,2017-06-04
+1611,Origin,Union Bar and Grill,2017_Mestizo Restaurant (formerly Costcut Express Food and Wine)_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1612,Destination,The Bloomsbury Hotel,2017_The Bloomsbury Hotel_Union Bar and Grill,51.517232,-0.128717,2017-10-04
+1613,Origin,Union Bar and Grill,2017_The Bloomsbury Hotel_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1614,Destination,Kentish Town Supermarket,2017_Kentish Town Supermarket_Union Bar and Grill,51.545931,-0.14239000000000002,2017-04-16
+1615,Origin,Union Bar and Grill,2017_Kentish Town Supermarket_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1616,Destination,Tavistock Hotel,2017_Tavistock Hotel_Union Bar and Grill,51.52386,-0.12945,2017-01-02
+1617,Origin,Union Bar and Grill,2017_Tavistock Hotel_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1618,Destination,PRIME BURGERS,2017_PRIME BURGERS_Union Bar and Grill,51.529302,-0.13258499999999998,2017-02-01
+1619,Origin,Union Bar and Grill,2017_PRIME BURGERS_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1620,Destination,Zala Grill (formerly Hola Paella),2017_Zala Grill (formerly Hola Paella)_Union Bar and Grill,51.54123,-0.146584,2017-03-24
+1621,Origin,Union Bar and Grill,2017_Zala Grill (formerly Hola Paella)_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1622,Destination,Crowne Plaza Kings Cross,2017_Crowne Plaza Kings Cross_Union Bar and Grill,51.52628,-0.113854,2017-04-01
+1623,Origin,Union Bar and Grill,2017_Crowne Plaza Kings Cross_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1624,Destination,Tesco Metro,2017_Tesco Metro_Union Bar and Grill,51.520337,-0.134654,2017-03-14
+1625,Origin,Union Bar and Grill,2017_Tesco Metro_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02
+1626,Destination,Centro 3,2017_Centro 3_Union Bar and Grill,51.537749,-0.137032,2017-02-21
+1627,Origin,Union Bar and Grill,2017_Centro 3_Union Bar and Grill,51.525180999999996,-0.14246099999999998,2017-01-02

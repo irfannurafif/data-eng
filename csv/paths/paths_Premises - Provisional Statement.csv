@@ -1,0 +1,27 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,The Greek Larder Unit 1A,2014_The Greek Larder Unit 1A_The Greek Larder Unit 1A,51.53634,-0.1227,2014-01-17
+1,Origin,The Greek Larder Unit 1A,2014_The Greek Larder Unit 1A_The Greek Larder Unit 1A,51.53634,-0.1227,2014-01-17
+2,Destination,"Pavillion, 3 Granary Square","2014_Pavillion, 3 Granary Square_The Greek Larder Unit 1A",51.536384000000005,-0.124454,2014-01-17
+3,Origin,The Greek Larder Unit 1A,"2014_Pavillion, 3 Granary Square_The Greek Larder Unit 1A",51.53634,-0.1227,2014-01-17
+4,Destination,Granger and Co,2014_Granger and Co_The Greek Larder Unit 1A,51.533226,-0.12602,2014-01-17
+5,Origin,The Greek Larder Unit 1A,2014_Granger and Co_The Greek Larder Unit 1A,51.53634,-0.1227,2014-01-17
+6,Destination,Dishoom,2014_Dishoom_The Greek Larder Unit 1A,51.536384000000005,-0.124454,2014-01-17
+7,Origin,The Greek Larder Unit 1A,2014_Dishoom_The Greek Larder Unit 1A,51.53634,-0.1227,2014-01-17
+8,Destination,NOTES,2014_NOTES_The Greek Larder Unit 1A,51.532962,-0.12507200000000002,2014-01-17
+9,Origin,The Greek Larder Unit 1A,2014_NOTES_The Greek Larder Unit 1A,51.53634,-0.1227,2014-01-17
+10,Destination,"Unit 1, Tapestry","2014_Unit 1, Tapestry_The Greek Larder Unit 1A",51.537017999999996,-0.128181,2014-01-17
+11,Origin,The Greek Larder Unit 1A,"2014_Unit 1, Tapestry_The Greek Larder Unit 1A",51.53634,-0.1227,2014-01-17
+12,Destination,Unit 4 Two Pancras Square,2014_Unit 4 Two Pancras Square_The Greek Larder Unit 1A,51.533518,-0.12507100000000002,2014-01-17
+13,Origin,The Greek Larder Unit 1A,2014_Unit 4 Two Pancras Square_The Greek Larder Unit 1A,51.53634,-0.1227,2014-01-17
+14,Destination,Vinoteca,2014_Vinoteca_The Greek Larder Unit 1A,51.532962,-0.12507200000000002,2014-01-17
+15,Origin,The Greek Larder Unit 1A,2014_Vinoteca_The Greek Larder Unit 1A,51.53634,-0.1227,2014-01-17
+16,Destination,Off Licence TBC,2006_Off Licence TBC_Victoria House,51.554717,-0.151107,2006-08-05
+17,Origin,Victoria House,2006_Off Licence TBC_Victoria House,51.519286,-0.12206700000000001,2006-01-02
+18,Destination,Assembly House,2006_Assembly House_Victoria House,51.551065,-0.140306,2006-01-17
+19,Origin,Victoria House,2006_Assembly House_Victoria House,51.519286,-0.12206700000000001,2006-01-02
+20,Destination,Victoria House,2006_Victoria House_Victoria House,51.519286,-0.12206700000000001,2006-01-02
+21,Origin,Victoria House,2006_Victoria House_Victoria House,51.519286,-0.12206700000000001,2006-01-02
+22,Destination,Assembly House,2005_Assembly House_Assembly House,51.551065,-0.140306,2005-02-15
+23,Origin,Assembly House,2005_Assembly House_Assembly House,51.551065,-0.140306,2005-02-15
+24,Destination,Hawley Arms,2005_Hawley Arms_Assembly House,51.541961,-0.145297,2005-11-28
+25,Origin,Assembly House,2005_Hawley Arms_Assembly House,51.551065,-0.140306,2005-02-15

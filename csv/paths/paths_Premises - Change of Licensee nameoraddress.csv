@@ -1,0 +1,505 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Gourmet Burger Kitchen,2016_Gourmet Burger Kitchen_Way 2 Save,51.524397,-0.12385,2016-08-07
+1,Origin,Way 2 Save,2016_Gourmet Burger Kitchen_Way 2 Save,51.546555,-0.203003,2016-01-02
+2,Destination,Dominos Pizza,2016_Dominos Pizza_Way 2 Save,51.551787,-0.19178699999999999,2016-02-16
+3,Origin,Way 2 Save,2016_Dominos Pizza_Way 2 Save,51.546555,-0.203003,2016-01-02
+4,Destination,Garden Cafe & Restaurant,2016_Garden Cafe & Restaurant_Way 2 Save,51.545735,-0.179501,2016-01-18
+5,Origin,Way 2 Save,2016_Garden Cafe & Restaurant_Way 2 Save,51.546555,-0.203003,2016-01-02
+6,Destination,Tesco Express,2016_Tesco Express_Way 2 Save,51.536709,-0.19143,2016-07-01
+7,Origin,Way 2 Save,2016_Tesco Express_Way 2 Save,51.546555,-0.203003,2016-01-02
+8,Destination,Tesco Heath Street Hampstead Express,2016_Tesco Heath Street Hampstead Express_Way 2 Save,51.556143,-0.179161,2016-07-01
+9,Origin,Way 2 Save,2016_Tesco Heath Street Hampstead Express_Way 2 Save,51.546555,-0.203003,2016-01-02
+10,Destination,Firezza (formerly PizzaExpresss Delivered),2016_Firezza (formerly PizzaExpresss Delivered)_Way 2 Save,51.550391999999995,-0.19197899999999998,2016-11-23
+11,Origin,Way 2 Save,2016_Firezza (formerly PizzaExpresss Delivered)_Way 2 Save,51.546555,-0.203003,2016-01-02
+12,Destination,Secrets (Gray's Inn Road),2016_Secrets (Gray's Inn Road)_Way 2 Save,51.518921,-0.11112999999999999,2016-08-03
+13,Origin,Way 2 Save,2016_Secrets (Gray's Inn Road)_Way 2 Save,51.546555,-0.203003,2016-01-02
+14,Destination,Itsu,2016_Itsu_Way 2 Save,51.514534999999995,-0.133795,2016-05-29
+15,Origin,Way 2 Save,2016_Itsu_Way 2 Save,51.546555,-0.203003,2016-01-02
+16,Destination,TORTILLA,2016_TORTILLA_Way 2 Save,51.538624,-0.141854,2016-01-19
+17,Origin,Way 2 Save,2016_TORTILLA_Way 2 Save,51.546555,-0.203003,2016-01-02
+18,Destination,Shake Shack,2016_Shake Shack_Way 2 Save,51.51685,-0.128578,2016-10-05
+19,Origin,Way 2 Save,2016_Shake Shack_Way 2 Save,51.546555,-0.203003,2016-01-02
+20,Destination,Cafe Benjamin,2016_Cafe Benjamin_Way 2 Save,51.541275,-0.143823,2016-10-31
+21,Origin,Way 2 Save,2016_Cafe Benjamin_Way 2 Save,51.546555,-0.203003,2016-01-02
+22,Destination,Friend at Hand,2016_Friend at Hand_Way 2 Save,51.52268,-0.12503599999999998,2016-03-16
+23,Origin,Way 2 Save,2016_Friend at Hand_Way 2 Save,51.546555,-0.203003,2016-01-02
+24,Destination,St Pancras International,2016_St Pancras International_Way 2 Save,51.531775,-0.126577,2016-06-27
+25,Origin,Way 2 Save,2016_St Pancras International_Way 2 Save,51.546555,-0.203003,2016-01-02
+26,Destination,Pizza Hut,2016_Pizza Hut_Way 2 Save,51.53555,-0.139119,2016-02-24
+27,Origin,Way 2 Save,2016_Pizza Hut_Way 2 Save,51.546555,-0.203003,2016-01-02
+28,Destination,Jeremy Bentham,2016_Jeremy Bentham_Way 2 Save,51.524078,-0.135147,2016-08-23
+29,Origin,Way 2 Save,2016_Jeremy Bentham_Way 2 Save,51.546555,-0.203003,2016-01-02
+30,Destination,The Life Goddess,2016_The Life Goddess_Way 2 Save,51.519467,-0.13128199999999998,2016-11-03
+31,Origin,Way 2 Save,2016_The Life Goddess_Way 2 Save,51.546555,-0.203003,2016-01-02
+32,Destination,Daphne Restaurant,2016_Daphne Restaurant_Way 2 Save,51.537827,-0.141005,2016-02-21
+33,Origin,Way 2 Save,2016_Daphne Restaurant_Way 2 Save,51.546555,-0.203003,2016-01-02
+34,Destination,Leon,2016_Leon_Way 2 Save,51.531959,-0.12365,2016-06-16
+35,Origin,Way 2 Save,2016_Leon_Way 2 Save,51.546555,-0.203003,2016-01-02
+36,Destination,Royal George,2016_Royal George_Way 2 Save,51.528401,-0.131543,2016-03-16
+37,Origin,Way 2 Save,2016_Royal George_Way 2 Save,51.546555,-0.203003,2016-01-02
+38,Destination,113 Restaurant & Bar,2016_113 Restaurant & Bar_Way 2 Save,51.52796,-0.139145,2016-02-18
+39,Origin,Way 2 Save,2016_113 Restaurant & Bar_Way 2 Save,51.546555,-0.203003,2016-01-02
+40,Destination,Travelodge,2016_Travelodge_Way 2 Save,51.515615999999994,-0.125354,2016-06-10
+41,Origin,Way 2 Save,2016_Travelodge_Way 2 Save,51.546555,-0.203003,2016-01-02
+42,Destination,Giraffe World Kitchen,2016_Giraffe World Kitchen_Way 2 Save,51.530474,-0.123697,2016-05-07
+43,Origin,Way 2 Save,2016_Giraffe World Kitchen_Way 2 Save,51.546555,-0.203003,2016-01-02
+44,Destination,Carob Tree,2016_Carob Tree_Way 2 Save,51.561552,-0.150151,2016-09-08
+45,Origin,Way 2 Save,2016_Carob Tree_Way 2 Save,51.546555,-0.203003,2016-01-02
+46,Destination,De Vere Grand Connaught Rooms,2016_De Vere Grand Connaught Rooms_Way 2 Save,51.515423,-0.12044400000000001,2016-11-24
+47,Origin,Way 2 Save,2016_De Vere Grand Connaught Rooms_Way 2 Save,51.546555,-0.203003,2016-01-02
+48,Destination,The Railway,2016_The Railway_Way 2 Save,51.546124,-0.19050799999999998,2016-03-16
+49,Origin,Way 2 Save,2016_The Railway_Way 2 Save,51.546555,-0.203003,2016-01-02
+50,Destination,Franco Manca (formerly Chimis Burrito Bar),2016_Franco Manca (formerly Chimis Burrito Bar)_Way 2 Save,51.52243,-0.13683900000000002,2016-04-26
+51,Origin,Way 2 Save,2016_Franco Manca (formerly Chimis Burrito Bar)_Way 2 Save,51.546555,-0.203003,2016-01-02
+52,Destination,Rising Sun,2016_Rising Sun_Way 2 Save,51.519513,-0.133795,2016-03-16
+53,Origin,Way 2 Save,2016_Rising Sun_Way 2 Save,51.546555,-0.203003,2016-01-02
+54,Destination,Tortilla,2016_Tortilla_Way 2 Save,51.54742,-0.17971099999999998,2016-01-19
+55,Origin,Way 2 Save,2016_Tortilla_Way 2 Save,51.546555,-0.203003,2016-01-02
+56,Destination,Giraffe,2016_Giraffe_Way 2 Save,51.550832,-0.172822,2016-05-07
+57,Origin,Way 2 Save,2016_Giraffe_Way 2 Save,51.546555,-0.203003,2016-01-02
+58,Destination,"Five Guys, Unit 1, The Lighthouse Building","2016_Five Guys, Unit 1, The Lighthouse Building_Way 2 Save",51.530693,-0.121473,2016-12-09
+59,Origin,Way 2 Save,"2016_Five Guys, Unit 1, The Lighthouse Building_Way 2 Save",51.546555,-0.203003,2016-01-02
+60,Destination,Franco manca,2016_Franco manca_Way 2 Save,51.537207,-0.192154,2016-04-26
+61,Origin,Way 2 Save,2016_Franco manca_Way 2 Save,51.546555,-0.203003,2016-01-02
+62,Destination,Be At One,2016_Be At One_Way 2 Save,51.535494,-0.140296,2016-11-23
+63,Origin,Way 2 Save,2016_Be At One_Way 2 Save,51.546555,-0.203003,2016-01-02
+64,Destination,Tesco,2016_Tesco_Way 2 Save,51.523937,-0.19711800000000002,2016-07-01
+65,Origin,Way 2 Save,2016_Tesco_Way 2 Save,51.546555,-0.203003,2016-01-02
+66,Destination,Sourced Market Unit 28,2016_Sourced Market Unit 28_Way 2 Save,51.531775,-0.126577,2016-04-20
+67,Origin,Way 2 Save,2016_Sourced Market Unit 28_Way 2 Save,51.546555,-0.203003,2016-01-02
+68,Destination,Franco Manca (formerly Chimichanga),2016_Franco Manca (formerly Chimichanga)_Way 2 Save,51.551239,-0.165481,2016-04-26
+69,Origin,Way 2 Save,2016_Franco Manca (formerly Chimichanga)_Way 2 Save,51.546555,-0.203003,2016-01-02
+70,Destination,Hoxton Hotel,2016_Hoxton Hotel_Way 2 Save,51.51712,-0.12208599999999999,2016-10-17
+71,Origin,Way 2 Save,2016_Hoxton Hotel_Way 2 Save,51.546555,-0.203003,2016-01-02
+72,Destination,Hair Blow Ltd (formerly Old Bridge Partnership),2016_Hair Blow Ltd (formerly Old Bridge Partnership)_Way 2 Save,51.546657,-0.19045499999999999,2016-02-01
+73,Origin,Way 2 Save,2016_Hair Blow Ltd (formerly Old Bridge Partnership)_Way 2 Save,51.546555,-0.203003,2016-01-02
+74,Destination,Krimas,2016_Krimas_Way 2 Save,51.519021,-0.135793,2016-02-02
+75,Origin,Way 2 Save,2016_Krimas_Way 2 Save,51.546555,-0.203003,2016-01-02
+76,Destination,Crown,2016_Crown_Way 2 Save,51.514389,-0.12725799999999998,2016-03-16
+77,Origin,Way 2 Save,2016_Crown_Way 2 Save,51.546555,-0.203003,2016-01-02
+78,Destination,Tesco Belsize Park Express,2016_Tesco Belsize Park Express_Way 2 Save,51.545968,-0.162543,2016-07-01
+79,Origin,Way 2 Save,2016_Tesco Belsize Park Express_Way 2 Save,51.546555,-0.203003,2016-01-02
+80,Destination,Bar at TCR,2016_Bar at TCR_Way 2 Save,51.522218,-0.13492200000000001,2016-08-24
+81,Origin,Way 2 Save,2016_Bar at TCR_Way 2 Save,51.546555,-0.203003,2016-01-02
+82,Destination,Two Brewers,2016_Two Brewers_Way 2 Save,51.513243,-0.127366,2016-03-16
+83,Origin,Way 2 Save,2016_Two Brewers_Way 2 Save,51.546555,-0.203003,2016-01-02
+84,Destination,Tesco Stores Ltd,2016_Tesco Stores Ltd_Way 2 Save,51.520437,-0.106431,2016-07-01
+85,Origin,Way 2 Save,2016_Tesco Stores Ltd_Way 2 Save,51.546555,-0.203003,2016-01-02
+86,Destination,"Itsu, Unit","2016_Itsu, Unit_Way 2 Save",51.523298,-0.12282,2016-05-29
+87,Origin,Way 2 Save,"2016_Itsu, Unit_Way 2 Save",51.546555,-0.203003,2016-01-02
+88,Destination,Travelodge Euston,2016_Travelodge Euston_Way 2 Save,51.527865000000006,-0.130582,2016-06-10
+89,Origin,Way 2 Save,2016_Travelodge Euston_Way 2 Save,51.546555,-0.203003,2016-01-02
+90,Destination,Swan,2016_Swan_Way 2 Save,51.521776,-0.12359300000000001,2016-03-16
+91,Origin,Way 2 Save,2016_Swan_Way 2 Save,51.546555,-0.203003,2016-01-02
+92,Destination,Holiday Inn London Bloomsbury,2016_Holiday Inn London Bloomsbury_Way 2 Save,51.523677,-0.12488699999999998,2016-02-15
+93,Origin,Way 2 Save,2016_Holiday Inn London Bloomsbury_Way 2 Save,51.546555,-0.203003,2016-01-02
+94,Destination,Mia,2016_Mia_Way 2 Save,51.543234000000005,-0.17561500000000002,2016-12-19
+95,Origin,Way 2 Save,2016_Mia_Way 2 Save,51.546555,-0.203003,2016-01-02
+96,Destination,"Tesco, Russell Square Express, (02720)","2016_Tesco, Russell Square Express, (02720)_Way 2 Save",51.523677,-0.12488699999999998,2016-07-01
+97,Origin,Way 2 Save,"2016_Tesco, Russell Square Express, (02720)_Way 2 Save",51.546555,-0.203003,2016-01-02
+98,Destination,Giraffe Stop,2016_Giraffe Stop_Way 2 Save,51.531959,-0.12365,2016-05-07
+99,Origin,Way 2 Save,2016_Giraffe Stop_Way 2 Save,51.546555,-0.203003,2016-01-02
+100,Destination,Tesco Metro,2016_Tesco Metro_Way 2 Save,51.520337,-0.134654,2016-07-01
+101,Origin,Way 2 Save,2016_Tesco Metro_Way 2 Save,51.546555,-0.203003,2016-01-02
+102,Destination,Marlborough Arms,2016_Marlborough Arms_Way 2 Save,51.521608,-0.132898,2016-03-16
+103,Origin,Way 2 Save,2016_Marlborough Arms_Way 2 Save,51.546555,-0.203003,2016-01-02
+104,Destination,Clink 261,2016_Clink 261_Way 2 Save,51.528472,-0.11981900000000001,2016-04-08
+105,Origin,Way 2 Save,2016_Clink 261_Way 2 Save,51.546555,-0.203003,2016-01-02
+106,Destination,BANH MI BAY,2016_BANH MI BAY_Way 2 Save,51.521265,-0.11384000000000001,2016-04-03
+107,Origin,Way 2 Save,2016_BANH MI BAY_Way 2 Save,51.546555,-0.203003,2016-01-02
+108,Destination,Domino's Pizza,2016_Domino's Pizza_Way 2 Save,51.543793,-0.181221,2016-02-16
+109,Origin,Way 2 Save,2016_Domino's Pizza_Way 2 Save,51.546555,-0.203003,2016-01-02
+110,Destination,Plough,2016_Plough_Way 2 Save,51.517865,-0.12620499999999998,2016-03-16
+111,Origin,Way 2 Save,2016_Plough_Way 2 Save,51.546555,-0.203003,2016-01-02
+112,Destination,Boopshi's,2016_Boopshi's_Way 2 Save,51.519513,-0.133795,2016-02-02
+113,Origin,Way 2 Save,2016_Boopshi's_Way 2 Save,51.546555,-0.203003,2016-01-02
+114,Destination,Light Of Kashmir Restaurant,2016_Light Of Kashmir Restaurant_Way 2 Save,51.553429,-0.161985,2016-07-27
+115,Origin,Way 2 Save,2016_Light Of Kashmir Restaurant_Way 2 Save,51.546555,-0.203003,2016-01-02
+116,Destination,Supersave,2016_Supersave_Way 2 Save,51.551927,-0.19803900000000002,2016-02-17
+117,Origin,Way 2 Save,2016_Supersave_Way 2 Save,51.546555,-0.203003,2016-01-02
+118,Destination,The Little Thai (formerly La Cocotte),2016_The Little Thai (formerly La Cocotte)_Way 2 Save,51.554378,-0.16508299999999998,2016-04-03
+119,Origin,Way 2 Save,2016_The Little Thai (formerly La Cocotte)_Way 2 Save,51.546555,-0.203003,2016-01-02
+120,Destination,"Mindshare Media Uk Limited, 7th and 8th Floors","2016_Mindshare Media Uk Limited, 7th and 8th Floors_Way 2 Save",51.516045,-0.127443,2016-01-28
+121,Origin,Way 2 Save,"2016_Mindshare Media Uk Limited, 7th and 8th Floors_Way 2 Save",51.546555,-0.203003,2016-01-02
+122,Destination,De Vere Holborn Bars,2016_De Vere Holborn Bars_Way 2 Save,51.518775,-0.10989000000000002,2016-04-11
+123,Origin,Way 2 Save,2016_De Vere Holborn Bars_Way 2 Save,51.546555,-0.203003,2016-01-02
+124,Destination,"Thistle Holborn,The Kingsley Hotel","2016_Thistle Holborn,The Kingsley Hotel_Way 2 Save",51.517939,-0.12436099999999999,2016-03-14
+125,Origin,Way 2 Save,"2016_Thistle Holborn,The Kingsley Hotel_Way 2 Save",51.546555,-0.203003,2016-01-02
+126,Destination,Tesco's,2016_Tesco's_Way 2 Save,51.562216,-0.149619,2016-07-01
+127,Origin,Way 2 Save,2016_Tesco's_Way 2 Save,51.546555,-0.203003,2016-01-02
+128,Destination,Queens Head,2016_Queens Head_Way 2 Save,51.528611,-0.118474,2016-01-26
+129,Origin,Way 2 Save,2016_Queens Head_Way 2 Save,51.546555,-0.203003,2016-01-02
+130,Destination,The George,2016_The George_Way 2 Save,51.55271,-0.166968,2016-03-16
+131,Origin,Way 2 Save,2016_The George_Way 2 Save,51.546555,-0.203003,2016-01-02
+132,Destination,Pix Bar,2016_Pix Bar_Way 2 Save,51.515044,-0.126064,2016-04-04
+133,Origin,Way 2 Save,2016_Pix Bar_Way 2 Save,51.546555,-0.203003,2016-01-02
+134,Destination,The Fitzrovia,2016_The Fitzrovia_Way 2 Save,51.519855,-0.135379,2016-03-16
+135,Origin,Way 2 Save,2016_The Fitzrovia_Way 2 Save,51.546555,-0.203003,2016-01-02
+136,Destination,Wolfes Bar & Grill,2016_Wolfes Bar & Grill_Way 2 Save,51.515707,-0.12126300000000001,2016-01-03
+137,Origin,Way 2 Save,2016_Wolfes Bar & Grill_Way 2 Save,51.546555,-0.203003,2016-01-02
+138,Destination,Masala Zone Camden Town,2016_Masala Zone Camden Town_Way 2 Save,51.538422,-0.143124,2016-05-12
+139,Origin,Way 2 Save,2016_Masala Zone Camden Town_Way 2 Save,51.546555,-0.203003,2016-01-02
+140,Destination,Manitoba Tigella Kitchen and Bar,2016_Manitoba Tigella Kitchen and Bar_Way 2 Save,51.51685,-0.128578,2016-08-26
+141,Origin,Way 2 Save,2016_Manitoba Tigella Kitchen and Bar_Way 2 Save,51.546555,-0.203003,2016-01-02
+142,Destination,Way 2 Save,2016_Way 2 Save_Way 2 Save,51.546555,-0.203003,2016-01-02
+143,Origin,Way 2 Save,2016_Way 2 Save_Way 2 Save,51.546555,-0.203003,2016-01-02
+144,Destination,Belushis Bar,2016_Belushis Bar_Way 2 Save,51.536631,-0.14013499999999998,2016-06-21
+145,Origin,Way 2 Save,2016_Belushis Bar_Way 2 Save,51.546555,-0.203003,2016-01-02
+146,Destination,Museum Tavern,2016_Museum Tavern_Way 2 Save,51.518343,-0.12531199999999998,2016-03-16
+147,Origin,Way 2 Save,2016_Museum Tavern_Way 2 Save,51.546555,-0.203003,2016-01-02
+148,Destination,Southampton Arms,2016_Southampton Arms_Way 2 Save,51.556022,-0.14632,2016-09-27
+149,Origin,Way 2 Save,2016_Southampton Arms_Way 2 Save,51.546555,-0.203003,2016-01-02
+150,Destination,The Blues Kitchen,2016_The Blues Kitchen_Way 2 Save,51.536691,-0.141465,2016-09-13
+151,Origin,Way 2 Save,2016_The Blues Kitchen_Way 2 Save,51.546555,-0.203003,2016-01-02
+152,Destination,"Tortilla, Unit 1B, Building B1, Block B","2016_Tortilla, Unit 1B, Building B1, Block B_Way 2 Save",51.532662,-0.125656,2016-01-19
+153,Origin,Way 2 Save,"2016_Tortilla, Unit 1B, Building B1, Block B_Way 2 Save",51.546555,-0.203003,2016-01-02
+154,Destination,La du du,2016_La du du_Way 2 Save,51.547853,-0.190641,2016-05-08
+155,Origin,Way 2 Save,2016_La du du_Way 2 Save,51.546555,-0.203003,2016-01-02
+156,Destination,Franco Manca (formerly Sam's Kitchen),2016_Franco Manca (formerly Sam's Kitchen)_Way 2 Save,51.550323,-0.141154,2016-04-26
+157,Origin,Way 2 Save,2016_Franco Manca (formerly Sam's Kitchen)_Way 2 Save,51.546555,-0.203003,2016-01-02
+158,Destination,Kentish Town Supermarket,2015_Kentish Town Supermarket_Le Cordon Bleu Limited,51.545931,-0.14239000000000002,2015-11-25
+159,Origin,Le Cordon Bleu Limited,2015_Kentish Town Supermarket_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+160,Destination,Mediacom,2015_Mediacom_Le Cordon Bleu Limited,51.520022999999995,-0.120031,2015-11-12
+161,Origin,Le Cordon Bleu Limited,2015_Mediacom_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+162,Destination,Byron,2015_Byron_Le Cordon Bleu Limited,51.518229999999996,-0.181321,2015-07-28
+163,Origin,Le Cordon Bleu Limited,2015_Byron_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+164,Destination,Secrets (Parker St),2015_Secrets (Parker St)_Le Cordon Bleu Limited,51.516965,-0.120941,2015-02-23
+165,Origin,Le Cordon Bleu Limited,2015_Secrets (Parker St)_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+166,Destination,Prime Burger,2015_Prime Burger_Le Cordon Bleu Limited,51.531775,-0.126577,2015-08-18
+167,Origin,Le Cordon Bleu Limited,2015_Prime Burger_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+168,Destination,Maison Blanc,2015_Maison Blanc_Le Cordon Bleu Limited,51.555440999999995,-0.176922,2015-08-24
+169,Origin,Le Cordon Bleu Limited,2015_Maison Blanc_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+170,Destination,Cafe Rouge,2015_Cafe Rouge_Le Cordon Bleu Limited,51.515423,-0.176816,2015-03-19
+171,Origin,Le Cordon Bleu Limited,2015_Cafe Rouge_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+172,Destination,Chez Bob,2015_Chez Bob_Le Cordon Bleu Limited,51.550631,-0.165875,2015-02-16
+173,Origin,Le Cordon Bleu Limited,2015_Chez Bob_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+174,Destination,Strada South Grove,2015_Strada South Grove_Le Cordon Bleu Limited,51.57043,-0.147778,2015-07-22
+175,Origin,Le Cordon Bleu Limited,2015_Strada South Grove_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+176,Destination,The Junction Tavern,2015_The Junction Tavern_Le Cordon Bleu Limited,51.555029,-0.14012,2015-03-16
+177,Origin,Le Cordon Bleu Limited,2015_The Junction Tavern_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+178,Destination,London Maida Vale Marriott,2015_London Maida Vale Marriott_Le Cordon Bleu Limited,51.535973999999996,-0.190412,2015-09-11
+179,Origin,Le Cordon Bleu Limited,2015_London Maida Vale Marriott_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+180,Destination,Wagamama,2015_Wagamama_Le Cordon Bleu Limited,51.516965,-0.181321,2015-03-18
+181,Origin,Le Cordon Bleu Limited,2015_Wagamama_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+182,Destination,Ask Restaurant,2015_Ask Restaurant_Le Cordon Bleu Limited,51.523937,-0.138173,2015-11-16
+183,Origin,Le Cordon Bleu Limited,2015_Ask Restaurant_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+184,Destination,Carpenter's Arms,2015_Carpenter's Arms_Le Cordon Bleu Limited,51.528618,-0.115977,2015-11-06
+185,Origin,Le Cordon Bleu Limited,2015_Carpenter's Arms_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+186,Destination,Prezzo,2015_Prezzo_Le Cordon Bleu Limited,51.517396000000005,-0.125711,2015-04-23
+187,Origin,Le Cordon Bleu Limited,2015_Prezzo_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+188,Destination,LAS IGUANAS,2015_LAS IGUANAS_Le Cordon Bleu Limited,51.524397,-0.12385,2015-07-22
+189,Origin,Le Cordon Bleu Limited,2015_LAS IGUANAS_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+190,Destination,Bea's of Bloomsbury,2015_Bea's of Bloomsbury_Le Cordon Bleu Limited,51.521433,-0.11598299999999999,2015-06-30
+191,Origin,Le Cordon Bleu Limited,2015_Bea's of Bloomsbury_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+192,Destination,Jing Jun Ge Chinese Restaurant,2015_Jing Jun Ge Chinese Restaurant_Le Cordon Bleu Limited,51.549141999999996,-0.18245899999999998,2015-11-06
+193,Origin,Le Cordon Bleu Limited,2015_Jing Jun Ge Chinese Restaurant_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+194,Destination,T & M MINI MARKET,2015_T & M MINI MARKET_Le Cordon Bleu Limited,51.549989000000004,-0.15253699999999998,2015-03-27
+195,Origin,Le Cordon Bleu Limited,2015_T & M MINI MARKET_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+196,Destination,The Gallery,2015_The Gallery_Le Cordon Bleu Limited,51.546657,-0.19045499999999999,2015-02-18
+197,Origin,Le Cordon Bleu Limited,2015_The Gallery_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+198,Destination,Regents Park Marriott,2015_Regents Park Marriott_Le Cordon Bleu Limited,51.542151000000004,-0.170272,2015-06-11
+199,Origin,Le Cordon Bleu Limited,2015_Regents Park Marriott_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+200,Destination,Sevilla Mia,2015_Sevilla Mia_Le Cordon Bleu Limited,51.516921999999994,-0.132023,2015-05-03
+201,Origin,Le Cordon Bleu Limited,2015_Sevilla Mia_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+202,Destination,New Market Inn,2015_New Market Inn_Le Cordon Bleu Limited,51.543074,-0.126691,2015-11-06
+203,Origin,Le Cordon Bleu Limited,2015_New Market Inn_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+204,Destination,Thistle Euston,2015_Thistle Euston_Le Cordon Bleu Limited,51.528952000000004,-0.137736,2015-02-24
+205,Origin,Le Cordon Bleu Limited,2015_Thistle Euston_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+206,Destination,Finchley Bell,2015_Finchley Bell_Le Cordon Bleu Limited,51.549878,-0.183277,2015-07-12
+207,Origin,Le Cordon Bleu Limited,2015_Finchley Bell_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+208,Destination,Le Cordon Bleu Limited,2015_Le Cordon Bleu Limited_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+209,Origin,Le Cordon Bleu Limited,2015_Le Cordon Bleu Limited_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+210,Destination,North Star,2015_North Star_Le Cordon Bleu Limited,51.545976,-0.178297,2015-10-22
+211,Origin,Le Cordon Bleu Limited,2015_North Star_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+212,Destination,Colonel Fawcett,2015_Colonel Fawcett_Le Cordon Bleu Limited,51.541639,-0.136007,2015-11-06
+213,Origin,Le Cordon Bleu Limited,2015_Colonel Fawcett_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+214,Destination,Roka & Sho Chu,2015_Roka & Sho Chu_Le Cordon Bleu Limited,51.519021,-0.135793,2015-08-24
+215,Origin,Le Cordon Bleu Limited,2015_Roka & Sho Chu_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+216,Destination,The Hurricane Rooms,2015_The Hurricane Rooms_Le Cordon Bleu Limited,51.530693,-0.121473,2015-11-17
+217,Origin,Le Cordon Bleu Limited,2015_The Hurricane Rooms_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+218,Destination,Conway Hall,2015_Conway Hall_Le Cordon Bleu Limited,51.519397,-0.11733099999999999,2015-03-19
+219,Origin,Le Cordon Bleu Limited,2015_Conway Hall_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+220,Destination,The Load of Hay Tavern (Previously Hill),2015_The Load of Hay Tavern (Previously Hill)_Le Cordon Bleu Limited,51.546873,-0.157876,2015-02-03
+221,Origin,Le Cordon Bleu Limited,2015_The Load of Hay Tavern (Previously Hill)_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+222,Destination,Jar Kitchen,2015_Jar Kitchen_Le Cordon Bleu Limited,51.516075,-0.122922,2015-11-05
+223,Origin,Le Cordon Bleu Limited,2015_Jar Kitchen_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+224,Destination,Fitzrovia Belle (previously Mortimer Arms),2015_Fitzrovia Belle (previously Mortimer Arms)_Le Cordon Bleu Limited,51.522976,-0.135628,2015-10-22
+225,Origin,Le Cordon Bleu Limited,2015_Fitzrovia Belle (previously Mortimer Arms)_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+226,Destination,The Knights Templar,2015_The Knights Templar_Le Cordon Bleu Limited,51.51562,-0.112171,2015-01-09
+227,Origin,Le Cordon Bleu Limited,2015_The Knights Templar_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+228,Destination,Student Central,2015_Student Central_Le Cordon Bleu Limited,51.522251000000004,-0.130659,2015-10-28
+229,Origin,Le Cordon Bleu Limited,2015_Student Central_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+230,Destination,Bloomsbury Festival,2015_Bloomsbury Festival_Le Cordon Bleu Limited,51.525261,-0.12169200000000001,2015-06-29
+231,Origin,Le Cordon Bleu Limited,2015_Bloomsbury Festival_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+232,Destination,Thistle Bloomsbury Park Hotel,2015_Thistle Bloomsbury Park Hotel_Le Cordon Bleu Limited,51.520378,-0.123529,2015-02-24
+233,Origin,Le Cordon Bleu Limited,2015_Thistle Bloomsbury Park Hotel_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+234,Destination,Skinners Arms,2015_Skinners Arms_Le Cordon Bleu Limited,51.527983,-0.12475,2015-08-20
+235,Origin,Le Cordon Bleu Limited,2015_Skinners Arms_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+236,Destination,Bricklayers Arms,2015_Bricklayers Arms_Le Cordon Bleu Limited,51.51757,-0.132725,2015-07-20
+237,Origin,Le Cordon Bleu Limited,2015_Bricklayers Arms_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+238,Destination,Strada Parkway,2015_Strada Parkway_Le Cordon Bleu Limited,51.538119,-0.145295,2015-07-22
+239,Origin,Le Cordon Bleu Limited,2015_Strada Parkway_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+240,Destination,Mezza Eatery,2015_Mezza Eatery_Le Cordon Bleu Limited,51.534911,-0.139649,2015-04-17
+241,Origin,Le Cordon Bleu Limited,2015_Mezza Eatery_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+242,Destination,Cafe Rouge (Units A and B),2015_Cafe Rouge (Units A and B)_Le Cordon Bleu Limited,51.516945,-0.12989,2015-03-19
+243,Origin,Le Cordon Bleu Limited,2015_Cafe Rouge (Units A and B)_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+244,Destination,Byron Hamburgers Limited,2015_Byron Hamburgers Limited_Le Cordon Bleu Limited,51.516045,-0.127443,2015-07-28
+245,Origin,Le Cordon Bleu Limited,2015_Byron Hamburgers Limited_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+246,Destination,Secrets (Eversholt St),2015_Secrets (Eversholt St)_Le Cordon Bleu Limited,51.529302,-0.13258499999999998,2015-02-23
+247,Origin,Le Cordon Bleu Limited,2015_Secrets (Eversholt St)_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+248,Destination,Camden Town Brewery,2015_Camden Town Brewery_Le Cordon Bleu Limited,51.547441,-0.14729,2015-12-17
+249,Origin,Le Cordon Bleu Limited,2015_Camden Town Brewery_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+250,Destination,Angel,2015_Angel_Le Cordon Bleu Limited,51.515347,-0.12775799999999998,2015-07-20
+251,Origin,Le Cordon Bleu Limited,2015_Angel_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+252,Destination,Fitzroy Tavern,2015_Fitzroy Tavern_Le Cordon Bleu Limited,51.518959,-0.134555,2015-07-20
+253,Origin,Le Cordon Bleu Limited,2015_Fitzroy Tavern_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+254,Destination,Royal Mile Whiskies,2015_Royal Mile Whiskies_Le Cordon Bleu Limited,51.517041,-0.127459,2015-12-15
+255,Origin,Le Cordon Bleu Limited,2015_Royal Mile Whiskies_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+256,Destination,London Cocktail Club,2015_London Cocktail Club_Le Cordon Bleu Limited,51.516234000000004,-0.12594,2015-08-17
+257,Origin,Le Cordon Bleu Limited,2015_London Cocktail Club_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+258,Destination,Zizzi Restaurant,2015_Zizzi Restaurant_Le Cordon Bleu Limited,51.519021,-0.15045999999999998,2015-11-16
+259,Origin,Le Cordon Bleu Limited,2015_Zizzi Restaurant_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+260,Destination,Zizzi,2015_Zizzi_Le Cordon Bleu Limited,51.547698,-0.181321,2015-11-16
+261,Origin,Le Cordon Bleu Limited,2015_Zizzi_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+262,Destination,Ambassadors Theatre,2015_Ambassadors Theatre_Le Cordon Bleu Limited,51.513245,-0.12820299999999998,2015-02-02
+263,Origin,Le Cordon Bleu Limited,2015_Ambassadors Theatre_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+264,Destination,Draft House,2015_Draft House_Le Cordon Bleu Limited,51.519021,-0.135793,2015-05-20
+265,Origin,Le Cordon Bleu Limited,2015_Draft House_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+266,Destination,"Honest Burgers, 34A, 34D, L8","2015_Honest Burgers, 34A, 34D, L8_Le Cordon Bleu Limited",51.54123,-0.146584,2015-08-17
+267,Origin,Le Cordon Bleu Limited,"2015_Honest Burgers, 34A, 34D, L8_Le Cordon Bleu Limited",51.518528,-0.12379200000000001,2015-01-04
+268,Destination,House of Ho (formerly known as Bam-Bou),2015_House of Ho (formerly known as Bam-Bou)_Le Cordon Bleu Limited,51.518605,-0.13372,2015-11-11
+269,Origin,Le Cordon Bleu Limited,2015_House of Ho (formerly known as Bam-Bou)_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+270,Destination,Winnicott Etrusco,2015_Winnicott Etrusco_Le Cordon Bleu Limited,51.534197,-0.13888599999999998,2015-06-16
+271,Origin,Le Cordon Bleu Limited,2015_Winnicott Etrusco_Le Cordon Bleu Limited,51.518528,-0.12379200000000001,2015-01-04
+272,Destination,Everyman Belsize Park,2013_Everyman Belsize Park_Bloomsbury Bowling Lanes,51.550631,-0.165875,2013-01-23
+273,Origin,Bloomsbury Bowling Lanes,2013_Everyman Belsize Park_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+274,Destination,Byron,2013_Byron_Bloomsbury Bowling Lanes,51.520738,-0.181321,2013-11-11
+275,Origin,Bloomsbury Bowling Lanes,2013_Byron_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+276,Destination,Bloomsbury Bowling Lanes,2013_Bloomsbury Bowling Lanes_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+277,Origin,Bloomsbury Bowling Lanes,2013_Bloomsbury Bowling Lanes_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+278,Destination,"Thistle Holborn,The Kingsley Hotel","2013_Thistle Holborn,The Kingsley Hotel_Bloomsbury Bowling Lanes",51.517939,-0.12436099999999999,2013-06-21
+279,Origin,Bloomsbury Bowling Lanes,"2013_Thistle Holborn,The Kingsley Hotel_Bloomsbury Bowling Lanes",51.52386,-0.12945,2013-01-14
+280,Destination,Grosvenor St Giles Casino,2013_Grosvenor St Giles Casino_Bloomsbury Bowling Lanes,51.517452,-0.130432,2013-05-23
+281,Origin,Bloomsbury Bowling Lanes,2013_Grosvenor St Giles Casino_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+282,Destination,New London Theatre,2013_New London Theatre_Bloomsbury Bowling Lanes,51.51578,-0.12225699999999999,2013-04-15
+283,Origin,Bloomsbury Bowling Lanes,2013_New London Theatre_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+284,Destination,Everyman Cinema,2013_Everyman Cinema_Bloomsbury Bowling Lanes,51.556678000000005,-0.178912,2013-01-23
+285,Origin,Bloomsbury Bowling Lanes,2013_Everyman Cinema_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+286,Destination,Cambridge Theatre,2013_Cambridge Theatre_Bloomsbury Bowling Lanes,51.513667,-0.126119,2013-04-15
+287,Origin,Bloomsbury Bowling Lanes,2013_Cambridge Theatre_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+288,Destination,Centre Point (18th Floor),2013_Centre Point (18th Floor)_Bloomsbury Bowling Lanes,51.516178000000004,-0.12926500000000002,2013-05-15
+289,Origin,Bloomsbury Bowling Lanes,2013_Centre Point (18th Floor)_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+290,Destination,Zizzi Restaurant,2013_Zizzi Restaurant_Bloomsbury Bowling Lanes,51.519021,-0.15045999999999998,2013-05-15
+291,Origin,Bloomsbury Bowling Lanes,2013_Zizzi Restaurant_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+292,Destination,Cafe Rouge,2013_Cafe Rouge_Bloomsbury Bowling Lanes,51.556119,-0.176816,2013-07-02
+293,Origin,Bloomsbury Bowling Lanes,2013_Cafe Rouge_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+294,Destination,The Camden Head,2013_The Camden Head_Bloomsbury Bowling Lanes,51.537827,-0.141005,2013-07-24
+295,Origin,Bloomsbury Bowling Lanes,2013_The Camden Head_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+296,Destination,Venus (formerly City Burlesque),2013_Venus (formerly City Burlesque)_Bloomsbury Bowling Lanes,51.520437,-0.106431,2013-05-03
+297,Origin,Bloomsbury Bowling Lanes,2013_Venus (formerly City Burlesque)_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+298,Destination,Ask,2013_Ask_Bloomsbury Bowling Lanes,51.520227,-0.12197000000000001,2013-05-15
+299,Origin,Bloomsbury Bowling Lanes,2013_Ask_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+300,Destination,Giraffe,2013_Giraffe_Bloomsbury Bowling Lanes,51.550832,-0.172822,2013-11-11
+301,Origin,Bloomsbury Bowling Lanes,2013_Giraffe_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+302,Destination,Truckles Of Pied Bull Yard,2013_Truckles Of Pied Bull Yard_Bloomsbury Bowling Lanes,51.518528,-0.12379200000000001,2013-04-01
+303,Origin,Bloomsbury Bowling Lanes,2013_Truckles Of Pied Bull Yard_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+304,Destination,Ask Restaurant,2013_Ask Restaurant_Bloomsbury Bowling Lanes,51.523937,-0.138173,2013-05-15
+305,Origin,Bloomsbury Bowling Lanes,2013_Ask Restaurant_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+306,Destination,McDonald's Restaurants Ltd,2013_McDonald's Restaurants Ltd_Bloomsbury Bowling Lanes,51.517405,-0.138173,2013-08-19
+307,Origin,Bloomsbury Bowling Lanes,2013_McDonald's Restaurants Ltd_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+308,Destination,Pembroke,2013_Pembroke_Bloomsbury Bowling Lanes,51.542336999999996,-0.154256,2013-04-11
+309,Origin,Bloomsbury Bowling Lanes,2013_Pembroke_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+310,Destination,St Pancras Renaissance Hotel,2013_St Pancras Renaissance Hotel_Bloomsbury Bowling Lanes,51.530714,-0.12441600000000001,2013-06-20
+311,Origin,Bloomsbury Bowling Lanes,2013_St Pancras Renaissance Hotel_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+312,Destination,Oddbins,2013_Oddbins_Bloomsbury Bowling Lanes,51.555365,-0.173758,2013-11-02
+313,Origin,Bloomsbury Bowling Lanes,2013_Oddbins_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+314,Destination,Zizzi,2013_Zizzi_Bloomsbury Bowling Lanes,51.547698,-0.181321,2013-05-15
+315,Origin,Bloomsbury Bowling Lanes,2013_Zizzi_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+316,Destination,"Zizzi, Unit 10","2013_Zizzi, Unit 10_Bloomsbury Bowling Lanes",51.515836,-0.128305,2013-05-15
+317,Origin,Bloomsbury Bowling Lanes,"2013_Zizzi, Unit 10_Bloomsbury Bowling Lanes",51.52386,-0.12945,2013-01-14
+318,Destination,Thistle Bloomsbury Park Hotel,2013_Thistle Bloomsbury Park Hotel_Bloomsbury Bowling Lanes,51.520378,-0.123529,2013-07-01
+319,Origin,Bloomsbury Bowling Lanes,2013_Thistle Bloomsbury Park Hotel_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+320,Destination,Ottolenghi Limited,2013_Ottolenghi Limited_Bloomsbury Bowling Lanes,51.543458,-0.145848,2013-03-06
+321,Origin,Bloomsbury Bowling Lanes,2013_Ottolenghi Limited_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+322,Destination,Thistle Euston,2013_Thistle Euston_Bloomsbury Bowling Lanes,51.528952000000004,-0.137736,2013-07-01
+323,Origin,Bloomsbury Bowling Lanes,2013_Thistle Euston_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+324,Destination,Haverstock Business and Enterprise College,2013_Haverstock Business and Enterprise College_Bloomsbury Bowling Lanes,51.545084,-0.15376900000000002,2013-07-01
+325,Origin,Bloomsbury Bowling Lanes,2013_Haverstock Business and Enterprise College_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+326,Destination,Enterprise,2013_Enterprise_Bloomsbury Bowling Lanes,51.544246,-0.152816,2013-07-30
+327,Origin,Bloomsbury Bowling Lanes,2013_Enterprise_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+328,Destination,Curry & Ramen Cocoro,2013_Curry & Ramen Cocoro_Bloomsbury Bowling Lanes,51.517396000000005,-0.125711,2013-05-20
+329,Origin,Bloomsbury Bowling Lanes,2013_Curry & Ramen Cocoro_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+330,Destination,Le Pain Quotidien Ltd,2013_Le Pain Quotidien Ltd_Bloomsbury Bowling Lanes,51.554295,-0.16628800000000002,2013-06-02
+331,Origin,Bloomsbury Bowling Lanes,2013_Le Pain Quotidien Ltd_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+332,Destination,Virgin Active Swiss Cottage (formerly Esporta Health & Fitness),2013_Virgin Active Swiss Cottage (formerly Esporta Health & Fitness)_Bloomsbury Bowling Lanes,51.547698,-0.181321,2013-02-21
+333,Origin,Bloomsbury Bowling Lanes,2013_Virgin Active Swiss Cottage (formerly Esporta Health & Fitness)_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+334,Destination,Covent Garden Hotel,2013_Covent Garden Hotel_Bloomsbury Bowling Lanes,51.514389,-0.12725799999999998,2013-04-03
+335,Origin,Bloomsbury Bowling Lanes,2013_Covent Garden Hotel_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+336,Destination,Bounce,2013_Bounce_Bloomsbury Bowling Lanes,51.518529,-0.108519,2013-09-25
+337,Origin,Bloomsbury Bowling Lanes,2013_Bounce_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+338,Destination,The Bull Steak Expert Limited,2013_The Bull Steak Expert Limited_Bloomsbury Bowling Lanes,51.519397,-0.11733099999999999,2013-02-01
+339,Origin,Bloomsbury Bowling Lanes,2013_The Bull Steak Expert Limited_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+340,Destination,The Abbey Tavern,2013_The Abbey Tavern_Bloomsbury Bowling Lanes,51.54587,-0.14094600000000002,2013-12-08
+341,Origin,Bloomsbury Bowling Lanes,2013_The Abbey Tavern_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+342,Destination,Lupa,2013_Lupa_Bloomsbury Bowling Lanes,51.550391999999995,-0.19197899999999998,2013-08-28
+343,Origin,Bloomsbury Bowling Lanes,2013_Lupa_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+344,Destination,Byron Hamburgers Limited,2013_Byron Hamburgers Limited_Bloomsbury Bowling Lanes,51.516045,-0.127443,2013-11-11
+345,Origin,Bloomsbury Bowling Lanes,2013_Byron Hamburgers Limited_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+346,Destination,Grosvenor Casino,2013_Grosvenor Casino_Bloomsbury Bowling Lanes,51.521776,-0.12359300000000001,2013-05-23
+347,Origin,Bloomsbury Bowling Lanes,2013_Grosvenor Casino_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+348,Destination,Giraffe Stop,2013_Giraffe Stop_Bloomsbury Bowling Lanes,51.531959,-0.12365,2013-11-11
+349,Origin,Bloomsbury Bowling Lanes,2013_Giraffe Stop_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+350,Destination,Rosewood London (formerly Chancery Court Hotel),2013_Rosewood London (formerly Chancery Court Hotel)_Bloomsbury Bowling Lanes,51.517503000000005,-0.117704,2013-06-20
+351,Origin,Bloomsbury Bowling Lanes,2013_Rosewood London (formerly Chancery Court Hotel)_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+352,Destination,Le Pain Quotidien,2013_Le Pain Quotidien_Bloomsbury Bowling Lanes,51.520337,-0.134654,2013-03-09
+353,Origin,Bloomsbury Bowling Lanes,2013_Le Pain Quotidien_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+354,Destination,Central News and Wine,2013_Central News and Wine_Bloomsbury Bowling Lanes,51.516890999999994,-0.12531,2013-09-05
+355,Origin,Bloomsbury Bowling Lanes,2013_Central News and Wine_Bloomsbury Bowling Lanes,51.52386,-0.12945,2013-01-14
+356,Destination,Venus (formerly City Burlesque),2012_Venus (formerly City Burlesque)_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+357,Origin,Venus (formerly City Burlesque),2012_Venus (formerly City Burlesque)_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+358,Destination,Davy's Bar and Grill Holborn,2012_Davy's Bar and Grill Holborn_Venus (formerly City Burlesque),51.518567,-0.11580399999999999,2012-07-12
+359,Origin,Venus (formerly City Burlesque),2012_Davy's Bar and Grill Holborn_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+360,Destination,The Diner,2012_The Diner_Venus (formerly City Burlesque),51.540754,-0.145258,2012-10-26
+361,Origin,Venus (formerly City Burlesque),2012_The Diner_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+362,Destination,Lidl UK GmbH,2012_Lidl UK GmbH_Venus (formerly City Burlesque),51.547109000000006,-0.142245,2012-11-21
+363,Origin,Venus (formerly City Burlesque),2012_Lidl UK GmbH_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+364,Destination,Waitrose,2012_Waitrose_Venus (formerly City Burlesque),51.537321999999996,-0.142042,2012-11-21
+365,Origin,Venus (formerly City Burlesque),2012_Waitrose_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+366,Destination,Pix Bar,2012_Pix Bar_Venus (formerly City Burlesque),51.515044,-0.126064,2012-11-10
+367,Origin,Venus (formerly City Burlesque),2012_Pix Bar_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+368,Destination,Co-Operative Group Food Limited,2012_Co-Operative Group Food Limited_Venus (formerly City Burlesque),51.549255,-0.140701,2012-11-21
+369,Origin,Venus (formerly City Burlesque),2012_Co-Operative Group Food Limited_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+370,Destination,Sen Viet,2012_Sen Viet_Venus (formerly City Burlesque),51.529063,-0.11636099999999999,2012-10-05
+371,Origin,Venus (formerly City Burlesque),2012_Sen Viet_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+372,Destination,Kim Korean Restaurant LTD High Holborn,2012_Kim Korean Restaurant LTD High Holborn_Venus (formerly City Burlesque),51.518567,-0.11580399999999999,2012-10-26
+373,Origin,Venus (formerly City Burlesque),2012_Kim Korean Restaurant LTD High Holborn_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+374,Destination,Gunmakers Arms,2012_Gunmakers Arms_Venus (formerly City Burlesque),51.522494,-0.110714,2012-10-26
+375,Origin,Venus (formerly City Burlesque),2012_Gunmakers Arms_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+376,Destination,Le Pain Quotidien Ltd,2012_Le Pain Quotidien Ltd_Venus (formerly City Burlesque),51.554295,-0.16628800000000002,2012-12-10
+377,Origin,Venus (formerly City Burlesque),2012_Le Pain Quotidien Ltd_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+378,Destination,Co-operative,2012_Co-operative_Venus (formerly City Burlesque),51.519467,-0.13128199999999998,2012-11-21
+379,Origin,Venus (formerly City Burlesque),2012_Co-operative_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+380,Destination,Old Bell,2012_Old Bell_Venus (formerly City Burlesque),51.537207,-0.192154,2012-08-10
+381,Origin,Venus (formerly City Burlesque),2012_Old Bell_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+382,Destination,London Welsh Centre Ltd (formerly London Welsh Association Ltd),2012_London Welsh Centre Ltd (formerly London Welsh Association Ltd)_Venus (formerly City Burlesque),51.52517,-0.11731199999999999,2012-11-20
+383,Origin,Venus (formerly City Burlesque),2012_London Welsh Centre Ltd (formerly London Welsh Association Ltd)_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+384,Destination,Cote,2012_Cote_Venus (formerly City Burlesque),51.555378999999995,-0.176217,2012-11-29
+385,Origin,Venus (formerly City Burlesque),2012_Cote_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+386,Destination,Le Pain Quotidien Unit 4,2012_Le Pain Quotidien Unit 4_Venus (formerly City Burlesque),51.531775,-0.126577,2012-12-10
+387,Origin,Venus (formerly City Burlesque),2012_Le Pain Quotidien Unit 4_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+388,Destination,Le Pain Quotidien,2012_Le Pain Quotidien_Venus (formerly City Burlesque),51.515615999999994,-0.134654,2012-12-10
+389,Origin,Venus (formerly City Burlesque),2012_Le Pain Quotidien_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+390,Destination,Maison Blanc,2012_Maison Blanc_Venus (formerly City Burlesque),51.555440999999995,-0.176922,2012-11-12
+391,Origin,Venus (formerly City Burlesque),2012_Maison Blanc_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+392,Destination,Gaucho Grill (Charlotte Street),2012_Gaucho Grill (Charlotte Street)_Venus (formerly City Burlesque),51.5202,-0.13578099999999999,2012-07-24
+393,Origin,Venus (formerly City Burlesque),2012_Gaucho Grill (Charlotte Street)_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+394,Destination,The Abbey Tavern,2012_The Abbey Tavern_Venus (formerly City Burlesque),51.54587,-0.14094600000000002,2012-10-29
+395,Origin,Venus (formerly City Burlesque),2012_The Abbey Tavern_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+396,Destination,Enterprise,2012_Enterprise_Venus (formerly City Burlesque),51.544246,-0.152816,2012-11-21
+397,Origin,Venus (formerly City Burlesque),2012_Enterprise_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+398,Destination,The Holly Bush,2012_The Holly Bush_Venus (formerly City Burlesque),51.557922999999995,-0.17946099999999998,2012-11-14
+399,Origin,Venus (formerly City Burlesque),2012_The Holly Bush_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+400,Destination,Adil Food and Dry Cleaners,2012_Adil Food and Dry Cleaners_Venus (formerly City Burlesque),51.543234000000005,-0.17561500000000002,2012-12-20
+401,Origin,Venus (formerly City Burlesque),2012_Adil Food and Dry Cleaners_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+402,Destination,Poetry Cafe,2012_Poetry Cafe_Venus (formerly City Burlesque),51.515089,-0.12413900000000001,2012-06-21
+403,Origin,Venus (formerly City Burlesque),2012_Poetry Cafe_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+404,Destination,Flesh and Buns (previously Kitchen Italia),2012_Flesh and Buns (previously Kitchen Italia)_Venus (formerly City Burlesque),51.514056,-0.12601400000000001,2012-11-12
+405,Origin,Venus (formerly City Burlesque),2012_Flesh and Buns (previously Kitchen Italia)_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+406,Destination,Lord Palmerston,2012_Lord Palmerston_Venus (formerly City Burlesque),51.559236,-0.140429,2012-11-09
+407,Origin,Venus (formerly City Burlesque),2012_Lord Palmerston_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+408,Destination,Lanka,2012_Lanka_Venus (formerly City Burlesque),51.541273,-0.157718,2012-01-11
+409,Origin,Venus (formerly City Burlesque),2012_Lanka_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+410,Destination,New Market Inn,2012_New Market Inn_Venus (formerly City Burlesque),51.543074,-0.126691,2012-03-10
+411,Origin,Venus (formerly City Burlesque),2012_New Market Inn_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+412,Destination,Brookes Brothers Wine Bar & Brasserie,2012_Brookes Brothers Wine Bar & Brasserie_Venus (formerly City Burlesque),51.518921,-0.11112999999999999,2012-11-10
+413,Origin,Venus (formerly City Burlesque),2012_Brookes Brothers Wine Bar & Brasserie_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+414,Destination,Lock Tavern,2012_Lock Tavern_Venus (formerly City Burlesque),51.542619,-0.148387,2012-12-17
+415,Origin,Venus (formerly City Burlesque),2012_Lock Tavern_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+416,Destination,The Lion & Unicorn,2012_The Lion & Unicorn_Venus (formerly City Burlesque),51.548297,-0.13856300000000002,2012-11-27
+417,Origin,Venus (formerly City Burlesque),2012_The Lion & Unicorn_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+418,Destination,The Earl of Camden,2012_The Earl of Camden_Venus (formerly City Burlesque),51.537586,-0.14385,2012-03-12
+419,Origin,Venus (formerly City Burlesque),2012_The Earl of Camden_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+420,Destination,Bull And Last,2012_Bull And Last_Venus (formerly City Burlesque),51.559104999999995,-0.148742,2012-01-11
+421,Origin,Venus (formerly City Burlesque),2012_Bull And Last_Venus (formerly City Burlesque),51.520437,-0.106431,2012-01-03
+422,Destination,Jazz Cafe,2014_Jazz Cafe_Wine Rack,51.538422,-0.143124,2014-05-27
+423,Origin,Wine Rack,2014_Jazz Cafe_Wine Rack,51.550832,-0.164907,2014-01-05
+424,Destination,Odeon Cinema,2014_Odeon Cinema_Wine Rack,51.51428,-0.17460799999999999,2014-11-19
+425,Origin,Wine Rack,2014_Odeon Cinema_Wine Rack,51.550832,-0.164907,2014-01-05
+426,Destination,Wine Rack,2014_Wine Rack_Wine Rack,51.550832,-0.164907,2014-01-05
+427,Origin,Wine Rack,2014_Wine Rack_Wine Rack,51.550832,-0.164907,2014-01-05
+428,Destination,Bill's (formerly Pitcher and Piano),2014_Bill's (formerly Pitcher and Piano)_Wine Rack,51.515819,-0.118702,2014-07-04
+429,Origin,Wine Rack,2014_Bill's (formerly Pitcher and Piano)_Wine Rack,51.550832,-0.164907,2014-01-05
+430,Destination,Reverend JW Simpson,2014_Reverend JW Simpson_Wine Rack,51.519855,-0.135379,2014-01-13
+431,Origin,Wine Rack,2014_Reverend JW Simpson_Wine Rack,51.550832,-0.164907,2014-01-05
+432,Destination,Bea's of Bloomsbury,2014_Bea's of Bloomsbury_Wine Rack,51.521433,-0.11598299999999999,2014-03-10
+433,Origin,Wine Rack,2014_Bea's of Bloomsbury_Wine Rack,51.550832,-0.164907,2014-01-05
+434,Destination,CVS,2014_CVS_Wine Rack,51.514446,-0.126545,2014-10-31
+435,Origin,Wine Rack,2014_CVS_Wine Rack,51.550832,-0.164907,2014-01-05
+436,Destination,Compagnie des Vins Surnaturel,2014_Compagnie des Vins Surnaturel_Wine Rack,51.514446,-0.126545,2014-10-31
+437,Origin,Wine Rack,2014_Compagnie des Vins Surnaturel_Wine Rack,51.550832,-0.164907,2014-01-05
+438,Destination,Itsu,2014_Itsu_Wine Rack,51.514534999999995,-0.122584,2014-01-15
+439,Origin,Wine Rack,2014_Itsu_Wine Rack,51.550832,-0.164907,2014-01-05
+440,Destination,Rosslyn Arms,2014_Rosslyn Arms_Wine Rack,51.555053,-0.172822,2014-10-22
+441,Origin,Wine Rack,2014_Rosslyn Arms_Wine Rack,51.550832,-0.164907,2014-01-05
+442,Destination,Lock Tavern,2014_Lock Tavern_Wine Rack,51.542619,-0.148387,2014-06-18
+443,Origin,Wine Rack,2014_Lock Tavern_Wine Rack,51.550832,-0.164907,2014-01-05
+444,Destination,Le Pain Quotidien,2014_Le Pain Quotidien_Wine Rack,51.515615999999994,-0.134654,2014-11-03
+445,Origin,Wine Rack,2014_Le Pain Quotidien_Wine Rack,51.550832,-0.164907,2014-01-05
+446,Destination,The Famous Flames,2014_The Famous Flames_Wine Rack,51.539688,-0.142772,2014-07-25
+447,Origin,Wine Rack,2014_The Famous Flames_Wine Rack,51.550832,-0.164907,2014-01-05
+448,Destination,Majestic Wine Warehouse,2014_Majestic Wine Warehouse_Wine Rack,51.514813000000004,-0.15024200000000001,2014-03-06
+449,Origin,Wine Rack,2014_Majestic Wine Warehouse_Wine Rack,51.550832,-0.164907,2014-01-05
+450,Destination,West Handyside Canopy,2014_West Handyside Canopy_Wine Rack,51.536384000000005,-0.124454,2014-12-24
+451,Origin,Wine Rack,2014_West Handyside Canopy_Wine Rack,51.550832,-0.164907,2014-01-05
+452,Destination,Thai Square,2014_Thai Square_Wine Rack,51.514389,-0.12725799999999998,2014-09-05
+453,Origin,Wine Rack,2014_Thai Square_Wine Rack,51.550832,-0.164907,2014-01-05
+454,Destination,Le Pain Quotidien Ltd,2014_Le Pain Quotidien Ltd_Wine Rack,51.554295,-0.16628800000000002,2014-05-09
+455,Origin,Wine Rack,2014_Le Pain Quotidien Ltd_Wine Rack,51.550832,-0.164907,2014-01-05
+456,Destination,Canela,2014_Canela_Wine Rack,51.514056,-0.12601400000000001,2014-10-04
+457,Origin,Wine Rack,2014_Canela_Wine Rack,51.550832,-0.164907,2014-01-05
+458,Destination,Le Pain Quotidien Unit 4,2014_Le Pain Quotidien Unit 4_Wine Rack,51.531775,-0.126577,2014-10-08
+459,Origin,Wine Rack,2014_Le Pain Quotidien Unit 4_Wine Rack,51.550832,-0.164907,2014-01-05
+460,Destination,Hoxton Hotel,2014_Hoxton Hotel_Wine Rack,51.51712,-0.12208599999999999,2014-10-12
+461,Origin,Wine Rack,2014_Hoxton Hotel_Wine Rack,51.550832,-0.164907,2014-01-05
+462,Destination,The T.E. Dingwall Building (Formerly Lock 17/Highlight),2014_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Wine Rack,51.541428,-0.145851,2014-11-08
+463,Origin,Wine Rack,2014_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Wine Rack,51.550832,-0.164907,2014-01-05
+464,Destination,Virgin Active Swiss Cottage (formerly Esporta Health & Fitness),2014_Virgin Active Swiss Cottage (formerly Esporta Health & Fitness)_Wine Rack,51.547698,-0.181321,2014-07-23
+465,Origin,Wine Rack,2014_Virgin Active Swiss Cottage (formerly Esporta Health & Fitness)_Wine Rack,51.550832,-0.164907,2014-01-05
+466,Destination,Granary Square,2014_Granary Square_Wine Rack,51.536384000000005,-0.124454,2014-12-24
+467,Origin,Wine Rack,2014_Granary Square_Wine Rack,51.550832,-0.164907,2014-01-05
+468,Destination,Student Central,2014_Student Central_Wine Rack,51.522251000000004,-0.130659,2014-06-08
+469,Origin,Wine Rack,2014_Student Central_Wine Rack,51.550832,-0.164907,2014-01-05
+470,Destination,Le Pain Quotidien (previously McDonalds),2014_Le Pain Quotidien (previously McDonalds)_Wine Rack,51.556783,-0.177972,2014-11-08
+471,Origin,Wine Rack,2014_Le Pain Quotidien (previously McDonalds)_Wine Rack,51.550832,-0.164907,2014-01-05
+472,Destination,XO Restaurant,2014_XO Restaurant_Wine Rack,51.549339,-0.171002,2014-12-09
+473,Origin,Wine Rack,2014_XO Restaurant_Wine Rack,51.550832,-0.164907,2014-01-05
+474,Destination,Sir Richard Steele,2014_Sir Richard Steele_Wine Rack,51.546679,-0.15871300000000002,2014-10-02
+475,Origin,Wine Rack,2014_Sir Richard Steele_Wine Rack,51.550832,-0.164907,2014-01-05
+476,Destination,All Star Lanes,2014_All Star Lanes_Wine Rack,51.519286,-0.12206700000000001,2014-01-12
+477,Origin,Wine Rack,2014_All Star Lanes_Wine Rack,51.550832,-0.164907,2014-01-05
+478,Destination,St Martin's Theatre,2014_St Martin's Theatre_Wine Rack,51.512865000000005,-0.127574,2014-04-11
+479,Origin,Wine Rack,2014_St Martin's Theatre_Wine Rack,51.550832,-0.164907,2014-01-05
+480,Destination,Interchange Studios,2017_Interchange Studios_Fresh & Wild,51.550908,-0.16658399999999998,2017-03-21
+481,Origin,Fresh & Wild,2017_Interchange Studios_Fresh & Wild,51.537586,-0.14385,2017-01-26
+482,Destination,Mamas Pizza,2017_Mamas Pizza_Fresh & Wild,51.54937,-0.181221,2017-01-27
+483,Origin,Fresh & Wild,2017_Mamas Pizza_Fresh & Wild,51.537586,-0.14385,2017-01-26
+484,Destination,Nicolas,2017_Nicolas_Fresh & Wild,51.541273,-0.157718,2017-03-13
+485,Origin,Fresh & Wild,2017_Nicolas_Fresh & Wild,51.537586,-0.14385,2017-01-26
+486,Destination,Bleeding Heart Bistro,2017_Bleeding Heart Bistro_Fresh & Wild,51.518941,-0.106305,2017-04-01
+487,Origin,Fresh & Wild,2017_Bleeding Heart Bistro_Fresh & Wild,51.537586,-0.14385,2017-01-26
+488,Destination,Grind,2017_Grind_Fresh & Wild,51.51712,-0.12208599999999999,2017-03-15
+489,Origin,Fresh & Wild,2017_Grind_Fresh & Wild,51.537586,-0.14385,2017-01-26
+490,Destination,Break Point (previously known as C.K.News),2017_Break Point (previously known as C.K.News)_Fresh & Wild,51.515044,-0.126064,2017-01-31
+491,Origin,Fresh & Wild,2017_Break Point (previously known as C.K.News)_Fresh & Wild,51.537586,-0.14385,2017-01-26
+492,Destination,The T.E. Dingwall Building (Formerly Lock 17/Highlight),2017_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Fresh & Wild,51.541428,-0.145851,2017-03-17
+493,Origin,Fresh & Wild,2017_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Fresh & Wild,51.537586,-0.14385,2017-01-26
+494,Destination,Fresh & Wild,2017_Fresh & Wild_Fresh & Wild,51.537586,-0.14385,2017-01-26
+495,Origin,Fresh & Wild,2017_Fresh & Wild_Fresh & Wild,51.537586,-0.14385,2017-01-26
+496,Destination,Break Point,2017_Break Point_Fresh & Wild,51.515347,-0.12775799999999998,2017-01-31
+497,Origin,Fresh & Wild,2017_Break Point_Fresh & Wild,51.537586,-0.14385,2017-01-26
+498,Destination,Frequency,2017_Frequency_Fresh & Wild,51.529063,-0.11636099999999999,2017-03-30
+499,Origin,Fresh & Wild,2017_Frequency_Fresh & Wild,51.537586,-0.14385,2017-01-26
+500,Destination,Carluccio's Caffe,2010_Carluccio's Caffe_Carluccio's Caffe,51.555026,-0.171827,2010-12-23
+501,Origin,Carluccio's Caffe,2010_Carluccio's Caffe_Carluccio's Caffe,51.555026,-0.171827,2010-12-23
+502,Destination,Burger King,2011_Burger King_Burger King,51.529540999999995,-0.12369200000000001,2011-11-29
+503,Origin,Burger King,2011_Burger King_Burger King,51.529540999999995,-0.12369200000000001,2011-11-29

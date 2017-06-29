@@ -1,0 +1,7 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Mimosa,2010_Mimosa_Mimosa,51.548938,-0.181039,2010-10-15
+1,Origin,Mimosa,2010_Mimosa_Mimosa,51.548938,-0.181039,2010-10-15
+2,Destination,Mr Leo,2011_Mr Leo_Mr Leo,51.538624,-0.141854,2011-08-12
+3,Origin,Mr Leo,2011_Mr Leo_Mr Leo,51.538624,-0.141854,2011-08-12
+4,Destination,Lotus Health & Beauty Clinic,2011_Lotus Health & Beauty Clinic_Mr Leo,51.536998,-0.145009,2011-08-12
+5,Origin,Mr Leo,2011_Lotus Health & Beauty Clinic_Mr Leo,51.538624,-0.141854,2011-08-12

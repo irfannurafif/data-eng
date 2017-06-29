@@ -1,0 +1,21 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Revlona Ltd,2011_Revlona Ltd_Creative Therapy Limited,51.514389,-0.12725799999999998,2011-10-02
+1,Origin,Creative Therapy Limited,2011_Revlona Ltd_Creative Therapy Limited,51.549717,-0.191104,2011-03-24
+2,Destination,Creative Therapy Limited,2011_Creative Therapy Limited_Creative Therapy Limited,51.549717,-0.191104,2011-03-24
+3,Origin,Creative Therapy Limited,2011_Creative Therapy Limited_Creative Therapy Limited,51.549717,-0.191104,2011-03-24
+4,Destination,China Herbal House WH Ltd,2017_China Herbal House WH Ltd_China Herbal House WH Ltd,51.548891,-0.190675,2017-10-01
+5,Origin,China Herbal House WH Ltd,2017_China Herbal House WH Ltd_China Herbal House WH Ltd,51.548891,-0.190675,2017-10-01
+6,Destination,Perfect Me Skin Aesthetics,2015_Perfect Me Skin Aesthetics_Perfect Me Skin Aesthetics,51.556678000000005,-0.178912,2015-09-07
+7,Origin,Perfect Me Skin Aesthetics,2015_Perfect Me Skin Aesthetics_Perfect Me Skin Aesthetics,51.556678000000005,-0.178912,2015-09-07
+8,Destination,Kingsway Hall Hotel,2015_Kingsway Hall Hotel_Perfect Me Skin Aesthetics,51.515423,-0.12044400000000001,2015-10-12
+9,Origin,Perfect Me Skin Aesthetics,2015_Kingsway Hall Hotel_Perfect Me Skin Aesthetics,51.556678000000005,-0.178912,2015-09-07
+10,Destination,GOODVIBES FITNESS LTD,2014_GOODVIBES FITNESS LTD_GOODVIBES FITNESS LTD,51.515089,-0.12413900000000001,2014-02-25
+11,Origin,GOODVIBES FITNESS LTD,2014_GOODVIBES FITNESS LTD_GOODVIBES FITNESS LTD,51.515089,-0.12413900000000001,2014-02-25
+12,Destination,The Tanning Shop,2014_The Tanning Shop_GOODVIBES FITNESS LTD,51.523545,-0.140725,2014-11-14
+13,Origin,GOODVIBES FITNESS LTD,2014_The Tanning Shop_GOODVIBES FITNESS LTD,51.515089,-0.12413900000000001,2014-02-25
+14,Destination,Destination Skin,2012_Destination Skin_Nails Boutique,51.555611,-0.17816400000000002,2012-03-09
+15,Origin,Nails Boutique,2012_Destination Skin_Nails Boutique,51.541428,-0.145851,2012-02-05
+16,Destination,Nails Boutique,2012_Nails Boutique_Nails Boutique,51.541428,-0.145851,2012-02-05
+17,Origin,Nails Boutique,2012_Nails Boutique_Nails Boutique,51.541428,-0.145851,2012-02-05
+18,Destination,JUJU'S,2016_JUJU'S_JUJU'S,51.537762,-0.14571199999999998,2016-06-24
+19,Origin,JUJU'S,2016_JUJU'S_JUJU'S,51.537762,-0.14571199999999998,2016-06-24

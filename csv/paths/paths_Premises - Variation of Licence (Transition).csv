@@ -1,0 +1,697 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,North Star,2005_North Star_Bloc Bar (Formerly Record Club/The Stillery,51.545976,-0.178297,2005-07-14
+1,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_North Star_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+2,Destination,All Bar One,2005_All Bar One_Bloc Bar (Formerly Record Club/The Stillery,51.51668,-0.128578,2005-06-17
+3,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_All Bar One_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+4,Destination,Victoria Food & Wine,2005_Victoria Food & Wine_Bloc Bar (Formerly Record Club/The Stillery,51.522283,-0.166857,2005-04-08
+5,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Victoria Food & Wine_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+6,Destination,Covent Garden Hotel,2005_Covent Garden Hotel_Bloc Bar (Formerly Record Club/The Stillery,51.514389,-0.12725799999999998,2005-07-27
+7,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Covent Garden Hotel_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+8,Destination,Lilly Langtree,2005_Lilly Langtree_Bloc Bar (Formerly Record Club/The Stillery,51.539832000000004,-0.188324,2005-07-25
+9,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Lilly Langtree_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+10,Destination,Dominion Theatre,2005_Dominion Theatre_Bloc Bar (Formerly Record Club/The Stillery,51.516945,-0.12989,2005-06-24
+11,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Dominion Theatre_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+12,Destination,The Constitution,2005_The Constitution_Bloc Bar (Formerly Record Club/The Stillery,51.540313,-0.135401,2005-05-25
+13,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Constitution_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+14,Destination,Admiral Mann,2005_Admiral Mann_Bloc Bar (Formerly Record Club/The Stillery,51.549326,-0.130676,2005-07-21
+15,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Admiral Mann_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+16,Destination,Mabels Tavern,2005_Mabels Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.52793,-0.12685,2005-05-31
+17,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Mabels Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+18,Destination,Aquila Club (formerly Secrets),2005_Aquila Club (formerly Secrets)_Bloc Bar (Formerly Record Club/The Stillery,51.549878,-0.183277,2005-12-07
+19,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Aquila Club (formerly Secrets)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+20,Destination,Made In Brasil,2005_Made In Brasil_Bloc Bar (Formerly Record Club/The Stillery,51.540039,-0.14449700000000001,2005-07-22
+21,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Made In Brasil_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+22,Destination,Toast Restaurant,2005_Toast Restaurant_Bloc Bar (Formerly Record Club/The Stillery,51.556783,-0.177972,2005-04-08
+23,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Toast Restaurant_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+24,Destination,Vue Cinema,2005_Vue Cinema_Bloc Bar (Formerly Record Club/The Stillery,51.547698,-0.181321,2005-07-15
+25,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Vue Cinema_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+26,Destination,Sainsbury's Supermarket,2005_Sainsbury's Supermarket_Bloc Bar (Formerly Record Club/The Stillery,51.538855,-0.193651,2005-06-15
+27,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Sainsbury's Supermarket_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+28,Destination,Euston Square Hotel,2005_Euston Square Hotel_Bloc Bar (Formerly Record Club/The Stillery,51.526554,-0.135793,2005-05-08
+29,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Euston Square Hotel_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+30,Destination,O'Neills,2005_O'Neills_Bloc Bar (Formerly Record Club/The Stillery,51.528517,-0.126822,2005-06-08
+31,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_O'Neills_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+32,Destination,Jeremy Bentham,2005_Jeremy Bentham_Bloc Bar (Formerly Record Club/The Stillery,51.524078,-0.135147,2005-05-13
+33,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Jeremy Bentham_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+34,Destination,The Horseshoe,2005_The Horseshoe_Bloc Bar (Formerly Record Club/The Stillery,51.55619,-0.178368,2005-04-08
+35,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Horseshoe_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+36,Destination,Fitzrovia Belle (previously Mortimer Arms),2005_Fitzrovia Belle (previously Mortimer Arms)_Bloc Bar (Formerly Record Club/The Stillery,51.522976,-0.135628,2005-07-26
+37,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Fitzrovia Belle (previously Mortimer Arms)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+38,Destination,Apple Tree,2005_Apple Tree_Bloc Bar (Formerly Record Club/The Stillery,51.523275,-0.112017,2005-06-30
+39,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Apple Tree_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+40,Destination,Burger King,2005_Burger King_Bloc Bar (Formerly Record Club/The Stillery,51.529540999999995,-0.12369200000000001,2005-06-24
+41,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Burger King_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+42,Destination,Diamond Supermarket,2005_Diamond Supermarket_Bloc Bar (Formerly Record Club/The Stillery,51.546679,-0.15871300000000002,2005-07-25
+43,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Diamond Supermarket_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+44,Destination,Odeon Cinema,2005_Odeon Cinema_Bloc Bar (Formerly Record Club/The Stillery,51.51428,-0.17460799999999999,2005-02-08
+45,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Odeon Cinema_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+46,Destination,Cuban,2005_Cuban_Bloc Bar (Formerly Record Club/The Stillery,51.542256,-0.14816,2005-12-07
+47,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Cuban_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+48,Destination,Somerstown Coffee House,2005_Somerstown Coffee House_Bloc Bar (Formerly Record Club/The Stillery,51.529990000000005,-0.130767,2005-04-29
+49,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Somerstown Coffee House_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+50,Destination,Belushis Bar,2005_Belushis Bar_Bloc Bar (Formerly Record Club/The Stillery,51.536631,-0.14013499999999998,2005-01-08
+51,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Belushis Bar_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+52,Destination,Prince Albert,2005_Prince Albert_Bloc Bar (Formerly Record Club/The Stillery,51.540099,-0.137417,2005-07-22
+53,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Prince Albert_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+54,Destination,Camden Eye,2005_Camden Eye_Bloc Bar (Formerly Record Club/The Stillery,51.539219,-0.141978,2005-05-08
+55,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Camden Eye_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+56,Destination,Grafton Arms,2005_Grafton Arms_Bloc Bar (Formerly Record Club/The Stillery,51.523559999999996,-0.139343,2005-12-07
+57,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Grafton Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+58,Destination,Futura,2005_Futura_Bloc Bar (Formerly Record Club/The Stillery,51.546221,-0.15824000000000002,2005-07-28
+59,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Futura_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+60,Destination,The Roebuck,2005_The Roebuck_Bloc Bar (Formerly Record Club/The Stillery,51.553819,-0.167738,2005-10-06
+61,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Roebuck_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+62,Destination,Kentish Town Supermarket,2005_Kentish Town Supermarket_Bloc Bar (Formerly Record Club/The Stillery,51.545931,-0.14239000000000002,2005-06-06
+63,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Kentish Town Supermarket_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+64,Destination,The Little Castle,2005_The Little Castle_Bloc Bar (Formerly Record Club/The Stillery,51.541621,-0.145288,2005-06-17
+65,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Little Castle_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+66,Destination,GEORGE P.H.,2005_GEORGE P.H._Bloc Bar (Formerly Record Club/The Stillery,51.515707,-0.12126300000000001,2005-05-25
+67,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_GEORGE P.H._Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+68,Destination,Square Tavern,2005_Square Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.525744,-0.137494,2005-11-07
+69,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Square Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+70,Destination,Cock Tavern,2005_Cock Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.531317,-0.131109,2005-07-18
+71,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Cock Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+72,Destination,Beheshte Barin Restaurant (formerly Khayyam Restaurant),2005_Beheshte Barin Restaurant (formerly Khayyam Restaurant)_Bloc Bar (Formerly Record Club/The Stillery,51.556827,-0.195673,2005-05-07
+73,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Beheshte Barin Restaurant (formerly Khayyam Restaurant)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+74,Destination,Sol's Arms,2005_Sol's Arms_Bloc Bar (Formerly Record Club/The Stillery,51.526732,-0.13984100000000002,2005-06-06
+75,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Sol's Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+76,Destination,Alexander The Great,2005_Alexander The Great_Bloc Bar (Formerly Record Club/The Stillery,51.536551,-0.138723,2005-12-07
+77,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Alexander The Great_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+78,Destination,Pembroke,2005_Pembroke_Bloc Bar (Formerly Record Club/The Stillery,51.542336999999996,-0.154256,2005-07-22
+79,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Pembroke_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+80,Destination,Bloomsbury Bowling Lanes,2005_Bloomsbury Bowling Lanes_Bloc Bar (Formerly Record Club/The Stillery,51.52386,-0.12945,2005-05-08
+81,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Bloomsbury Bowling Lanes_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+82,Destination,Bar Vinyl,2005_Bar Vinyl_Bloc Bar (Formerly Record Club/The Stillery,51.540039,-0.14449700000000001,2005-05-08
+83,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Bar Vinyl_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+84,Destination,Institute of Education Students Union,2005_Institute of Education Students Union_Bloc Bar (Formerly Record Club/The Stillery,51.523069,-0.128282,2005-07-26
+85,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Institute of Education Students Union_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+86,Destination,Duke Of Hamilton,2005_Duke Of Hamilton_Bloc Bar (Formerly Record Club/The Stillery,51.55887,-0.177456,2005-07-22
+87,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Duke Of Hamilton_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+88,Destination,Exmouth Arms,2005_Exmouth Arms_Bloc Bar (Formerly Record Club/The Stillery,51.527910999999996,-0.13675199999999998,2005-06-06
+89,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Exmouth Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+90,Destination,Supersave Food & Wine,2005_Supersave Food & Wine_Bloc Bar (Formerly Record Club/The Stillery,51.526934000000004,-0.209642,2005-07-28
+91,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Supersave Food & Wine_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+92,Destination,Mercure London Bloomsbury (formerly Waverley House Hotel),2005_Mercure London Bloomsbury (formerly Waverley House Hotel)_Bloc Bar (Formerly Record Club/The Stillery,51.521776,-0.12359300000000001,2005-07-27
+93,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Mercure London Bloomsbury (formerly Waverley House Hotel)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+94,Destination,Shakespeares Head,2005_Shakespeares Head_Bloc Bar (Formerly Record Club/The Stillery,51.517002000000005,-0.11943599999999999,2005-06-16
+95,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Shakespeares Head_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+96,Destination,Enterprise,2005_Enterprise_Bloc Bar (Formerly Record Club/The Stillery,51.520167,-0.152816,2005-06-23
+97,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Enterprise_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+98,Destination,Friend at Hand,2005_Friend at Hand_Bloc Bar (Formerly Record Club/The Stillery,51.52268,-0.12503599999999998,2005-05-27
+99,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Friend at Hand_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+100,Destination,The Camden Head,2005_The Camden Head_Bloc Bar (Formerly Record Club/The Stillery,51.537827,-0.141005,2005-07-13
+101,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Camden Head_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+102,Destination,The Albert,2005_The Albert_Bloc Bar (Formerly Record Club/The Stillery,51.538624,-0.15281199999999998,2005-07-28
+103,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Albert_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+104,Destination,Vine,2005_Vine_Bloc Bar (Formerly Record Club/The Stillery,51.554836,-0.14468,2005-01-08
+105,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Vine_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+106,Destination,Princess of Wales,2005_Princess of Wales_Bloc Bar (Formerly Record Club/The Stillery,51.540301,-0.15378,2005-04-20
+107,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Princess of Wales_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+108,Destination,The Clerk and Well,2005_The Clerk and Well_Bloc Bar (Formerly Record Club/The Stillery,51.522494,-0.110714,2005-12-07
+109,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Clerk and Well_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+110,Destination,The Perseverance,2005_The Perseverance_Bloc Bar (Formerly Record Club/The Stillery,51.521754,-0.11884700000000001,2005-07-13
+111,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Perseverance_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+112,Destination,Chamomile,2005_Chamomile_Bloc Bar (Formerly Record Club/The Stillery,51.545577,-0.162215,2005-06-06
+113,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Chamomile_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+114,Destination,Max Orient,2005_Max Orient_Bloc Bar (Formerly Record Club/The Stillery,51.540754,-0.145258,2005-03-08
+115,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Max Orient_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+116,Destination,Rising Sun,2005_Rising Sun_Bloc Bar (Formerly Record Club/The Stillery,51.519513,-0.133795,2005-01-08
+117,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Rising Sun_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+118,Destination,King William The Fourth,2005_King William The Fourth_Bloc Bar (Formerly Record Club/The Stillery,51.555440999999995,-0.176922,2005-07-21
+119,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_King William The Fourth_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+120,Destination,Secrets (Eversholt St),2005_Secrets (Eversholt St)_Bloc Bar (Formerly Record Club/The Stillery,51.529302,-0.13258499999999998,2005-07-20
+121,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Secrets (Eversholt St)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+122,Destination,Na Zdrowie - The Polish Bar,2005_Na Zdrowie - The Polish Bar_Bloc Bar (Formerly Record Club/The Stillery,51.517002000000005,-0.11943599999999999,2005-06-15
+123,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Na Zdrowie - The Polish Bar_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+124,Destination,Hospital Group,2005_Hospital Group_Bloc Bar (Formerly Record Club/The Stillery,51.515089,-0.12413900000000001,2005-07-29
+125,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Hospital Group_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+126,Destination,Marquis of Cornwallis,2005_Marquis of Cornwallis_Bloc Bar (Formerly Record Club/The Stillery,51.524233,-0.12493,2005-06-17
+127,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Marquis of Cornwallis_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+128,Destination,Canvas,2005_Canvas_Bloc Bar (Formerly Record Club/The Stillery,51.536384000000005,-0.124454,2005-05-08
+129,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Canvas_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+130,Destination,Salsa!,2005_Salsa!_Bloc Bar (Formerly Record Club/The Stillery,51.513999,-0.128985,2005-01-08
+131,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Salsa!_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+132,Destination,The Hope Pub,2005_The Hope Pub_Bloc Bar (Formerly Record Club/The Stillery,51.5202,-0.13578099999999999,2005-06-23
+133,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Hope Pub_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+134,Destination,Electric Ballroom,2005_Electric Ballroom_Bloc Bar (Formerly Record Club/The Stillery,51.539688,-0.142772,2005-04-08
+135,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Electric Ballroom_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+136,Destination,Wetherspoons,2005_Wetherspoons_Bloc Bar (Formerly Record Club/The Stillery,51.547698,-0.181321,2005-07-27
+137,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Wetherspoons_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+138,Destination,Istanbul Meze Bar And Grill,2005_Istanbul Meze Bar And Grill_Bloc Bar (Formerly Record Club/The Stillery,51.52301,-0.141308,2005-04-08
+139,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Istanbul Meze Bar And Grill_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+140,Destination,Bloomsbury Food & Wine,2005_Bloomsbury Food & Wine_Bloc Bar (Formerly Record Club/The Stillery,51.525233,-0.125699,2005-07-13
+141,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Bloomsbury Food & Wine_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+142,Destination,Holiday Inn London Bloomsbury,2005_Holiday Inn London Bloomsbury_Bloc Bar (Formerly Record Club/The Stillery,51.523677,-0.12488699999999998,2005-07-27
+143,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Holiday Inn London Bloomsbury_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+144,Destination,Bengal Lancer,2005_Bengal Lancer_Bloc Bar (Formerly Record Club/The Stillery,51.54848,-0.141778,2005-05-31
+145,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Bengal Lancer_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+146,Destination,Anthony Delicatessen,2005_Anthony Delicatessen_Bloc Bar (Formerly Record Club/The Stillery,51.541352,-0.15648199999999998,2005-05-05
+147,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Anthony Delicatessen_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+148,Destination,The Argyle,2005_The Argyle_Bloc Bar (Formerly Record Club/The Stillery,51.518529,-0.108519,2005-10-06
+149,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Argyle_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+150,Destination,Soho Works,2005_Soho Works_Bloc Bar (Formerly Record Club/The Stillery,51.522458,-0.109051,2005-07-27
+151,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Soho Works_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+152,Destination,The Victory,2005_The Victory_Bloc Bar (Formerly Record Club/The Stillery,51.529284000000004,-0.143999,2005-06-15
+153,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Victory_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+154,Destination,Nisa,2005_Nisa_Bloc Bar (Formerly Record Club/The Stillery,51.543475,-0.13201,2005-07-22
+155,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Nisa_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+156,Destination,Whistlestop,2005_Whistlestop_Bloc Bar (Formerly Record Club/The Stillery,51.531959,-0.12365,2005-05-08
+157,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Whistlestop_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+158,Destination,Circus,2005_Circus_Bloc Bar (Formerly Record Club/The Stillery,51.514406,-0.12488599999999998,2005-05-17
+159,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Circus_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+160,Destination,Extra Food & Wine,2005_Extra Food & Wine_Bloc Bar (Formerly Record Club/The Stillery,51.527464,-0.138928,2005-04-29
+161,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Extra Food & Wine_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+162,Destination,Bloomsbury Tavern,2005_Bloomsbury Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.516890999999994,-0.12531,2005-06-16
+163,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Bloomsbury Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+164,Destination,Trattoria Verdi,2005_Trattoria Verdi_Bloc Bar (Formerly Record Club/The Stillery,51.520227,-0.12197000000000001,2005-06-13
+165,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Trattoria Verdi_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+166,Destination,Yorkshire Grey Brewery,2005_Yorkshire Grey Brewery_Bloc Bar (Formerly Record Club/The Stillery,51.521265,-0.11384000000000001,2005-11-07
+167,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Yorkshire Grey Brewery_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+168,Destination,Vault 139,2005_Vault 139_Bloc Bar (Formerly Record Club/The Stillery,51.523559999999996,-0.139343,2005-05-08
+169,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Vault 139_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+170,Destination,Lady Ottoline,2005_Lady Ottoline_Bloc Bar (Formerly Record Club/The Stillery,51.521719,-0.114622,2005-01-08
+171,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Lady Ottoline_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+172,Destination,One Tun,2005_One Tun_Bloc Bar (Formerly Record Club/The Stillery,51.51935,-0.13703900000000002,2005-06-07
+173,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_One Tun_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+174,Destination,Joe's,2005_Joe's_Bloc Bar (Formerly Record Club/The Stillery,51.543994,-0.151855,2005-08-06
+175,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Joe's_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+176,Destination,Bull And Last,2005_Bull And Last_Bloc Bar (Formerly Record Club/The Stillery,51.559104999999995,-0.148742,2005-06-08
+177,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Bull And Last_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+178,Destination,New End Mini Market,2005_New End Mini Market_Bloc Bar (Formerly Record Club/The Stillery,51.558817,-0.17614100000000002,2005-06-08
+179,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_New End Mini Market_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+180,Destination,Sir Colin Campbell,2005_Sir Colin Campbell_Bloc Bar (Formerly Record Club/The Stillery,51.543393,-0.199197,2005-05-18
+181,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Sir Colin Campbell_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+182,Destination,Colonel Fawcett,2005_Colonel Fawcett_Bloc Bar (Formerly Record Club/The Stillery,51.541639,-0.136007,2005-07-28
+183,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Colonel Fawcett_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+184,Destination,Woburn Food And Wine,2005_Woburn Food And Wine_Bloc Bar (Formerly Record Club/The Stillery,51.524485,-0.12700899999999998,2005-03-06
+185,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Woburn Food And Wine_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+186,Destination,Be At One,2005_Be At One_Bloc Bar (Formerly Record Club/The Stillery,51.535494,-0.140296,2005-05-07
+187,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Be At One_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+188,Destination,Great Queen Street,2005_Great Queen Street_Bloc Bar (Formerly Record Club/The Stillery,51.515707,-0.12126300000000001,2005-04-07
+189,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Great Queen Street_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+190,Destination,The Railway,2005_The Railway_Bloc Bar (Formerly Record Club/The Stillery,51.546124,-0.19050799999999998,2005-05-08
+191,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Railway_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+192,Destination,Swintons,2005_Swintons_Bloc Bar (Formerly Record Club/The Stillery,51.528611,-0.118474,2005-05-08
+193,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Swintons_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+194,Destination,Royal George,2005_Royal George_Bloc Bar (Formerly Record Club/The Stillery,51.528401,-0.131543,2005-06-06
+195,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Royal George_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+196,Destination,Gipsy Queen,2005_Gipsy Queen_Bloc Bar (Formerly Record Club/The Stillery,51.550794,-0.15471400000000002,2005-07-14
+197,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Gipsy Queen_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+198,Destination,Museum Tavern,2005_Museum Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.518343,-0.12531199999999998,2005-12-07
+199,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Museum Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+200,Destination,Andreas Restaurant,2005_Andreas Restaurant_Bloc Bar (Formerly Record Club/The Stillery,51.519465999999994,-0.134998,2005-07-22
+201,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Andreas Restaurant_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+202,Destination,Garden Cafe & Restaurant,2005_Garden Cafe & Restaurant_Bloc Bar (Formerly Record Club/The Stillery,51.545735,-0.179501,2005-06-20
+203,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Garden Cafe & Restaurant_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+204,Destination,Garden Gate,2005_Garden Gate_Bloc Bar (Formerly Record Club/The Stillery,51.554701,-0.165596,2005-06-24
+205,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Garden Gate_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+206,Destination,Ye Olde Mitre,2005_Ye Olde Mitre_Bloc Bar (Formerly Record Club/The Stillery,51.518824,-0.107485,2005-07-26
+207,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Ye Olde Mitre_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+208,Destination,Cottons,2005_Cottons_Bloc Bar (Formerly Record Club/The Stillery,51.542882,-0.14976099999999998,2005-07-22
+209,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Cottons_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+210,Destination,Queens Larder,2005_Queens Larder_Bloc Bar (Formerly Record Club/The Stillery,51.520839,-0.12166400000000001,2005-06-28
+211,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Queens Larder_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+212,Destination,Camden Park Food & Wine,2005_Camden Park Food & Wine_Bloc Bar (Formerly Record Club/The Stillery,51.545514000000004,-0.127197,2005-07-29
+213,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Camden Park Food & Wine_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+214,Destination,WOK and GO,2005_WOK and GO_Bloc Bar (Formerly Record Club/The Stillery,51.549141999999996,-0.18245899999999998,2005-10-06
+215,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_WOK and GO_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+216,Destination,The T.E. Dingwall Building (Formerly Lock 17/Highlight),2005_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Bloc Bar (Formerly Record Club/The Stillery,51.541428,-0.145851,2005-06-06
+217,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+218,Destination,Old Black Lion,2005_Old Black Lion_Bloc Bar (Formerly Record Club/The Stillery,51.544173,-0.200406,2005-04-21
+219,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Old Black Lion_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+220,Destination,Conway Hall,2005_Conway Hall_Bloc Bar (Formerly Record Club/The Stillery,51.519397,-0.11733099999999999,2005-04-15
+221,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Conway Hall_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+222,Destination,The Lion & Unicorn,2005_The Lion & Unicorn_Bloc Bar (Formerly Record Club/The Stillery,51.548297,-0.13856300000000002,2005-05-08
+223,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Lion & Unicorn_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+224,Destination,London Welsh Centre Ltd (formerly London Welsh Association Ltd),2005_London Welsh Centre Ltd (formerly London Welsh Association Ltd)_Bloc Bar (Formerly Record Club/The Stillery,51.52517,-0.11731199999999999,2005-04-08
+225,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_London Welsh Centre Ltd (formerly London Welsh Association Ltd)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+226,Destination,Denises Restaurant,2005_Denises Restaurant_Bloc Bar (Formerly Record Club/The Stillery,51.520378,-0.123529,2005-07-13
+227,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Denises Restaurant_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+228,Destination,Torriano,2005_Torriano_Bloc Bar (Formerly Record Club/The Stillery,51.550221,-0.132987,2005-04-13
+229,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Torriano_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+230,Destination,Bar Solo/Undersolo,2005_Bar Solo/Undersolo_Bloc Bar (Formerly Record Club/The Stillery,51.540039,-0.14449700000000001,2005-07-22
+231,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Bar Solo/Undersolo_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+232,Destination,The Duke,2005_The Duke_Bloc Bar (Formerly Record Club/The Stillery,51.522524,-0.116796,2005-07-25
+233,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Duke_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+234,Destination,Ballyhoo,2005_Ballyhoo_Bloc Bar (Formerly Record Club/The Stillery,51.517396000000005,-0.125711,2005-07-21
+235,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Ballyhoo_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+236,Destination,Northumberland Arms,2005_Northumberland Arms_Bloc Bar (Formerly Record Club/The Stillery,51.523142,-0.137511,2005-06-06
+237,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Northumberland Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+238,Destination,University College London,2005_University College London_Bloc Bar (Formerly Record Club/The Stillery,51.524213,-0.133079,2005-03-08
+239,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_University College London_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+240,Destination,Premier Inn,2005_Premier Inn_Bloc Bar (Formerly Record Club/The Stillery,51.551534000000004,-0.167068,2005-04-08
+241,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Premier Inn_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+242,Destination,Old Bell,2005_Old Bell_Bloc Bar (Formerly Record Club/The Stillery,51.537207,-0.192154,2005-07-26
+243,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Old Bell_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+244,Destination,Crown,2005_Crown_Bloc Bar (Formerly Record Club/The Stillery,51.514389,-0.12725799999999998,2005-07-14
+245,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Crown_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+246,Destination,F & S Food Bazaar,2005_F & S Food Bazaar_Bloc Bar (Formerly Record Club/The Stillery,51.540493,-0.139531,2005-04-18
+247,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_F & S Food Bazaar_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+248,Destination,The Bleeding Heart Tavern,2005_The Bleeding Heart Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.518941,-0.106305,2005-07-28
+249,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Bleeding Heart Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+250,Destination,Masala Zone Camden Town,2005_Masala Zone Camden Town_Bloc Bar (Formerly Record Club/The Stillery,51.538422,-0.143124,2005-07-14
+251,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Masala Zone Camden Town_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+252,Destination,The Junction Tavern,2005_The Junction Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.555029,-0.14012,2005-06-04
+253,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Junction Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+254,Destination,Washington Hotel,2005_Washington Hotel_Bloc Bar (Formerly Record Club/The Stillery,51.545876,-0.162983,2005-06-20
+255,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Washington Hotel_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+256,Destination,McDonald's Restaurants,2005_McDonald's Restaurants_Bloc Bar (Formerly Record Club/The Stillery,51.513631,-0.129773,2005-06-17
+257,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_McDonald's Restaurants_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+258,Destination,Swan,2005_Swan_Bloc Bar (Formerly Record Club/The Stillery,51.521776,-0.12359300000000001,2005-12-07
+259,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Swan_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+260,Destination,Two Brewers,2005_Two Brewers_Bloc Bar (Formerly Record Club/The Stillery,51.513243,-0.127366,2005-07-14
+261,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Two Brewers_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+262,Destination,Camden Arts Centre,2005_Camden Arts Centre_Bloc Bar (Formerly Record Club/The Stillery,51.551188,-0.183523,2005-05-08
+263,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Camden Arts Centre_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+264,Destination,Stag,2005_Stag_Bloc Bar (Formerly Record Club/The Stillery,51.553337,-0.161684,2005-05-08
+265,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Stag_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+266,Destination,Tas Restaurant,2005_Tas Restaurant_Bloc Bar (Formerly Record Club/The Stillery,51.517687,-0.12726099999999999,2005-04-08
+267,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Tas Restaurant_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+268,Destination,Wagamama,2005_Wagamama_Bloc Bar (Formerly Record Club/The Stillery,51.557276,-0.17795,2005-06-24
+269,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Wagamama_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+270,Destination,My Hotel,2005_My Hotel_Bloc Bar (Formerly Record Club/The Stillery,51.51831,-0.131671,2005-02-08
+271,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_My Hotel_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+272,Destination,Philomena's,2005_Philomena's_Bloc Bar (Formerly Record Club/The Stillery,51.514813000000004,-0.12298900000000001,2005-07-25
+273,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Philomena's_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+274,Destination,The Load of Hay Tavern (Previously Hill),2005_The Load of Hay Tavern (Previously Hill)_Bloc Bar (Formerly Record Club/The Stillery,51.546873,-0.157876,2005-07-15
+275,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Load of Hay Tavern (Previously Hill)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+276,Destination,Brown Sugar,2005_Brown Sugar_Bloc Bar (Formerly Record Club/The Stillery,51.516892999999996,-0.124123,2005-04-08
+277,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Brown Sugar_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+278,Destination,Browns,2005_Browns_Bloc Bar (Formerly Record Club/The Stillery,51.51668,-0.119209,2005-01-08
+279,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Browns_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+280,Destination,Prince Arthur,2005_Prince Arthur_Bloc Bar (Formerly Record Club/The Stillery,51.530378999999996,-0.133439,2005-07-25
+281,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Prince Arthur_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+282,Destination,S & S Newsmart,2005_S & S Newsmart_Bloc Bar (Formerly Record Club/The Stillery,51.521226,-0.133957,2005-05-24
+283,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_S & S Newsmart_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+284,Destination,Royal College Of Physicians Of London,2005_Royal College Of Physicians Of London_Bloc Bar (Formerly Record Club/The Stillery,51.52628,-0.14485699999999999,2005-05-08
+285,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Royal College Of Physicians Of London_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+286,Destination,The Dartmouth Arms,2005_The Dartmouth Arms_Bloc Bar (Formerly Record Club/The Stillery,51.558535,-0.143825,2005-03-08
+287,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Dartmouth Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+288,Destination,The Bloomsbury Hotel,2005_The Bloomsbury Hotel_Bloc Bar (Formerly Record Club/The Stillery,51.517232,-0.128717,2005-07-19
+289,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Bloomsbury Hotel_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+290,Destination,Rosslyn Arms,2005_Rosslyn Arms_Bloc Bar (Formerly Record Club/The Stillery,51.555053,-0.172822,2005-05-07
+291,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Rosslyn Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+292,Destination,Bloomsbury Theatre,2005_Bloomsbury Theatre_Bloc Bar (Formerly Record Club/The Stillery,51.525257,-0.13204000000000002,2005-07-20
+293,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Bloomsbury Theatre_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+294,Destination,Draft House,2005_Draft House_Bloc Bar (Formerly Record Club/The Stillery,51.519021,-0.135793,2005-07-22
+295,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Draft House_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+296,Destination,Magdala,2005_Magdala_Bloc Bar (Formerly Record Club/The Stillery,51.55581,-0.165543,2005-06-08
+297,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Magdala_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+298,Destination,A P Food Express,2005_A P Food Express_Bloc Bar (Formerly Record Club/The Stillery,51.548891,-0.190675,2005-05-08
+299,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_A P Food Express_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+300,Destination,Monkey Chews,2005_Monkey Chews_Bloc Bar (Formerly Record Club/The Stillery,51.547447999999996,-0.15405,2005-07-28
+301,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Monkey Chews_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+302,Destination,Slattery's Bar,2005_Slattery's Bar_Bloc Bar (Formerly Record Club/The Stillery,51.542487,-0.138495,2005-07-14
+303,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Slattery's Bar_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+304,Destination,Bunga Bunga (Fomerly The Drury Club Basement),2005_Bunga Bunga (Fomerly The Drury Club Basement)_Bloc Bar (Formerly Record Club/The Stillery,51.51578,-0.12225699999999999,2005-02-24
+305,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Bunga Bunga (Fomerly The Drury Club Basement)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+306,Destination,Newton Arms,2005_Newton Arms_Bloc Bar (Formerly Record Club/The Stillery,51.516965,-0.120941,2005-05-26
+307,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Newton Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+308,Destination,Sarracino Italian Restaurant,2005_Sarracino Italian Restaurant_Bloc Bar (Formerly Record Club/The Stillery,51.546657,-0.19045499999999999,2005-07-29
+309,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Sarracino Italian Restaurant_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+310,Destination,Lyttelton Arms,2005_Lyttelton Arms_Bloc Bar (Formerly Record Club/The Stillery,51.534911,-0.139649,2005-06-17
+311,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Lyttelton Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+312,Destination,The Crown & Anchor,2005_The Crown & Anchor_Bloc Bar (Formerly Record Club/The Stillery,51.526920000000004,-0.136481,2005-03-06
+313,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Crown & Anchor_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+314,Destination,Mia (formerly Benihana),2005_Mia (formerly Benihana)_Bloc Bar (Formerly Record Club/The Stillery,51.54335,-0.17416199999999998,2005-04-08
+315,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Mia (formerly Benihana)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+316,Destination,The Bree Louise,2005_The Bree Louise_Bloc Bar (Formerly Record Club/The Stillery,51.527366,-0.13533900000000001,2005-04-08
+317,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Bree Louise_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+318,Destination,Walkabout,2005_Walkabout_Bloc Bar (Formerly Record Club/The Stillery,51.547698,-0.181321,2005-05-13
+319,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Walkabout_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+320,Destination,Potion,2005_Potion_Bloc Bar (Formerly Record Club/The Stillery,51.522335999999996,-0.13943,2005-07-26
+321,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Potion_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+322,Destination,Campbell's Canal Cafe,2005_Campbell's Canal Cafe_Bloc Bar (Formerly Record Club/The Stillery,51.541090000000004,-0.145348,2005-09-19
+323,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Campbell's Canal Cafe_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+324,Destination,The Court,2005_The Court_Bloc Bar (Formerly Record Club/The Stillery,51.523142,-0.137511,2005-10-06
+325,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Court_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+326,Destination,Brondes Age,2005_Brondes Age_Bloc Bar (Formerly Record Club/The Stillery,51.545148,-0.201396,2005-04-21
+327,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Brondes Age_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+328,Destination,The Truscott Cellar (formerly Weng Wah Restaurant),2005_The Truscott Cellar (formerly Weng Wah Restaurant)_Bloc Bar (Formerly Record Club/The Stillery,51.55223,-0.166857,2005-05-08
+329,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Truscott Cellar (formerly Weng Wah Restaurant)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+330,Destination,Hat & Tun,2005_Hat & Tun_Bloc Bar (Formerly Record Club/The Stillery,51.521937,-0.108427,2005-07-28
+331,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Hat & Tun_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+332,Destination,Sainsbury's,2005_Sainsbury's_Bloc Bar (Formerly Record Club/The Stillery,51.516921999999994,-0.138523,2005-06-15
+333,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Sainsbury's_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+334,Destination,The Jack Horner,2005_The Jack Horner_Bloc Bar (Formerly Record Club/The Stillery,51.51831,-0.131671,2005-04-08
+335,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Jack Horner_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+336,Destination,The Oxford Pub,2005_The Oxford Pub_Bloc Bar (Formerly Record Club/The Stillery,51.550104,-0.140492,2005-05-07
+337,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Oxford Pub_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+338,Destination,Bar Gansa,2005_Bar Gansa_Bloc Bar (Formerly Record Club/The Stillery,51.540039,-0.14449700000000001,2005-07-22
+339,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Bar Gansa_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+340,Destination,Grosvenor St Giles Casino,2005_Grosvenor St Giles Casino_Bloc Bar (Formerly Record Club/The Stillery,51.517452,-0.130432,2005-12-07
+341,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Grosvenor St Giles Casino_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+342,Destination,The Abbey Tavern,2005_The Abbey Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.54587,-0.14094600000000002,2005-07-18
+343,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Abbey Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+344,Destination,Golden Lion,2005_Golden Lion_Bloc Bar (Formerly Record Club/The Stillery,51.539006,-0.135735,2005-07-15
+345,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Golden Lion_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+346,Destination,Kings Cross Social Club,2005_Kings Cross Social Club_Bloc Bar (Formerly Record Club/The Stillery,51.530207,-0.11801199999999999,2005-07-18
+347,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Kings Cross Social Club_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+348,Destination,Craft Beer Co - Covent Garden,2005_Craft Beer Co - Covent Garden_Bloc Bar (Formerly Record Club/The Stillery,51.515615999999994,-0.12485,2005-08-06
+349,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Craft Beer Co - Covent Garden_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+350,Destination,The Queens,2005_The Queens_Bloc Bar (Formerly Record Club/The Stillery,51.540818,-0.158121,2005-06-07
+351,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Queens_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+352,Destination,Centro & the Den,2005_Centro & the Den_Bloc Bar (Formerly Record Club/The Stillery,51.516890999999994,-0.12531,2005-06-22
+353,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Centro & the Den_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+354,Destination,Haverstock Arms,2005_Haverstock Arms_Bloc Bar (Formerly Record Club/The Stillery,51.549077000000004,-0.16178900000000002,2005-01-08
+355,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Haverstock Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+356,Destination,Holborn House,2005_Holborn House_Bloc Bar (Formerly Record Club/The Stillery,51.517503000000005,-0.117704,2005-01-08
+357,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Holborn House_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+358,Destination,02 Forum,2005_02 Forum_Bloc Bar (Formerly Record Club/The Stillery,51.551885,-0.141932,2005-07-29
+359,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_02 Forum_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+360,Destination,Sway,2005_Sway_Bloc Bar (Formerly Record Club/The Stillery,51.515423,-0.12044400000000001,2005-03-18
+361,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Sway_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+362,Destination,Hawley Arms,2005_Hawley Arms_Bloc Bar (Formerly Record Club/The Stillery,51.541961,-0.145297,2005-06-28
+363,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Hawley Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+364,Destination,Carpenters Arms,2005_Carpenters Arms_Bloc Bar (Formerly Record Club/The Stillery,51.521703,-0.136071,2005-10-06
+365,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Carpenters Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+366,Destination,Penderel's Oak,2005_Penderel's Oak_Bloc Bar (Formerly Record Club/The Stillery,51.517858000000004,-0.11538599999999999,2005-02-07
+367,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Penderel's Oak_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+368,Destination,Clerkenwell House,2005_Clerkenwell House_Bloc Bar (Formerly Record Club/The Stillery,51.521044,-0.10923499999999998,2005-04-08
+369,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Clerkenwell House_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+370,Destination,Miusan (Formerly Zensai),2005_Miusan (Formerly Zensai)_Bloc Bar (Formerly Record Club/The Stillery,51.540039,-0.14449700000000001,2005-07-22
+371,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Miusan (Formerly Zensai)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+372,Destination,The Actors Centre,2005_The Actors Centre_Bloc Bar (Formerly Record Club/The Stillery,51.513245,-0.12820299999999998,2005-04-08
+373,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Actors Centre_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+374,Destination,Kilburn Iron Works  (previously Powers Acoustic Bar),2005_Kilburn Iron Works  (previously Powers Acoustic Bar)_Bloc Bar (Formerly Record Club/The Stillery,51.545465,-0.20251,2005-10-06
+375,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Kilburn Iron Works  (previously Powers Acoustic Bar)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+376,Destination,Shaftesbury Bar,2005_Shaftesbury Bar_Bloc Bar (Formerly Record Club/The Stillery,51.516842,-0.126469,2005-05-08
+377,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Shaftesbury Bar_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+378,Destination,Wheatsheaf,2005_Wheatsheaf_Bloc Bar (Formerly Record Club/The Stillery,51.51757,-0.132725,2005-01-07
+379,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Wheatsheaf_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+380,Destination,Lansdowne,2005_Lansdowne_Bloc Bar (Formerly Record Club/The Stillery,51.541759000000006,-0.153998,2005-07-22
+381,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Lansdowne_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+382,Destination,Flask,2005_Flask_Bloc Bar (Formerly Record Club/The Stillery,51.556693,-0.176761,2005-11-07
+383,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Flask_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+384,Destination,Marlborough Arms,2005_Marlborough Arms_Bloc Bar (Formerly Record Club/The Stillery,51.521608,-0.132898,2005-07-14
+385,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Marlborough Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+386,Destination,Freemasons Hall,2005_Freemasons Hall_Bloc Bar (Formerly Record Club/The Stillery,51.515423,-0.12044400000000001,2005-03-05
+387,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Freemasons Hall_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+388,Destination,Hampstead Britannia Hotel,2005_Hampstead Britannia Hotel_Bloc Bar (Formerly Record Club/The Stillery,51.544309999999996,-0.162358,2005-02-08
+389,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Hampstead Britannia Hotel_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+390,Destination,Carpenter's Arms,2005_Carpenter's Arms_Bloc Bar (Formerly Record Club/The Stillery,51.528618,-0.115977,2005-06-13
+391,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Carpenter's Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+392,Destination,Cafe Metro,2005_Cafe Metro_Bloc Bar (Formerly Record Club/The Stillery,51.539688,-0.142772,2005-07-27
+393,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Cafe Metro_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+394,Destination,Rada,2005_Rada_Bloc Bar (Formerly Record Club/The Stillery,51.520386,-0.132202,2005-06-05
+395,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Rada_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+396,Destination,Holiday Inn London-Camden Lock,2005_Holiday Inn London-Camden Lock_Bloc Bar (Formerly Record Club/The Stillery,51.540046000000004,-0.145992,2005-05-08
+397,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Holiday Inn London-Camden Lock_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+398,Destination,Worlds End,2005_Worlds End_Bloc Bar (Formerly Record Club/The Stillery,51.539219,-0.141978,2005-08-06
+399,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Worlds End_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+400,Destination,Wolfes Bar & Grill,2005_Wolfes Bar & Grill_Bloc Bar (Formerly Record Club/The Stillery,51.515707,-0.12126300000000001,2005-07-28
+401,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Wolfes Bar & Grill_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+402,Destination,Lord Stanley,2005_Lord Stanley_Bloc Bar (Formerly Record Club/The Stillery,51.547542,-0.12961,2005-03-08
+403,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Lord Stanley_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+404,Destination,Unicorn,2005_Unicorn_Bloc Bar (Formerly Record Club/The Stillery,51.548664,-0.129813,2005-08-06
+405,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Unicorn_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+406,Destination,Melia White House Hotel,2005_Melia White House Hotel_Bloc Bar (Formerly Record Club/The Stillery,51.525222,-0.14366600000000002,2005-06-22
+407,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Melia White House Hotel_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+408,Destination,Student Central,2005_Student Central_Bloc Bar (Formerly Record Club/The Stillery,51.522251000000004,-0.130659,2005-05-07
+409,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Student Central_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+410,Destination,Lauderdale House,2005_Lauderdale House_Bloc Bar (Formerly Record Club/The Stillery,51.567877,-0.146145,2005-06-30
+411,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Lauderdale House_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+412,Destination,Lucas Arms,2005_Lucas Arms_Bloc Bar (Formerly Record Club/The Stillery,51.528472,-0.11981900000000001,2005-08-06
+413,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Lucas Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+414,Destination,Priory Tavern,2005_Priory Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.538581,-0.191,2005-07-14
+415,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Priory Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+416,Destination,Tesco Metro,2005_Tesco Metro_Bloc Bar (Formerly Record Club/The Stillery,51.520337,-0.134654,2005-07-21
+417,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Tesco Metro_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+418,Destination,Old Eagle,2005_Old Eagle_Bloc Bar (Formerly Record Club/The Stillery,51.542775,-0.13993,2005-07-27
+419,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Old Eagle_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+420,Destination,Prince Of Wales,2005_Prince Of Wales_Bloc Bar (Formerly Record Club/The Stillery,51.545906,-0.147403,2005-11-07
+421,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Prince Of Wales_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+422,Destination,Venus (formerly City Burlesque),2005_Venus (formerly City Burlesque)_Bloc Bar (Formerly Record Club/The Stillery,51.520437,-0.106431,2005-04-15
+423,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Venus (formerly City Burlesque)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+424,Destination,Colemans Wine Mart Off Licence,2005_Colemans Wine Mart Off Licence_Bloc Bar (Formerly Record Club/The Stillery,51.546555,-0.203003,2005-07-27
+425,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Colemans Wine Mart Off Licence_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+426,Destination,Poetry Cafe,2005_Poetry Cafe_Bloc Bar (Formerly Record Club/The Stillery,51.515089,-0.12413900000000001,2005-08-04
+427,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Poetry Cafe_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+428,Destination,The Rugby Tavern,2005_The Rugby Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.522104999999996,-0.116994,2005-06-20
+429,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Rugby Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+430,Destination,Assembly House,2005_Assembly House_Bloc Bar (Formerly Record Club/The Stillery,51.551065,-0.140306,2005-04-08
+431,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Assembly House_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+432,Destination,Skinners Arms,2005_Skinners Arms_Bloc Bar (Formerly Record Club/The Stillery,51.527983,-0.12475,2005-06-23
+433,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Skinners Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+434,Destination,Sainsburys Supermarket Ltd,2005_Sainsburys Supermarket Ltd_Bloc Bar (Formerly Record Club/The Stillery,51.518567,-0.11580399999999999,2005-03-07
+435,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Sainsburys Supermarket Ltd_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+436,Destination,Sir Christopher Hatton,2005_Sir Christopher Hatton_Bloc Bar (Formerly Record Club/The Stillery,51.518529,-0.108519,2005-05-27
+437,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Sir Christopher Hatton_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+438,Destination,Rosewood London (formerly Chancery Court Hotel),2005_Rosewood London (formerly Chancery Court Hotel)_Bloc Bar (Formerly Record Club/The Stillery,51.517503000000005,-0.117704,2005-07-27
+439,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Rosewood London (formerly Chancery Court Hotel)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+440,Destination,Queen's Head & Artichoke,2005_Queen's Head & Artichoke_Bloc Bar (Formerly Record Club/The Stillery,51.525803,-0.143906,2005-06-08
+441,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Queen's Head & Artichoke_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+442,Destination,Antalya Turkish Cuisine,2005_Antalya Turkish Cuisine_Bloc Bar (Formerly Record Club/The Stillery,51.520227,-0.12197000000000001,2005-07-20
+443,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Antalya Turkish Cuisine_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+444,Destination,Dublin Castle,2005_Dublin Castle_Bloc Bar (Formerly Record Club/The Stillery,51.537762,-0.14571199999999998,2005-07-29
+445,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Dublin Castle_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+446,Destination,The Fitzrovia,2005_The Fitzrovia_Bloc Bar (Formerly Record Club/The Stillery,51.519855,-0.135379,2005-07-14
+447,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Fitzrovia_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+448,Destination,Simply Fish,2005_Simply Fish_Bloc Bar (Formerly Record Club/The Stillery,51.540039,-0.14449700000000001,2005-07-29
+449,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Simply Fish_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+450,Destination,The Pack and Carriage (Formley known as Elixir),2005_The Pack and Carriage (Formley known as Elixir)_Bloc Bar (Formerly Record Club/The Stillery,51.531991,-0.13561900000000002,2005-07-28
+451,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Pack and Carriage (Formley known as Elixir)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+452,Destination,White Hart,2005_White Hart_Bloc Bar (Formerly Record Club/The Stillery,51.516312,-0.123688,2005-07-21
+453,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_White Hart_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+454,Destination,Rocket,2005_Rocket_Bloc Bar (Formerly Record Club/The Stillery,51.528287,-0.129436,2005-03-06
+455,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Rocket_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+456,Destination,Euston Flyer,2005_Euston Flyer_Bloc Bar (Formerly Record Club/The Stillery,51.528517,-0.126822,2005-06-30
+457,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Euston Flyer_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+458,Destination,Cafe Rouge,2005_Cafe Rouge_Bloc Bar (Formerly Record Club/The Stillery,51.515423,-0.12044400000000001,2005-07-28
+459,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Cafe Rouge_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+460,Destination,Kentish Food & Wine,2005_Kentish Food & Wine_Bloc Bar (Formerly Record Club/The Stillery,51.546125,-0.147151,2005-05-16
+461,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Kentish Food & Wine_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+462,Destination,Brasserie Blanc,2005_Brasserie Blanc_Bloc Bar (Formerly Record Club/The Stillery,51.518432000000004,-0.135121,2005-06-14
+463,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Brasserie Blanc_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+464,Destination,Old Crown,2005_Old Crown_Bloc Bar (Formerly Record Club/The Stillery,51.516890999999994,-0.12531,2005-05-08
+465,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Old Crown_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+466,Destination,Navruz Restaurant (formerly Charleys Bar),2005_Navruz Restaurant (formerly Charleys Bar)_Bloc Bar (Formerly Record Club/The Stillery,51.554759000000004,-0.212641,2005-05-08
+467,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Navruz Restaurant (formerly Charleys Bar)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+468,Destination,Burger & Lobster,2005_Burger & Lobster_Bloc Bar (Formerly Record Club/The Stillery,51.516745,-0.122603,2005-05-08
+469,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Burger & Lobster_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+470,Destination,Intrepid Fox,2005_Intrepid Fox_Bloc Bar (Formerly Record Club/The Stillery,51.516045,-0.127443,2005-06-13
+471,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Intrepid Fox_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+472,Destination,Alliance,2005_Alliance_Bloc Bar (Formerly Record Club/The Stillery,51.551010999999995,-0.201229,2005-02-08
+473,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Alliance_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+474,Destination,Southampton Arms,2005_Southampton Arms_Bloc Bar (Formerly Record Club/The Stillery,51.556022,-0.14632,2005-01-06
+475,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Southampton Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+476,Destination,Chilly Cool,2005_Chilly Cool_Bloc Bar (Formerly Record Club/The Stillery,51.526258,-0.124827,2005-06-23
+477,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Chilly Cool_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+478,Destination,The Lukin,2005_The Lukin_Bloc Bar (Formerly Record Club/The Stillery,51.522335999999996,-0.13943,2005-07-25
+479,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Lukin_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+480,Destination,Bedlam,2005_Bedlam_Bloc Bar (Formerly Record Club/The Stillery,51.555338,-0.179229,2005-04-25
+481,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Bedlam_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+482,Destination,Camden Assembly,2005_Camden Assembly_Bloc Bar (Formerly Record Club/The Stillery,51.542882,-0.14976099999999998,2005-08-06
+483,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Camden Assembly_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+484,Destination,The Ivy House,2005_The Ivy House_Bloc Bar (Formerly Record Club/The Stillery,51.518229999999996,-0.12041600000000001,2005-07-21
+485,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Ivy House_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+486,Destination,Bloc Bar (Formerly Record Club/The Stillery,2005_Bloc Bar (Formerly Record Club/The Stillery_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+487,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Bloc Bar (Formerly Record Club/The Stillery_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+488,Destination,Romo Deli,2005_Romo Deli_Bloc Bar (Formerly Record Club/The Stillery,51.543994,-0.151855,2005-04-08
+489,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Romo Deli_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+490,Destination,Lock Tavern,2005_Lock Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.542619,-0.148387,2005-02-08
+491,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Lock Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+492,Destination,Sainsbury's Supermarkets Ltd,2005_Sainsbury's Supermarkets Ltd_Bloc Bar (Formerly Record Club/The Stillery,51.516965,-0.181321,2005-03-08
+493,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Sainsbury's Supermarkets Ltd_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+494,Destination,Angel Inn,2005_Angel Inn_Bloc Bar (Formerly Record Club/The Stillery,51.57043,-0.147778,2005-06-17
+495,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Angel Inn_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+496,Destination,O'Reillys,2005_O'Reillys_Bloc Bar (Formerly Record Club/The Stillery,51.549129,-0.141647,2005-06-08
+497,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_O'Reillys_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+498,Destination,Lord Southampton,2005_Lord Southampton_Bloc Bar (Formerly Record Club/The Stillery,51.549464,-0.156302,2005-05-19
+499,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Lord Southampton_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+500,Destination,Villa Bianca,2005_Villa Bianca_Bloc Bar (Formerly Record Club/The Stillery,51.555759,-0.177656,2005-12-07
+501,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Villa Bianca_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+502,Destination,Tropicana Beach Club,2005_Tropicana Beach Club_Bloc Bar (Formerly Record Club/The Stillery,51.51578,-0.12225699999999999,2005-07-23
+503,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Tropicana Beach Club_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+504,Destination,HANA LTD,2005_HANA LTD_Bloc Bar (Formerly Record Club/The Stillery,51.552429,-0.191965,2005-09-05
+505,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_HANA LTD_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+506,Destination,MERE,2005_MERE_Bloc Bar (Formerly Record Club/The Stillery,51.520672999999995,-0.136245,2005-05-08
+507,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_MERE_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+508,Destination,Sir John Oldcastle,2005_Sir John Oldcastle_Bloc Bar (Formerly Record Club/The Stillery,51.520437,-0.106431,2005-05-07
+509,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Sir John Oldcastle_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+510,Destination,Cobden Arms,2005_Cobden Arms_Bloc Bar (Formerly Record Club/The Stillery,51.535228000000004,-0.138658,2005-07-13
+511,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Cobden Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+512,Destination,The Water Rats,2005_The Water Rats_Bloc Bar (Formerly Record Club/The Stillery,51.529164,-0.118967,2005-05-08
+513,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Water Rats_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+514,Destination,Jazz Cafe,2005_Jazz Cafe_Bloc Bar (Formerly Record Club/The Stillery,51.538422,-0.143124,2005-09-06
+515,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Jazz Cafe_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+516,Destination,Hope & Anchor,2005_Hope & Anchor_Bloc Bar (Formerly Record Club/The Stillery,51.534285,-0.13764300000000002,2005-07-25
+517,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Hope & Anchor_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+518,Destination,Marks & Spencer Simply Food,2005_Marks & Spencer Simply Food_Bloc Bar (Formerly Record Club/The Stillery,51.529302,-0.13258499999999998,2005-05-08
+519,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Marks & Spencer Simply Food_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+520,Destination,Crown & Anchor,2005_Crown & Anchor_Bloc Bar (Formerly Record Club/The Stillery,51.514247999999995,-0.125254,2005-07-25
+521,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Crown & Anchor_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+522,Destination,Engineer,2005_Engineer_Bloc Bar (Formerly Record Club/The Stillery,51.540040000000005,-0.15085,2005-07-28
+523,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Engineer_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+524,Destination,The Adelaide,2005_The Adelaide_Bloc Bar (Formerly Record Club/The Stillery,51.543134,-0.164908,2005-07-28
+525,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Adelaide_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+526,Destination,Escape,2005_Escape_Bloc Bar (Formerly Record Club/The Stillery,51.532687,-0.137501,2005-07-15
+527,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Escape_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+528,Destination,Alice House,2005_Alice House_Bloc Bar (Formerly Record Club/The Stillery,51.551211,-0.19204000000000002,2005-07-15
+529,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Alice House_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+530,Destination,The Black Lion,2005_The Black Lion_Bloc Bar (Formerly Record Club/The Stillery,51.551211,-0.19204000000000002,2005-06-08
+531,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Black Lion_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+532,Destination,Bucks Head,2005_Bucks Head_Bloc Bar (Formerly Record Club/The Stillery,51.540186,-0.143102,2005-06-20
+533,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Bucks Head_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+534,Destination,Blackheart (Prev  Camden Tup),2005_Blackheart (Prev  Camden Tup)_Bloc Bar (Formerly Record Club/The Stillery,51.538624,-0.141854,2005-06-20
+535,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Blackheart (Prev  Camden Tup)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+536,Destination,UCL Union,2005_UCL Union_Bloc Bar (Formerly Record Club/The Stillery,51.525692,-0.134571,2005-07-20
+537,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_UCL Union_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+538,Destination,Sahara Nights,2005_Sahara Nights_Bloc Bar (Formerly Record Club/The Stillery,51.530577,-0.119622,2005-07-25
+539,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Sahara Nights_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+540,Destination,Prince Of Wales' Feathers,2005_Prince Of Wales' Feathers_Bloc Bar (Formerly Record Club/The Stillery,51.523937,-0.138173,2005-06-17
+541,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Prince Of Wales' Feathers_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+542,Destination,Marquis Of Granby,2005_Marquis Of Granby_Bloc Bar (Formerly Record Club/The Stillery,51.513245,-0.12820299999999998,2005-07-15
+543,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Marquis Of Granby_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+544,Destination,Oxford Arms,2005_Oxford Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540541999999995,-0.14366199999999998,2005-07-14
+545,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Oxford Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+546,Destination,The Sun,2005_The Sun_Bloc Bar (Formerly Record Club/The Stillery,51.514813000000004,-0.12298900000000001,2005-12-07
+547,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Sun_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+548,Destination,Lamb,2005_Lamb_Bloc Bar (Formerly Record Club/The Stillery,51.523439,-0.11943599999999999,2005-06-29
+549,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Lamb_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+550,Destination,London Maida Vale Marriott,2005_London Maida Vale Marriott_Bloc Bar (Formerly Record Club/The Stillery,51.535973999999996,-0.190412,2005-04-08
+551,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_London Maida Vale Marriott_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+552,Destination,Bill's (formerly Pitcher and Piano),2005_Bill's (formerly Pitcher and Piano)_Bloc Bar (Formerly Record Club/The Stillery,51.515819,-0.118702,2005-05-08
+553,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Bill's (formerly Pitcher and Piano)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+554,Destination,Mcglynn's,2005_Mcglynn's_Bloc Bar (Formerly Record Club/The Stillery,51.528616,-0.12355,2005-06-08
+555,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Mcglynn's_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+556,Destination,Devonshire Arms (Formely Hobgoblin),2005_Devonshire Arms (Formely Hobgoblin)_Bloc Bar (Formerly Record Club/The Stillery,51.541325,-0.142537,2005-07-29
+557,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Devonshire Arms (Formely Hobgoblin)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+558,Destination,Crowne Plaza Kings Cross,2005_Crowne Plaza Kings Cross_Bloc Bar (Formerly Record Club/The Stillery,51.52628,-0.113854,2005-03-08
+559,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Crowne Plaza Kings Cross_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+560,Destination,Sovereign,2005_Sovereign_Bloc Bar (Formerly Record Club/The Stillery,51.530415999999995,-0.141208,2005-12-07
+561,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Sovereign_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+562,Destination,THE PRINCIPAL LONDON,2005_THE PRINCIPAL LONDON_Bloc Bar (Formerly Record Club/The Stillery,51.52268,-0.12503599999999998,2005-04-08
+563,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_THE PRINCIPAL LONDON_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+564,Destination,Flask Tavern,2005_Flask Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.569833,-0.151029,2005-07-15
+565,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Flask Tavern_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+566,Destination,White Horse,2005_White Horse_Bloc Bar (Formerly Record Club/The Stillery,51.554378,-0.16508299999999998,2005-07-15
+567,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_White Horse_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+568,Destination,Secrets (Gray's Inn Road),2005_Secrets (Gray's Inn Road)_Bloc Bar (Formerly Record Club/The Stillery,51.518921,-0.11112999999999999,2005-12-07
+569,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Secrets (Gray's Inn Road)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+570,Destination,Regents Park Marriott,2005_Regents Park Marriott_Bloc Bar (Formerly Record Club/The Stillery,51.542151000000004,-0.170272,2005-04-08
+571,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Regents Park Marriott_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+572,Destination,University College & Middlesex School of Medicine,2005_University College & Middlesex School of Medicine_Bloc Bar (Formerly Record Club/The Stillery,51.522307,-0.134901,2005-07-20
+573,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_University College & Middlesex School of Medicine_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+574,Destination,Griffin,2005_Griffin_Bloc Bar (Formerly Record Club/The Stillery,51.521334,-0.112046,2005-05-04
+575,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Griffin_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+576,Destination,Old Bull And Bush,2005_Old Bull And Bush_Bloc Bar (Formerly Record Club/The Stillery,51.567537,-0.18248499999999998,2005-12-07
+577,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Old Bull And Bush_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+578,Destination,Sainsburys,2005_Sainsburys_Bloc Bar (Formerly Record Club/The Stillery,51.54053,-0.140895,2005-06-23
+579,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Sainsburys_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+580,Destination,Crane and Tortoise,2005_Crane and Tortoise_Bloc Bar (Formerly Record Club/The Stillery,51.521861,-0.11399200000000001,2005-01-08
+581,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Crane and Tortoise_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+582,Destination,Eastnor Castle,2005_Eastnor Castle_Bloc Bar (Formerly Record Club/The Stillery,51.533219,-0.134248,2005-07-28
+583,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Eastnor Castle_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+584,Destination,Ice Wharf - Lloyds No 1,2005_Ice Wharf - Lloyds No 1_Bloc Bar (Formerly Record Club/The Stillery,51.540754,-0.145258,2005-06-08
+585,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Ice Wharf - Lloyds No 1_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+586,Destination,The Beaten Docket,2005_The Beaten Docket_Bloc Bar (Formerly Record Club/The Stillery,51.553591,-0.211394,2005-02-08
+587,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Beaten Docket_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+588,Destination,Calthorpe Arms,2005_Calthorpe Arms_Bloc Bar (Formerly Record Club/The Stillery,51.524852,-0.11571600000000001,2005-03-08
+589,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Calthorpe Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+590,Destination,London Cocktail Club,2005_London Cocktail Club_Bloc Bar (Formerly Record Club/The Stillery,51.516234000000004,-0.12594,2005-04-08
+591,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_London Cocktail Club_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+592,Destination,Square Pig,2005_Square Pig_Bloc Bar (Formerly Record Club/The Stillery,51.518848999999996,-0.12026099999999999,2005-03-08
+593,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Square Pig_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+594,Destination,Spearmint Rhino,2005_Spearmint Rhino_Bloc Bar (Formerly Record Club/The Stillery,51.523398,-0.136463,2005-01-08
+595,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Spearmint Rhino_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+596,Destination,Tesco Express,2005_Tesco Express_Bloc Bar (Formerly Record Club/The Stillery,51.545437,-0.133363,2005-07-28
+597,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Tesco Express_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+598,Destination,Gatehouse,2005_Gatehouse_Bloc Bar (Formerly Record Club/The Stillery,51.571441,-0.15045999999999998,2005-06-21
+599,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Gatehouse_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+600,Destination,The Star,2005_The Star_Bloc Bar (Formerly Record Club/The Stillery,51.563399,-0.142562,2005-04-27
+601,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Star_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+602,Destination,Crown And Goose,2005_Crown And Goose_Bloc Bar (Formerly Record Club/The Stillery,51.536705,-0.142095,2005-07-13
+603,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Crown And Goose_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+604,Destination,Thai Square,2005_Thai Square_Bloc Bar (Formerly Record Club/The Stillery,51.514389,-0.12725799999999998,2005-10-06
+605,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Thai Square_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+606,Destination,Supersave,2005_Supersave_Bloc Bar (Formerly Record Club/The Stillery,51.551927,-0.19803900000000002,2005-12-07
+607,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Supersave_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+608,Destination,The Earl of Camden,2005_The Earl of Camden_Bloc Bar (Formerly Record Club/The Stillery,51.537586,-0.14385,2005-12-07
+609,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Earl of Camden_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+610,Destination,Mecca Bingo Club,2005_Mecca Bingo Club_Bloc Bar (Formerly Record Club/The Stillery,51.539139,-0.14369500000000002,2005-06-24
+611,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Mecca Bingo Club_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+612,Destination,Dolphin,2005_Dolphin_Bloc Bar (Formerly Record Club/The Stillery,51.528662,-0.12505,2005-05-27
+613,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Dolphin_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+614,Destination,Bar at TCR,2005_Bar at TCR_Bloc Bar (Formerly Record Club/The Stillery,51.522218,-0.13492200000000001,2005-02-08
+615,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Bar at TCR_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+616,Destination,Coopers Arms,2005_Coopers Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540648,-0.196044,2005-05-08
+617,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Coopers Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+618,Destination,Soul Central,2005_Soul Central_Bloc Bar (Formerly Record Club/The Stillery,51.516178000000004,-0.12926500000000002,2005-07-20
+619,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Soul Central_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+620,Destination,Hemstall Self Service,2005_Hemstall Self Service_Bloc Bar (Formerly Record Club/The Stillery,51.544226,-0.19665,2005-06-24
+621,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Hemstall Self Service_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+622,Destination,Duke of York,2005_Duke of York_Bloc Bar (Formerly Record Club/The Stillery,51.531959,-0.12365,2005-05-08
+623,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Duke of York_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+624,Destination,The Marathon,2005_The Marathon_Bloc Bar (Formerly Record Club/The Stillery,51.543994,-0.151855,2005-12-07
+625,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Marathon_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+626,Destination,Shaker & Company,2005_Shaker & Company_Bloc Bar (Formerly Record Club/The Stillery,51.52796,-0.139145,2005-07-27
+627,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Shaker & Company_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+628,Destination,Elephants Head,2005_Elephants Head_Bloc Bar (Formerly Record Club/The Stillery,51.540541999999995,-0.14366199999999998,2005-07-14
+629,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Elephants Head_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+630,Destination,Smithy's Wine Bar,2005_Smithy's Wine Bar_Bloc Bar (Formerly Record Club/The Stillery,51.529902,-0.119118,2005-03-08
+631,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Smithy's Wine Bar_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+632,Destination,The Queen's Head (formerly Coco Momo Restaurant),2005_The Queen's Head (formerly Coco Momo Restaurant)_Bloc Bar (Formerly Record Club/The Stillery,51.520793,-0.11748800000000001,2005-10-06
+633,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Queen's Head (formerly Coco Momo Restaurant)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+634,Destination,Done Our Bit Club,2005_Done Our Bit Club_Bloc Bar (Formerly Record Club/The Stillery,51.547599,-0.197526,2005-05-07
+635,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Done Our Bit Club_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+636,Destination,Sun Hin,2005_Sun Hin_Bloc Bar (Formerly Record Club/The Stillery,51.552279,-0.141423,2005-05-13
+637,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Sun Hin_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+638,Destination,Old Red Lion,2005_Old Red Lion_Bloc Bar (Formerly Record Club/The Stillery,51.518567,-0.11580399999999999,2005-07-21
+639,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Old Red Lion_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+640,Destination,Spread Eagle,2005_Spread Eagle_Bloc Bar (Formerly Record Club/The Stillery,51.537762,-0.14571199999999998,2005-11-07
+641,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Spread Eagle_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+642,Destination,St Martin's Theatre,2005_St Martin's Theatre_Bloc Bar (Formerly Record Club/The Stillery,51.512865000000005,-0.127574,2005-03-08
+643,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_St Martin's Theatre_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+644,Destination,Black Cap,2005_Black Cap_Bloc Bar (Formerly Record Club/The Stillery,51.538247,-0.142543,2005-03-06
+645,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Black Cap_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+646,Destination,Silk (formerly Anodos Night Spot Ltd),2005_Silk (formerly Anodos Night Spot Ltd)_Bloc Bar (Formerly Record Club/The Stillery,51.537827,-0.141005,2005-12-07
+647,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Silk (formerly Anodos Night Spot Ltd)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+648,Destination,Clockhouse,2005_Clockhouse_Bloc Bar (Formerly Record Club/The Stillery,51.521044,-0.10923499999999998,2005-06-28
+649,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Clockhouse_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+650,Destination,St Giles Hotel Ltd,2005_St Giles Hotel Ltd_Bloc Bar (Formerly Record Club/The Stillery,51.517452,-0.130432,2005-05-05
+651,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_St Giles Hotel Ltd_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+652,Destination,La Provence,2005_La Provence_Bloc Bar (Formerly Record Club/The Stillery,51.559391,-0.178055,2005-06-24
+653,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_La Provence_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+654,Destination,Bobby's (formerly La Brocca),2005_Bobby's (formerly La Brocca)_Bloc Bar (Formerly Record Club/The Stillery,51.550391999999995,-0.19197899999999998,2005-07-27
+655,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Bobby's (formerly La Brocca)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+656,Destination,The Crowndale,2005_The Crowndale_Bloc Bar (Formerly Record Club/The Stillery,51.534285,-0.13764300000000002,2005-07-26
+657,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Crowndale_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+658,Destination,London Irish Centre,2005_London Irish Centre_Bloc Bar (Formerly Record Club/The Stillery,51.543877,-0.132175,2005-05-08
+659,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_London Irish Centre_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+660,Destination,Grosvenor Casino,2005_Grosvenor Casino_Bloc Bar (Formerly Record Club/The Stillery,51.521776,-0.12359300000000001,2005-07-14
+661,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Grosvenor Casino_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+662,Destination,Pakenham Arms,2005_Pakenham Arms_Bloc Bar (Formerly Record Club/The Stillery,51.525301,-0.11469800000000001,2005-03-08
+663,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Pakenham Arms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+664,Destination,New Bloomsbury Set,2005_New Bloomsbury Set_Bloc Bar (Formerly Record Club/The Stillery,51.525437,-0.125078,2005-07-28
+665,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_New Bloomsbury Set_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+666,Destination,Good Mixer,2005_Good Mixer_Bloc Bar (Formerly Record Club/The Stillery,51.540039,-0.14449700000000001,2005-06-17
+667,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Good Mixer_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+668,Destination,Fifty Five Bar and Lounge,2005_Fifty Five Bar and Lounge_Bloc Bar (Formerly Record Club/The Stillery,51.540046000000004,-0.145992,2005-04-08
+669,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Fifty Five Bar and Lounge_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+670,Destination,Edinboro Castle,2005_Edinboro Castle_Bloc Bar (Formerly Record Club/The Stillery,51.536087,-0.14494,2005-06-24
+671,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Edinboro Castle_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+672,Destination,Blue Lion,2005_Blue Lion_Bloc Bar (Formerly Record Club/The Stillery,51.523551,-0.11578,2005-01-08
+673,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Blue Lion_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+674,Destination,De Vere Grand Connaught Rooms,2005_De Vere Grand Connaught Rooms_Bloc Bar (Formerly Record Club/The Stillery,51.515423,-0.12044400000000001,2005-06-21
+675,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_De Vere Grand Connaught Rooms_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+676,Destination,Theatro Technis Co Ltd,2005_Theatro Technis Co Ltd_Bloc Bar (Formerly Record Club/The Stillery,51.53564,-0.13486800000000002,2005-05-07
+677,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Theatro Technis Co Ltd_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+678,Destination,Queens Head,2005_Queens Head_Bloc Bar (Formerly Record Club/The Stillery,51.528611,-0.118474,2005-07-28
+679,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Queens Head_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+680,Destination,Cote,2005_Cote_Bloc Bar (Formerly Record Club/The Stillery,51.538119,-0.145295,2005-07-22
+681,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Cote_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+682,Destination,The Knights Templar,2005_The Knights Templar_Bloc Bar (Formerly Record Club/The Stillery,51.51562,-0.112171,2005-03-14
+683,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_The Knights Templar_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+684,Destination,NWC (formerly Legacy),2005_NWC (formerly Legacy)_Bloc Bar (Formerly Record Club/The Stillery,51.543234000000005,-0.17561500000000002,2005-04-08
+685,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_NWC (formerly Legacy)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+686,Destination,Hercules Pillars,2005_Hercules Pillars_Bloc Bar (Formerly Record Club/The Stillery,51.515707,-0.12126300000000001,2005-04-14
+687,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Hercules Pillars_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+688,Destination,Flesh and Buns (previously Kitchen Italia),2005_Flesh and Buns (previously Kitchen Italia)_Bloc Bar (Formerly Record Club/The Stillery,51.514056,-0.12601400000000001,2005-07-26
+689,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Flesh and Buns (previously Kitchen Italia)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+690,Destination,Eriki Indian Restaurant,2005_Eriki Indian Restaurant_Bloc Bar (Formerly Record Club/The Stillery,51.544622,-0.175337,2005-02-08
+691,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Eriki Indian Restaurant_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+692,Destination,Nisa (formerly Leighton Arms),2005_Nisa (formerly Leighton Arms)_Bloc Bar (Formerly Record Club/The Stillery,51.552346,-0.132877,2005-07-27
+693,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Nisa (formerly Leighton Arms)_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06
+694,Destination,Freud Cafe,2005_Freud Cafe_Bloc Bar (Formerly Record Club/The Stillery,51.515044,-0.126064,2005-07-27
+695,Origin,Bloc Bar (Formerly Record Club/The Stillery,2005_Freud Cafe_Bloc Bar (Formerly Record Club/The Stillery,51.540164000000004,-0.141998,2005-01-06

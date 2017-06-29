@@ -1,0 +1,1745 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Supersave Food & Wine,2005_Supersave Food & Wine_Aki Restaurant,51.526934000000004,-0.180533,2005-01-06
+1,Origin,Aki Restaurant,2005_Supersave Food & Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+2,Destination,Shamrat Of India,2005_Shamrat Of India_Aki Restaurant,51.544703000000005,-0.200935,2005-11-07
+3,Origin,Aki Restaurant,2005_Shamrat Of India_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+4,Destination,Emperor,2005_Emperor_Aki Restaurant,51.545968,-0.162543,2005-07-25
+5,Origin,Aki Restaurant,2005_Emperor_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+6,Destination,Hush Brasseries Holborn (formerly Villandry Kitchen),2005_Hush Brasseries Holborn (formerly Villandry Kitchen)_Aki Restaurant,51.518268,-0.11845499999999999,2005-07-26
+7,Origin,Aki Restaurant,2005_Hush Brasseries Holborn (formerly Villandry Kitchen)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+8,Destination,Eat Tokyo (formerly Edokko Restaurant),2005_Eat Tokyo (formerly Edokko Restaurant)_Aki Restaurant,51.519793,-0.117736,2005-05-05
+9,Origin,Aki Restaurant,2005_Eat Tokyo (formerly Edokko Restaurant)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+10,Destination,Rock And Sole Place,2005_Rock And Sole Place_Aki Restaurant,51.514406,-0.12488599999999998,2005-05-08
+11,Origin,Aki Restaurant,2005_Rock And Sole Place_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+12,Destination,Garfunkel's,2005_Garfunkel's_Aki Restaurant,51.516945,-0.12989,2005-07-29
+13,Origin,Aki Restaurant,2005_Garfunkel's_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+14,Destination,Peckwater Estate Tenant & R.A,2005_Peckwater Estate Tenant & R.A_Aki Restaurant,51.550459000000004,-0.138127,2005-04-08
+15,Origin,Aki Restaurant,2005_Peckwater Estate Tenant & R.A_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+16,Destination,Mondello Restaurant,2005_Mondello Restaurant_Aki Restaurant,51.519855,-0.135379,2005-09-06
+17,Origin,Aki Restaurant,2005_Mondello Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+18,Destination,Miranas Food & Wine,2005_Miranas Food & Wine_Aki Restaurant,51.514406,-0.12488599999999998,2005-07-29
+19,Origin,Aki Restaurant,2005_Miranas Food & Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+20,Destination,Londis,2005_Londis_Aki Restaurant,51.518268,-0.201049,2005-05-25
+21,Origin,Aki Restaurant,2005_Londis_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+22,Destination,Royal National Hotel,2005_Royal National Hotel_Aki Restaurant,51.523588000000004,-0.12746500000000002,2005-06-29
+23,Origin,Aki Restaurant,2005_Royal National Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+24,Destination,Brookes Brothers Wine Bar & Brasserie,2005_Brookes Brothers Wine Bar & Brasserie_Aki Restaurant,51.518921,-0.11112999999999999,2005-01-08
+25,Origin,Aki Restaurant,2005_Brookes Brothers Wine Bar & Brasserie_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+26,Destination,Zara Cafe Restaurant,2005_Zara Cafe Restaurant_Aki Restaurant,51.554295,-0.16628800000000002,2005-06-27
+27,Origin,Aki Restaurant,2005_Zara Cafe Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+28,Destination,Versilia Restaurant,2005_Versilia Restaurant_Aki Restaurant,51.552893,-0.187857,2005-09-06
+29,Origin,Aki Restaurant,2005_Versilia Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+30,Destination,Marks and Spencer,2005_Marks and Spencer_Aki Restaurant,51.519513,-0.133795,2005-06-20
+31,Origin,Aki Restaurant,2005_Marks and Spencer_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+32,Destination,Balans Restaurant,2005_Balans Restaurant_Aki Restaurant,51.513596,-0.127317,2005-07-22
+33,Origin,Aki Restaurant,2005_Balans Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+34,Destination,Staunton Hotel,2005_Staunton Hotel_Aki Restaurant,51.520101000000004,-0.129801,2005-11-05
+35,Origin,Aki Restaurant,2005_Staunton Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+36,Destination,Golden Valley,2005_Golden Valley_Aki Restaurant,51.548396000000004,-0.12929200000000002,2005-06-30
+37,Origin,Aki Restaurant,2005_Golden Valley_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+38,Destination,Birkbeck College (Gordon Sq),2005_Birkbeck College (Gordon Sq)_Aki Restaurant,51.524621999999994,-0.129966,2005-07-29
+39,Origin,Aki Restaurant,2005_Birkbeck College (Gordon Sq)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+40,Destination,Nando's,2005_Nando's_Aki Restaurant,51.544703000000005,-0.200935,2005-04-08
+41,Origin,Aki Restaurant,2005_Nando's_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+42,Destination,Poolcrest Snooker Club,2005_Poolcrest Snooker Club_Aki Restaurant,51.545148,-0.201396,2005-04-04
+43,Origin,Aki Restaurant,2005_Poolcrest Snooker Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+44,Destination,Offices Of Partners Bddh,2005_Offices Of Partners Bddh_Aki Restaurant,51.519946999999995,-0.133178,2005-03-08
+45,Origin,Aki Restaurant,2005_Offices Of Partners Bddh_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+46,Destination,Atlanta Supermarket,2005_Atlanta Supermarket_Aki Restaurant,51.551787,-0.19203499999999998,2005-01-08
+47,Origin,Aki Restaurant,2005_Atlanta Supermarket_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+48,Destination,Aki Restaurant,2005_Aki Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+49,Origin,Aki Restaurant,2005_Aki Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+50,Destination,Clore Education Centre British Museum,2005_Clore Education Centre British Museum_Aki Restaurant,51.519317,-0.127341,2005-06-08
+51,Origin,Aki Restaurant,2005_Clore Education Centre British Museum_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+52,Destination,Shaftesbury Theatre,2005_Shaftesbury Theatre_Aki Restaurant,51.516234000000004,-0.12594,2005-05-19
+53,Origin,Aki Restaurant,2005_Shaftesbury Theatre_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+54,Destination,Hot Rock Cafe,2005_Hot Rock Cafe_Aki Restaurant,51.539219,-0.141978,2005-05-08
+55,Origin,Aki Restaurant,2005_Hot Rock Cafe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+56,Destination,Springhealth Leisure Club,2005_Springhealth Leisure Club_Aki Restaurant,51.546167,-0.164761,2005-04-08
+57,Origin,Aki Restaurant,2005_Springhealth Leisure Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+58,Destination,Wine Bargains Of Holborn,2005_Wine Bargains Of Holborn_Aki Restaurant,51.521044,-0.10923499999999998,2005-07-27
+59,Origin,Aki Restaurant,2005_Wine Bargains Of Holborn_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+60,Destination,Woburn Tandoori Restaurant,2005_Woburn Tandoori Restaurant_Aki Restaurant,51.526845,-0.129579,2005-12-07
+61,Origin,Aki Restaurant,2005_Woburn Tandoori Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+62,Destination,Chutneys,2005_Chutneys_Aki Restaurant,51.527013000000004,-0.137888,2005-02-08
+63,Origin,Aki Restaurant,2005_Chutneys_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+64,Destination,Londsbury Express (Formerly Fleet Food Stop Off Licence),2005_Londsbury Express (Formerly Fleet Food Stop Off Licence)_Aki Restaurant,51.553721,-0.16133699999999998,2005-06-27
+65,Origin,Aki Restaurant,2005_Londsbury Express (Formerly Fleet Food Stop Off Licence)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+66,Destination,Fitzroy Tavern,2005_Fitzroy Tavern_Aki Restaurant,51.518959,-0.134555,2005-06-29
+67,Origin,Aki Restaurant,2005_Fitzroy Tavern_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+68,Destination,Cafe Rouge,2005_Cafe Rouge_Aki Restaurant,51.556119,-0.176816,2005-07-20
+69,Origin,Aki Restaurant,2005_Cafe Rouge_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+70,Destination,Kings Cross Tandoori,2005_Kings Cross Tandoori_Aki Restaurant,51.530239,-0.12168499999999999,2005-05-08
+71,Origin,Aki Restaurant,2005_Kings Cross Tandoori_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+72,Destination,Yo! Sushi @ My Hotel,2005_Yo! Sushi @ My Hotel_Aki Restaurant,51.51831,-0.131671,2005-01-08
+73,Origin,Aki Restaurant,2005_Yo! Sushi @ My Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+74,Destination,Bali Bali Restaurant,2005_Bali Bali Restaurant_Aki Restaurant,51.51386,-0.127887,2005-05-16
+75,Origin,Aki Restaurant,2005_Bali Bali Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+76,Destination,Chu Chi,2005_Chu Chi_Aki Restaurant,51.518432000000004,-0.135121,2005-07-21
+77,Origin,Aki Restaurant,2005_Chu Chi_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+78,Destination,Passage To India,2005_Passage To India_Aki Restaurant,51.549141999999996,-0.18245899999999998,2005-07-20
+79,Origin,Aki Restaurant,2005_Passage To India_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+80,Destination,Costcutters,2005_Costcutters_Aki Restaurant,51.529095,-0.141795,2005-04-28
+81,Origin,Aki Restaurant,2005_Costcutters_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+82,Destination,Institute of Historical Research Club,2005_Institute of Historical Research Club_Aki Restaurant,51.521009,-0.128445,2005-05-08
+83,Origin,Aki Restaurant,2005_Institute of Historical Research Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+84,Destination,Fishworks,2005_Fishworks_Aki Restaurant,51.540818,-0.158121,2005-05-31
+85,Origin,Aki Restaurant,2005_Fishworks_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+86,Destination,Tomai Pan Asian Street Food,2005_Tomai Pan Asian Street Food_Aki Restaurant,51.548794,-0.19137300000000002,2005-03-08
+87,Origin,Aki Restaurant,2005_Tomai Pan Asian Street Food_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+88,Destination,32A Limited (previously Bullet Bar),2005_32A Limited (previously Bullet Bar)_Aki Restaurant,51.544982,-0.141947,2005-06-14
+89,Origin,Aki Restaurant,2005_32A Limited (previously Bullet Bar)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+90,Destination,Hemstall Self Service,2005_Hemstall Self Service_Aki Restaurant,51.544226,-0.19665,2005-07-19
+91,Origin,Aki Restaurant,2005_Hemstall Self Service_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+92,Destination,Bangalore Brasserie,2005_Bangalore Brasserie_Aki Restaurant,51.548982,-0.130221,2005-06-30
+93,Origin,Aki Restaurant,2005_Bangalore Brasserie_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+94,Destination,Trattoria Monte Bianco,2005_Trattoria Monte Bianco_Aki Restaurant,51.52301,-0.141308,2005-10-05
+95,Origin,Aki Restaurant,2005_Trattoria Monte Bianco_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+96,Destination,Cafe Renoir,2005_Cafe Renoir_Aki Restaurant,51.549255,-0.140701,2005-07-13
+97,Origin,Aki Restaurant,2005_Cafe Renoir_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+98,Destination,Singapore Gardens Restaurant,2005_Singapore Gardens Restaurant_Aki Restaurant,51.542473,-0.180059,2005-09-06
+99,Origin,Aki Restaurant,2005_Singapore Gardens Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+100,Destination,Steven Lee Food & News,2005_Steven Lee Food & News_Aki Restaurant,51.52753,-0.11838900000000001,2005-05-13
+101,Origin,Aki Restaurant,2005_Steven Lee Food & News_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+102,Destination,Aidel's,2005_Aidel's_Aki Restaurant,51.55223,-0.166857,2005-05-07
+103,Origin,Aki Restaurant,2005_Aidel's_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+104,Destination,Cecil Sharp House,2005_Cecil Sharp House_Aki Restaurant,51.538157,-0.149351,2005-01-08
+105,Origin,Aki Restaurant,2005_Cecil Sharp House_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+106,Destination,Costcutter,2005_Costcutter_Aki Restaurant,51.540393,-0.183002,2005-02-08
+107,Origin,Aki Restaurant,2005_Costcutter_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+108,Destination,St Chad's,2005_St Chad's_Aki Restaurant,51.530577,-0.119622,2005-05-17
+109,Origin,Aki Restaurant,2005_St Chad's_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+110,Destination,Villa Restaurant,2005_Villa Restaurant_Aki Restaurant,51.547618,-0.140702,2005-05-08
+111,Origin,Aki Restaurant,2005_Villa Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+112,Destination,Arabesque,2005_Arabesque_Aki Restaurant,51.54367,-0.172902,2005-05-08
+113,Origin,Aki Restaurant,2005_Arabesque_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+114,Destination,Fairprice Supermarket,2005_Fairprice Supermarket_Aki Restaurant,51.542217,-0.18071199999999998,2005-07-21
+115,Origin,Aki Restaurant,2005_Fairprice Supermarket_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+116,Destination,Euro Food & Wines,2005_Euro Food & Wines_Aki Restaurant,51.523513,-0.12592899999999999,2005-01-06
+117,Origin,Aki Restaurant,2005_Euro Food & Wines_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+118,Destination,A-SAUCE LIMITED,2005_A-SAUCE LIMITED_Aki Restaurant,51.517687,-0.125027,2005-06-08
+119,Origin,Aki Restaurant,2005_A-SAUCE LIMITED_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+120,Destination,Natural Natural,2005_Natural Natural_Aki Restaurant,51.545735,-0.179501,2005-07-19
+121,Origin,Aki Restaurant,2005_Natural Natural_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+122,Destination,Sir Richard Steele,2005_Sir Richard Steele_Aki Restaurant,51.546679,-0.15871300000000002,2005-07-26
+123,Origin,Aki Restaurant,2005_Sir Richard Steele_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+124,Destination,Rak's News,2005_Rak's News_Aki Restaurant,51.540251,-0.19475699999999999,2005-07-29
+125,Origin,Aki Restaurant,2005_Rak's News_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+126,Destination,Camden Burgers LTD,2005_Camden Burgers LTD_Aki Restaurant,51.534911,-0.139649,2005-07-27
+127,Origin,Aki Restaurant,2005_Camden Burgers LTD_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+128,Destination,Primrose Hill Community Association,2005_Primrose Hill Community Association_Aki Restaurant,51.540149,-0.155454,2005-07-21
+129,Origin,Aki Restaurant,2005_Primrose Hill Community Association_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+130,Destination,Sevilla Mia,2005_Sevilla Mia_Aki Restaurant,51.516921999999994,-0.132023,2005-03-06
+131,Origin,Aki Restaurant,2005_Sevilla Mia_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+132,Destination,Lidl UK GmbH,2005_Lidl UK GmbH_Aki Restaurant,51.547109000000006,-0.142245,2005-04-07
+133,Origin,Aki Restaurant,2005_Lidl UK GmbH_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+134,Destination,Royal Mile Whiskies,2005_Royal Mile Whiskies_Aki Restaurant,51.517041,-0.127459,2005-04-08
+135,Origin,Aki Restaurant,2005_Royal Mile Whiskies_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+136,Destination,Frascati Restaurant,2005_Frascati Restaurant_Aki Restaurant,51.556143,-0.179161,2005-01-07
+137,Origin,Aki Restaurant,2005_Frascati Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+138,Destination,Scala,2005_Scala_Aki Restaurant,51.530693,-0.121473,2005-07-26
+139,Origin,Aki Restaurant,2005_Scala_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+140,Destination,Cosmoba,2005_Cosmoba_Aki Restaurant,51.521776,-0.12359300000000001,2005-05-17
+141,Origin,Aki Restaurant,2005_Cosmoba_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+142,Destination,House of Ho (formerly known as Bam-Bou),2005_House of Ho (formerly known as Bam-Bou)_Aki Restaurant,51.518605,-0.13372,2005-04-08
+143,Origin,Aki Restaurant,2005_House of Ho (formerly known as Bam-Bou)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+144,Destination,Basilico,2005_Basilico_Aki Restaurant,51.554431,-0.19203499999999998,2005-03-08
+145,Origin,Aki Restaurant,2005_Basilico_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+146,Destination,Leverton Grocers,2005_Leverton Grocers_Aki Restaurant,51.55267,-0.139014,2005-05-18
+147,Origin,Aki Restaurant,2005_Leverton Grocers_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+148,Destination,Brizzi Snack Bar,2005_Brizzi Snack Bar_Aki Restaurant,51.526920000000004,-0.136481,2005-03-08
+149,Origin,Aki Restaurant,2005_Brizzi Snack Bar_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+150,Destination,Oddbins,2005_Oddbins_Aki Restaurant,51.514962,-0.19137300000000002,2005-04-08
+151,Origin,Aki Restaurant,2005_Oddbins_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+152,Destination,Al Parco Pizzeria (Bistro Lazz),2005_Al Parco Pizzeria (Bistro Lazz)_Aki Restaurant,51.561461,-0.15108,2005-12-07
+153,Origin,Aki Restaurant,2005_Al Parco Pizzeria (Bistro Lazz)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+154,Destination,Manna Restaurant,2005_Manna Restaurant_Aki Restaurant,51.542027000000004,-0.157269,2005-06-08
+155,Origin,Aki Restaurant,2005_Manna Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+156,Destination,Dim T,2005_Dim T_Aki Restaurant,51.519115,-0.15045999999999998,2005-04-08
+157,Origin,Aki Restaurant,2005_Dim T_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+158,Destination,Trattoria Verdi,2005_Trattoria Verdi_Aki Restaurant,51.520227,-0.12197000000000001,2005-05-27
+159,Origin,Aki Restaurant,2005_Trattoria Verdi_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+160,Destination,Vasis Restaurant,2005_Vasis Restaurant_Aki Restaurant,51.522007,-0.140174,2005-05-20
+161,Origin,Aki Restaurant,2005_Vasis Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+162,Destination,Bloomsbury Cheeses,2005_Bloomsbury Cheeses_Aki Restaurant,51.526934000000004,-0.124615,2005-06-06
+163,Origin,Aki Restaurant,2005_Bloomsbury Cheeses_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+164,Destination,Jays News,2005_Jays News_Aki Restaurant,51.548982,-0.130221,2005-02-08
+165,Origin,Aki Restaurant,2005_Jays News_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+166,Destination,Globe Restaurant,2005_Globe Restaurant_Aki Restaurant,51.54335,-0.17416199999999998,2005-07-19
+167,Origin,Aki Restaurant,2005_Globe Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+168,Destination,Lihiniya Restaurant,2005_Lihiniya Restaurant_Aki Restaurant,51.554209,-0.212042,2005-07-19
+169,Origin,Aki Restaurant,2005_Lihiniya Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+170,Destination,Unwins,2005_Unwins_Aki Restaurant,51.526258,-0.16428399999999999,2005-03-06
+171,Origin,Aki Restaurant,2005_Unwins_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+172,Destination,Allora,2005_Allora_Aki Restaurant,51.536970000000004,-0.18639,2005-07-28
+173,Origin,Aki Restaurant,2005_Allora_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+174,Destination,Bengal Lancer,2005_Bengal Lancer_Aki Restaurant,51.54848,-0.141778,2005-06-24
+175,Origin,Aki Restaurant,2005_Bengal Lancer_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+176,Destination,Konaki Greek Restaurant,2005_Konaki Greek Restaurant_Aki Restaurant,51.51726,-0.126603,2005-11-05
+177,Origin,Aki Restaurant,2005_Konaki Greek Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+178,Destination,Sushi Waka,2005_Sushi Waka_Aki Restaurant,51.536998,-0.145009,2005-07-26
+179,Origin,Aki Restaurant,2005_Sushi Waka_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+180,Destination,Old Crown,2005_Old Crown_Aki Restaurant,51.516890999999994,-0.12531,2005-07-25
+181,Origin,Aki Restaurant,2005_Old Crown_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+182,Destination,Shah Tandoori,2005_Shah Tandoori_Aki Restaurant,51.526422,-0.137931,2005-04-08
+183,Origin,Aki Restaurant,2005_Shah Tandoori_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+184,Destination,Lantana Cafe,2005_Lantana Cafe_Aki Restaurant,51.519021,-0.135793,2005-07-14
+185,Origin,Aki Restaurant,2005_Lantana Cafe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+186,Destination,Express Cafe,2005_Express Cafe_Aki Restaurant,51.529517999999996,-0.116559,2005-04-07
+187,Origin,Aki Restaurant,2005_Express Cafe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+188,Destination,Belgo Noord & Belgo Rapido,2005_Belgo Noord & Belgo Rapido_Aki Restaurant,51.543861,-0.150849,2005-07-28
+189,Origin,Aki Restaurant,2005_Belgo Noord & Belgo Rapido_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+190,Destination,Tohbang Restaurant,2005_Tohbang Restaurant_Aki Restaurant,51.522399,-0.111293,2005-06-16
+191,Origin,Aki Restaurant,2005_Tohbang Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+192,Destination,Jing Jun Ge Chinese Restaurant,2005_Jing Jun Ge Chinese Restaurant_Aki Restaurant,51.549141999999996,-0.18245899999999998,2005-07-15
+193,Origin,Aki Restaurant,2005_Jing Jun Ge Chinese Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+194,Destination,Cafe Mode,2005_Cafe Mode_Aki Restaurant,51.515044,-0.126064,2005-01-07
+195,Origin,Aki Restaurant,2005_Cafe Mode_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+196,Destination,Alps Restaurant,2005_Alps Restaurant_Aki Restaurant,51.521433,-0.11598299999999999,2005-03-05
+197,Origin,Aki Restaurant,2005_Alps Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+198,Destination,Speedy Noodles,2005_Speedy Noodles_Aki Restaurant,51.542713,-0.199352,2005-05-07
+199,Origin,Aki Restaurant,2005_Speedy Noodles_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+200,Destination,Greenberry Cafe,2005_Greenberry Cafe_Aki Restaurant,51.542196999999994,-0.15653499999999998,2005-01-07
+201,Origin,Aki Restaurant,2005_Greenberry Cafe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+202,Destination,Clarendon Hotel,2005_Clarendon Hotel_Aki Restaurant,51.520018,-0.124921,2005-07-28
+203,Origin,Aki Restaurant,2005_Clarendon Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+204,Destination,Kentucky Fried Chicken,2005_Kentucky Fried Chicken_Aki Restaurant,51.540039,-0.14449700000000001,2005-07-28
+205,Origin,Aki Restaurant,2005_Kentucky Fried Chicken_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+206,Destination,Taro Japanese Restaurant,2005_Taro Japanese Restaurant_Aki Restaurant,51.549141999999996,-0.18245899999999998,2005-05-18
+207,Origin,Aki Restaurant,2005_Taro Japanese Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+208,Destination,Majestic Wine Warehouse,2005_Majestic Wine Warehouse_Aki Restaurant,51.514813000000004,-0.15024200000000001,2005-03-08
+209,Origin,Aki Restaurant,2005_Majestic Wine Warehouse_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+210,Destination,Grape Sense,2005_Grape Sense_Aki Restaurant,51.544156,-0.154027,2005-07-18
+211,Origin,Aki Restaurant,2005_Grape Sense_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+212,Destination,Chilly Cool,2005_Chilly Cool_Aki Restaurant,51.526258,-0.124827,2005-06-30
+213,Origin,Aki Restaurant,2005_Chilly Cool_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+214,Destination,Le Pain Quotidien,2005_Le Pain Quotidien_Aki Restaurant,51.520337,-0.134654,2005-07-28
+215,Origin,Aki Restaurant,2005_Le Pain Quotidien_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+216,Destination,Buckingham Hotel,2005_Buckingham Hotel_Aki Restaurant,51.519444,-0.124271,2005-07-28
+217,Origin,Aki Restaurant,2005_Buckingham Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+218,Destination,Agra Restaurant,2005_Agra Restaurant_Aki Restaurant,51.523559999999996,-0.139343,2005-06-27
+219,Origin,Aki Restaurant,2005_Agra Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+220,Destination,Belgo Centraal,2005_Belgo Centraal_Aki Restaurant,51.513667,-0.126119,2005-04-08
+221,Origin,Aki Restaurant,2005_Belgo Centraal_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+222,Destination,The Gallery,2005_The Gallery_Aki Restaurant,51.546657,-0.19045499999999999,2005-07-22
+223,Origin,Aki Restaurant,2005_The Gallery_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+224,Destination,Kim Korean Restaurant LTD High Holborn,2005_Kim Korean Restaurant LTD High Holborn_Aki Restaurant,51.518567,-0.11580399999999999,2005-02-06
+225,Origin,Aki Restaurant,2005_Kim Korean Restaurant LTD High Holborn_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+226,Destination,Spielburger,2005_Spielburger_Aki Restaurant,51.556143,-0.179161,2005-07-19
+227,Origin,Aki Restaurant,2005_Spielburger_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+228,Destination,Takari,2005_Takari_Aki Restaurant,51.514813000000004,-0.12298900000000001,2005-05-19
+229,Origin,Aki Restaurant,2005_Takari_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+230,Destination,Co-Operative Group Food Limited,2005_Co-Operative Group Food Limited_Aki Restaurant,51.549255,-0.140701,2005-01-08
+231,Origin,Aki Restaurant,2005_Co-Operative Group Food Limited_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+232,Destination,Highgate Literary and Scientific Institution,2005_Highgate Literary and Scientific Institution_Aki Restaurant,51.570105,-0.148792,2005-06-06
+233,Origin,Aki Restaurant,2005_Highgate Literary and Scientific Institution_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+234,Destination,Interchange Studios,2005_Interchange Studios_Aki Restaurant,51.550908,-0.16658399999999998,2005-07-25
+235,Origin,Aki Restaurant,2005_Interchange Studios_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+236,Destination,Supersave,2005_Supersave_Aki Restaurant,51.52796,-0.139145,2005-07-28
+237,Origin,Aki Restaurant,2005_Supersave_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+238,Destination,Punjab Restaurant,2005_Punjab Restaurant_Aki Restaurant,51.515044,-0.126064,2005-06-15
+239,Origin,Aki Restaurant,2005_Punjab Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+240,Destination,The Great Hall Of Lincoln's Inn,2005_The Great Hall Of Lincoln's Inn_Aki Restaurant,51.516504,-0.114603,2005-05-07
+241,Origin,Aki Restaurant,2005_The Great Hall Of Lincoln's Inn_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+242,Destination,OLA Cafe Restaurant,2005_OLA Cafe Restaurant_Aki Restaurant,51.515044,-0.126064,2005-05-08
+243,Origin,Aki Restaurant,2005_OLA Cafe Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+244,Destination,Tufnell Park Kebab,2005_Tufnell Park Kebab_Aki Restaurant,51.556475,-0.137786,2005-11-07
+245,Origin,Aki Restaurant,2005_Tufnell Park Kebab_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+246,Destination,London School Of Economics & Political Science,2005_London School Of Economics & Political Science_Aki Restaurant,51.515615999999994,-0.12485,2005-03-08
+247,Origin,Aki Restaurant,2005_London School Of Economics & Political Science_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+248,Destination,Wilton & Noble,2005_Wilton & Noble_Aki Restaurant,51.545735,-0.179501,2005-03-08
+249,Origin,Aki Restaurant,2005_Wilton & Noble_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+250,Destination,New Market Inn,2005_New Market Inn_Aki Restaurant,51.543074,-0.126691,2005-03-08
+251,Origin,Aki Restaurant,2005_New Market Inn_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+252,Destination,Wabi London (formerly Bento Box),2005_Wabi London (formerly Bento Box)_Aki Restaurant,51.515819,-0.118702,2005-07-18
+253,Origin,Aki Restaurant,2005_Wabi London (formerly Bento Box)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+254,Destination,Co-operative Foods,2005_Co-operative Foods_Aki Restaurant,51.542885,-0.166701,2005-06-13
+255,Origin,Aki Restaurant,2005_Co-operative Foods_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+256,Destination,Somerfield,2005_Somerfield_Aki Restaurant,51.517503000000005,-0.117704,2005-04-07
+257,Origin,Aki Restaurant,2005_Somerfield_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+258,Destination,Negozio Classica,2005_Negozio Classica_Aki Restaurant,51.541352,-0.15648199999999998,2005-01-07
+259,Origin,Aki Restaurant,2005_Negozio Classica_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+260,Destination,Charles Cafe,2005_Charles Cafe_Aki Restaurant,51.519872,-0.118533,2005-06-29
+261,Origin,Aki Restaurant,2005_Charles Cafe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+262,Destination,Karavas Restaurant,2005_Karavas Restaurant_Aki Restaurant,51.53555,-0.138472,2005-07-14
+263,Origin,Aki Restaurant,2005_Karavas Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+264,Destination,The Old Amalfi Restaurant,2005_The Old Amalfi Restaurant_Aki Restaurant,51.520227,-0.12197000000000001,2005-06-05
+265,Origin,Aki Restaurant,2005_The Old Amalfi Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+266,Destination,PizzaExpress,2005_PizzaExpress_Aki Restaurant,51.517865,-0.192888,2005-02-08
+267,Origin,Aki Restaurant,2005_PizzaExpress_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+268,Destination,Hilton London Euston,2005_Hilton London Euston_Aki Restaurant,51.526865,-0.131211,2005-05-07
+269,Origin,Aki Restaurant,2005_Hilton London Euston_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+270,Destination,Truckles Of Pied Bull Yard,2005_Truckles Of Pied Bull Yard_Aki Restaurant,51.518528,-0.12379200000000001,2005-06-16
+271,Origin,Aki Restaurant,2005_Truckles Of Pied Bull Yard_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+272,Destination,Limone Fine Foods,2005_Limone Fine Foods_Aki Restaurant,51.570283,-0.146248,2005-07-27
+273,Origin,Aki Restaurant,2005_Limone Fine Foods_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+274,Destination,The Diner,2005_The Diner_Aki Restaurant,51.515044,-0.145258,2005-05-05
+275,Origin,Aki Restaurant,2005_The Diner_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+276,Destination,Tesco's,2005_Tesco's_Aki Restaurant,51.562216,-0.149619,2005-04-08
+277,Origin,Aki Restaurant,2005_Tesco's_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+278,Destination,Nikits (Previously Nikit News),2005_Nikits (Previously Nikit News)_Aki Restaurant,51.540039,-0.14449700000000001,2005-04-08
+279,Origin,Aki Restaurant,2005_Nikits (Previously Nikit News)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+280,Destination,Best One Limtied,2005_Best One Limtied_Aki Restaurant,51.552448,-0.14057999999999998,2005-04-22
+281,Origin,Aki Restaurant,2005_Best One Limtied_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+282,Destination,Bhatti Indian Cuisine,2005_Bhatti Indian Cuisine_Aki Restaurant,51.51578,-0.12225699999999999,2005-12-05
+283,Origin,Aki Restaurant,2005_Bhatti Indian Cuisine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+284,Destination,Everbest,2005_Everbest_Aki Restaurant,51.550323,-0.141154,2005-04-08
+285,Origin,Aki Restaurant,2005_Everbest_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+286,Destination,Metro Express,2005_Metro Express_Aki Restaurant,51.518636,-0.12129000000000001,2005-01-08
+287,Origin,Aki Restaurant,2005_Metro Express_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+288,Destination,Bombay Nights,2005_Bombay Nights_Aki Restaurant,51.554619,-0.196508,2005-04-07
+289,Origin,Aki Restaurant,2005_Bombay Nights_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+290,Destination,The Wesley Formerly MIC Social Club,2005_The Wesley Formerly MIC Social Club_Aki Restaurant,51.526554,-0.135793,2005-08-06
+291,Origin,Aki Restaurant,2005_The Wesley Formerly MIC Social Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+292,Destination,Covent Garden Health Spa,2005_Covent Garden Health Spa_Aki Restaurant,51.514406,-0.12488599999999998,2005-07-21
+293,Origin,Aki Restaurant,2005_Covent Garden Health Spa_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+294,Destination,Locanda Canton(Formerly Le Mignon),2005_Locanda Canton(Formerly Le Mignon)_Aki Restaurant,51.536705,-0.142095,2005-04-08
+295,Origin,Aki Restaurant,2005_Locanda Canton(Formerly Le Mignon)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+296,Destination,Strada,2005_Strada_Aki Restaurant,51.515707,-0.12126300000000001,2005-09-05
+297,Origin,Aki Restaurant,2005_Strada_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+298,Destination,Tikus Off Licence,2005_Tikus Off Licence_Aki Restaurant,51.544969,-0.143657,2005-04-19
+299,Origin,Aki Restaurant,2005_Tikus Off Licence_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+300,Destination,Fitness Exchange,2005_Fitness Exchange_Aki Restaurant,51.522307,-0.134901,2005-07-21
+301,Origin,Aki Restaurant,2005_Fitness Exchange_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+302,Destination,Salt Yard,2005_Salt Yard_Aki Restaurant,51.51935,-0.13703900000000002,2005-04-08
+303,Origin,Aki Restaurant,2005_Salt Yard_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+304,Destination,Viet Eat(was Pasta Amo),2005_Viet Eat(was Pasta Amo)_Aki Restaurant,51.51668,-0.119209,2005-02-08
+305,Origin,Aki Restaurant,2005_Viet Eat(was Pasta Amo)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+306,Destination,Lobins Limited,2005_Lobins Limited_Aki Restaurant,51.544622,-0.175337,2005-01-07
+307,Origin,Aki Restaurant,2005_Lobins Limited_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+308,Destination,The Diner at Bloomsbury,2005_The Diner at Bloomsbury_Aki Restaurant,51.520378,-0.123529,2005-05-20
+309,Origin,Aki Restaurant,2005_The Diner at Bloomsbury_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+310,Destination,L'Osteria 57,2005_L'Osteria 57_Aki Restaurant,51.521861,-0.11399200000000001,2005-05-31
+311,Origin,Aki Restaurant,2005_L'Osteria 57_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+312,Destination,Southwell House,2005_Southwell House_Aki Restaurant,51.549723,-0.176359,2005-04-15
+313,Origin,Aki Restaurant,2005_Southwell House_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+314,Destination,Betty's,2005_Betty's_Aki Restaurant,51.522115,-0.112725,2005-07-15
+315,Origin,Aki Restaurant,2005_Betty's_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+316,Destination,Corks,2005_Corks_Aki Restaurant,51.562006,-0.150358,2005-05-08
+317,Origin,Aki Restaurant,2005_Corks_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+318,Destination,London Maida Vale Marriott,2005_London Maida Vale Marriott_Aki Restaurant,51.535973999999996,-0.190412,2005-11-04
+319,Origin,Aki Restaurant,2005_London Maida Vale Marriott_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+320,Destination,Montana Wines,2005_Montana Wines_Aki Restaurant,51.522399,-0.111293,2005-02-08
+321,Origin,Aki Restaurant,2005_Montana Wines_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+322,Destination,Sizzling China,2005_Sizzling China_Aki Restaurant,51.534197,-0.13888599999999998,2005-03-08
+323,Origin,Aki Restaurant,2005_Sizzling China_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+324,Destination,Sir Robert Peel,2005_Sir Robert Peel_Aki Restaurant,51.549575,-0.15285,2005-05-08
+325,Origin,Aki Restaurant,2005_Sir Robert Peel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+326,Destination,Salaam Namaste Restaurant,2005_Salaam Namaste Restaurant_Aki Restaurant,51.523276,-0.117565,2005-04-25
+327,Origin,Aki Restaurant,2005_Salaam Namaste Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+328,Destination,La Provence,2005_La Provence_Aki Restaurant,51.559391,-0.178055,2005-06-17
+329,Origin,Aki Restaurant,2005_La Provence_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+330,Destination,Tapping the Admiral,2005_Tapping the Admiral_Aki Restaurant,51.545061,-0.146527,2005-06-27
+331,Origin,Aki Restaurant,2005_Tapping the Admiral_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+332,Destination,Ethio Stores Newsagent Convenience Store,2005_Ethio Stores Newsagent Convenience Store_Aki Restaurant,51.528662,-0.12505,2005-11-07
+333,Origin,Aki Restaurant,2005_Ethio Stores Newsagent Convenience Store_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+334,Destination,La Cage Imaginaire,2005_La Cage Imaginaire_Aki Restaurant,51.556693,-0.176761,2005-05-19
+335,Origin,Aki Restaurant,2005_La Cage Imaginaire_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+336,Destination,Hill Food & Wine,2005_Hill Food & Wine_Aki Restaurant,51.549746,-0.16428399999999999,2005-04-08
+337,Origin,Aki Restaurant,2005_Hill Food & Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+338,Destination,The Lion Court Conference Centre,2005_The Lion Court Conference Centre_Aki Restaurant,51.518229999999996,-0.12041600000000001,2005-05-08
+339,Origin,Aki Restaurant,2005_The Lion Court Conference Centre_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+340,Destination,Steely Fox (previously Hat On The Wall),2005_Steely Fox (previously Hat On The Wall)_Aki Restaurant,51.521654,-0.10969200000000001,2005-07-29
+341,Origin,Aki Restaurant,2005_Steely Fox (previously Hat On The Wall)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+342,Destination,T & M MINI MARKET,2005_T & M MINI MARKET_Aki Restaurant,51.549989000000004,-0.15253699999999998,2005-05-08
+343,Origin,Aki Restaurant,2005_T & M MINI MARKET_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+344,Destination,Tortilla,2005_Tortilla_Aki Restaurant,51.52268,-0.17971099999999998,2005-07-25
+345,Origin,Aki Restaurant,2005_Tortilla_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+346,Destination,Le Tea Cosy,2005_Le Tea Cosy_Aki Restaurant,51.540818,-0.158121,2005-05-23
+347,Origin,Aki Restaurant,2005_Le Tea Cosy_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+348,Destination,Haverstock Market Food & Off-Licence,2005_Haverstock Market Food & Off-Licence_Aki Restaurant,51.549077000000004,-0.16178900000000002,2005-05-08
+349,Origin,Aki Restaurant,2005_Haverstock Market Food & Off-Licence_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+350,Destination,The Late Late Store,2005_The Late Late Store_Aki Restaurant,51.549607,-0.171967,2005-02-08
+351,Origin,Aki Restaurant,2005_The Late Late Store_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+352,Destination,Old Red Lion,2005_Old Red Lion_Aki Restaurant,51.518567,-0.11580399999999999,2005-06-28
+353,Origin,Aki Restaurant,2005_Old Red Lion_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+354,Destination,Country Inn And Suites,2005_Country Inn And Suites_Aki Restaurant,51.517452,-0.130432,2005-07-14
+355,Origin,Aki Restaurant,2005_Country Inn And Suites_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+356,Destination,Oasis Restaurant (PREMISES CLOSED - Use Elementree),2005_Oasis Restaurant (PREMISES CLOSED - Use Elementree)_Aki Restaurant,51.555443,-0.212655,2005-04-08
+357,Origin,Aki Restaurant,2005_Oasis Restaurant (PREMISES CLOSED - Use Elementree)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+358,Destination,Capoeira Brazilian Restaurant (formerly SUSHIO),2005_Capoeira Brazilian Restaurant (formerly SUSHIO)_Aki Restaurant,51.546371,-0.17866500000000002,2005-06-24
+359,Origin,Aki Restaurant,2005_Capoeira Brazilian Restaurant (formerly SUSHIO)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+360,Destination,Sagar Restaurant,2005_Sagar Restaurant_Aki Restaurant,51.518605,-0.13372,2005-04-08
+361,Origin,Aki Restaurant,2005_Sagar Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+362,Destination,Cafe Plus,2005_Cafe Plus_Aki Restaurant,51.551843,-0.195899,2005-05-23
+363,Origin,Aki Restaurant,2005_Cafe Plus_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+364,Destination,Luigi Restaurant,2005_Luigi Restaurant_Aki Restaurant,51.545735,-0.179501,2005-03-06
+365,Origin,Aki Restaurant,2005_Luigi Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+366,Destination,Spaghetti House,2005_Spaghetti House_Aki Restaurant,51.518636,-0.133795,2005-05-07
+367,Origin,Aki Restaurant,2005_Spaghetti House_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+368,Destination,Eastnor Castle,2005_Eastnor Castle_Aki Restaurant,51.533219,-0.134248,2005-06-30
+369,Origin,Aki Restaurant,2005_Eastnor Castle_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+370,Destination,Caprice Catering,2005_Caprice Catering_Aki Restaurant,51.528287,-0.129436,2005-04-28
+371,Origin,Aki Restaurant,2005_Caprice Catering_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+372,Destination,Po Chang Ma Cha Restaurant,2005_Po Chang Ma Cha Restaurant_Aki Restaurant,51.515526,-0.12947,2005-01-06
+373,Origin,Aki Restaurant,2005_Po Chang Ma Cha Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+374,Destination,Retsina,2005_Retsina_Aki Restaurant,51.549607,-0.171967,2005-07-14
+375,Origin,Aki Restaurant,2005_Retsina_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+376,Destination,Euston Supermarket,2005_Euston Supermarket_Aki Restaurant,51.529540000000004,-0.132553,2005-07-06
+377,Origin,Aki Restaurant,2005_Euston Supermarket_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+378,Destination,St Pancras Cruising Club,2005_St Pancras Cruising Club_Aki Restaurant,51.535937,-0.12850999999999999,2005-05-08
+379,Origin,Aki Restaurant,2005_St Pancras Cruising Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+380,Destination,Sanxia Renjia,2005_Sanxia Renjia_Aki Restaurant,51.519465999999994,-0.134998,2005-06-17
+381,Origin,Aki Restaurant,2005_Sanxia Renjia_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+382,Destination,Trio News,2005_Trio News_Aki Restaurant,51.529517999999996,-0.116559,2005-05-19
+383,Origin,Aki Restaurant,2005_Trio News_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+384,Destination,Budgens Supermarket,2005_Budgens Supermarket_Aki Restaurant,51.550631,-0.165875,2005-05-08
+385,Origin,Aki Restaurant,2005_Budgens Supermarket_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+386,Destination,HanKang,2005_HanKang_Aki Restaurant,51.516921999999994,-0.132023,2005-05-08
+387,Origin,Aki Restaurant,2005_HanKang_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+388,Destination,Western Food Stores,2005_Western Food Stores_Aki Restaurant,51.546339,-0.191433,2005-06-06
+389,Origin,Aki Restaurant,2005_Western Food Stores_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+390,Destination,Delancey Stores,2005_Delancey Stores_Aki Restaurant,51.536446000000005,-0.143092,2005-05-07
+391,Origin,Aki Restaurant,2005_Delancey Stores_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+392,Destination,Maharani Indian Restaurant,2005_Maharani Indian Restaurant_Aki Restaurant,51.536691,-0.141465,2005-05-07
+393,Origin,Aki Restaurant,2005_Maharani Indian Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+394,Destination,Bin Ends,2005_Bin Ends_Aki Restaurant,51.522244,-0.118002,2005-05-27
+395,Origin,Aki Restaurant,2005_Bin Ends_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+396,Destination,Thanh Binh Vietnanese Restaurant,2005_Thanh Binh Vietnanese Restaurant_Aki Restaurant,51.542123,-0.146071,2005-07-14
+397,Origin,Aki Restaurant,2005_Thanh Binh Vietnanese Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+398,Destination,Pasta House,2005_Pasta House_Aki Restaurant,51.530693,-0.121473,2005-01-08
+399,Origin,Aki Restaurant,2005_Pasta House_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+400,Destination,Marks and Spencer Simply Food (2),2005_Marks and Spencer Simply Food (2)_Aki Restaurant,51.529302,-0.13258499999999998,2005-02-08
+401,Origin,Aki Restaurant,2005_Marks and Spencer Simply Food (2)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+402,Destination,Touro Brazilian Steak House (formerly Coco Bamboo Belsize),2005_Touro Brazilian Steak House (formerly Coco Bamboo Belsize)_Aki Restaurant,51.546679,-0.15871300000000002,2005-07-14
+403,Origin,Aki Restaurant,2005_Touro Brazilian Steak House (formerly Coco Bamboo Belsize)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+404,Destination,Duck Duck Goose,2005_Duck Duck Goose_Aki Restaurant,51.545552,-0.176535,2005-07-14
+405,Origin,Aki Restaurant,2005_Duck Duck Goose_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+406,Destination,Lanka,2005_Lanka_Aki Restaurant,51.541273,-0.157718,2005-03-08
+407,Origin,Aki Restaurant,2005_Lanka_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+408,Destination,12 Bar Club & Restaurant,2005_12 Bar Club & Restaurant_Aki Restaurant,51.515526,-0.12947,2005-03-08
+409,Origin,Aki Restaurant,2005_12 Bar Club & Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+410,Destination,Masalla Hut,2005_Masalla Hut_Aki Restaurant,51.526422,-0.137931,2005-06-08
+411,Origin,Aki Restaurant,2005_Masalla Hut_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+412,Destination,Cafe in the Gardens,2005_Cafe in the Gardens_Aki Restaurant,51.522219,-0.125756,2005-05-08
+413,Origin,Aki Restaurant,2005_Cafe in the Gardens_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+414,Destination,Lemongrass Restaurant,2005_Lemongrass Restaurant_Aki Restaurant,51.542317,-0.139104,2005-05-27
+415,Origin,Aki Restaurant,2005_Lemongrass Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+416,Destination,The Remedy,2005_The Remedy_Aki Restaurant,51.52301,-0.141308,2005-04-08
+417,Origin,Aki Restaurant,2005_The Remedy_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+418,Destination,Heals,2005_Heals_Aki Restaurant,51.521226,-0.133957,2005-02-08
+419,Origin,Aki Restaurant,2005_Heals_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+420,Destination,Bradley's Restaurant,2005_Bradley's Restaurant_Aki Restaurant,51.54367,-0.172902,2005-05-27
+421,Origin,Aki Restaurant,2005_Bradley's Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+422,Destination,Jeroboams Shops Ltd,2005_Jeroboams Shops Ltd_Aki Restaurant,51.516224,-0.11278800000000001,2005-07-21
+423,Origin,Aki Restaurant,2005_Jeroboams Shops Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+424,Destination,Covington Florist,2005_Covington Florist_Aki Restaurant,51.561715,-0.150636,2005-06-06
+425,Origin,Aki Restaurant,2005_Covington Florist_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+426,Destination,Shorties,2005_Shorties_Aki Restaurant,51.521044,-0.10923499999999998,2005-06-13
+427,Origin,Aki Restaurant,2005_Shorties_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+428,Destination,Tsunami,2005_Tsunami_Aki Restaurant,51.520912,-0.137428,2005-07-22
+429,Origin,Aki Restaurant,2005_Tsunami_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+430,Destination,Sidoli'S Wine Cellar,2005_Sidoli'S Wine Cellar_Aki Restaurant,51.520386,-0.132202,2005-04-08
+431,Origin,Aki Restaurant,2005_Sidoli'S Wine Cellar_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+432,Destination,Cafe VN,2005_Cafe VN_Aki Restaurant,51.522381,-0.109945,2005-06-22
+433,Origin,Aki Restaurant,2005_Cafe VN_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+434,Destination,Shepherd Food (London) Ltd,2005_Shepherd Food (London) Ltd_Aki Restaurant,51.540818,-0.158121,2005-06-29
+435,Origin,Aki Restaurant,2005_Shepherd Food (London) Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+436,Destination,M and M Food and Wines,2005_M and M Food and Wines_Aki Restaurant,51.542722999999995,-0.138285,2005-06-24
+437,Origin,Aki Restaurant,2005_M and M Food and Wines_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+438,Destination,Calcutta Street ( formerly Club Fitzrovia),2005_Calcutta Street ( formerly Club Fitzrovia)_Aki Restaurant,51.519667,-0.136475,2005-04-08
+439,Origin,Aki Restaurant,2005_Calcutta Street ( formerly Club Fitzrovia)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+440,Destination,Pizza Hut,2005_Pizza Hut_Aki Restaurant,51.521776,-0.12359300000000001,2005-03-08
+441,Origin,Aki Restaurant,2005_Pizza Hut_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+442,Destination,Don Quixote,2005_Don Quixote_Aki Restaurant,51.51668,-0.119209,2005-01-08
+443,Origin,Aki Restaurant,2005_Don Quixote_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+444,Destination,Reverend JW Simpson,2005_Reverend JW Simpson_Aki Restaurant,51.519855,-0.135379,2005-06-17
+445,Origin,Aki Restaurant,2005_Reverend JW Simpson_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+446,Destination,ARBINA,2005_ARBINA_Aki Restaurant,51.523142,-0.137511,2005-05-20
+447,Origin,Aki Restaurant,2005_ARBINA_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+448,Destination,Pratt Off Licence,2005_Pratt Off Licence_Aki Restaurant,51.537869,-0.13966800000000001,2005-06-13
+449,Origin,Aki Restaurant,2005_Pratt Off Licence_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+450,Destination,The Blues Kitchen,2005_The Blues Kitchen_Aki Restaurant,51.536691,-0.141465,2005-07-21
+451,Origin,Aki Restaurant,2005_The Blues Kitchen_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+452,Destination,L'Etoile,2005_L'Etoile_Aki Restaurant,51.518959,-0.134555,2005-02-08
+453,Origin,Aki Restaurant,2005_L'Etoile_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+454,Destination,Virgin Active Swiss Cottage (formerly Esporta Health & Fitness),2005_Virgin Active Swiss Cottage (formerly Esporta Health & Fitness)_Aki Restaurant,51.547698,-0.181321,2005-07-28
+455,Origin,Aki Restaurant,2005_Virgin Active Swiss Cottage (formerly Esporta Health & Fitness)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+456,Destination,La Rossella (previously Pasta Habit),2005_La Rossella (previously Pasta Habit)_Aki Restaurant,51.55523,-0.145474,2005-02-06
+457,Origin,Aki Restaurant,2005_La Rossella (previously Pasta Habit)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+458,Destination,Shoryu,2005_Shoryu_Aki Restaurant,51.515707,-0.12126300000000001,2005-05-24
+459,Origin,Aki Restaurant,2005_Shoryu_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+460,Destination,Way 2 Save,2005_Way 2 Save_Aki Restaurant,51.546555,-0.203003,2005-05-08
+461,Origin,Aki Restaurant,2005_Way 2 Save_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+462,Destination,Sainsbury's Supermarket,2005_Sainsbury's Supermarket_Aki Restaurant,51.524257,-0.137096,2005-07-14
+463,Origin,Aki Restaurant,2005_Sainsbury's Supermarket_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+464,Destination,West End News,2005_West End News_Aki Restaurant,51.551625,-0.19130999999999998,2005-05-08
+465,Origin,Aki Restaurant,2005_West End News_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+466,Destination,S T Food & Wine,2005_S T Food & Wine_Aki Restaurant,51.530953000000004,-0.130723,2005-01-08
+467,Origin,Aki Restaurant,2005_S T Food & Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+468,Destination,Bi Won Restaurant,2005_Bi Won Restaurant_Aki Restaurant,51.517396000000005,-0.125711,2005-07-21
+469,Origin,Aki Restaurant,2005_Bi Won Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+470,Destination,Segafredo Espresso Bar,2005_Segafredo Espresso Bar_Aki Restaurant,51.538422,-0.143124,2005-01-06
+471,Origin,Aki Restaurant,2005_Segafredo Espresso Bar_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+472,Destination,Paris News (formerly Your Local),2005_Paris News (formerly Your Local)_Aki Restaurant,51.539896,-0.140739,2005-09-05
+473,Origin,Aki Restaurant,2005_Paris News (formerly Your Local)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+474,Destination,Tinseltown,2005_Tinseltown_Aki Restaurant,51.558911,-0.178279,2005-02-08
+475,Origin,Aki Restaurant,2005_Tinseltown_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+476,Destination,Hampstead Cricket Club,2005_Hampstead Cricket Club_Aki Restaurant,51.549543,-0.186875,2005-01-08
+477,Origin,Aki Restaurant,2005_Hampstead Cricket Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+478,Destination,Lalibella Restaurant,2005_Lalibella Restaurant_Aki Restaurant,51.556272,-0.139235,2005-07-25
+479,Origin,Aki Restaurant,2005_Lalibella Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+480,Destination,Polly Restaurant Cafe,2005_Polly Restaurant Cafe_Aki Restaurant,51.555367,-0.167068,2005-06-15
+481,Origin,Aki Restaurant,2005_Polly Restaurant Cafe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+482,Destination,"The Wellcome Trust Limited, 215 Euston Road, London. NW1 2BE","2005_The Wellcome Trust Limited, 215 Euston Road, London. NW1 2BE_Aki Restaurant",51.526416,-0.134983,2005-03-08
+483,Origin,Aki Restaurant,"2005_The Wellcome Trust Limited, 215 Euston Road, London. NW1 2BE_Aki Restaurant",51.523041,-0.11357300000000001,2005-01-06
+484,Destination,Grays Inn Wines,2005_Grays Inn Wines_Aki Restaurant,51.52753,-0.11838900000000001,2005-07-14
+485,Origin,Aki Restaurant,2005_Grays Inn Wines_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+486,Destination,Regency Fine Foods,2005_Regency Fine Foods_Aki Restaurant,51.521556,-0.110728,2005-06-15
+487,Origin,Aki Restaurant,2005_Regency Fine Foods_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+488,Destination,Bloc Bar (Formerly Record Club/The Stillery,2005_Bloc Bar (Formerly Record Club/The Stillery_Aki Restaurant,51.540164000000004,-0.141998,2005-01-08
+489,Origin,Aki Restaurant,2005_Bloc Bar (Formerly Record Club/The Stillery_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+490,Destination,London St Pancras Youth Hostel Association,2005_London St Pancras Youth Hostel Association_Aki Restaurant,51.528255,-0.126066,2005-04-08
+491,Origin,Aki Restaurant,2005_London St Pancras Youth Hostel Association_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+492,Destination,Waitrose,2005_Waitrose_Aki Restaurant,51.537321999999996,-0.142042,2005-04-07
+493,Origin,Aki Restaurant,2005_Waitrose_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+494,Destination,Unwins Limited,2005_Unwins Limited_Aki Restaurant,51.524852,-0.11571600000000001,2005-01-06
+495,Origin,Aki Restaurant,2005_Unwins Limited_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+496,Destination,Budget Beers,2005_Budget Beers_Aki Restaurant,51.550328,-0.150377,2005-06-20
+497,Origin,Aki Restaurant,2005_Budget Beers_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+498,Destination,Burgh House Trust,2005_Burgh House Trust_Aki Restaurant,51.558221,-0.175092,2005-05-18
+499,Origin,Aki Restaurant,2005_Burgh House Trust_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+500,Destination,Bankok Thai Restaurant,2005_Bankok Thai Restaurant_Aki Restaurant,51.545552,-0.176535,2005-03-08
+501,Origin,Aki Restaurant,2005_Bankok Thai Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+502,Destination,The Wine Cellar,2005_The Wine Cellar_Aki Restaurant,51.547109000000006,-0.142245,2005-03-08
+503,Origin,Aki Restaurant,2005_The Wine Cellar_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+504,Destination,Grand Union (Camden),2005_Grand Union (Camden)_Aki Restaurant,51.541578,-0.13784200000000002,2005-07-28
+505,Origin,Aki Restaurant,2005_Grand Union (Camden)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+506,Destination,Swiss Cottage Hotel,2005_Swiss Cottage Hotel_Aki Restaurant,51.544484999999995,-0.172675,2005-06-14
+507,Origin,Aki Restaurant,2005_Swiss Cottage Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+508,Destination,Grocery Store,2005_Grocery Store_Aki Restaurant,51.553740000000005,-0.140991,2005-04-26
+509,Origin,Aki Restaurant,2005_Grocery Store_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+510,Destination,Fairly Square,2005_Fairly Square_Aki Restaurant,51.519793,-0.117736,2005-02-08
+511,Origin,Aki Restaurant,2005_Fairly Square_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+512,Destination,Oddbins (Uk) Ltd.,2005_Oddbins (Uk) Ltd._Aki Restaurant,51.548970000000004,-0.171679,2005-07-28
+513,Origin,Aki Restaurant,2005_Oddbins (Uk) Ltd._Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+514,Destination,The Langorf Hotel,2005_The Langorf Hotel_Aki Restaurant,51.550463,-0.180056,2005-05-08
+515,Origin,Aki Restaurant,2005_The Langorf Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+516,Destination,Mill Lane Bistro,2005_Mill Lane Bistro_Aki Restaurant,51.551843,-0.195899,2005-11-07
+517,Origin,Aki Restaurant,2005_Mill Lane Bistro_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+518,Destination,Metro Central,2005_Metro Central_Aki Restaurant,51.515819,-0.118702,2005-01-08
+519,Origin,Aki Restaurant,2005_Metro Central_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+520,Destination,Goodenough College,2005_Goodenough College_Aki Restaurant,51.524307,-0.119475,2005-07-29
+521,Origin,Aki Restaurant,2005_Goodenough College_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+522,Destination,Pix Bar,2005_Pix Bar_Aki Restaurant,51.515044,-0.126064,2005-07-21
+523,Origin,Aki Restaurant,2005_Pix Bar_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+524,Destination,AMICO BIO (previously named Italian Kitchen),2005_AMICO BIO (previously named Italian Kitchen)_Aki Restaurant,51.516890999999994,-0.12531,2005-07-29
+525,Origin,Aki Restaurant,2005_AMICO BIO (previously named Italian Kitchen)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+526,Destination,La Forchetta,2005_La Forchetta_Aki Restaurant,51.518824,-0.107485,2005-05-08
+527,Origin,Aki Restaurant,2005_La Forchetta_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+528,Destination,McDonald's Restaurants Ltd,2005_McDonald's Restaurants Ltd_Aki Restaurant,51.517405,-0.141005,2005-03-08
+529,Origin,Aki Restaurant,2005_McDonald's Restaurants Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+530,Destination,Bombay Flame Indian Cuisine,2005_Bombay Flame Indian Cuisine_Aki Restaurant,51.542497999999995,-0.195686,2005-05-08
+531,Origin,Aki Restaurant,2005_Bombay Flame Indian Cuisine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+532,Destination,Ideal Stores,2005_Ideal Stores_Aki Restaurant,51.532477,-0.134018,2005-04-08
+533,Origin,Aki Restaurant,2005_Ideal Stores_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+534,Destination,Souk Restaurant,2005_Souk Restaurant_Aki Restaurant,51.514446,-0.126545,2005-02-08
+535,Origin,Aki Restaurant,2005_Souk Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+536,Destination,Harrison Arms,2005_Harrison Arms_Aki Restaurant,51.52756,-0.120129,2005-07-26
+537,Origin,Aki Restaurant,2005_Harrison Arms_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+538,Destination,Donmar Warehouse Theatre,2005_Donmar Warehouse Theatre_Aki Restaurant,51.514056,-0.12601400000000001,2005-05-23
+539,Origin,Aki Restaurant,2005_Donmar Warehouse Theatre_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+540,Destination,Carob Tree Restaurant,2005_Carob Tree Restaurant_Aki Restaurant,51.560897,-0.14952100000000002,2005-02-08
+541,Origin,Aki Restaurant,2005_Carob Tree Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+542,Destination,Frank'S Cafe,2005_Frank'S Cafe_Aki Restaurant,51.514446,-0.126545,2005-06-07
+543,Origin,Aki Restaurant,2005_Frank'S Cafe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+544,Destination,"Radisson Blu Edwardian, Kenilworth Hotel","2005_Radisson Blu Edwardian, Kenilworth Hotel_Aki Restaurant",51.517914000000005,-0.12887,2005-03-08
+545,Origin,Aki Restaurant,"2005_Radisson Blu Edwardian, Kenilworth Hotel_Aki Restaurant",51.523041,-0.11357300000000001,2005-01-06
+546,Destination,Domino's Pizza,2005_Domino's Pizza_Aki Restaurant,51.543793,-0.181221,2005-07-26
+547,Origin,Aki Restaurant,2005_Domino's Pizza_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+548,Destination,Thai Metro,2005_Thai Metro_Aki Restaurant,51.519465999999994,-0.134998,2005-07-21
+549,Origin,Aki Restaurant,2005_Thai Metro_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+550,Destination,St Martins Tavern,2005_St Martins Tavern_Aki Restaurant,51.537869,-0.13966800000000001,2005-03-24
+551,Origin,Aki Restaurant,2005_St Martins Tavern_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+552,Destination,Feng Shang Floating Restaurant,2005_Feng Shang Floating Restaurant_Aki Restaurant,51.537304999999996,-0.151409,2005-07-21
+553,Origin,Aki Restaurant,2005_Feng Shang Floating Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+554,Destination,The Bedford Hotel,2005_The Bedford Hotel_Aki Restaurant,51.520474,-0.12375,2005-07-19
+555,Origin,Aki Restaurant,2005_The Bedford Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+556,Destination,Mansfield Supermarket,2005_Mansfield Supermarket_Aki Restaurant,51.554315,-0.15478499999999998,2005-06-07
+557,Origin,Aki Restaurant,2005_Mansfield Supermarket_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+558,Destination,Kikuchi Japanese Restaurant,2005_Kikuchi Japanese Restaurant_Aki Restaurant,51.516921999999994,-0.132023,2005-07-27
+559,Origin,Aki Restaurant,2005_Kikuchi Japanese Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+560,Destination,Caradell,2005_Caradell_Aki Restaurant,51.519397,-0.11733099999999999,2005-02-06
+561,Origin,Aki Restaurant,2005_Caradell_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+562,Destination,Tavistock Hotel,2005_Tavistock Hotel_Aki Restaurant,51.52386,-0.12945,2005-07-19
+563,Origin,Aki Restaurant,2005_Tavistock Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+564,Destination,Restaurant 20-21 Warren Street (formerly Cafe Rive Gauche),2005_Restaurant 20-21 Warren Street (formerly Cafe Rive Gauche)_Aki Restaurant,51.523559999999996,-0.139343,2005-04-07
+565,Origin,Aki Restaurant,2005_Restaurant 20-21 Warren Street (formerly Cafe Rive Gauche)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+566,Destination,Tavistock Tandori,2005_Tavistock Tandori_Aki Restaurant,51.525437,-0.125078,2005-04-07
+567,Origin,Aki Restaurant,2005_Tavistock Tandori_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+568,Destination,Hampstead Food and Wine Ltd,2005_Hampstead Food and Wine Ltd_Aki Restaurant,51.55558,-0.16726400000000002,2005-05-17
+569,Origin,Aki Restaurant,2005_Hampstead Food and Wine Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+570,Destination,Simply Food and Wine,2005_Simply Food and Wine_Aki Restaurant,51.556272,-0.139235,2005-05-08
+571,Origin,Aki Restaurant,2005_Simply Food and Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+572,Destination,The Noodle House,2005_The Noodle House_Aki Restaurant,51.513999,-0.128985,2005-05-08
+573,Origin,Aki Restaurant,2005_The Noodle House_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+574,Destination,Ethiopian Community in Britain,2005_Ethiopian Community in Britain_Aki Restaurant,51.549878,-0.183277,2005-05-08
+575,Origin,Aki Restaurant,2005_Ethiopian Community in Britain_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+576,Destination,Chez Nous,2005_Chez Nous_Aki Restaurant,51.549746,-0.16428399999999999,2005-04-08
+577,Origin,Aki Restaurant,2005_Chez Nous_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+578,Destination,Warren Tandoori,2005_Warren Tandoori_Aki Restaurant,51.524398,-0.139311,2005-05-08
+579,Origin,Aki Restaurant,2005_Warren Tandoori_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+580,Destination,El Parador,2005_El Parador_Aki Restaurant,51.533827,-0.138196,2005-07-13
+581,Origin,Aki Restaurant,2005_El Parador_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+582,Destination,IL Fornello Restaurant,2005_IL Fornello Restaurant_Aki Restaurant,51.521776,-0.12359300000000001,2005-06-06
+583,Origin,Aki Restaurant,2005_IL Fornello Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+584,Destination,Thistle Euston,2005_Thistle Euston_Aki Restaurant,51.528952000000004,-0.137736,2005-05-08
+585,Origin,Aki Restaurant,2005_Thistle Euston_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+586,Destination,Noble Rot (Previously Vats),2005_Noble Rot (Previously Vats)_Aki Restaurant,51.521754,-0.11884700000000001,2005-07-29
+587,Origin,Aki Restaurant,2005_Noble Rot (Previously Vats)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+588,Destination,Sugar Cane Food & Wine,2005_Sugar Cane Food & Wine_Aki Restaurant,51.54367,-0.172902,2005-07-26
+589,Origin,Aki Restaurant,2005_Sugar Cane Food & Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+590,Destination,Rosslyn Arms,2005_Rosslyn Arms_Aki Restaurant,51.555053,-0.172822,2005-06-20
+591,Origin,Aki Restaurant,2005_Rosslyn Arms_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+592,Destination,Malden Food & Wine,2005_Malden Food & Wine_Aki Restaurant,51.546079999999996,-0.151116,2005-05-17
+593,Origin,Aki Restaurant,2005_Malden Food & Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+594,Destination,Oddbins (Southampton Row),2005_Oddbins (Southampton Row)_Aki Restaurant,51.520227,-0.12197000000000001,2005-07-15
+595,Origin,Aki Restaurant,2005_Oddbins (Southampton Row)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+596,Destination,Campbell's Canal Cafe,2005_Campbell's Canal Cafe_Aki Restaurant,51.541090000000004,-0.145348,2005-05-08
+597,Origin,Aki Restaurant,2005_Campbell's Canal Cafe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+598,Destination,Ask Restaurant,2005_Ask Restaurant_Aki Restaurant,51.523937,-0.138173,2005-07-22
+599,Origin,Aki Restaurant,2005_Ask Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+600,Destination,Hyelm,2005_Hyelm_Aki Restaurant,51.554281,-0.177924,2005-07-25
+601,Origin,Aki Restaurant,2005_Hyelm_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+602,Destination,Restaurant Ill Castelletto,2005_Restaurant Ill Castelletto_Aki Restaurant,51.518128999999995,-0.125048,2005-06-07
+603,Origin,Aki Restaurant,2005_Restaurant Ill Castelletto_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+604,Destination,L'absinthe,2005_L'absinthe_Aki Restaurant,51.540301,-0.15378,2005-05-08
+605,Origin,Aki Restaurant,2005_L'absinthe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+606,Destination,Parkers,2005_Parkers_Aki Restaurant,51.516965,-0.120941,2005-07-21
+607,Origin,Aki Restaurant,2005_Parkers_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+608,Destination,Da Mario Restaurant,2005_Da Mario Restaurant_Aki Restaurant,51.515044,-0.126064,2005-05-27
+609,Origin,Aki Restaurant,2005_Da Mario Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+610,Destination,Madras Curry House,2005_Madras Curry House_Aki Restaurant,51.523783,-0.142197,2005-07-15
+611,Origin,Aki Restaurant,2005_Madras Curry House_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+612,Destination,Pullman London St Pancras,2005_Pullman London St Pancras_Aki Restaurant,51.528687,-0.128402,2005-07-19
+613,Origin,Aki Restaurant,2005_Pullman London St Pancras_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+614,Destination,Express Food and Wine,2005_Express Food and Wine_Aki Restaurant,51.551322,-0.141042,2005-05-25
+615,Origin,Aki Restaurant,2005_Express Food and Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+616,Destination,Sardo Canale Restaurant,2005_Sardo Canale Restaurant_Aki Restaurant,51.540572999999995,-0.150756,2005-06-30
+617,Origin,Aki Restaurant,2005_Sardo Canale Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+618,Destination,Blooms Hotel,2005_Blooms Hotel_Aki Restaurant,51.520201,-0.126383,2005-07-28
+619,Origin,Aki Restaurant,2005_Blooms Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+620,Destination,Rossopomodoro,2005_Rossopomodoro_Aki Restaurant,51.513243,-0.127366,2005-07-21
+621,Origin,Aki Restaurant,2005_Rossopomodoro_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+622,Destination,Pied-A-Terre (Ground Floor),2005_Pied-A-Terre (Ground Floor)_Aki Restaurant,51.519465999999994,-0.134998,2005-01-06
+623,Origin,Aki Restaurant,2005_Pied-A-Terre (Ground Floor)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+624,Destination,Ekin Restaurant,2005_Ekin Restaurant_Aki Restaurant,51.538581,-0.191,2005-05-08
+625,Origin,Aki Restaurant,2005_Ekin Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+626,Destination,Cittie Of Yorke,2005_Cittie Of Yorke_Aki Restaurant,51.518542,-0.11215699999999999,2005-06-29
+627,Origin,Aki Restaurant,2005_Cittie Of Yorke_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+628,Destination,Curzon Bloomsbury  Cinema,2005_Curzon Bloomsbury  Cinema_Aki Restaurant,51.524397,-0.12385,2005-03-06
+629,Origin,Aki Restaurant,2005_Curzon Bloomsbury  Cinema_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+630,Destination,Bibendum Wine Ltd,2005_Bibendum Wine Ltd_Aki Restaurant,51.542518,-0.156411,2005-05-08
+631,Origin,Aki Restaurant,2005_Bibendum Wine Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+632,Destination,Ask,2005_Ask_Aki Restaurant,51.520227,-0.12197000000000001,2005-05-27
+633,Origin,Aki Restaurant,2005_Ask_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+634,Destination,Costcutter Star Sun Food and Wine,2005_Costcutter Star Sun Food and Wine_Aki Restaurant,51.555534,-0.139119,2005-05-08
+635,Origin,Aki Restaurant,2005_Costcutter Star Sun Food and Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+636,Destination,Dolphin,2005_Dolphin_Aki Restaurant,51.519793,-0.117736,2005-05-07
+637,Origin,Aki Restaurant,2005_Dolphin_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+638,Destination,West Hampstead Post Office,2005_West Hampstead Post Office_Aki Restaurant,51.547259999999994,-0.190768,2005-04-15
+639,Origin,Aki Restaurant,2005_West Hampstead Post Office_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+640,Destination,S & S Newsmart,2005_S & S Newsmart_Aki Restaurant,51.521226,-0.133957,2005-06-13
+641,Origin,Aki Restaurant,2005_S & S Newsmart_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+642,Destination,Caffe Ritazza,2005_Caffe Ritazza_Aki Restaurant,51.527829,-0.132573,2005-07-28
+643,Origin,Aki Restaurant,2005_Caffe Ritazza_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+644,Destination,Belsize Village Delicatessen,2005_Belsize Village Delicatessen_Aki Restaurant,51.549339,-0.171002,2005-04-08
+645,Origin,Aki Restaurant,2005_Belsize Village Delicatessen_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+646,Destination,The Primrose Eatery,2005_The Primrose Eatery_Aki Restaurant,51.542559000000004,-0.162132,2005-05-08
+647,Origin,Aki Restaurant,2005_The Primrose Eatery_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+648,Destination,Busaba Eathai,2005_Busaba Eathai_Aki Restaurant,51.519946999999995,-0.133178,2005-07-22
+649,Origin,Aki Restaurant,2005_Busaba Eathai_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+650,Destination,Hiro,2005_Hiro_Aki Restaurant,51.537658,-0.185657,2005-04-08
+651,Origin,Aki Restaurant,2005_Hiro_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+652,Destination,Casa Mamma Restaurant,2005_Casa Mamma Restaurant_Aki Restaurant,51.530239,-0.12168499999999999,2005-02-06
+653,Origin,Aki Restaurant,2005_Casa Mamma Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+654,Destination,The Monarch,2005_The Monarch_Aki Restaurant,51.54314,-0.148383,2005-01-08
+655,Origin,Aki Restaurant,2005_The Monarch_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+656,Destination,Premier Inn,2005_Premier Inn_Aki Restaurant,51.551534000000004,-0.167068,2005-07-22
+657,Origin,Aki Restaurant,2005_Premier Inn_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+658,Destination,West Hampstead Food & Wine,2005_West Hampstead Food & Wine_Aki Restaurant,51.554904,-0.196225,2005-02-08
+659,Origin,Aki Restaurant,2005_West Hampstead Food & Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+660,Destination,BuyBest,2005_BuyBest_Aki Restaurant,51.549717,-0.191104,2005-04-18
+661,Origin,Aki Restaurant,2005_BuyBest_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+662,Destination,Guglee Restaurant (previously Bombay Bicycle),2005_Guglee Restaurant (previously Bombay Bicycle)_Aki Restaurant,51.550391999999995,-0.19197899999999998,2005-05-08
+663,Origin,Aki Restaurant,2005_Guglee Restaurant (previously Bombay Bicycle)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+664,Destination,"Radisson Blu Edwardian, Grafton","2005_Radisson Blu Edwardian, Grafton_Aki Restaurant",51.523937,-0.138173,2005-03-08
+665,Origin,Aki Restaurant,"2005_Radisson Blu Edwardian, Grafton_Aki Restaurant",51.523041,-0.11357300000000001,2005-01-06
+666,Destination,Sushi Hiroba,2005_Sushi Hiroba_Aki Restaurant,51.51668,-0.119209,2005-04-08
+667,Origin,Aki Restaurant,2005_Sushi Hiroba_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+668,Destination,The Buttery,2005_The Buttery_Aki Restaurant,51.558221,-0.175092,2005-11-07
+669,Origin,Aki Restaurant,2005_The Buttery_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+670,Destination,Olivers Fish and Chips,2005_Olivers Fish and Chips_Aki Restaurant,51.546679,-0.15871300000000002,2005-04-08
+671,Origin,Aki Restaurant,2005_Olivers Fish and Chips_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+672,Destination,Light Of Kashmir Restaurant,2005_Light Of Kashmir Restaurant_Aki Restaurant,51.553429,-0.161985,2005-01-08
+673,Origin,Aki Restaurant,2005_Light Of Kashmir Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+674,Destination,Aldi,2005_Aldi_Aki Restaurant,51.539895,-0.195959,2005-04-07
+675,Origin,Aki Restaurant,2005_Aldi_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+676,Destination,Gourmet Burger Kitchen,2005_Gourmet Burger Kitchen_Aki Restaurant,51.550832,-0.192992,2005-01-08
+677,Origin,Aki Restaurant,2005_Gourmet Burger Kitchen_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+678,Destination,The Brewhouse Restaurant,2005_The Brewhouse Restaurant_Aki Restaurant,51.571362,-0.167697,2005-03-08
+679,Origin,Aki Restaurant,2005_The Brewhouse Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+680,Destination,Abbey Wines and Groceries,2005_Abbey Wines and Groceries_Aki Restaurant,51.539832000000004,-0.188324,2005-05-26
+681,Origin,Aki Restaurant,2005_Abbey Wines and Groceries_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+682,Destination,Raceway,2005_Raceway_Aki Restaurant,51.536384000000005,-0.124454,2005-06-08
+683,Origin,Aki Restaurant,2005_Raceway_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+684,Destination,HP13 6BZ,2005_HP13 6BZ_Aki Restaurant,51.537827,-0.141005,2005-06-15
+685,Origin,Aki Restaurant,2005_HP13 6BZ_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+686,Destination,Cyberia,2005_Cyberia_Aki Restaurant,51.519855,-0.135379,2005-04-08
+687,Origin,Aki Restaurant,2005_Cyberia_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+688,Destination,Super Choice,2005_Super Choice_Aki Restaurant,51.549989000000004,-0.15253699999999998,2005-05-08
+689,Origin,Aki Restaurant,2005_Super Choice_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+690,Destination,Bricklayers Arms,2005_Bricklayers Arms_Aki Restaurant,51.51757,-0.132725,2005-06-29
+691,Origin,Aki Restaurant,2005_Bricklayers Arms_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+692,Destination,Ye Olde Swiss Cottage,2005_Ye Olde Swiss Cottage_Aki Restaurant,51.542636,-0.17460799999999999,2005-06-30
+693,Origin,Aki Restaurant,2005_Ye Olde Swiss Cottage_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+694,Destination,Goodmay Wines,2005_Goodmay Wines_Aki Restaurant,51.540816,-0.17946600000000001,2005-07-14
+695,Origin,Aki Restaurant,2005_Goodmay Wines_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+696,Destination,Camden Tandoori Restaurant,2005_Camden Tandoori Restaurant_Aki Restaurant,51.541939,-0.137462,2005-05-26
+697,Origin,Aki Restaurant,2005_Camden Tandoori Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+698,Destination,Superbuy,2005_Superbuy_Aki Restaurant,51.523142,-0.137511,2005-05-08
+699,Origin,Aki Restaurant,2005_Superbuy_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+700,Destination,Thistle Bloomsbury Park Hotel,2005_Thistle Bloomsbury Park Hotel_Aki Restaurant,51.520378,-0.123529,2005-05-08
+701,Origin,Aki Restaurant,2005_Thistle Bloomsbury Park Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+702,Destination,Chicago Fried Chicken and Ribs,2005_Chicago Fried Chicken and Ribs_Aki Restaurant,51.556151,-0.138523,2005-07-14
+703,Origin,Aki Restaurant,2005_Chicago Fried Chicken and Ribs_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+704,Destination,The Falkland Stores,2005_The Falkland Stores_Aki Restaurant,51.551885,-0.135599,2005-05-08
+705,Origin,Aki Restaurant,2005_The Falkland Stores_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+706,Destination,La Bistro Savoir Faire Ltd,2005_La Bistro Savoir Faire Ltd_Aki Restaurant,51.517396000000005,-0.125711,2005-05-07
+707,Origin,Aki Restaurant,2005_La Bistro Savoir Faire Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+708,Destination,LAS IGUANAS,2005_LAS IGUANAS_Aki Restaurant,51.524397,-0.12385,2005-03-06
+709,Origin,Aki Restaurant,2005_LAS IGUANAS_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+710,Destination,London Hong Kong,2005_London Hong Kong_Aki Restaurant,51.547698,-0.181321,2005-07-21
+711,Origin,Aki Restaurant,2005_London Hong Kong_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+712,Destination,The George,2005_The George_Aki Restaurant,51.55271,-0.166968,2005-01-08
+713,Origin,Aki Restaurant,2005_The George_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+714,Destination,Grange Holborn Hotel,2005_Grange Holborn Hotel_Aki Restaurant,51.519631,-0.120531,2005-07-28
+715,Origin,Aki Restaurant,2005_Grange Holborn Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+716,Destination,Morrisons,2005_Morrisons_Aki Restaurant,51.541346000000004,-0.149794,2005-07-26
+717,Origin,Aki Restaurant,2005_Morrisons_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+718,Destination,Bobo Social,2005_Bobo Social_Aki Restaurant,51.520912,-0.137428,2005-06-20
+719,Origin,Aki Restaurant,2005_Bobo Social_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+720,Destination,Hason Raja,2005_Hason Raja_Aki Restaurant,51.520227,-0.12197000000000001,2005-03-08
+721,Origin,Aki Restaurant,2005_Hason Raja_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+722,Destination,Thai Candle,2005_Thai Candle_Aki Restaurant,51.521363,-0.117827,2005-02-08
+723,Origin,Aki Restaurant,2005_Thai Candle_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+724,Destination,Magic Circle,2005_Magic Circle_Aki Restaurant,51.526416,-0.134983,2005-04-18
+725,Origin,Aki Restaurant,2005_Magic Circle_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+726,Destination,Samuel Lithgow Old Boys Club,2005_Samuel Lithgow Old Boys Club_Aki Restaurant,51.526825,-0.14119400000000001,2005-11-05
+727,Origin,Aki Restaurant,2005_Samuel Lithgow Old Boys Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+728,Destination,Wine Rack,2005_Wine Rack_Aki Restaurant,51.540877,-0.164907,2005-05-08
+729,Origin,Aki Restaurant,2005_Wine Rack_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+730,Destination,The UCL Clubhouse,2005_The UCL Clubhouse_Aki Restaurant,51.544955,-0.135407,2005-02-08
+731,Origin,Aki Restaurant,2005_The UCL Clubhouse_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+732,Destination,Quinns,2005_Quinns_Aki Restaurant,51.542629,-0.142325,2005-07-21
+733,Origin,Aki Restaurant,2005_Quinns_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+734,Destination,Woo Jung Restaurant,2005_Woo Jung Restaurant_Aki Restaurant,51.515526,-0.12947,2005-05-31
+735,Origin,Aki Restaurant,2005_Woo Jung Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+736,Destination,Plough,2005_Plough_Aki Restaurant,51.517865,-0.12620499999999998,2005-01-08
+737,Origin,Aki Restaurant,2005_Plough_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+738,Destination,Central News,2005_Central News_Aki Restaurant,51.515526,-0.12947,2005-07-27
+739,Origin,Aki Restaurant,2005_Central News_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+740,Destination,Crestfield Hotel,2005_Crestfield Hotel_Aki Restaurant,51.53009,-0.122548,2005-05-19
+741,Origin,Aki Restaurant,2005_Crestfield Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+742,Destination,Asakusa,2005_Asakusa_Aki Restaurant,51.533827,-0.138196,2005-03-08
+743,Origin,Aki Restaurant,2005_Asakusa_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+744,Destination,Malabar Junction,2005_Malabar Junction_Aki Restaurant,51.517914000000005,-0.12887,2005-07-26
+745,Origin,Aki Restaurant,2005_Malabar Junction_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+746,Destination,Euro Tandoori,2005_Euro Tandoori_Aki Restaurant,51.530239,-0.12168499999999999,2005-02-08
+747,Origin,Aki Restaurant,2005_Euro Tandoori_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+748,Destination,Beef & Brew,2005_Beef & Brew_Aki Restaurant,51.550323,-0.141154,2005-12-05
+749,Origin,Aki Restaurant,2005_Beef & Brew_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+750,Destination,Pink Rupee Tandoori Restaurant,2005_Pink Rupee Tandoori Restaurant_Aki Restaurant,51.553591,-0.211394,2005-01-08
+751,Origin,Aki Restaurant,2005_Pink Rupee Tandoori Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+752,Destination,Working Mens College,2005_Working Mens College_Aki Restaurant,51.535213,-0.13655499999999998,2005-05-08
+753,Origin,Aki Restaurant,2005_Working Mens College_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+754,Destination,Jays News Food & Wine,2005_Jays News Food & Wine_Aki Restaurant,51.542509,-0.137223,2005-06-16
+755,Origin,Aki Restaurant,2005_Jays News Food & Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+756,Destination,Zucchero Restaurant,2005_Zucchero Restaurant_Aki Restaurant,51.522625,-0.11455699999999999,2005-05-08
+757,Origin,Aki Restaurant,2005_Zucchero Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+758,Destination,Madina Halal Supermarket (formerly Buywise Express),2005_Madina Halal Supermarket (formerly Buywise Express)_Aki Restaurant,51.545931,-0.14239000000000002,2005-06-08
+759,Origin,Aki Restaurant,2005_Madina Halal Supermarket (formerly Buywise Express)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+760,Destination,Classic Tandoori,2005_Classic Tandoori_Aki Restaurant,51.539832000000004,-0.188324,2005-02-08
+761,Origin,Aki Restaurant,2005_Classic Tandoori_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+762,Destination,North Sea Fish Restaurant,2005_North Sea Fish Restaurant_Aki Restaurant,51.526258,-0.124827,2005-06-07
+763,Origin,Aki Restaurant,2005_North Sea Fish Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+764,Destination,Connaught Hall,2005_Connaught Hall_Aki Restaurant,51.524621999999994,-0.129966,2005-05-08
+765,Origin,Aki Restaurant,2005_Connaught Hall_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+766,Destination,Ravi Shankar Bhelpoori House,2005_Ravi Shankar Bhelpoori House_Aki Restaurant,51.526920000000004,-0.136481,2005-04-08
+767,Origin,Aki Restaurant,2005_Ravi Shankar Bhelpoori House_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+768,Destination,Booker Cash And Carry,2005_Booker Cash And Carry_Aki Restaurant,51.538636,-0.130402,2005-01-08
+769,Origin,Aki Restaurant,2005_Booker Cash And Carry_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+770,Destination,SKM Food & Wine,2005_SKM Food & Wine_Aki Restaurant,51.552621,-0.158776,2005-05-26
+771,Origin,Aki Restaurant,2005_SKM Food & Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+772,Destination,Smugglers Tavern,2005_Smugglers Tavern_Aki Restaurant,51.523545,-0.140725,2005-01-08
+773,Origin,Aki Restaurant,2005_Smugglers Tavern_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+774,Destination,Salvino Ltd,2005_Salvino Ltd_Aki Restaurant,51.550393,-0.13128900000000002,2005-11-05
+775,Origin,Aki Restaurant,2005_Salvino Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+776,Destination,Butters,2005_Butters_Aki Restaurant,51.528917,-0.1447,2005-04-08
+777,Origin,Aki Restaurant,2005_Butters_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+778,Destination,Cambridge Theatre,2005_Cambridge Theatre_Aki Restaurant,51.513667,-0.126119,2005-05-16
+779,Origin,Aki Restaurant,2005_Cambridge Theatre_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+780,Destination,Carluccio's Caffe,2005_Carluccio's Caffe_Aki Restaurant,51.555026,-0.171827,2005-01-08
+781,Origin,Aki Restaurant,2005_Carluccio's Caffe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+782,Destination,Wildwood Kitchen (Cafe Pasta),2005_Wildwood Kitchen (Cafe Pasta)_Aki Restaurant,51.514962,-0.12751800000000002,2005-05-08
+783,Origin,Aki Restaurant,2005_Wildwood Kitchen (Cafe Pasta)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+784,Destination,Camden Delight,2005_Camden Delight_Aki Restaurant,51.534911,-0.139649,2005-05-08
+785,Origin,Aki Restaurant,2005_Camden Delight_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+786,Destination,Crown,2005_Crown_Aki Restaurant,51.516842,-0.126469,2005-06-29
+787,Origin,Aki Restaurant,2005_Crown_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+788,Destination,Double J's Catering Ltd (formerly Regent Peking Cuisine),2005_Double J's Catering Ltd (formerly Regent Peking Cuisine)_Aki Restaurant,51.524398,-0.139311,2005-05-07
+789,Origin,Aki Restaurant,2005_Double J's Catering Ltd (formerly Regent Peking Cuisine)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+790,Destination,Crowndale Off Licence,2005_Crowndale Off Licence_Aki Restaurant,51.535618,-0.134023,2005-01-08
+791,Origin,Aki Restaurant,2005_Crowndale Off Licence_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+792,Destination,Puccinos,2005_Puccinos_Aki Restaurant,51.529302,-0.13258499999999998,2005-11-05
+793,Origin,Aki Restaurant,2005_Puccinos_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+794,Destination,Birkbeck College (Malet St),2005_Birkbeck College (Malet St)_Aki Restaurant,51.522251000000004,-0.130659,2005-07-29
+795,Origin,Aki Restaurant,2005_Birkbeck College (Malet St)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+796,Destination,Grange Whitehall Hotel,2005_Grange Whitehall Hotel_Aki Restaurant,51.520201,-0.126383,2005-01-08
+797,Origin,Aki Restaurant,2005_Grange Whitehall Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+798,Destination,Babushka,2005_Babushka_Aki Restaurant,51.518941,-0.106305,2005-03-08
+799,Origin,Aki Restaurant,2005_Babushka_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+800,Destination,Thiwanya Fine Thai Cuisine (formerly Pu's Brasserie),2005_Thiwanya Fine Thai Cuisine (formerly Pu's Brasserie)_Aki Restaurant,51.517002000000005,-0.11943599999999999,2005-07-25
+801,Origin,Aki Restaurant,2005_Thiwanya Fine Thai Cuisine (formerly Pu's Brasserie)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+802,Destination,La Collina,2005_La Collina_Aki Restaurant,51.539079,-0.15245,2005-04-08
+803,Origin,Aki Restaurant,2005_La Collina_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+804,Destination,Chettinad Restaurant (previously) Camerino,2005_Chettinad Restaurant (previously) Camerino_Aki Restaurant,51.518605,-0.13372,2005-04-07
+805,Origin,Aki Restaurant,2005_Chettinad Restaurant (previously) Camerino_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+806,Destination,Prezzo,2005_Prezzo_Aki Restaurant,51.517396000000005,-0.131211,2005-05-08
+807,Origin,Aki Restaurant,2005_Prezzo_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+808,Destination,Sainsburys,2005_Sainsburys_Aki Restaurant,51.525368,-0.139192,2005-07-14
+809,Origin,Aki Restaurant,2005_Sainsburys_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+810,Destination,Supersave Convenience Store,2005_Supersave Convenience Store_Aki Restaurant,51.539688,-0.142772,2005-07-27
+811,Origin,Aki Restaurant,2005_Supersave Convenience Store_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+812,Destination,Speenghar Express,2005_Speenghar Express_Aki Restaurant,51.549434999999995,-0.183002,2005-04-22
+813,Origin,Aki Restaurant,2005_Speenghar Express_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+814,Destination,Signor Grilli,2005_Signor Grilli_Aki Restaurant,51.519855,-0.135379,2005-06-17
+815,Origin,Aki Restaurant,2005_Signor Grilli_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+816,Destination,La Porchetta,2005_La Porchetta_Aki Restaurant,51.520477,-0.150849,2005-06-08
+817,Origin,Aki Restaurant,2005_La Porchetta_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+818,Destination,The Black Cat,2005_The Black Cat_Aki Restaurant,51.533495,-0.139871,2005-01-08
+819,Origin,Aki Restaurant,2005_The Black Cat_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+820,Destination,London Euston Premier Travel Inn,2005_London Euston Premier Travel Inn_Aki Restaurant,51.527645,-0.128604,2005-04-08
+821,Origin,Aki Restaurant,2005_London Euston Premier Travel Inn_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+822,Destination,Everyman Belsize Park,2005_Everyman Belsize Park_Aki Restaurant,51.550631,-0.165875,2005-04-08
+823,Origin,Aki Restaurant,2005_Everyman Belsize Park_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+824,Destination,Parliament Hill Cafeteria,2005_Parliament Hill Cafeteria_Aki Restaurant,51.561013,-0.166418,2005-06-30
+825,Origin,Aki Restaurant,2005_Parliament Hill Cafeteria_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+826,Destination,Davy's Wine Bar,2005_Davy's Wine Bar_Aki Restaurant,51.525368,-0.139192,2005-06-17
+827,Origin,Aki Restaurant,2005_Davy's Wine Bar_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+828,Destination,Super Bijan,2005_Super Bijan_Aki Restaurant,51.553056,-0.189777,2005-05-07
+829,Origin,Aki Restaurant,2005_Super Bijan_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+830,Destination,First Class Lounge,2005_First Class Lounge_Aki Restaurant,51.529302,-0.13258499999999998,2005-02-06
+831,Origin,Aki Restaurant,2005_First Class Lounge_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+832,Destination,Tapeo,2005_Tapeo_Aki Restaurant,51.550245000000004,-0.165588,2005-07-28
+833,Origin,Aki Restaurant,2005_Tapeo_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+834,Destination,Mildreds,2005_Mildreds_Aki Restaurant,51.540754,-0.145258,2005-06-08
+835,Origin,Aki Restaurant,2005_Mildreds_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+836,Destination,Barrica,2005_Barrica_Aki Restaurant,51.51935,-0.13703900000000002,2005-07-23
+837,Origin,Aki Restaurant,2005_Barrica_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+838,Destination,Bury Food and Wine,2005_Bury Food and Wine_Aki Restaurant,51.518343,-0.12531199999999998,2005-05-25
+839,Origin,Aki Restaurant,2005_Bury Food and Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+840,Destination,Secrets (Parker St),2005_Secrets (Parker St)_Aki Restaurant,51.516965,-0.120941,2005-05-08
+841,Origin,Aki Restaurant,2005_Secrets (Parker St)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+842,Destination,Capital Foods,2005_Capital Foods_Aki Restaurant,51.539688,-0.142772,2005-07-14
+843,Origin,Aki Restaurant,2005_Capital Foods_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+844,Destination,Pasta Plus Restaurant,2005_Pasta Plus Restaurant_Aki Restaurant,51.529540000000004,-0.132553,2005-05-07
+845,Origin,Aki Restaurant,2005_Pasta Plus Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+846,Destination,Thunderbird,2005_Thunderbird_Aki Restaurant,51.551840000000006,-0.192992,2005-07-13
+847,Origin,Aki Restaurant,2005_Thunderbird_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+848,Destination,Daphne Restaurant,2005_Daphne Restaurant_Aki Restaurant,51.537827,-0.141005,2005-12-07
+849,Origin,Aki Restaurant,2005_Daphne Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+850,Destination,Holborn Whippet (FormerlyFathers Study),2005_Holborn Whippet (FormerlyFathers Study)_Aki Restaurant,51.518636,-0.12129000000000001,2005-04-28
+851,Origin,Aki Restaurant,2005_Holborn Whippet (FormerlyFathers Study)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+852,Destination,Troy Club,2005_Troy Club_Aki Restaurant,51.516921999999994,-0.132023,2005-04-08
+853,Origin,Aki Restaurant,2005_Troy Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+854,Destination,Phoenix Artist Club,2005_Phoenix Artist Club_Aki Restaurant,51.514562,-0.12926500000000002,2005-07-15
+855,Origin,Aki Restaurant,2005_Phoenix Artist Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+856,Destination,Patara,2005_Patara_Aki Restaurant,51.555378999999995,-0.176217,2005-10-06
+857,Origin,Aki Restaurant,2005_Patara_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+858,Destination,Hodge Jones & Allen,2005_Hodge Jones & Allen_Aki Restaurant,51.526920000000004,-0.136481,2005-07-18
+859,Origin,Aki Restaurant,2005_Hodge Jones & Allen_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+860,Destination,Soho Wines Supply Ltd,2005_Soho Wines Supply Ltd_Aki Restaurant,51.51831,-0.131671,2005-06-15
+861,Origin,Aki Restaurant,2005_Soho Wines Supply Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+862,Destination,Cantina Augusto (Clerkenwell Road) Plc,2005_Cantina Augusto (Clerkenwell Road) Plc_Aki Restaurant,51.521556,-0.110728,2005-05-16
+863,Origin,Aki Restaurant,2005_Cantina Augusto (Clerkenwell Road) Plc_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+864,Destination,Zizzi Restaurant,2005_Zizzi Restaurant_Aki Restaurant,51.519021,-0.15045999999999998,2005-05-27
+865,Origin,Aki Restaurant,2005_Zizzi Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+866,Destination,The 10 Cases,2005_The 10 Cases_Aki Restaurant,51.514406,-0.12488599999999998,2005-06-30
+867,Origin,Aki Restaurant,2005_The 10 Cases_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+868,Destination,Hampstead Food & Drinks,2005_Hampstead Food & Drinks_Aki Restaurant,51.549717,-0.191104,2005-05-26
+869,Origin,Aki Restaurant,2005_Hampstead Food & Drinks_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+870,Destination,Temptation Coffee Bar,2005_Temptation Coffee Bar_Aki Restaurant,51.543306,-0.132544,2005-04-29
+871,Origin,Aki Restaurant,2005_Temptation Coffee Bar_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+872,Destination,Deliverance,2005_Deliverance_Aki Restaurant,51.523275,-0.112017,2005-06-08
+873,Origin,Aki Restaurant,2005_Deliverance_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+874,Destination,The Queen Of Sheba Ethiopian Restaurant,2005_The Queen Of Sheba Ethiopian Restaurant_Aki Restaurant,51.552448,-0.14057999999999998,2005-12-07
+875,Origin,Aki Restaurant,2005_The Queen Of Sheba Ethiopian Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+876,Destination,Albany Supermarket And Off Licence,2005_Albany Supermarket And Off Licence_Aki Restaurant,51.528917,-0.1447,2005-06-15
+877,Origin,Aki Restaurant,2005_Albany Supermarket And Off Licence_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+878,Destination,Jeroboams,2005_Jeroboams_Aki Restaurant,51.556143,-0.179161,2005-05-07
+879,Origin,Aki Restaurant,2005_Jeroboams_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+880,Destination,The Ninth,2005_The Ninth_Aki Restaurant,51.518959,-0.134555,2005-09-06
+881,Origin,Aki Restaurant,2005_The Ninth_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+882,Destination,Express By Holiday Inn (London Swiss Cottage),2005_Express By Holiday Inn (London Swiss Cottage)_Aki Restaurant,51.548196000000004,-0.18041600000000002,2005-05-08
+883,Origin,Aki Restaurant,2005_Express By Holiday Inn (London Swiss Cottage)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+884,Destination,New End Theatre,2005_New End Theatre_Aki Restaurant,51.55887,-0.177456,2005-07-21
+885,Origin,Aki Restaurant,2005_New End Theatre_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+886,Destination,La Regina,2005_La Regina_Aki Restaurant,51.53009,-0.122548,2005-03-08
+887,Origin,Aki Restaurant,2005_La Regina_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+888,Destination,Trattoria Lucca,2005_Trattoria Lucca_Aki Restaurant,51.537762,-0.14571199999999998,2005-05-13
+889,Origin,Aki Restaurant,2005_Trattoria Lucca_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+890,Destination,New Istanbul Supermarket,2005_New Istanbul Supermarket_Aki Restaurant,51.545552,-0.176535,2005-01-08
+891,Origin,Aki Restaurant,2005_New Istanbul Supermarket_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+892,Destination,Kentish Delight,2005_Kentish Delight_Aki Restaurant,51.551322,-0.141042,2005-07-29
+893,Origin,Aki Restaurant,2005_Kentish Delight_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+894,Destination,The Little Thai (formerly La Cocotte),2005_The Little Thai (formerly La Cocotte)_Aki Restaurant,51.554378,-0.16508299999999998,2005-05-26
+895,Origin,Aki Restaurant,2005_The Little Thai (formerly La Cocotte)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+896,Destination,Woburn Food And Wine,2005_Woburn Food And Wine_Aki Restaurant,51.524485,-0.12700899999999998,2005-06-16
+897,Origin,Aki Restaurant,2005_Woburn Food And Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+898,Destination,The Adjournment Bar,2005_The Adjournment Bar_Aki Restaurant,51.519006,-0.113476,2005-07-21
+899,Origin,Aki Restaurant,2005_The Adjournment Bar_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+900,Destination,Guglee Restaurant,2005_Guglee Restaurant_Aki Restaurant,51.545552,-0.176535,2005-05-07
+901,Origin,Aki Restaurant,2005_Guglee Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+902,Destination,Byron,2005_Byron_Aki Restaurant,51.547698,-0.181321,2005-04-08
+903,Origin,Aki Restaurant,2005_Byron_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+904,Destination,Le Pain Quotidien Ltd,2005_Le Pain Quotidien Ltd_Aki Restaurant,51.554295,-0.16628800000000002,2005-05-08
+905,Origin,Aki Restaurant,2005_Le Pain Quotidien Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+906,Destination,Duke of Grafton (previously Britannia),2005_Duke of Grafton (previously Britannia)_Aki Restaurant,51.529302,-0.13258499999999998,2005-07-28
+907,Origin,Aki Restaurant,2005_Duke of Grafton (previously Britannia)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+908,Destination,Mela,2005_Mela_Aki Restaurant,51.51386,-0.127887,2005-07-27
+909,Origin,Aki Restaurant,2005_Mela_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+910,Destination,Mon Plaisir,2005_Mon Plaisir_Aki Restaurant,51.514446,-0.126545,2005-05-26
+911,Origin,Aki Restaurant,2005_Mon Plaisir_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+912,Destination,The Lincoln Centre,2005_The Lincoln Centre_Aki Restaurant,51.517146000000004,-0.11718599999999998,2005-04-21
+913,Origin,Aki Restaurant,2005_The Lincoln Centre_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+914,Destination,KOKO,2005_KOKO_Aki Restaurant,51.534911,-0.139649,2005-04-08
+915,Origin,Aki Restaurant,2005_KOKO_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+916,Destination,Capital Food,2005_Capital Food_Aki Restaurant,51.534197,-0.13888599999999998,2005-07-27
+917,Origin,Aki Restaurant,2005_Capital Food_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+918,Destination,Montague Hotel,2005_Montague Hotel_Aki Restaurant,51.520018,-0.124921,2005-07-25
+919,Origin,Aki Restaurant,2005_Montague Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+920,Destination,Grays Inn Card Shop,2005_Grays Inn Card Shop_Aki Restaurant,51.521861,-0.11399200000000001,2005-07-19
+921,Origin,Aki Restaurant,2005_Grays Inn Card Shop_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+922,Destination,Fitzroy Patisserie,2005_Fitzroy Patisserie_Aki Restaurant,51.523937,-0.138173,2005-07-28
+923,Origin,Aki Restaurant,2005_Fitzroy Patisserie_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+924,Destination,Little Bay Restaurant,2005_Little Bay Restaurant_Aki Restaurant,51.538581,-0.191,2005-03-08
+925,Origin,Aki Restaurant,2005_Little Bay Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+926,Destination,Kings Cross Food and Wine,2005_Kings Cross Food and Wine_Aki Restaurant,51.530239,-0.12168499999999999,2005-07-28
+927,Origin,Aki Restaurant,2005_Kings Cross Food and Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+928,Destination,Prince Of Wales,2005_Prince Of Wales_Aki Restaurant,51.570890000000006,-0.148929,2005-04-08
+929,Origin,Aki Restaurant,2005_Prince Of Wales_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+930,Destination,Jar Kitchen,2005_Jar Kitchen_Aki Restaurant,51.516075,-0.122922,2005-07-28
+931,Origin,Aki Restaurant,2005_Jar Kitchen_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+932,Destination,Mazenod Social Club,2005_Mazenod Social Club_Aki Restaurant,51.540984,-0.19375599999999998,2005-05-08
+933,Origin,Aki Restaurant,2005_Mazenod Social Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+934,Destination,Old Orleans,2005_Old Orleans_Aki Restaurant,51.547698,-0.181321,2005-04-08
+935,Origin,Aki Restaurant,2005_Old Orleans_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+936,Destination,Isolabella,2005_Isolabella_Aki Restaurant,51.519793,-0.117736,2005-02-06
+937,Origin,Aki Restaurant,2005_Isolabella_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+938,Destination,Chilango (formerly The Camden Kitchen),2005_Chilango (formerly The Camden Kitchen)_Aki Restaurant,51.537827,-0.141005,2005-05-08
+939,Origin,Aki Restaurant,2005_Chilango (formerly The Camden Kitchen)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+940,Destination,China House Restaurant,2005_China House Restaurant_Aki Restaurant,51.52494,-0.125585,2005-04-28
+941,Origin,Aki Restaurant,2005_China House Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+942,Destination,Camden Off Licence,2005_Camden Off Licence_Aki Restaurant,51.542557,-0.133375,2005-06-06
+943,Origin,Aki Restaurant,2005_Camden Off Licence_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+944,Destination,Lihiniya,2005_Lihiniya_Aki Restaurant,51.554209,-0.212042,2005-07-19
+945,Origin,Aki Restaurant,2005_Lihiniya_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+946,Destination,Gandhi`s Restaurant,2005_Gandhi`s Restaurant_Aki Restaurant,51.521861,-0.11399200000000001,2005-04-20
+947,Origin,Aki Restaurant,2005_Gandhi`s Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+948,Destination,Thresher Wine Shop,2005_Thresher Wine Shop_Aki Restaurant,51.517687,-0.16573,2005-06-28
+949,Origin,Aki Restaurant,2005_Thresher Wine Shop_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+950,Destination,King's Cross Snooker Club,2005_King's Cross Snooker Club_Aki Restaurant,51.530693,-0.121473,2005-04-08
+951,Origin,Aki Restaurant,2005_King's Cross Snooker Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+952,Destination,News Food & Wine,2005_News Food & Wine_Aki Restaurant,51.556253999999996,-0.146741,2005-04-08
+953,Origin,Aki Restaurant,2005_News Food & Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+954,Destination,Wok Inn,2005_Wok Inn_Aki Restaurant,51.534911,-0.139649,2005-07-29
+955,Origin,Aki Restaurant,2005_Wok Inn_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+956,Destination,Leighton Convenience Store,2005_Leighton Convenience Store_Aki Restaurant,51.55057,-0.133377,2005-02-08
+957,Origin,Aki Restaurant,2005_Leighton Convenience Store_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+958,Destination,Bagel's Inn,2005_Bagel's Inn_Aki Restaurant,51.518921,-0.11112999999999999,2005-03-08
+959,Origin,Aki Restaurant,2005_Bagel's Inn_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+960,Destination,Rosa's Thai Cafe,2005_Rosa's Thai Cafe_Aki Restaurant,51.513596,-0.127317,2005-07-14
+961,Origin,Aki Restaurant,2005_Rosa's Thai Cafe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+962,Destination,Woody Grill,2005_Woody Grill_Aki Restaurant,51.539219,-0.141978,2005-02-08
+963,Origin,Aki Restaurant,2005_Woody Grill_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+964,Destination,The Trades Union Congress,2005_The Trades Union Congress_Aki Restaurant,51.517232,-0.128717,2005-01-08
+965,Origin,Aki Restaurant,2005_The Trades Union Congress_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+966,Destination,Giraffe,2005_Giraffe_Aki Restaurant,51.550832,-0.172822,2005-03-08
+967,Origin,Aki Restaurant,2005_Giraffe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+968,Destination,Tasty Kebabs,2005_Tasty Kebabs_Aki Restaurant,51.537207,-0.192154,2005-07-26
+969,Origin,Aki Restaurant,2005_Tasty Kebabs_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+970,Destination,Ark,2005_Ark_Aki Restaurant,51.546901,-0.180973,2005-05-08
+971,Origin,Aki Restaurant,2005_Ark_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+972,Destination,Ambassadors Theatre,2005_Ambassadors Theatre_Aki Restaurant,51.513245,-0.12820299999999998,2005-06-17
+973,Origin,Aki Restaurant,2005_Ambassadors Theatre_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+974,Destination,Thai Pepper,2005_Thai Pepper_Aki Restaurant,51.542823,-0.175825,2005-07-21
+975,Origin,Aki Restaurant,2005_Thai Pepper_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+976,Destination,Strada South Grove,2005_Strada South Grove_Aki Restaurant,51.57043,-0.147778,2005-09-05
+977,Origin,Aki Restaurant,2005_Strada South Grove_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+978,Destination,College Arms,2005_College Arms_Aki Restaurant,51.520386,-0.132202,2005-07-21
+979,Origin,Aki Restaurant,2005_College Arms_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+980,Destination,Chicken Cottage,2005_Chicken Cottage_Aki Restaurant,51.521654,-0.10969200000000001,2005-07-21
+981,Origin,Aki Restaurant,2005_Chicken Cottage_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+982,Destination,Sapori Italiani,2005_Sapori Italiani_Aki Restaurant,51.549746,-0.16428399999999999,2005-07-25
+983,Origin,Aki Restaurant,2005_Sapori Italiani_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+984,Destination,Chop Chop Noodle Bar,2005_Chop Chop Noodle Bar_Aki Restaurant,51.53009,-0.122548,2005-05-08
+985,Origin,Aki Restaurant,2005_Chop Chop Noodle Bar_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+986,Destination,Dominos Pizza,2005_Dominos Pizza_Aki Restaurant,51.551787,-0.19178699999999999,2005-07-26
+987,Origin,Aki Restaurant,2005_Dominos Pizza_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+988,Destination,Burger King,2005_Burger King_Aki Restaurant,51.516945,-0.13258499999999998,2005-01-08
+989,Origin,Aki Restaurant,2005_Burger King_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+990,Destination,Cross Keys,2005_Cross Keys_Aki Restaurant,51.514406,-0.12488599999999998,2005-07-29
+991,Origin,Aki Restaurant,2005_Cross Keys_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+992,Destination,Amaretto,2005_Amaretto_Aki Restaurant,51.523142,-0.137511,2005-07-22
+993,Origin,Aki Restaurant,2005_Amaretto_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+994,Destination,Pizza Pasta Paradiso,2005_Pizza Pasta Paradiso_Aki Restaurant,51.545968,-0.162543,2005-07-13
+995,Origin,Aki Restaurant,2005_Pizza Pasta Paradiso_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+996,Destination,Bountiful Cow,2005_Bountiful Cow_Aki Restaurant,51.518268,-0.11845499999999999,2005-07-28
+997,Origin,Aki Restaurant,2005_Bountiful Cow_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+998,Destination,York Rise Social Club,2005_York Rise Social Club_Aki Restaurant,51.557371999999994,-0.14221199999999998,2005-05-08
+999,Origin,Aki Restaurant,2005_York Rise Social Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1000,Destination,Great Nepalese Tandoori Restaurant,2005_Great Nepalese Tandoori Restaurant_Aki Restaurant,51.529302,-0.13258499999999998,2005-05-26
+1001,Origin,Aki Restaurant,2005_Great Nepalese Tandoori Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1002,Destination,Corner Off Licence,2005_Corner Off Licence_Aki Restaurant,51.529063,-0.11636099999999999,2005-06-30
+1003,Origin,Aki Restaurant,2005_Corner Off Licence_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1004,Destination,Marks And Spencer Simply Food,2005_Marks And Spencer Simply Food_Aki Restaurant,51.544343,-0.176536,2005-06-14
+1005,Origin,Aki Restaurant,2005_Marks And Spencer Simply Food_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1006,Destination,Nisa Local (previously Price Check),2005_Nisa Local (previously Price Check)_Aki Restaurant,51.546657,-0.19045499999999999,2005-05-08
+1007,Origin,Aki Restaurant,2005_Nisa Local (previously Price Check)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1008,Destination,Village Stores,2005_Village Stores_Aki Restaurant,51.546164000000005,-0.13586199999999998,2005-06-23
+1009,Origin,Aki Restaurant,2005_Village Stores_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1010,Destination,Travelodge,2005_Travelodge_Aki Restaurant,51.515615999999994,-0.12485,2005-03-08
+1011,Origin,Aki Restaurant,2005_Travelodge_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1012,Destination,British Library,2005_British Library_Aki Restaurant,51.53004,-0.127634,2005-06-14
+1013,Origin,Aki Restaurant,2005_British Library_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1014,Destination,Dandelion (formerly Dublin Castle Cafe),2005_Dandelion (formerly Dublin Castle Cafe)_Aki Restaurant,51.537762,-0.14571199999999998,2005-02-08
+1015,Origin,Aki Restaurant,2005_Dandelion (formerly Dublin Castle Cafe)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1016,Destination,White Kitchen,2005_White Kitchen_Aki Restaurant,51.536374,-0.140995,2005-04-08
+1017,Origin,Aki Restaurant,2005_White Kitchen_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1018,Destination,Nicolas,2005_Nicolas_Aki Restaurant,51.541273,-0.157718,2005-04-08
+1019,Origin,Aki Restaurant,2005_Nicolas_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1020,Destination,Royal Mini Market,2005_Royal Mini Market_Aki Restaurant,51.541171000000006,-0.13830399999999998,2005-06-15
+1021,Origin,Aki Restaurant,2005_Royal Mini Market_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1022,Destination,Hampstead Food Mart,2005_Hampstead Food Mart_Aki Restaurant,51.546339,-0.191433,2005-07-18
+1023,Origin,Aki Restaurant,2005_Hampstead Food Mart_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1024,Destination,The Spice,2005_The Spice_Aki Restaurant,51.556776,-0.13938499999999998,2005-07-28
+1025,Origin,Aki Restaurant,2005_The Spice_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1026,Destination,Tesco Heath Street Hampstead Express,2005_Tesco Heath Street Hampstead Express_Aki Restaurant,51.556143,-0.179161,2005-06-08
+1027,Origin,Aki Restaurant,2005_Tesco Heath Street Hampstead Express_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1028,Destination,Il Primo,2005_Il Primo_Aki Restaurant,51.546611999999996,-0.161548,2005-05-08
+1029,Origin,Aki Restaurant,2005_Il Primo_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1030,Destination,Sardo Restaurant,2005_Sardo Restaurant_Aki Restaurant,51.523142,-0.137511,2005-05-27
+1031,Origin,Aki Restaurant,2005_Sardo Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1032,Destination,Villandry Kitchen,2005_Villandry Kitchen_Aki Restaurant,51.518268,-0.11845499999999999,2005-07-26
+1033,Origin,Aki Restaurant,2005_Villandry Kitchen_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1034,Destination,University Of London,2005_University Of London_Aki Restaurant,51.521009,-0.128445,2005-05-08
+1035,Origin,Aki Restaurant,2005_University Of London_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1036,Destination,Royal Free Hospital Recreation Club,2005_Royal Free Hospital Recreation Club_Aki Restaurant,51.553458,-0.163884,2005-07-15
+1037,Origin,Aki Restaurant,2005_Royal Free Hospital Recreation Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1038,Destination,Princess Louise,2005_Princess Louise_Aki Restaurant,51.51712,-0.12208599999999999,2005-06-30
+1039,Origin,Aki Restaurant,2005_Princess Louise_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1040,Destination,Bibimbap (previously Mennula),2005_Bibimbap (previously Mennula)_Aki Restaurant,51.518432000000004,-0.135121,2005-02-08
+1041,Origin,Aki Restaurant,2005_Bibimbap (previously Mennula)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1042,Destination,Fine Food Convenience Store,2005_Fine Food Convenience Store_Aki Restaurant,51.546582,-0.141154,2005-07-27
+1043,Origin,Aki Restaurant,2005_Fine Food Convenience Store_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1044,Destination,Restaurant (41 Parkway),2005_Restaurant (41 Parkway)_Aki Restaurant,51.537586,-0.14385,2005-10-05
+1045,Origin,Aki Restaurant,2005_Restaurant (41 Parkway)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1046,Destination,Freemasons Hall,2005_Freemasons Hall_Aki Restaurant,51.515423,-0.12044400000000001,2005-04-29
+1047,Origin,Aki Restaurant,2005_Freemasons Hall_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1048,Destination,Executive Snooker Club,2005_Executive Snooker Club_Aki Restaurant,51.530693,-0.121473,2005-04-08
+1049,Origin,Aki Restaurant,2005_Executive Snooker Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1050,Destination,Feng Sushi,2005_Feng Sushi_Aki Restaurant,51.543793,-0.19166,2005-05-08
+1051,Origin,Aki Restaurant,2005_Feng Sushi_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1052,Destination,The Four Lanterns Taverna,2005_The Four Lanterns Taverna_Aki Restaurant,51.52301,-0.141308,2005-01-08
+1053,Origin,Aki Restaurant,2005_The Four Lanterns Taverna_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1054,Destination,Cafe Benjamin,2005_Cafe Benjamin_Aki Restaurant,51.541275,-0.143823,2005-02-08
+1055,Origin,Aki Restaurant,2005_Cafe Benjamin_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1056,Destination,Hotel President,2005_Hotel President_Aki Restaurant,51.521776,-0.12359300000000001,2005-07-19
+1057,Origin,Aki Restaurant,2005_Hotel President_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1058,Destination,Globe Lawn Tennis Club,2005_Globe Lawn Tennis Club_Aki Restaurant,51.550776,-0.163984,2005-07-21
+1059,Origin,Aki Restaurant,2005_Globe Lawn Tennis Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1060,Destination,Parkway Delicatessen,2005_Parkway Delicatessen_Aki Restaurant,51.539007,-0.14515899999999998,2005-05-31
+1061,Origin,Aki Restaurant,2005_Parkway Delicatessen_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1062,Destination,Sushi Bar Gen,2005_Sushi Bar Gen_Aki Restaurant,51.549584,-0.192386,2005-01-08
+1063,Origin,Aki Restaurant,2005_Sushi Bar Gen_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1064,Destination,School of Oriental and African Studies Union,2005_School of Oriental and African Studies Union_Aki Restaurant,51.522405,-0.129207,2005-07-28
+1065,Origin,Aki Restaurant,2005_School of Oriental and African Studies Union_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1066,Destination,Royal Academy Of Dramatic Art,2005_Royal Academy Of Dramatic Art_Aki Restaurant,51.521865000000005,-0.13227,2005-07-21
+1067,Origin,Aki Restaurant,2005_Royal Academy Of Dramatic Art_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1068,Destination,Havana Cafe & Bar,2005_Havana Cafe & Bar_Aki Restaurant,51.539688,-0.142772,2005-02-08
+1069,Origin,Aki Restaurant,2005_Havana Cafe & Bar_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1070,Destination,Muang Thai Restaurant,2005_Muang Thai Restaurant_Aki Restaurant,51.543572999999995,-0.15024200000000001,2005-10-06
+1071,Origin,Aki Restaurant,2005_Muang Thai Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1072,Destination,Radisson Blu Edwardian Mercer Street Hotel,2005_Radisson Blu Edwardian Mercer Street Hotel_Aki Restaurant,51.514389,-0.12725799999999998,2005-03-08
+1073,Origin,Aki Restaurant,2005_Radisson Blu Edwardian Mercer Street Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1074,Destination,Highgate Society,2005_Highgate Society_Aki Restaurant,51.570105,-0.148792,2005-04-08
+1075,Origin,Aki Restaurant,2005_Highgate Society_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1076,Destination,Banana Tree (formerly Banana Tree Canteen),2005_Banana Tree (formerly Banana Tree Canteen)_Aki Restaurant,51.549248999999996,-0.191669,2005-05-08
+1077,Origin,Aki Restaurant,2005_Banana Tree (formerly Banana Tree Canteen)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1078,Destination,Indian Spice Lounge,2005_Indian Spice Lounge_Aki Restaurant,51.561715,-0.150636,2005-03-08
+1079,Origin,Aki Restaurant,2005_Indian Spice Lounge_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1080,Destination,Newton Arms,2005_Newton Arms_Aki Restaurant,51.516965,-0.120941,2005-05-08
+1081,Origin,Aki Restaurant,2005_Newton Arms_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1082,Destination,Dim T Cafe,2005_Dim T Cafe_Aki Restaurant,51.55494,-0.17842,2005-04-08
+1083,Origin,Aki Restaurant,2005_Dim T Cafe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1084,Destination,Fiddlers Elbow,2005_Fiddlers Elbow_Aki Restaurant,51.546079999999996,-0.151116,2005-01-07
+1085,Origin,Aki Restaurant,2005_Fiddlers Elbow_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1086,Destination,Samarkand (Previously Fino),2005_Samarkand (Previously Fino)_Aki Restaurant,51.519021,-0.135793,2005-04-08
+1087,Origin,Aki Restaurant,2005_Samarkand (Previously Fino)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1088,Destination,Mansion Cottage Garden Shop,2005_Mansion Cottage Garden Shop_Aki Restaurant,51.571769,-0.166327,2005-04-08
+1089,Origin,Aki Restaurant,2005_Mansion Cottage Garden Shop_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1090,Destination,Belsize Service Station,2005_Belsize Service Station_Aki Restaurant,51.551534000000004,-0.167068,2005-07-29
+1091,Origin,Aki Restaurant,2005_Belsize Service Station_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1092,Destination,Carr-Saunders Hall,2005_Carr-Saunders Hall_Aki Restaurant,51.52203,-0.137686,2005-03-08
+1093,Origin,Aki Restaurant,2005_Carr-Saunders Hall_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1094,Destination,Babur Empire,2005_Babur Empire_Aki Restaurant,51.551010999999995,-0.201229,2005-07-19
+1095,Origin,Aki Restaurant,2005_Babur Empire_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1096,Destination,Fleet Tandoori,2005_Fleet Tandoori_Aki Restaurant,51.554045,-0.162573,2005-01-07
+1097,Origin,Aki Restaurant,2005_Fleet Tandoori_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1098,Destination,Ruchi Restaurant,2005_Ruchi Restaurant_Aki Restaurant,51.543440000000004,-0.19631500000000002,2005-05-16
+1099,Origin,Aki Restaurant,2005_Ruchi Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1100,Destination,Bourne and Hollingsworth,2005_Bourne and Hollingsworth_Aki Restaurant,51.518432000000004,-0.135121,2005-05-08
+1101,Origin,Aki Restaurant,2005_Bourne and Hollingsworth_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1102,Destination,Fish Cafe Restaurant (formerly Base),2005_Fish Cafe Restaurant (formerly Base)_Aki Restaurant,51.555759,-0.177656,2005-07-15
+1103,Origin,Aki Restaurant,2005_Fish Cafe Restaurant (formerly Base)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1104,Destination,Market,2005_Market_Aki Restaurant,51.538119,-0.145295,2005-03-06
+1105,Origin,Aki Restaurant,2005_Market_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1106,Destination,Fresh & Wild,2005_Fresh & Wild_Aki Restaurant,51.537586,-0.14385,2005-03-08
+1107,Origin,Aki Restaurant,2005_Fresh & Wild_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1108,Destination,Institute of Child Health,2005_Institute of Child Health_Aki Restaurant,51.523439,-0.11943599999999999,2005-11-05
+1109,Origin,Aki Restaurant,2005_Institute of Child Health_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1110,Destination,Pricecheck,2005_Pricecheck_Aki Restaurant,51.530239,-0.12168499999999999,2005-05-08
+1111,Origin,Aki Restaurant,2005_Pricecheck_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1112,Destination,Cote,2005_Cote_Aki Restaurant,51.555378999999995,-0.176217,2005-05-31
+1113,Origin,Aki Restaurant,2005_Cote_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1114,Destination,Elysee Restaurant,2005_Elysee Restaurant_Aki Restaurant,51.518605,-0.13372,2005-05-07
+1115,Origin,Aki Restaurant,2005_Elysee Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1116,Destination,Sheephaven Bay,2005_Sheephaven Bay_Aki Restaurant,51.53522,-0.14168699999999998,2005-05-08
+1117,Origin,Aki Restaurant,2005_Sheephaven Bay_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1118,Destination,Chez Didier,2005_Chez Didier_Aki Restaurant,51.554904,-0.196225,2005-02-08
+1119,Origin,Aki Restaurant,2005_Chez Didier_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1120,Destination,The Mansfield Bowling Club (1920) Ltd,2005_The Mansfield Bowling Club (1920) Ltd_Aki Restaurant,51.560435,-0.1441,2005-06-27
+1121,Origin,Aki Restaurant,2005_The Mansfield Bowling Club (1920) Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1122,Destination,Taherah Indian Restaurant,2005_Taherah Indian Restaurant_Aki Restaurant,51.549607,-0.171967,2005-07-26
+1123,Origin,Aki Restaurant,2005_Taherah Indian Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1124,Destination,Cottage Food & Wine,2005_Cottage Food & Wine_Aki Restaurant,51.544622,-0.175337,2005-06-17
+1125,Origin,Aki Restaurant,2005_Cottage Food & Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1126,Destination,Pizza Place,2005_Pizza Place_Aki Restaurant,51.542509,-0.137223,2005-03-08
+1127,Origin,Aki Restaurant,2005_Pizza Place_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1128,Destination,Theatro Technis Co Ltd,2005_Theatro Technis Co Ltd_Aki Restaurant,51.53564,-0.13486800000000002,2005-09-05
+1129,Origin,Aki Restaurant,2005_Theatro Technis Co Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1130,Destination,Ravels Bistro And Wine Bar,2005_Ravels Bistro And Wine Bar_Aki Restaurant,51.553213,-0.158957,2005-07-14
+1131,Origin,Aki Restaurant,2005_Ravels Bistro And Wine Bar_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1132,Destination,Curry Manjil,2005_Curry Manjil_Aki Restaurant,51.545968,-0.162543,2005-06-28
+1133,Origin,Aki Restaurant,2005_Curry Manjil_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1134,Destination,The Dartmouth Arms,2005_The Dartmouth Arms_Aki Restaurant,51.558535,-0.143825,2005-07-22
+1135,Origin,Aki Restaurant,2005_The Dartmouth Arms_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1136,Destination,Franco Manca (formerly Chimis Burrito Bar),2005_Franco Manca (formerly Chimis Burrito Bar)_Aki Restaurant,51.52243,-0.13683900000000002,2005-05-08
+1137,Origin,Aki Restaurant,2005_Franco Manca (formerly Chimis Burrito Bar)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1138,Destination,The Hatton,2005_The Hatton_Aki Restaurant,51.521236,-0.108109,2005-06-24
+1139,Origin,Aki Restaurant,2005_The Hatton_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1140,Destination,Navarros Restauarnt,2005_Navarros Restauarnt_Aki Restaurant,51.519667,-0.136475,2005-07-22
+1141,Origin,Aki Restaurant,2005_Navarros Restauarnt_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1142,Destination,All Nite Express,2005_All Nite Express_Aki Restaurant,51.517858000000004,-0.11538599999999999,2005-07-22
+1143,Origin,Aki Restaurant,2005_All Nite Express_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1144,Destination,Camden Centre,2005_Camden Centre_Aki Restaurant,51.529087,-0.125351,2005-11-05
+1145,Origin,Aki Restaurant,2005_Camden Centre_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1146,Destination,Spice Plaza Ltd,2005_Spice Plaza Ltd_Aki Restaurant,51.550545,-0.191159,2005-06-08
+1147,Origin,Aki Restaurant,2005_Spice Plaza Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1148,Destination,Palms Of Goa,2005_Palms Of Goa_Aki Restaurant,51.518432000000004,-0.135121,2005-11-05
+1149,Origin,Aki Restaurant,2005_Palms Of Goa_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1150,Destination,Jamon Jamon,2005_Jamon Jamon_Aki Restaurant,51.538119,-0.145295,2005-07-28
+1151,Origin,Aki Restaurant,2005_Jamon Jamon_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1152,Destination,Anthony Delicatessen,2005_Anthony Delicatessen_Aki Restaurant,51.541352,-0.15648199999999998,2005-03-06
+1153,Origin,Aki Restaurant,2005_Anthony Delicatessen_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1154,Destination,Vila Franca Delicatessen,2005_Vila Franca Delicatessen_Aki Restaurant,51.536551,-0.138723,2005-06-13
+1155,Origin,Aki Restaurant,2005_Vila Franca Delicatessen_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1156,Destination,B&M Seafood,2005_B&M Seafood_Aki Restaurant,51.550104,-0.140492,2005-01-08
+1157,Origin,Aki Restaurant,2005_B&M Seafood_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1158,Destination,Yo! Sushi,2005_Yo! Sushi_Aki Restaurant,51.547698,-0.181321,2005-07-26
+1159,Origin,Aki Restaurant,2005_Yo! Sushi_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1160,Destination,Tesco Belsize Park Express,2005_Tesco Belsize Park Express_Aki Restaurant,51.545968,-0.162543,2005-04-08
+1161,Origin,Aki Restaurant,2005_Tesco Belsize Park Express_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1162,Destination,Court Cafe British Museum,2005_Court Cafe British Museum_Aki Restaurant,51.519317,-0.127341,2005-06-08
+1163,Origin,Aki Restaurant,2005_Court Cafe British Museum_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1164,Destination,Franco Manca (formerly Sam's Kitchen),2005_Franco Manca (formerly Sam's Kitchen)_Aki Restaurant,51.550323,-0.141154,2005-07-25
+1165,Origin,Aki Restaurant,2005_Franco Manca (formerly Sam's Kitchen)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1166,Destination,Central News and Wine,2005_Central News and Wine_Aki Restaurant,51.516890999999994,-0.12531,2005-07-27
+1167,Origin,Aki Restaurant,2005_Central News and Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1168,Destination,School Of Pharmacy,2005_School Of Pharmacy_Aki Restaurant,51.525251000000004,-0.122555,2005-02-08
+1169,Origin,Aki Restaurant,2005_School Of Pharmacy_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1170,Destination,Ciao Bella Restaurant,2005_Ciao Bella Restaurant_Aki Restaurant,51.522684000000005,-0.118774,2005-04-07
+1171,Origin,Aki Restaurant,2005_Ciao Bella Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1172,Destination,Tip Top Thai Thai Restaurant,2005_Tip Top Thai Thai Restaurant_Aki Restaurant,51.557278000000004,-0.178703,2005-07-21
+1173,Origin,Aki Restaurant,2005_Tip Top Thai Thai Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1174,Destination,Yoisho Restaurant,2005_Yoisho Restaurant_Aki Restaurant,51.519465999999994,-0.134998,2005-07-28
+1175,Origin,Aki Restaurant,2005_Yoisho Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1176,Destination,Tavio Express Food & Wine,2005_Tavio Express Food & Wine_Aki Restaurant,51.514813000000004,-0.12298900000000001,2005-05-08
+1177,Origin,Aki Restaurant,2005_Tavio Express Food & Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1178,Destination,Chopra Newsagents Limited,2005_Chopra Newsagents Limited_Aki Restaurant,51.543306,-0.132544,2005-05-19
+1179,Origin,Aki Restaurant,2005_Chopra Newsagents Limited_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1180,Destination,Scotch Malt Whisky Society,2005_Scotch Malt Whisky Society_Aki Restaurant,51.518941,-0.106305,2005-05-24
+1181,Origin,Aki Restaurant,2005_Scotch Malt Whisky Society_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1182,Destination,Raag Restaurant,2005_Raag Restaurant_Aki Restaurant,51.522007,-0.140174,2005-05-17
+1183,Origin,Aki Restaurant,2005_Raag Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1184,Destination,RST Wine Mart (formerly Priory Food & Wine),2005_RST Wine Mart (formerly Priory Food & Wine)_Aki Restaurant,51.538581,-0.191,2005-12-05
+1185,Origin,Aki Restaurant,2005_RST Wine Mart (formerly Priory Food & Wine)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1186,Destination,Fratelli di Buffala,2005_Fratelli di Buffala_Aki Restaurant,51.555367,-0.167068,2005-07-16
+1187,Origin,Aki Restaurant,2005_Fratelli di Buffala_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1188,Destination,Spar,2005_Spar_Aki Restaurant,51.536970000000004,-0.18639,2005-05-20
+1189,Origin,Aki Restaurant,2005_Spar_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1190,Destination,Kingsway Hall Hotel,2005_Kingsway Hall Hotel_Aki Restaurant,51.515423,-0.12044400000000001,2005-01-08
+1191,Origin,Aki Restaurant,2005_Kingsway Hall Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1192,Destination,Brittania,2005_Brittania_Aki Restaurant,51.542099,-0.178847,2005-07-26
+1193,Origin,Aki Restaurant,2005_Brittania_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1194,Destination,Shimogamo,2005_Shimogamo_Aki Restaurant,51.537762,-0.14571199999999998,2005-04-08
+1195,Origin,Aki Restaurant,2005_Shimogamo_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1196,Destination,"Plentiful Foods Ltd, t/a Indian Spice Shop","2005_Plentiful Foods Ltd, t/a Indian Spice Shop_Aki Restaurant",51.527246000000005,-0.13619,2005-05-25
+1197,Origin,Aki Restaurant,"2005_Plentiful Foods Ltd, t/a Indian Spice Shop_Aki Restaurant",51.523041,-0.11357300000000001,2005-01-06
+1198,Destination,Assa Japan (previously First Out Cafe Bar),2005_Assa Japan (previously First Out Cafe Bar)_Aki Restaurant,51.515526,-0.12947,2005-06-21
+1199,Origin,Aki Restaurant,2005_Assa Japan (previously First Out Cafe Bar)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1200,Destination,Lets Go Local (formerly Express Convenience Store),2005_Lets Go Local (formerly Express Convenience Store)_Aki Restaurant,51.543074,-0.126691,2005-01-07
+1201,Origin,Aki Restaurant,2005_Lets Go Local (formerly Express Convenience Store)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1202,Destination,Mandarin Chinese Restaurant,2005_Mandarin Chinese Restaurant_Aki Restaurant,51.548938,-0.181039,2005-05-08
+1203,Origin,Aki Restaurant,2005_Mandarin Chinese Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1204,Destination,Istanbul Meze Grill,2005_Istanbul Meze Grill_Aki Restaurant,51.534911,-0.139649,2005-04-08
+1205,Origin,Aki Restaurant,2005_Istanbul Meze Grill_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1206,Destination,Co-op,2005_Co-op_Aki Restaurant,51.538119,-0.145295,2005-01-06
+1207,Origin,Aki Restaurant,2005_Co-op_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1208,Destination,New Little India (formerly Chutney Raj),2005_New Little India (formerly Chutney Raj)_Aki Restaurant,51.52451,-0.115302,2005-05-20
+1209,Origin,Aki Restaurant,2005_New Little India (formerly Chutney Raj)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1210,Destination,Doubletree by Hilton London - West End,2005_Doubletree by Hilton London - West End_Aki Restaurant,51.520227,-0.12197000000000001,2005-01-08
+1211,Origin,Aki Restaurant,2005_Doubletree by Hilton London - West End_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1212,Destination,University College School,2005_University College School_Aki Restaurant,51.553385999999996,-0.180977,2005-06-29
+1213,Origin,Aki Restaurant,2005_University College School_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1214,Destination,Broadway Express,2005_Broadway Express_Aki Restaurant,51.554759000000004,-0.212641,2005-02-08
+1215,Origin,Aki Restaurant,2005_Broadway Express_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1216,Destination,The Crown Fish & Chips Restaurant,2005_The Crown Fish & Chips Restaurant_Aki Restaurant,51.537827,-0.141005,2005-04-08
+1217,Origin,Aki Restaurant,2005_The Crown Fish & Chips Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1218,Destination,Canela,2005_Canela_Aki Restaurant,51.514056,-0.12601400000000001,2005-07-29
+1219,Origin,Aki Restaurant,2005_Canela_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1220,Destination,Calthorpe Arms,2005_Calthorpe Arms_Aki Restaurant,51.524852,-0.11571600000000001,2005-11-07
+1221,Origin,Aki Restaurant,2005_Calthorpe Arms_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1222,Destination,West Heath Lawn Tennis Club,2005_West Heath Lawn Tennis Club_Aki Restaurant,51.558203000000006,-0.192334,2005-07-29
+1223,Origin,Aki Restaurant,2005_West Heath Lawn Tennis Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1224,Destination,G. B. Off Licence,2005_G. B. Off Licence_Aki Restaurant,51.529302,-0.13258499999999998,2005-07-27
+1225,Origin,Aki Restaurant,2005_G. B. Off Licence_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1226,Destination,Melia White House Hotel,2005_Melia White House Hotel_Aki Restaurant,51.525222,-0.14366600000000002,2005-06-07
+1227,Origin,Aki Restaurant,2005_Melia White House Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1228,Destination,Gulshaan,2005_Gulshaan_Aki Restaurant,51.550323,-0.141154,2005-01-08
+1229,Origin,Aki Restaurant,2005_Gulshaan_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1230,Destination,Sen Viet,2005_Sen Viet_Aki Restaurant,51.529063,-0.11636099999999999,2005-05-08
+1231,Origin,Aki Restaurant,2005_Sen Viet_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1232,Destination,GoldfishRestaurant,2005_GoldfishRestaurant_Aki Restaurant,51.555869,-0.175292,2005-06-30
+1233,Origin,Aki Restaurant,2005_GoldfishRestaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1234,Destination,New Tennesseeland,2005_New Tennesseeland_Aki Restaurant,51.534911,-0.139649,2005-06-21
+1235,Origin,Aki Restaurant,2005_New Tennesseeland_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1236,Destination,G & B Food Stores,2005_G & B Food Stores_Aki Restaurant,51.550104,-0.140492,2005-04-14
+1237,Origin,Aki Restaurant,2005_G & B Food Stores_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1238,Destination,Trends,2005_Trends_Aki Restaurant,51.552143,-0.196666,2005-06-20
+1239,Origin,Aki Restaurant,2005_Trends_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1240,Destination,2 Fisher Street,2005_2 Fisher Street_Aki Restaurant,51.518229999999996,-0.12041600000000001,2005-06-13
+1241,Origin,Aki Restaurant,2005_2 Fisher Street_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1242,Destination,Hotel Ibis,2005_Hotel Ibis_Aki Restaurant,51.527838,-0.13583499999999998,2005-12-07
+1243,Origin,Aki Restaurant,2005_Hotel Ibis_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1244,Destination,My Old Dutch,2005_My Old Dutch_Aki Restaurant,51.517672,-0.12209600000000001,2005-07-27
+1245,Origin,Aki Restaurant,2005_My Old Dutch_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1246,Destination,Mango,2005_Mango_Aki Restaurant,51.517405,-0.119842,2005-05-08
+1247,Origin,Aki Restaurant,2005_Mango_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1248,Destination,Swintons,2005_Swintons_Aki Restaurant,51.528611,-0.118474,2005-07-25
+1249,Origin,Aki Restaurant,2005_Swintons_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1250,Destination,Sam's Supermarket,2005_Sam's Supermarket_Aki Restaurant,51.541989,-0.129177,2005-06-24
+1251,Origin,Aki Restaurant,2005_Sam's Supermarket_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1252,Destination,"Thistle Holborn,The Kingsley Hotel","2005_Thistle Holborn,The Kingsley Hotel_Aki Restaurant",51.517939,-0.12436099999999999,2005-04-08
+1253,Origin,Aki Restaurant,"2005_Thistle Holborn,The Kingsley Hotel_Aki Restaurant",51.523041,-0.11357300000000001,2005-01-06
+1254,Destination,Adventure Bar (previously Detroit),2005_Adventure Bar (previously Detroit)_Aki Restaurant,51.514056,-0.12601400000000001,2005-07-22
+1255,Origin,Aki Restaurant,2005_Adventure Bar (previously Detroit)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1256,Destination,Ikura Japanese Restaurant,2005_Ikura Japanese Restaurant_Aki Restaurant,51.546679,-0.15871300000000002,2005-06-28
+1257,Origin,Aki Restaurant,2005_Ikura Japanese Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1258,Destination,Dil's Wine Bar,2005_Dil's Wine Bar_Aki Restaurant,51.528682,-0.143499,2005-04-08
+1259,Origin,Aki Restaurant,2005_Dil's Wine Bar_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1260,Destination,Centro,2005_Centro_Aki Restaurant,51.52336,-0.11416099999999998,2005-06-08
+1261,Origin,Aki Restaurant,2005_Centro_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1262,Destination,Hidden Treasure,2005_Hidden Treasure_Aki Restaurant,51.551211,-0.19204000000000002,2005-01-08
+1263,Origin,Aki Restaurant,2005_Hidden Treasure_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1264,Destination,Drummond Villa,2005_Drummond Villa_Aki Restaurant,51.527271999999996,-0.137075,2005-07-14
+1265,Origin,Aki Restaurant,2005_Drummond Villa_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1266,Destination,Whistlestop Food And Wine,2005_Whistlestop Food And Wine_Aki Restaurant,51.531775,-0.126577,2005-01-08
+1267,Origin,Aki Restaurant,2005_Whistlestop Food And Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1268,Destination,Hache Burger Connoisseurs Ltd,2005_Hache Burger Connoisseurs Ltd_Aki Restaurant,51.540039,-0.14449700000000001,2005-05-24
+1269,Origin,Aki Restaurant,2005_Hache Burger Connoisseurs Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1270,Destination,Bar Vinyl,2005_Bar Vinyl_Aki Restaurant,51.540039,-0.14449700000000001,2005-07-22
+1271,Origin,Aki Restaurant,2005_Bar Vinyl_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1272,Destination,Good Enough To Eat,2005_Good Enough To Eat_Aki Restaurant,51.528618,-0.115977,2005-03-08
+1273,Origin,Aki Restaurant,2005_Good Enough To Eat_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1274,Destination,Homeslice Ltd,2005_Homeslice Ltd_Aki Restaurant,51.514446,-0.126545,2005-07-25
+1275,Origin,Aki Restaurant,2005_Homeslice Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1276,Destination,New China Club,2005_New China Club_Aki Restaurant,51.529095,-0.130104,2005-04-08
+1277,Origin,Aki Restaurant,2005_New China Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1278,Destination,Tannin and Oak,2005_Tannin and Oak_Aki Restaurant,51.552048,-0.19166,2005-01-07
+1279,Origin,Aki Restaurant,2005_Tannin and Oak_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1280,Destination,Academy Town House Hotel Ltd,2005_Academy Town House Hotel Ltd_Aki Restaurant,51.520738,-0.131223,2005-05-08
+1281,Origin,Aki Restaurant,2005_Academy Town House Hotel Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1282,Destination,Tandoori Raj,2005_Tandoori Raj_Aki Restaurant,51.518976,-0.117914,2005-08-06
+1283,Origin,Aki Restaurant,2005_Tandoori Raj_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1284,Destination,52 Club,2005_52 Club_Aki Restaurant,51.521454999999996,-0.130922,2005-05-08
+1285,Origin,Aki Restaurant,2005_52 Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1286,Destination,"Crystal Mini Market, Ground Floor","2005_Crystal Mini Market, Ground Floor_Aki Restaurant",51.5541,-0.15506199999999998,2005-05-29
+1287,Origin,Aki Restaurant,"2005_Crystal Mini Market, Ground Floor_Aki Restaurant",51.523041,-0.11357300000000001,2005-01-06
+1288,Destination,Sirous Tapas Bar and Restaurant,2005_Sirous Tapas Bar and Restaurant_Aki Restaurant,51.551787,-0.19178699999999999,2005-04-29
+1289,Origin,Aki Restaurant,2005_Sirous Tapas Bar and Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1290,Destination,Centro 3,2005_Centro 3_Aki Restaurant,51.537749,-0.137032,2005-07-26
+1291,Origin,Aki Restaurant,2005_Centro 3_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1292,Destination,The Royal Central School of Speech and Drama,2005_The Royal Central School of Speech and Drama_Aki Restaurant,51.544349,-0.174192,2005-05-08
+1293,Origin,Aki Restaurant,2005_The Royal Central School of Speech and Drama_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1294,Destination,Kalendar,2005_Kalendar_Aki Restaurant,51.561971,-0.150133,2005-01-07
+1295,Origin,Aki Restaurant,2005_Kalendar_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1296,Destination,The Boot,2005_The Boot_Aki Restaurant,51.52767,-0.124072,2005-06-24
+1297,Origin,Aki Restaurant,2005_The Boot_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1298,Destination,J Restaurant,2005_J Restaurant_Aki Restaurant,51.541352,-0.191159,2005-07-21
+1299,Origin,Aki Restaurant,2005_J Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1300,Destination,Thai Garden Cafe,2005_Thai Garden Cafe_Aki Restaurant,51.517865,-0.12620499999999998,2005-07-29
+1301,Origin,Aki Restaurant,2005_Thai Garden Cafe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1302,Destination,Cumberland Lawn Tennis Club,2005_Cumberland Lawn Tennis Club_Aki Restaurant,51.551495,-0.187589,2005-03-08
+1303,Origin,Aki Restaurant,2005_Cumberland Lawn Tennis Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1304,Destination,Royal Free Hospital School Of Medicine,2005_Royal Free Hospital School Of Medicine_Aki Restaurant,51.553171,-0.16541,2005-07-14
+1305,Origin,Aki Restaurant,2005_Royal Free Hospital School Of Medicine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1306,Destination,Carluccios,2005_Carluccios_Aki Restaurant,51.514247999999995,-0.125254,2005-07-25
+1307,Origin,Aki Restaurant,2005_Carluccios_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1308,Destination,Artigiano,2005_Artigiano_Aki Restaurant,51.548931,-0.170847,2005-05-08
+1309,Origin,Aki Restaurant,2005_Artigiano_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1310,Destination,Kiss The Sky Bar,2005_Kiss The Sky Bar_Aki Restaurant,51.55381,-0.16817100000000001,2005-06-08
+1311,Origin,Aki Restaurant,2005_Kiss The Sky Bar_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1312,Destination,Super Tehran,2005_Super Tehran_Aki Restaurant,51.556827,-0.195673,2005-04-18
+1313,Origin,Aki Restaurant,2005_Super Tehran_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1314,Destination,Cottage Flowers,2005_Cottage Flowers_Aki Restaurant,51.544622,-0.175337,2005-06-06
+1315,Origin,Aki Restaurant,2005_Cottage Flowers_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1316,Destination,XO Restaurant,2005_XO Restaurant_Aki Restaurant,51.549339,-0.171002,2005-04-08
+1317,Origin,Aki Restaurant,2005_XO Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1318,Destination,Gung Ho,2005_Gung Ho_Aki Restaurant,51.552687,-0.18896,2005-02-08
+1319,Origin,Aki Restaurant,2005_Gung Ho_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1320,Destination,Latin Square,2005_Latin Square_Aki Restaurant,51.520437,-0.106431,2005-06-30
+1321,Origin,Aki Restaurant,2005_Latin Square_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1322,Destination,Prime Foods,2005_Prime Foods_Aki Restaurant,51.529988,-0.11699999999999999,2005-07-18
+1323,Origin,Aki Restaurant,2005_Prime Foods_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1324,Destination,Centre Point Food Store,2005_Centre Point Food Store_Aki Restaurant,51.516178000000004,-0.12926500000000002,2005-05-31
+1325,Origin,Aki Restaurant,2005_Centre Point Food Store_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1326,Destination,Cafe Mozart,2005_Cafe Mozart_Aki Restaurant,51.562216,-0.149619,2005-01-07
+1327,Origin,Aki Restaurant,2005_Cafe Mozart_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1328,Destination,Bloomsbury Food & Wine,2005_Bloomsbury Food & Wine_Aki Restaurant,51.525233,-0.125699,2005-07-28
+1329,Origin,Aki Restaurant,2005_Bloomsbury Food & Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1330,Destination,Caffe 43,2005_Caffe 43_Aki Restaurant,51.538277,-0.13881500000000002,2005-05-07
+1331,Origin,Aki Restaurant,2005_Caffe 43_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1332,Destination,Roka & Sho Chu,2005_Roka & Sho Chu_Aki Restaurant,51.519021,-0.135793,2005-06-07
+1333,Origin,Aki Restaurant,2005_Roka & Sho Chu_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1334,Destination,Giacobazzi's Delicatessen,2005_Giacobazzi's Delicatessen_Aki Restaurant,51.554128999999996,-0.163746,2005-04-13
+1335,Origin,Aki Restaurant,2005_Giacobazzi's Delicatessen_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1336,Destination,Drinkers Paradise,2005_Drinkers Paradise_Aki Restaurant,51.546468,-0.14372000000000001,2005-08-07
+1337,Origin,Aki Restaurant,2005_Drinkers Paradise_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1338,Destination,Peters Store,2005_Peters Store_Aki Restaurant,51.530415999999995,-0.141208,2005-06-08
+1339,Origin,Aki Restaurant,2005_Peters Store_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1340,Destination,Lupa,2005_Lupa_Aki Restaurant,51.550391999999995,-0.19197899999999998,2005-08-06
+1341,Origin,Aki Restaurant,2005_Lupa_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1342,Destination,Cricklewood Tandoori,2005_Cricklewood Tandoori_Aki Restaurant,51.554759000000004,-0.212641,2005-07-13
+1343,Origin,Aki Restaurant,2005_Cricklewood Tandoori_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1344,Destination,JinKichi Limited,2005_JinKichi Limited_Aki Restaurant,51.557278000000004,-0.178703,2005-07-22
+1345,Origin,Aki Restaurant,2005_JinKichi Limited_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1346,Destination,Wine Cellar,2005_Wine Cellar_Aki Restaurant,51.541728000000006,-0.197458,2005-07-28
+1347,Origin,Aki Restaurant,2005_Wine Cellar_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1348,Destination,Acol Bridge Club,2005_Acol Bridge Club_Aki Restaurant,51.545567,-0.191164,2005-07-29
+1349,Origin,Aki Restaurant,2005_Acol Bridge Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1350,Destination,Royal Veterinary College,2005_Royal Veterinary College_Aki Restaurant,51.536767,-0.133691,2005-06-08
+1351,Origin,Aki Restaurant,2005_Royal Veterinary College_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1352,Destination,Wakaba,2005_Wakaba_Aki Restaurant,51.547268,-0.179527,2005-04-08
+1353,Origin,Aki Restaurant,2005_Wakaba_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1354,Destination,Kenwood House Shop,2005_Kenwood House Shop_Aki Restaurant,51.571362,-0.167697,2005-04-08
+1355,Origin,Aki Restaurant,2005_Kenwood House Shop_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1356,Destination,Giotto,2005_Giotto_Aki Restaurant,51.51726,-0.126603,2005-06-30
+1357,Origin,Aki Restaurant,2005_Giotto_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1358,Destination,The Pineapple,2005_The Pineapple_Aki Restaurant,51.552951,-0.140094,2005-07-14
+1359,Origin,Aki Restaurant,2005_The Pineapple_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1360,Destination,Premier - Kaasco,2005_Premier - Kaasco_Aki Restaurant,51.538624,-0.141854,2005-04-08
+1361,Origin,Aki Restaurant,2005_Premier - Kaasco_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1362,Destination,Siham Lounge Bar,2005_Siham Lounge Bar_Aki Restaurant,51.537827,-0.141005,2005-05-07
+1363,Origin,Aki Restaurant,2005_Siham Lounge Bar_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1364,Destination,PHD Media Limited,2005_PHD Media Limited_Aki Restaurant,51.52071,-0.133528,2005-05-16
+1365,Origin,Aki Restaurant,2005_PHD Media Limited_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1366,Destination,The Wet Fish Cafe,2005_The Wet Fish Cafe_Aki Restaurant,51.551158,-0.191369,2005-07-27
+1367,Origin,Aki Restaurant,2005_The Wet Fish Cafe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1368,Destination,Green Cottage Restaurant,2005_Green Cottage Restaurant_Aki Restaurant,51.545552,-0.176535,2005-01-08
+1369,Origin,Aki Restaurant,2005_Green Cottage Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1370,Destination,Pricewise Continental Wine And Foods,2005_Pricewise Continental Wine And Foods_Aki Restaurant,51.547268,-0.179527,2005-01-07
+1371,Origin,Aki Restaurant,2005_Pricewise Continental Wine And Foods_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1372,Destination,Bull & Gate,2005_Bull & Gate_Aki Restaurant,51.551885,-0.141932,2005-07-21
+1373,Origin,Aki Restaurant,2005_Bull & Gate_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1374,Destination,Comptoir Libanais,2005_Comptoir Libanais_Aki Restaurant,51.547698,-0.181321,2005-02-08
+1375,Origin,Aki Restaurant,2005_Comptoir Libanais_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1376,Destination,Bombay Bicycle,2005_Bombay Bicycle_Aki Restaurant,51.555026,-0.171827,2005-04-08
+1377,Origin,Aki Restaurant,2005_Bombay Bicycle_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1378,Destination,The Sparkle Bar & Lounge,2005_The Sparkle Bar & Lounge_Aki Restaurant,51.547698,-0.181321,2005-05-08
+1379,Origin,Aki Restaurant,2005_The Sparkle Bar & Lounge_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1380,Destination,St Aloysious Social Club,2005_St Aloysious Social Club_Aki Restaurant,51.530378999999996,-0.133439,2005-05-24
+1381,Origin,Aki Restaurant,2005_St Aloysious Social Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1382,Destination,Doric Arch,2005_Doric Arch_Aki Restaurant,51.527829,-0.132573,2005-05-08
+1383,Origin,Aki Restaurant,2005_Doric Arch_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1384,Destination,The Famous Flames,2005_The Famous Flames_Aki Restaurant,51.539688,-0.142772,2005-03-08
+1385,Origin,Aki Restaurant,2005_The Famous Flames_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1386,Destination,TARA TARI,2005_TARA TARI_Aki Restaurant,51.543234000000005,-0.17561500000000002,2005-04-08
+1387,Origin,Aki Restaurant,2005_TARA TARI_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1388,Destination,SALAAM NAMASTE,2005_SALAAM NAMASTE_Aki Restaurant,51.538119,-0.145295,2005-04-08
+1389,Origin,Aki Restaurant,2005_SALAAM NAMASTE_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1390,Destination,Chester Arms,2005_Chester Arms_Aki Restaurant,51.527791,-0.14463099999999998,2005-06-21
+1391,Origin,Aki Restaurant,2005_Chester Arms_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1392,Destination,Kings Cross Post Office,2005_Kings Cross Post Office_Aki Restaurant,51.529783,-0.12309,2005-04-08
+1393,Origin,Aki Restaurant,2005_Kings Cross Post Office_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1394,Destination,The Candy Box,2005_The Candy Box_Aki Restaurant,51.544361,-0.141795,2005-05-07
+1395,Origin,Aki Restaurant,2005_The Candy Box_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1396,Destination,Mango Room,2005_Mango Room_Aki Restaurant,51.539688,-0.142772,2005-06-08
+1397,Origin,Aki Restaurant,2005_Mango Room_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1398,Destination,Rosslyn Delicatessen,2005_Rosslyn Delicatessen_Aki Restaurant,51.555259,-0.173424,2005-07-22
+1399,Origin,Aki Restaurant,2005_Rosslyn Delicatessen_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1400,Destination,Asadal Korean Restaurant,2005_Asadal Korean Restaurant_Aki Restaurant,51.517405,-0.119842,2005-03-08
+1401,Origin,Aki Restaurant,2005_Asadal Korean Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1402,Destination,Kam Fung Restaurant,2005_Kam Fung Restaurant_Aki Restaurant,51.519397,-0.11733099999999999,2005-03-08
+1403,Origin,Aki Restaurant,2005_Kam Fung Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1404,Destination,The Bull Steak Expert Limited,2005_The Bull Steak Expert Limited_Aki Restaurant,51.519397,-0.11733099999999999,2005-08-06
+1405,Origin,Aki Restaurant,2005_The Bull Steak Expert Limited_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1406,Destination,Crowndale,2005_Crowndale_Aki Restaurant,51.54347,-0.148787,2005-05-31
+1407,Origin,Aki Restaurant,2005_Crowndale_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1408,Destination,Tupelo Honey,2005_Tupelo Honey_Aki Restaurant,51.538422,-0.143124,2005-07-21
+1409,Origin,Aki Restaurant,2005_Tupelo Honey_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1410,Destination,Shell Camden Town,2005_Shell Camden Town_Aki Restaurant,51.546323,-0.12706900000000002,2005-07-28
+1411,Origin,Aki Restaurant,2005_Shell Camden Town_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1412,Destination,Booty Food & Wine,2005_Booty Food & Wine_Aki Restaurant,51.539688,-0.142772,2005-07-29
+1413,Origin,Aki Restaurant,2005_Booty Food & Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1414,Destination,Bento Cafe,2005_Bento Cafe_Aki Restaurant,51.538422,-0.143124,2005-01-08
+1415,Origin,Aki Restaurant,2005_Bento Cafe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1416,Destination,Shahbhag Tandoori,2005_Shahbhag Tandoori_Aki Restaurant,51.555365,-0.173758,2005-07-25
+1417,Origin,Aki Restaurant,2005_Shahbhag Tandoori_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1418,Destination,Hampstead News Agents,2005_Hampstead News Agents_Aki Restaurant,51.556678000000005,-0.178912,2005-01-08
+1419,Origin,Aki Restaurant,2005_Hampstead News Agents_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1420,Destination,County Hotel,2005_County Hotel_Aki Restaurant,51.526845,-0.129579,2005-07-19
+1421,Origin,Aki Restaurant,2005_County Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1422,Destination,Break Point (previously known as C.K.News),2005_Break Point (previously known as C.K.News)_Aki Restaurant,51.515044,-0.126064,2005-05-08
+1423,Origin,Aki Restaurant,2005_Break Point (previously known as C.K.News)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1424,Destination,Quickstop Food & Wine,2005_Quickstop Food & Wine_Aki Restaurant,51.533827,-0.138196,2005-07-20
+1425,Origin,Aki Restaurant,2005_Quickstop Food & Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1426,Destination,Shop A & B,2005_Shop A & B_Aki Restaurant,51.53024,-0.143281,2005-06-15
+1427,Origin,Aki Restaurant,2005_Shop A & B_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1428,Destination,Stingray Cafe,2005_Stingray Cafe_Aki Restaurant,51.556272,-0.139235,2005-07-13
+1429,Origin,Aki Restaurant,2005_Stingray Cafe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1430,Destination,Generator,2005_Generator_Aki Restaurant,51.526258,-0.124827,2005-05-08
+1431,Origin,Aki Restaurant,2005_Generator_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1432,Destination,The Seven Stars,2005_The Seven Stars_Aki Restaurant,51.515358,-0.113328,2005-07-27
+1433,Origin,Aki Restaurant,2005_The Seven Stars_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1434,Destination,Bestco Supermarkets,2005_Bestco Supermarkets_Aki Restaurant,51.545148,-0.201396,2005-01-08
+1435,Origin,Aki Restaurant,2005_Bestco Supermarkets_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1436,Destination,Angel,2005_Angel_Aki Restaurant,51.515347,-0.12775799999999998,2005-06-29
+1437,Origin,Aki Restaurant,2005_Angel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1438,Destination,Mai Sushi Ltd,2005_Mai Sushi Ltd_Aki Restaurant,51.529239000000004,-0.12906700000000002,2005-04-08
+1439,Origin,Aki Restaurant,2005_Mai Sushi Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1440,Destination,Upper Crust Unit 2,2005_Upper Crust Unit 2_Aki Restaurant,51.531959,-0.12365,2005-01-08
+1441,Origin,Aki Restaurant,2005_Upper Crust Unit 2_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1442,Destination,Reg Bloom,2005_Reg Bloom_Aki Restaurant,51.546079999999996,-0.151116,2005-01-08
+1443,Origin,Aki Restaurant,2005_Reg Bloom_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1444,Destination,Brecknock Convenience Store,2005_Brecknock Convenience Store_Aki Restaurant,51.556475,-0.137786,2005-05-31
+1445,Origin,Aki Restaurant,2005_Brecknock Convenience Store_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1446,Destination,Ambassadors in Bloomsbury,2005_Ambassadors in Bloomsbury_Aki Restaurant,51.526845,-0.129579,2005-02-08
+1447,Origin,Aki Restaurant,2005_Ambassadors in Bloomsbury_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1448,Destination,Lotus Thai Restaurant,2005_Lotus Thai Restaurant_Aki Restaurant,51.522007,-0.140174,2005-09-06
+1449,Origin,Aki Restaurant,2005_Lotus Thai Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1450,Destination,London School Of Hygiene & Tropical Medicine,2005_London School Of Hygiene & Tropical Medicine_Aki Restaurant,51.520738,-0.131223,2005-05-08
+1451,Origin,Aki Restaurant,2005_London School Of Hygiene & Tropical Medicine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1452,Destination,Balfour,2005_Balfour_Aki Restaurant,51.525233,-0.125699,2005-06-06
+1453,Origin,Aki Restaurant,2005_Balfour_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1454,Destination,Our Ladys Hall,2005_Our Ladys Hall_Aki Restaurant,51.551653,-0.136986,2005-07-21
+1455,Origin,Aki Restaurant,2005_Our Ladys Hall_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1456,Destination,Finchley Bell,2005_Finchley Bell_Aki Restaurant,51.549878,-0.183277,2005-02-08
+1457,Origin,Aki Restaurant,2005_Finchley Bell_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1458,Destination,Del'ish Restaurant,2005_Del'ish Restaurant_Aki Restaurant,51.524398,-0.139311,2005-07-21
+1459,Origin,Aki Restaurant,2005_Del'ish Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1460,Destination,Buywise Supermarket,2005_Buywise Supermarket_Aki Restaurant,51.550393,-0.13128900000000002,2005-05-08
+1461,Origin,Aki Restaurant,2005_Buywise Supermarket_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1462,Destination,S & S Wines,2005_S & S Wines_Aki Restaurant,51.547625,-0.151126,2005-03-08
+1463,Origin,Aki Restaurant,2005_S & S Wines_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1464,Destination,Dominiques,2005_Dominiques_Aki Restaurant,51.554701,-0.165596,2005-03-08
+1465,Origin,Aki Restaurant,2005_Dominiques_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1466,Destination,Blue Moon Cafe,2005_Blue Moon Cafe_Aki Restaurant,51.556151,-0.138523,2005-05-25
+1467,Origin,Aki Restaurant,2005_Blue Moon Cafe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1468,Destination,Dixy Chicken,2005_Dixy Chicken_Aki Restaurant,51.556776,-0.13938499999999998,2005-06-20
+1469,Origin,Aki Restaurant,2005_Dixy Chicken_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1470,Destination,Motijheel Restaurant,2005_Motijheel Restaurant_Aki Restaurant,51.52494,-0.125585,2005-05-26
+1471,Origin,Aki Restaurant,2005_Motijheel Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1472,Destination,Lord John Russell,2005_Lord John Russell_Aki Restaurant,51.525959,-0.126467,2005-04-15
+1473,Origin,Aki Restaurant,2005_Lord John Russell_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1474,Destination,Quality Hotel Hampstead,2005_Quality Hotel Hampstead_Aki Restaurant,51.550002,-0.18090699999999998,2005-03-08
+1475,Origin,Aki Restaurant,2005_Quality Hotel Hampstead_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1476,Destination,Poppies of Camden (formerly Bodegas de Tapas),2005_Poppies of Camden (formerly Bodegas de Tapas)_Aki Restaurant,51.541275,-0.143823,2005-03-08
+1477,Origin,Aki Restaurant,2005_Poppies of Camden (formerly Bodegas de Tapas)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1478,Destination,Pescatori,2005_Pescatori_Aki Restaurant,51.519667,-0.136475,2005-07-14
+1479,Origin,Aki Restaurant,2005_Pescatori_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1480,Destination,Flaneur,2005_Flaneur_Aki Restaurant,51.520437,-0.106431,2005-07-15
+1481,Origin,Aki Restaurant,2005_Flaneur_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1482,Destination,Terroni & Son,2005_Terroni & Son_Aki Restaurant,51.522458,-0.109051,2005-06-28
+1483,Origin,Aki Restaurant,2005_Terroni & Son_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1484,Destination,New Flame's Grill,2005_New Flame's Grill_Aki Restaurant,51.543257000000004,-0.14215999999999998,2005-01-06
+1485,Origin,Aki Restaurant,2005_New Flame's Grill_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1486,Destination,Mani's,2005_Mani's_Aki Restaurant,51.555759,-0.177656,2005-04-08
+1487,Origin,Aki Restaurant,2005_Mani's_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1488,Destination,Tajima-Tei,2005_Tajima-Tei_Aki Restaurant,51.519597,-0.109508,2005-06-16
+1489,Origin,Aki Restaurant,2005_Tajima-Tei_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1490,Destination,Street News,2005_Street News_Aki Restaurant,51.519465999999994,-0.134998,2005-07-25
+1491,Origin,Aki Restaurant,2005_Street News_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1492,Destination,SALT,2005_SALT_Aki Restaurant,51.550391999999995,-0.19197899999999998,2005-07-22
+1493,Origin,Aki Restaurant,2005_SALT_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1494,Destination,Confederation Of British Industry,2005_Confederation Of British Industry_Aki Restaurant,51.516178000000004,-0.12926500000000002,2005-05-08
+1495,Origin,Aki Restaurant,2005_Confederation Of British Industry_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1496,Destination,Air Studios Lyndhurst Ltd,2005_Air Studios Lyndhurst Ltd_Aki Restaurant,51.552687,-0.169744,2005-03-08
+1497,Origin,Aki Restaurant,2005_Air Studios Lyndhurst Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1498,Destination,Mamelon Tower,2005_Mamelon Tower_Aki Restaurant,51.550867,-0.14999200000000001,2005-01-08
+1499,Origin,Aki Restaurant,2005_Mamelon Tower_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1500,Destination,Coach And Horses,2005_Coach And Horses_Aki Restaurant,51.559243,-0.17866500000000002,2005-06-08
+1501,Origin,Aki Restaurant,2005_Coach And Horses_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1502,Destination,Buka,2005_Buka_Aki Restaurant,51.541728000000006,-0.197458,2005-01-08
+1503,Origin,Aki Restaurant,2005_Buka_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1504,Destination,Liberty Kebabish Restaurant,2005_Liberty Kebabish Restaurant_Aki Restaurant,51.557639,-0.14397100000000002,2005-05-08
+1505,Origin,Aki Restaurant,2005_Liberty Kebabish Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1506,Destination,Hampstead Wines & Spirits,2005_Hampstead Wines & Spirits_Aki Restaurant,51.55581,-0.165543,2005-06-13
+1507,Origin,Aki Restaurant,2005_Hampstead Wines & Spirits_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1508,Destination,Depa Tandoori Indian Restaurant,2005_Depa Tandoori Indian Restaurant_Aki Restaurant,51.526258,-0.124827,2005-04-08
+1509,Origin,Aki Restaurant,2005_Depa Tandoori Indian Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1510,Destination,Marks And Spencers Limited,2005_Marks And Spencers Limited_Aki Restaurant,51.53803,-0.192551,2005-06-21
+1511,Origin,Aki Restaurant,2005_Marks And Spencers Limited_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1512,Destination,Kings College London,2005_Kings College London_Aki Restaurant,51.557532,-0.193022,2005-05-08
+1513,Origin,Aki Restaurant,2005_Kings College London_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1514,Destination,Nelson Bar Restaurant Italiano,2005_Nelson Bar Restaurant Italiano_Aki Restaurant,51.526825,-0.14119400000000001,2005-07-15
+1515,Origin,Aki Restaurant,2005_Nelson Bar Restaurant Italiano_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1516,Destination,Iceland Ltd,2005_Iceland Ltd_Aki Restaurant,51.549577,-0.141256,2005-07-28
+1517,Origin,Aki Restaurant,2005_Iceland Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1518,Destination,Munchkins,2005_Munchkins_Aki Restaurant,51.517687,-0.12726099999999999,2005-06-15
+1519,Origin,Aki Restaurant,2005_Munchkins_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1520,Destination,The Crypt,2005_The Crypt_Aki Restaurant,51.518824,-0.107485,2005-07-28
+1521,Origin,Aki Restaurant,2005_The Crypt_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1522,Destination,Prince Of Wales Supermarket,2005_Prince Of Wales Supermarket_Aki Restaurant,51.546328,-0.14454,2005-07-29
+1523,Origin,Aki Restaurant,2005_Prince Of Wales Supermarket_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1524,Destination,O Tino,2005_O Tino_Aki Restaurant,51.536551,-0.138723,2005-07-27
+1525,Origin,Aki Restaurant,2005_O Tino_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1526,Destination,Khana Indian Restaurant,2005_Khana Indian Restaurant_Aki Restaurant,51.554209,-0.212042,2005-02-08
+1527,Origin,Aki Restaurant,2005_Khana Indian Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1528,Destination,Wagamama,2005_Wagamama_Aki Restaurant,51.517484,-0.145992,2005-01-08
+1529,Origin,Aki Restaurant,2005_Wagamama_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1530,Destination,Maygrove Superstores,2005_Maygrove Superstores_Aki Restaurant,51.547302,-0.201879,2005-06-16
+1531,Origin,Aki Restaurant,2005_Maygrove Superstores_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1532,Destination,Ronel Mediterranean Bar & Restaurant (previouslyEl Bello),2005_Ronel Mediterranean Bar & Restaurant (previouslyEl Bello)_Aki Restaurant,51.545552,-0.176535,2005-06-08
+1533,Origin,Aki Restaurant,2005_Ronel Mediterranean Bar & Restaurant (previouslyEl Bello)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1534,Destination,Gigs Restaurant,2005_Gigs Restaurant_Aki Restaurant,51.520725,-0.135272,2005-07-14
+1535,Origin,Aki Restaurant,2005_Gigs Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1536,Destination,Sahar Food & Wine,2005_Sahar Food & Wine_Aki Restaurant,51.542097999999996,-0.174506,2005-07-19
+1537,Origin,Aki Restaurant,2005_Sahar Food & Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1538,Destination,Papa Johns,2005_Papa Johns_Aki Restaurant,51.535494,-0.140296,2005-07-29
+1539,Origin,Aki Restaurant,2005_Papa Johns_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1540,Destination,Euston Square Hotel,2005_Euston Square Hotel_Aki Restaurant,51.526554,-0.135793,2005-07-26
+1541,Origin,Aki Restaurant,2005_Euston Square Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1542,Destination,Arches Wine Bar,2005_Arches Wine Bar_Aki Restaurant,51.541859,-0.180667,2005-05-17
+1543,Origin,Aki Restaurant,2005_Arches Wine Bar_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1544,Destination,Strada Parkway,2005_Strada Parkway_Aki Restaurant,51.538119,-0.145295,2005-04-20
+1545,Origin,Aki Restaurant,2005_Strada Parkway_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1546,Destination,The Building Centre Group Ltd.,2005_The Building Centre Group Ltd._Aki Restaurant,51.519467,-0.13128199999999998,2005-05-08
+1547,Origin,Aki Restaurant,2005_The Building Centre Group Ltd._Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1548,Destination,Whistlestop,2005_Whistlestop_Aki Restaurant,51.529302,-0.13258499999999998,2005-01-08
+1549,Origin,Aki Restaurant,2005_Whistlestop_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1550,Destination,Skylight Cafe,2005_Skylight Cafe_Aki Restaurant,51.531991,-0.13561900000000002,2005-01-08
+1551,Origin,Aki Restaurant,2005_Skylight Cafe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1552,Destination,Markimeld Ltd T/A Lisboa,2005_Markimeld Ltd T/A Lisboa_Aki Restaurant,51.536551,-0.138723,2005-03-08
+1553,Origin,Aki Restaurant,2005_Markimeld Ltd T/A Lisboa_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1554,Destination,Nandos,2005_Nandos_Aki Restaurant,51.543572999999995,-0.181321,2005-05-08
+1555,Origin,Aki Restaurant,2005_Nandos_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1556,Destination,Cafe/Bar,2005_Cafe/Bar_Aki Restaurant,51.531775,-0.126577,2005-07-22
+1557,Origin,Aki Restaurant,2005_Cafe/Bar_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1558,Destination,The Crazy Bear,2005_The Crazy Bear_Aki Restaurant,51.519513,-0.133795,2005-03-08
+1559,Origin,Aki Restaurant,2005_The Crazy Bear_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1560,Destination,"Radisson Blu Edwardian, Bloomsbury Street","2005_Radisson Blu Edwardian, Bloomsbury Street_Aki Restaurant",51.517459,-0.127891,2005-07-29
+1561,Origin,Aki Restaurant,"2005_Radisson Blu Edwardian, Bloomsbury Street_Aki Restaurant",51.523041,-0.11357300000000001,2005-01-06
+1562,Destination,Belsize Kitchen,2005_Belsize Kitchen_Aki Restaurant,51.548970000000004,-0.171679,2005-06-29
+1563,Origin,Aki Restaurant,2005_Belsize Kitchen_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1564,Destination,The Chambeli,2005_The Chambeli_Aki Restaurant,51.521776,-0.12359300000000001,2005-06-16
+1565,Origin,Aki Restaurant,2005_The Chambeli_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1566,Destination,Grafton Arms,2005_Grafton Arms_Aki Restaurant,51.547061,-0.14493599999999998,2005-07-26
+1567,Origin,Aki Restaurant,2005_Grafton Arms_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1568,Destination,Gaucho Grill,2005_Gaucho Grill_Aki Restaurant,51.557276,-0.17795,2005-07-26
+1569,Origin,Aki Restaurant,2005_Gaucho Grill_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1570,Destination,Sunrise Supermarket,2005_Sunrise Supermarket_Aki Restaurant,51.55523,-0.145474,2005-06-13
+1571,Origin,Aki Restaurant,2005_Sunrise Supermarket_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1572,Destination,Latelys,2005_Latelys_Aki Restaurant,51.546339,-0.191433,2005-07-14
+1573,Origin,Aki Restaurant,2005_Latelys_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1574,Destination,Bamboo Restaurant & Bar Ltd.,2005_Bamboo Restaurant & Bar Ltd._Aki Restaurant,51.529517999999996,-0.116559,2005-01-07
+1575,Origin,Aki Restaurant,2005_Bamboo Restaurant & Bar Ltd._Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1576,Destination,Cigala,2005_Cigala_Aki Restaurant,51.522244,-0.118002,2005-07-14
+1577,Origin,Aki Restaurant,2005_Cigala_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1578,Destination,Sushi Bar Ramea,2005_Sushi Bar Ramea_Aki Restaurant,51.51831,-0.131671,2005-07-13
+1579,Origin,Aki Restaurant,2005_Sushi Bar Ramea_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1580,Destination,Pizza Paradiso,2005_Pizza Paradiso_Aki Restaurant,51.519467,-0.13128199999999998,2005-03-08
+1581,Origin,Aki Restaurant,2005_Pizza Paradiso_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1582,Destination,La Gaffe,2005_La Gaffe_Aki Restaurant,51.559243,-0.17866500000000002,2005-01-08
+1583,Origin,Aki Restaurant,2005_La Gaffe_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1584,Destination,Lord Palmerston,2005_Lord Palmerston_Aki Restaurant,51.559236,-0.140429,2005-06-07
+1585,Origin,Aki Restaurant,2005_Lord Palmerston_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1586,Destination,First Choice,2005_First Choice_Aki Restaurant,51.539688,-0.142772,2005-07-29
+1587,Origin,Aki Restaurant,2005_First Choice_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1588,Destination,Cavendish Food & Wine (Hannells),2005_Cavendish Food & Wine (Hannells)_Aki Restaurant,51.51726,-0.126603,2005-07-27
+1589,Origin,Aki Restaurant,2005_Cavendish Food & Wine (Hannells)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1590,Destination,The Fulwood,2005_The Fulwood_Aki Restaurant,51.519006,-0.113476,2005-06-17
+1591,Origin,Aki Restaurant,2005_The Fulwood_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1592,Destination,Pret A Manger,2005_Pret A Manger_Aki Restaurant,51.520337,-0.134654,2005-07-14
+1593,Origin,Aki Restaurant,2005_Pret A Manger_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1594,Destination,West Lodge,2005_West Lodge_Aki Restaurant,51.526984000000006,-0.132609,2005-06-08
+1595,Origin,Aki Restaurant,2005_West Lodge_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1596,Destination,West 9 Food & Wine,2005_West 9 Food & Wine_Aki Restaurant,51.547259999999994,-0.190768,2005-07-28
+1597,Origin,Aki Restaurant,2005_West 9 Food & Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1598,Destination,Camden Road Limited,2005_Camden Road Limited_Aki Restaurant,51.54161,-0.139553,2005-04-08
+1599,Origin,Aki Restaurant,2005_Camden Road Limited_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1600,Destination,Everyman Cinema,2005_Everyman Cinema_Aki Restaurant,51.556678000000005,-0.178912,2005-05-27
+1601,Origin,Aki Restaurant,2005_Everyman Cinema_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1602,Destination,New London Theatre,2005_New London Theatre_Aki Restaurant,51.51578,-0.12225699999999999,2005-05-17
+1603,Origin,Aki Restaurant,2005_New London Theatre_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1604,Destination,Kulu Kulu Sushi,2005_Kulu Kulu Sushi_Aki Restaurant,51.514827000000004,-0.12375499999999999,2005-05-26
+1605,Origin,Aki Restaurant,2005_Kulu Kulu Sushi_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1606,Destination,Cagney'S,2005_Cagney'S_Aki Restaurant,51.520839,-0.12166400000000001,2005-07-25
+1607,Origin,Aki Restaurant,2005_Cagney'S_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1608,Destination,Maxwell Restaurants LTD,2005_Maxwell Restaurants LTD_Aki Restaurant,51.557990000000004,-0.17815999999999999,2005-11-07
+1609,Origin,Aki Restaurant,2005_Maxwell Restaurants LTD_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1610,Destination,Faaji,2005_Faaji_Aki Restaurant,51.549434999999995,-0.183002,2005-04-08
+1611,Origin,Aki Restaurant,2005_Faaji_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1612,Destination,Tesco,2005_Tesco_Aki Restaurant,51.523937,-0.138173,2005-06-08
+1613,Origin,Aki Restaurant,2005_Tesco_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1614,Destination,Marine Ices,2005_Marine Ices_Aki Restaurant,51.544246,-0.152816,2005-12-07
+1615,Origin,Aki Restaurant,2005_Marine Ices_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1616,Destination,Yorkway Off Licence,2005_Yorkway Off Licence_Aki Restaurant,51.548,-0.12837300000000001,2005-12-07
+1617,Origin,Aki Restaurant,2005_Yorkway Off Licence_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1618,Destination,Imagination,2005_Imagination_Aki Restaurant,51.519467,-0.13128199999999998,2005-04-13
+1619,Origin,Aki Restaurant,2005_Imagination_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1620,Destination,The Old Hall Of Lincoln'S Inn,2005_The Old Hall Of Lincoln'S Inn_Aki Restaurant,51.516224,-0.11278800000000001,2005-05-07
+1621,Origin,Aki Restaurant,2005_The Old Hall Of Lincoln'S Inn_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1622,Destination,Yialousa Greek Taverna,2005_Yialousa Greek Taverna_Aki Restaurant,51.524383,-0.12651099999999998,2005-01-08
+1623,Origin,Aki Restaurant,2005_Yialousa Greek Taverna_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1624,Destination,Kentish Town Snooker Club,2005_Kentish Town Snooker Club_Aki Restaurant,51.549577,-0.141256,2005-02-08
+1625,Origin,Aki Restaurant,2005_Kentish Town Snooker Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1626,Destination,Montana Wines 2,2005_Montana Wines 2_Aki Restaurant,51.521754,-0.11884700000000001,2005-02-08
+1627,Origin,Aki Restaurant,2005_Montana Wines 2_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1628,Destination,Sainsbury's Supermarkets Ltd,2005_Sainsbury's Supermarkets Ltd_Aki Restaurant,51.542256,-0.14816,2005-07-14
+1629,Origin,Aki Restaurant,2005_Sainsbury's Supermarkets Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1630,Destination,Imperial Hotel,2005_Imperial Hotel_Aki Restaurant,51.521776,-0.12359300000000001,2005-07-19
+1631,Origin,Aki Restaurant,2005_Imperial Hotel_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1632,Destination,Garfunkels,2005_Garfunkels_Aki Restaurant,51.523398,-0.136463,2005-07-29
+1633,Origin,Aki Restaurant,2005_Garfunkels_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1634,Destination,Honest Burgers,2005_Honest Burgers_Aki Restaurant,51.523142,-0.137511,2005-05-07
+1635,Origin,Aki Restaurant,2005_Honest Burgers_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1636,Destination,Old Oak,2005_Old Oak_Aki Restaurant,51.554717,-0.151107,2005-04-08
+1637,Origin,Aki Restaurant,2005_Old Oak_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1638,Destination,Hakkasan,2005_Hakkasan_Aki Restaurant,51.516921999999994,-0.132023,2005-04-08
+1639,Origin,Aki Restaurant,2005_Hakkasan_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1640,Destination,Savemore Supermarket,2005_Savemore Supermarket_Aki Restaurant,51.542081,-0.180533,2005-01-08
+1641,Origin,Aki Restaurant,2005_Savemore Supermarket_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1642,Destination,House Of Booze,2005_House Of Booze_Aki Restaurant,51.54742,-0.17971099999999998,2005-01-07
+1643,Origin,Aki Restaurant,2005_House Of Booze_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1644,Destination,"Tesco, Southampton Row Express (03475)","2005_Tesco, Southampton Row Express (03475)_Aki Restaurant",51.520227,-0.12197000000000001,2005-05-08
+1645,Origin,Aki Restaurant,"2005_Tesco, Southampton Row Express (03475)_Aki Restaurant",51.523041,-0.11357300000000001,2005-01-06
+1646,Destination,Cafe Euro Med,2005_Cafe Euro Med_Aki Restaurant,51.548138,-0.141677,2005-02-08
+1647,Origin,Aki Restaurant,2005_Cafe Euro Med_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1648,Destination,Pizza East/Chicken Shop (formerly Grand Union - Highgate),2005_Pizza East/Chicken Shop (formerly Grand Union - Highgate)_Aki Restaurant,51.55423,-0.144109,2005-06-22
+1649,Origin,Aki Restaurant,2005_Pizza East/Chicken Shop (formerly Grand Union - Highgate)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1650,Destination,Tamada,2005_Tamada_Aki Restaurant,51.537411,-0.18554400000000001,2005-07-29
+1651,Origin,Aki Restaurant,2005_Tamada_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1652,Destination,Unison Staff Sports Club,2005_Unison Staff Sports Club_Aki Restaurant,51.527645,-0.128604,2005-05-08
+1653,Origin,Aki Restaurant,2005_Unison Staff Sports Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1654,Destination,"Tesco, Russell Square Express, (02720)","2005_Tesco, Russell Square Express, (02720)_Aki Restaurant",51.523677,-0.12488699999999998,2005-06-08
+1655,Origin,Aki Restaurant,"2005_Tesco, Russell Square Express, (02720)_Aki Restaurant",51.523041,-0.11357300000000001,2005-01-06
+1656,Destination,Belgo,2005_Belgo_Aki Restaurant,51.515103,-0.119874,2005-07-28
+1657,Origin,Aki Restaurant,2005_Belgo_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1658,Destination,Flat Iron (formerly The Giaconda Dining Room),2005_Flat Iron (formerly The Giaconda Dining Room)_Aki Restaurant,51.515018,-0.129353,2005-01-07
+1659,Origin,Aki Restaurant,2005_Flat Iron (formerly The Giaconda Dining Room)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1660,Destination,The Marathon,2005_The Marathon_Aki Restaurant,51.543994,-0.151855,2005-10-06
+1661,Origin,Aki Restaurant,2005_The Marathon_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1662,Destination,Marks & Spencers,2005_Marks & Spencers_Aki Restaurant,51.537808,-0.142531,2005-05-07
+1663,Origin,Aki Restaurant,2005_Marks & Spencers_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1664,Destination,Franco Manca (formerly Chimichanga),2005_Franco Manca (formerly Chimichanga)_Aki Restaurant,51.551239,-0.165481,2005-06-24
+1665,Origin,Aki Restaurant,2005_Franco Manca (formerly Chimichanga)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1666,Destination,Marquis Of Granby,2005_Marquis Of Granby_Aki Restaurant,51.513245,-0.12820299999999998,2005-05-08
+1667,Origin,Aki Restaurant,2005_Marquis Of Granby_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1668,Destination,Davy's Bar and Grill Holborn,2005_Davy's Bar and Grill Holborn_Aki Restaurant,51.518567,-0.11580399999999999,2005-04-29
+1669,Origin,Aki Restaurant,2005_Davy's Bar and Grill Holborn_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1670,Destination,Carrie Awaze II Designer Sandwiches,2005_Carrie Awaze II Designer Sandwiches_Aki Restaurant,51.514406,-0.12488599999999998,2005-06-15
+1671,Origin,Aki Restaurant,2005_Carrie Awaze II Designer Sandwiches_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1672,Destination,School Of Oriental & African Studies,2005_School Of Oriental & African Studies_Aki Restaurant,51.522405,-0.129207,2005-05-08
+1673,Origin,Aki Restaurant,2005_School Of Oriental & African Studies_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1674,Destination,Quick Stop,2005_Quick Stop_Aki Restaurant,51.543793,-0.153248,2005-07-26
+1675,Origin,Aki Restaurant,2005_Quick Stop_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1676,Destination,Continental Provision Stores,2005_Continental Provision Stores_Aki Restaurant,51.558535,-0.143825,2005-06-08
+1677,Origin,Aki Restaurant,2005_Continental Provision Stores_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1678,Destination,Burson Marsteller,2005_Burson Marsteller_Aki Restaurant,51.518528,-0.12379200000000001,2005-05-08
+1679,Origin,Aki Restaurant,2005_Burson Marsteller_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1680,Destination,Russell Supermarket,2005_Russell Supermarket_Aki Restaurant,51.525959,-0.126467,2005-08-06
+1681,Origin,Aki Restaurant,2005_Russell Supermarket_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1682,Destination,The Phoenix Theatre Ltd,2005_The Phoenix Theatre Ltd_Aki Restaurant,51.514562,-0.12926500000000002,2005-06-17
+1683,Origin,Aki Restaurant,2005_The Phoenix Theatre Ltd_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1684,Destination,Hampstead Theatre,2005_Hampstead Theatre_Aki Restaurant,51.544482,-0.169523,2005-05-24
+1685,Origin,Aki Restaurant,2005_Hampstead Theatre_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1686,Destination,Andy's Taverna,2005_Andy's Taverna_Aki Restaurant,51.537869,-0.13966800000000001,2005-11-07
+1687,Origin,Aki Restaurant,2005_Andy's Taverna_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1688,Destination,Mia Famiglia,2005_Mia Famiglia_Aki Restaurant,51.558911,-0.178279,2005-07-28
+1689,Origin,Aki Restaurant,2005_Mia Famiglia_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1690,Destination,Community Venue Room,2005_Community Venue Room_Aki Restaurant,51.547698,-0.181321,2005-08-08
+1691,Origin,Aki Restaurant,2005_Community Venue Room_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1692,Destination,Foggs Restaurant,2005_Foggs Restaurant_Aki Restaurant,51.542123,-0.146071,2005-03-08
+1693,Origin,Aki Restaurant,2005_Foggs Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1694,Destination,Neal Street Restaurant,2005_Neal Street Restaurant_Aki Restaurant,51.514247999999995,-0.125254,2005-01-08
+1695,Origin,Aki Restaurant,2005_Neal Street Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1696,Destination,Sawadika,2005_Sawadika_Aki Restaurant,51.518567,-0.11580399999999999,2005-07-18
+1697,Origin,Aki Restaurant,2005_Sawadika_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1698,Destination,Seventeen 0 Seven,2005_Seventeen 0 Seven_Aki Restaurant,51.523545,-0.140725,2005-04-08
+1699,Origin,Aki Restaurant,2005_Seventeen 0 Seven_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1700,Destination,Juniper Tree (formerly The Gate Restaurant),2005_Juniper Tree (formerly The Gate Restaurant)_Aki Restaurant,51.548970000000004,-0.171679,2005-05-08
+1701,Origin,Aki Restaurant,2005_Juniper Tree (formerly The Gate Restaurant)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1702,Destination,Delhi Restaurant,2005_Delhi Restaurant_Aki Restaurant,51.545552,-0.176535,2005-06-22
+1703,Origin,Aki Restaurant,2005_Delhi Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1704,Destination,Camden News,2005_Camden News_Aki Restaurant,51.540039,-0.14449700000000001,2005-01-08
+1705,Origin,Aki Restaurant,2005_Camden News_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1706,Destination,Upstairs at the Gatehouse,2005_Upstairs at the Gatehouse_Aki Restaurant,51.571441,-0.15045999999999998,2005-02-08
+1707,Origin,Aki Restaurant,2005_Upstairs at the Gatehouse_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1708,Destination,Mestizo,2005_Mestizo_Aki Restaurant,51.527464,-0.138928,2005-01-08
+1709,Origin,Aki Restaurant,2005_Mestizo_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1710,Destination,Bleeding Heart Restaurant,2005_Bleeding Heart Restaurant_Aki Restaurant,51.518941,-0.106305,2005-07-22
+1711,Origin,Aki Restaurant,2005_Bleeding Heart Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1712,Destination,China City Restaurant,2005_China City Restaurant_Aki Restaurant,51.523588000000004,-0.12746500000000002,2005-07-22
+1713,Origin,Aki Restaurant,2005_China City Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1714,Destination,Garufin,2005_Garufin_Aki Restaurant,51.519793,-0.117736,2005-06-27
+1715,Origin,Aki Restaurant,2005_Garufin_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1716,Destination,Thai Secret Restaurant,2005_Thai Secret Restaurant_Aki Restaurant,51.536551,-0.138723,2005-06-08
+1717,Origin,Aki Restaurant,2005_Thai Secret Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1718,Destination,Josephines Restaurant,2005_Josephines Restaurant_Aki Restaurant,51.518605,-0.13372,2005-06-17
+1719,Origin,Aki Restaurant,2005_Josephines Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1720,Destination,Bar & Co,2005_Bar & Co_Aki Restaurant,51.537869,-0.13966800000000001,2005-04-08
+1721,Origin,Aki Restaurant,2005_Bar & Co_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1722,Destination,St Peters Italian Social Club,2005_St Peters Italian Social Club_Aki Restaurant,51.522458,-0.109051,2005-07-06
+1723,Origin,Aki Restaurant,2005_St Peters Italian Social Club_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1724,Destination,AH King (formerly Bull & Mouth),2005_AH King (formerly Bull & Mouth)_Aki Restaurant,51.517939,-0.12436099999999999,2005-06-29
+1725,Origin,Aki Restaurant,2005_AH King (formerly Bull & Mouth)_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1726,Destination,The People's Supermarket,2005_The People's Supermarket_Aki Restaurant,51.522684000000005,-0.118774,2005-05-08
+1727,Origin,Aki Restaurant,2005_The People's Supermarket_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1728,Destination,Portman Food & Wine,2005_Portman Food & Wine_Aki Restaurant,51.520084999999995,-0.107875,2005-05-08
+1729,Origin,Aki Restaurant,2005_Portman Food & Wine_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1730,Destination,The Holly Bush,2005_The Holly Bush_Aki Restaurant,51.557922999999995,-0.17946099999999998,2005-07-19
+1731,Origin,Aki Restaurant,2005_The Holly Bush_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1732,Destination,Sainath News,2005_Sainath News_Aki Restaurant,51.513245,-0.12820299999999998,2005-06-05
+1733,Origin,Aki Restaurant,2005_Sainath News_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1734,Destination,Gunmakers Arms,2005_Gunmakers Arms_Aki Restaurant,51.522494,-0.110714,2005-07-28
+1735,Origin,Aki Restaurant,2005_Gunmakers Arms_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1736,Destination,28 Church Row,2005_28 Church Row_Aki Restaurant,51.555338,-0.179229,2005-07-13
+1737,Origin,Aki Restaurant,2005_28 Church Row_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1738,Destination,Lemonia Restaurant,2005_Lemonia Restaurant_Aki Restaurant,51.542027000000004,-0.157269,2005-01-07
+1739,Origin,Aki Restaurant,2005_Lemonia Restaurant_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1740,Destination,Cafe Grill,2005_Cafe Grill_Aki Restaurant,51.53555,-0.138472,2005-05-16
+1741,Origin,Aki Restaurant,2005_Cafe Grill_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06
+1742,Destination,Bento Ramen,2005_Bento Ramen_Aki Restaurant,51.538422,-0.143124,2005-07-19
+1743,Origin,Aki Restaurant,2005_Bento Ramen_Aki Restaurant,51.523041,-0.11357300000000001,2005-01-06

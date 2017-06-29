@@ -1,0 +1,7 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Tianyi Clinic,2012_Tianyi Clinic_Tianyi Clinic,51.557278000000004,-0.178703,2012-03-22
+1,Origin,Tianyi Clinic,2012_Tianyi Clinic_Tianyi Clinic,51.557278000000004,-0.178703,2012-03-22
+2,Destination,Bella Nails,2009_Bella Nails_Bella Nails,51.526258,-0.124827,2009-03-31
+3,Origin,Bella Nails,2009_Bella Nails_Bella Nails,51.526258,-0.124827,2009-03-31
+4,Destination,Pacifica Day Spa,2009_Pacifica Day Spa_Bella Nails,51.557784000000005,-0.17893699999999998,2009-06-05
+5,Origin,Bella Nails,2009_Pacifica Day Spa_Bella Nails,51.526258,-0.124827,2009-03-31

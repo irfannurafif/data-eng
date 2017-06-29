@@ -1,0 +1,153 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,The Crowndale,2016_The Crowndale_L'Etoile,51.534285,-0.13764300000000002,2016-02-23
+1,Origin,L'Etoile,2016_The Crowndale_L'Etoile,51.518959,-0.134555,2016-02-05
+2,Destination,Joe's Southern Table & Bar,2016_Joe's Southern Table & Bar_L'Etoile,51.551065,-0.140306,2016-09-21
+3,Origin,L'Etoile,2016_Joe's Southern Table & Bar_L'Etoile,51.518959,-0.134555,2016-02-05
+4,Destination,The Load of Hay Tavern (Previously Hill),2016_The Load of Hay Tavern (Previously Hill)_L'Etoile,51.546873,-0.157876,2016-11-01
+5,Origin,L'Etoile,2016_The Load of Hay Tavern (Previously Hill)_L'Etoile,51.518959,-0.134555,2016-02-05
+6,Destination,Speenghar Express,2016_Speenghar Express_L'Etoile,51.549434999999995,-0.183002,2016-07-13
+7,Origin,L'Etoile,2016_Speenghar Express_L'Etoile,51.518959,-0.134555,2016-02-05
+8,Destination,Catalyst Cafe & Coffee Roasters (Formerly Underdog),2016_Catalyst Cafe & Coffee Roasters (Formerly Underdog)_L'Etoile,51.519905,-0.11175399999999999,2016-11-29
+9,Origin,L'Etoile,2016_Catalyst Cafe & Coffee Roasters (Formerly Underdog)_L'Etoile,51.518959,-0.134555,2016-02-05
+10,Destination,Mezza Eatery,2016_Mezza Eatery_L'Etoile,51.534911,-0.139649,2016-10-19
+11,Origin,L'Etoile,2016_Mezza Eatery_L'Etoile,51.518959,-0.134555,2016-02-05
+12,Destination,Burger & Lobster,2016_Burger & Lobster_L'Etoile,51.516745,-0.122603,2016-12-04
+13,Origin,L'Etoile,2016_Burger & Lobster_L'Etoile,51.518959,-0.134555,2016-02-05
+14,Destination,Cha Chaan Teng (Formerly) Rocket (Basement),2016_Cha Chaan Teng (Formerly) Rocket (Basement)_L'Etoile,51.515819,-0.118702,2016-07-07
+15,Origin,L'Etoile,2016_Cha Chaan Teng (Formerly) Rocket (Basement)_L'Etoile,51.518959,-0.134555,2016-02-05
+16,Destination,L'Etoile,2016_L'Etoile_L'Etoile,51.518959,-0.134555,2016-02-05
+17,Origin,L'Etoile,2016_L'Etoile_L'Etoile,51.518959,-0.134555,2016-02-05
+18,Destination,Tortilla,2016_Tortilla_L'Etoile,51.52268,-0.12503599999999998,2016-11-08
+19,Origin,L'Etoile,2016_Tortilla_L'Etoile,51.518959,-0.134555,2016-02-05
+20,Destination,WOK and GO,2016_WOK and GO_L'Etoile,51.549141999999996,-0.18245899999999998,2016-09-21
+21,Origin,L'Etoile,2016_WOK and GO_L'Etoile,51.518959,-0.134555,2016-02-05
+22,Destination,The T.E. Dingwall Building (Formerly Lock 17/Highlight),2016_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_L'Etoile,51.541428,-0.145851,2016-06-22
+23,Origin,L'Etoile,2016_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_L'Etoile,51.518959,-0.134555,2016-02-05
+24,Destination,Tropicana Beach Club,2016_Tropicana Beach Club_L'Etoile,51.51578,-0.12225699999999999,2016-09-21
+25,Origin,L'Etoile,2016_Tropicana Beach Club_L'Etoile,51.518959,-0.134555,2016-02-05
+26,Destination,Balans Restaurant,2016_Balans Restaurant_L'Etoile,51.513596,-0.127317,2016-05-18
+27,Origin,L'Etoile,2016_Balans Restaurant_L'Etoile,51.518959,-0.134555,2016-02-05
+28,Destination,Jar Kitchen,2015_Jar Kitchen_ARBINA,51.516075,-0.122922,2015-11-05
+29,Origin,ARBINA,2015_Jar Kitchen_ARBINA,51.523142,-0.137511,2015-02-16
+30,Destination,Shopoint (Previously Chill Out Food & Wine),2015_Shopoint (Previously Chill Out Food & Wine)_ARBINA,51.542882,-0.14976099999999998,2015-06-19
+31,Origin,ARBINA,2015_Shopoint (Previously Chill Out Food & Wine)_ARBINA,51.523142,-0.137511,2015-02-16
+32,Destination,Paris News (formerly Your Local),2015_Paris News (formerly Your Local)_ARBINA,51.539896,-0.140739,2015-10-09
+33,Origin,ARBINA,2015_Paris News (formerly Your Local)_ARBINA,51.523142,-0.137511,2015-02-16
+34,Destination,Apricot (Previously known as Gaufre De Reveur),2015_Apricot (Previously known as Gaufre De Reveur)_ARBINA,51.515526,-0.12947,2015-03-13
+35,Origin,ARBINA,2015_Apricot (Previously known as Gaufre De Reveur)_ARBINA,51.523142,-0.137511,2015-02-16
+36,Destination,The Cedar Restaurant and Bar,2015_The Cedar Restaurant and Bar_ARBINA,51.549717,-0.191104,2015-12-05
+37,Origin,ARBINA,2015_The Cedar Restaurant and Bar_ARBINA,51.523142,-0.137511,2015-02-16
+38,Destination,ARBINA,2015_ARBINA_ARBINA,51.523142,-0.137511,2015-02-16
+39,Origin,ARBINA,2015_ARBINA_ARBINA,51.523142,-0.137511,2015-02-16
+40,Destination,BIG APPLE HOT DOGS,2015_BIG APPLE HOT DOGS_ARBINA,51.529302,-0.13258499999999998,2015-03-06
+41,Origin,ARBINA,2015_BIG APPLE HOT DOGS_ARBINA,51.523142,-0.137511,2015-02-16
+42,Destination,Beany Australia,2015_Beany Australia_ARBINA,51.529302,-0.13258499999999998,2015-03-06
+43,Origin,ARBINA,2015_Beany Australia_ARBINA,51.523142,-0.137511,2015-02-16
+44,Destination,Havana Cafe & Bar,2015_Havana Cafe & Bar_ARBINA,51.539688,-0.142772,2015-07-15
+45,Origin,ARBINA,2015_Havana Cafe & Bar_ARBINA,51.523142,-0.137511,2015-02-16
+46,Destination,Prezzo,2015_Prezzo_ARBINA,51.526865,-0.131211,2015-04-23
+47,Origin,ARBINA,2015_Prezzo_ARBINA,51.523142,-0.137511,2015-02-16
+48,Destination,Gipsy Queen,2015_Gipsy Queen_ARBINA,51.550794,-0.15471400000000002,2015-04-15
+49,Origin,ARBINA,2015_Gipsy Queen_ARBINA,51.523142,-0.137511,2015-02-16
+50,Destination,Double J's Catering Ltd (formerly Regent Peking Cuisine),2015_Double J's Catering Ltd (formerly Regent Peking Cuisine)_ARBINA,51.524398,-0.139311,2015-06-23
+51,Origin,ARBINA,2015_Double J's Catering Ltd (formerly Regent Peking Cuisine)_ARBINA,51.523142,-0.137511,2015-02-16
+52,Destination,Simply Fish,2015_Simply Fish_ARBINA,51.540039,-0.14449700000000001,2015-04-16
+53,Origin,ARBINA,2015_Simply Fish_ARBINA,51.523142,-0.137511,2015-02-16
+54,Destination,The Pack and Carriage (Formley known as Elixir),2015_The Pack and Carriage (Formley known as Elixir)_ARBINA,51.531991,-0.13561900000000002,2015-04-06
+55,Origin,ARBINA,2015_The Pack and Carriage (Formley known as Elixir)_ARBINA,51.523142,-0.137511,2015-02-16
+56,Destination,Joe's Southern Table & Bar,2015_Joe's Southern Table & Bar_ARBINA,51.551065,-0.140306,2015-03-17
+57,Origin,ARBINA,2015_Joe's Southern Table & Bar_ARBINA,51.523142,-0.137511,2015-02-16
+58,Destination,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2013_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.51578,-0.12225699999999999,2013-01-07
+59,Origin,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2013_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.51578,-0.12225699999999999,2013-01-07
+60,Destination,The 10 Cases (formerly Aziza Cafe),2013_The 10 Cases (formerly Aziza Cafe)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.514406,-0.12488599999999998,2013-10-07
+61,Origin,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2013_The 10 Cases (formerly Aziza Cafe)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.51578,-0.12225699999999999,2013-01-07
+62,Destination,Virgin Active Swiss Cottage (formerly Esporta Health & Fitness),2013_Virgin Active Swiss Cottage (formerly Esporta Health & Fitness)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.547698,-0.181321,2013-12-02
+63,Origin,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2013_Virgin Active Swiss Cottage (formerly Esporta Health & Fitness)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.51578,-0.12225699999999999,2013-01-07
+64,Destination,Dandelion (formerly Dublin Castle Cafe),2013_Dandelion (formerly Dublin Castle Cafe)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.537762,-0.14571199999999998,2013-12-03
+65,Origin,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2013_Dandelion (formerly Dublin Castle Cafe)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.51578,-0.12225699999999999,2013-01-07
+66,Destination,Capoeira Brazilian Restaurant (formerly SUSHIO),2013_Capoeira Brazilian Restaurant (formerly SUSHIO)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.546371,-0.17866500000000002,2013-06-08
+67,Origin,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2013_Capoeira Brazilian Restaurant (formerly SUSHIO)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.51578,-0.12225699999999999,2013-01-07
+68,Destination,Kami Japanese Restaurant (formerly Satuma Japanese Restaurant),2013_Kami Japanese Restaurant (formerly Satuma Japanese Restaurant)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.551747,-0.140791,2013-09-28
+69,Origin,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2013_Kami Japanese Restaurant (formerly Satuma Japanese Restaurant)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.51578,-0.12225699999999999,2013-01-07
+70,Destination,Patara,2013_Patara_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.555378999999995,-0.176217,2013-02-20
+71,Origin,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2013_Patara_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.51578,-0.12225699999999999,2013-01-07
+72,Destination,NWC (formerly Legacy),2013_NWC (formerly Legacy)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.543234000000005,-0.17561500000000002,2013-10-15
+73,Origin,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2013_NWC (formerly Legacy)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.51578,-0.12225699999999999,2013-01-07
+74,Destination,The Continental,2013_The Continental_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.531775,-0.126577,2013-09-22
+75,Origin,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2013_The Continental_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.51578,-0.12225699999999999,2013-01-07
+76,Destination,Grosvenor St Giles Casino,2013_Grosvenor St Giles Casino_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.517452,-0.130432,2013-04-12
+77,Origin,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2013_Grosvenor St Giles Casino_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.51578,-0.12225699999999999,2013-01-07
+78,Destination,Flight Club,2013_Flight Club_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.516711,-0.127133,2013-11-20
+79,Origin,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2013_Flight Club_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.51578,-0.12225699999999999,2013-01-07
+80,Destination,Bunga Bunga (Fomerly The Drury Club Basement),2013_Bunga Bunga (Fomerly The Drury Club Basement)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.51578,-0.12225699999999999,2013-01-07
+81,Origin,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2013_Bunga Bunga (Fomerly The Drury Club Basement)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.51578,-0.12225699999999999,2013-01-07
+82,Destination,280 Degrees African Restaurant and Bar (formerly Sabor Latino UK - Ground Floor Premises),2013_280 Degrees African Restaurant and Bar (formerly Sabor Latino UK - Ground Floor Premises)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.544173,-0.200406,2013-07-24
+83,Origin,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2013_280 Degrees African Restaurant and Bar (formerly Sabor Latino UK - Ground Floor Premises)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.51578,-0.12225699999999999,2013-01-07
+84,Destination,ITV Services Ltd (formerly Carlton Comunication Ltd),2013_ITV Services Ltd (formerly Carlton Comunication Ltd)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.52336,-0.11416099999999998,2013-06-13
+85,Origin,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2013_ITV Services Ltd (formerly Carlton Comunication Ltd)_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.51578,-0.12225699999999999,2013-01-07
+86,Destination,Be At One,2013_Be At One_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.535494,-0.140296,2013-09-13
+87,Origin,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2013_Be At One_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),51.51578,-0.12225699999999999,2013-01-07
+88,Destination,Cote,2012_Cote_Cote,51.538119,-0.145295,2012-01-17
+89,Origin,Cote,2012_Cote_Cote,51.538119,-0.145295,2012-01-17
+90,Destination,Flight Club,2012_Flight Club_Cote,51.516711,-0.127133,2012-11-01
+91,Origin,Cote,2012_Flight Club_Cote,51.538119,-0.145295,2012-01-17
+92,Destination,Muya Restaurant,2012_Muya Restaurant_Cote,51.548982,-0.130221,2012-03-19
+93,Origin,Cote,2012_Muya Restaurant_Cote,51.538119,-0.145295,2012-01-17
+94,Destination,Express Food and Wine,2012_Express Food and Wine_Cote,51.551322,-0.141042,2012-07-25
+95,Origin,Cote,2012_Express Food and Wine_Cote,51.538119,-0.145295,2012-01-17
+96,Destination,Philomena's,2012_Philomena's_Cote,51.514813000000004,-0.12298900000000001,2012-09-28
+97,Origin,Cote,2012_Philomena's_Cote,51.538119,-0.145295,2012-01-17
+98,Destination,Lilly Langtree,2012_Lilly Langtree_Cote,51.539832000000004,-0.188324,2012-03-14
+99,Origin,Cote,2012_Lilly Langtree_Cote,51.538119,-0.145295,2012-01-17
+100,Destination,Mango Room,2012_Mango Room_Cote,51.539688,-0.142772,2012-02-11
+101,Origin,Cote,2012_Mango Room_Cote,51.538119,-0.145295,2012-01-17
+102,Destination,Holborn Whippet (FormerlyFathers Study),2012_Holborn Whippet (FormerlyFathers Study)_Cote,51.518636,-0.12129000000000001,2012-05-21
+103,Origin,Cote,2012_Holborn Whippet (FormerlyFathers Study)_Cote,51.538119,-0.145295,2012-01-17
+104,Destination,Love & Liquor,2012_Love & Liquor_Cote,51.536709,-0.19143,2012-06-19
+105,Origin,Cote,2012_Love & Liquor_Cote,51.538119,-0.145295,2012-01-17
+106,Destination,Banana Tree (formerly Banana Tree Canteen),2012_Banana Tree (formerly Banana Tree Canteen)_Cote,51.549248999999996,-0.191669,2012-11-23
+107,Origin,Cote,2012_Banana Tree (formerly Banana Tree Canteen)_Cote,51.538119,-0.145295,2012-01-17
+108,Destination,The Argyle,2012_The Argyle_Cote,51.518529,-0.108519,2012-01-24
+109,Origin,Cote,2012_The Argyle_Cote,51.538119,-0.145295,2012-01-17
+110,Destination,Shaka Zulu,2012_Shaka Zulu_Cote,51.542256,-0.14816,2012-07-20
+111,Origin,Cote,2012_Shaka Zulu_Cote,51.538119,-0.145295,2012-01-17
+112,Destination,Premier Inn,2012_Premier Inn_Cote,51.551534000000004,-0.167068,2012-01-26
+113,Origin,Cote,2012_Premier Inn_Cote,51.538119,-0.145295,2012-01-17
+114,Destination,Pizza East/Chicken Shop (formerly Grand Union - Highgate),2012_Pizza East/Chicken Shop (formerly Grand Union - Highgate)_Cote,51.55423,-0.144109,2012-11-07
+115,Origin,Cote,2012_Pizza East/Chicken Shop (formerly Grand Union - Highgate)_Cote,51.538119,-0.145295,2012-01-17
+116,Destination,"Radisson Blu Edwardian, Grafton","2012_Radisson Blu Edwardian, Grafton_Cote",51.523937,-0.138173,2012-03-10
+117,Origin,Cote,"2012_Radisson Blu Edwardian, Grafton_Cote",51.538119,-0.145295,2012-01-17
+118,Destination,"Radisson Blu Edwardian, Kenilworth Hotel","2012_Radisson Blu Edwardian, Kenilworth Hotel_Cote",51.517914000000005,-0.12887,2012-11-15
+119,Origin,Cote,"2012_Radisson Blu Edwardian, Kenilworth Hotel_Cote",51.538119,-0.145295,2012-01-17
+120,Destination,"Radisson Blu Edwardian, Bloomsbury Street","2012_Radisson Blu Edwardian, Bloomsbury Street_Cote",51.517459,-0.127891,2012-11-15
+121,Origin,Cote,"2012_Radisson Blu Edwardian, Bloomsbury Street_Cote",51.538119,-0.145295,2012-01-17
+122,Destination,Peters Store,2017_Peters Store_Miusan (Formerly Zensai),51.530415999999995,-0.141208,2017-07-02
+123,Origin,Miusan (Formerly Zensai),2017_Peters Store_Miusan (Formerly Zensai),51.540039,-0.14449700000000001,2017-01-15
+124,Destination,Miusan (Formerly Zensai),2017_Miusan (Formerly Zensai)_Miusan (Formerly Zensai),51.540039,-0.14449700000000001,2017-01-15
+125,Origin,Miusan (Formerly Zensai),2017_Miusan (Formerly Zensai)_Miusan (Formerly Zensai),51.540039,-0.14449700000000001,2017-01-15
+126,Destination,Tsunami,2017_Tsunami_Miusan (Formerly Zensai),51.520912,-0.137428,2017-02-17
+127,Origin,Miusan (Formerly Zensai),2017_Tsunami_Miusan (Formerly Zensai),51.540039,-0.14449700000000001,2017-01-15
+128,Destination,The Ninth,2017_The Ninth_Miusan (Formerly Zensai),51.518959,-0.134555,2017-05-01
+129,Origin,Miusan (Formerly Zensai),2017_The Ninth_Miusan (Formerly Zensai),51.540039,-0.14449700000000001,2017-01-15
+130,Destination,Giraffe World Kitchen,2017_Giraffe World Kitchen_Miusan (Formerly Zensai),51.530474,-0.123697,2017-04-20
+131,Origin,Miusan (Formerly Zensai),2017_Giraffe World Kitchen_Miusan (Formerly Zensai),51.540039,-0.14449700000000001,2017-01-15
+132,Destination,Jing Jun Ge Chinese Restaurant,2014_Jing Jun Ge Chinese Restaurant_Be At One,51.549141999999996,-0.18245899999999998,2014-08-18
+133,Origin,Be At One,2014_Jing Jun Ge Chinese Restaurant_Be At One,51.535494,-0.140296,2014-02-01
+134,Destination,Navruz Restaurant (formerly Charleys Bar),2014_Navruz Restaurant (formerly Charleys Bar)_Be At One,51.554759000000004,-0.212641,2014-11-04
+135,Origin,Be At One,2014_Navruz Restaurant (formerly Charleys Bar)_Be At One,51.535494,-0.140296,2014-02-01
+136,Destination,Be At One,2014_Be At One_Be At One,51.535494,-0.140296,2014-02-01
+137,Origin,Be At One,2014_Be At One_Be At One,51.535494,-0.140296,2014-02-01
+138,Destination,NASZA POLSKA LTD (formerly Baltic Market),2014_NASZA POLSKA LTD (formerly Baltic Market)_Be At One,51.545465,-0.20251,2014-09-07
+139,Origin,Be At One,2014_NASZA POLSKA LTD (formerly Baltic Market)_Be At One,51.535494,-0.140296,2014-02-01
+140,Destination,Spielburger,2014_Spielburger_Be At One,51.556143,-0.179161,2014-10-04
+141,Origin,Be At One,2014_Spielburger_Be At One,51.535494,-0.140296,2014-02-01
+142,Destination,Half Cup,2014_Half Cup_Be At One,51.527983,-0.12475,2014-12-11
+143,Origin,Be At One,2014_Half Cup_Be At One,51.535494,-0.140296,2014-02-01
+144,Destination,Bea's of Bloomsbury,2014_Bea's of Bloomsbury_Be At One,51.521433,-0.11598299999999999,2014-03-10
+145,Origin,Be At One,2014_Bea's of Bloomsbury_Be At One,51.535494,-0.140296,2014-02-01
+146,Destination,Break Point,2014_Break Point_Be At One,51.516527,-0.128091,2014-07-21
+147,Origin,Be At One,2014_Break Point_Be At One,51.535494,-0.140296,2014-02-01
+148,Destination,Smoking Goat,2014_Smoking Goat_Be At One,51.515018,-0.129353,2014-12-19
+149,Origin,Be At One,2014_Smoking Goat_Be At One,51.535494,-0.140296,2014-02-01
+150,Destination,Nikits (Previously Nikit News),2014_Nikits (Previously Nikit News)_Be At One,51.540039,-0.14449700000000001,2014-11-12
+151,Origin,Be At One,2014_Nikits (Previously Nikit News)_Be At One,51.535494,-0.140296,2014-02-01

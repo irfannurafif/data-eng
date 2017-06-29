@@ -1,0 +1,5 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Walkabout,2009_Walkabout_Walkabout,51.547698,-0.181321,2009-10-21
+1,Origin,Walkabout,2009_Walkabout_Walkabout,51.547698,-0.181321,2009-10-21
+2,Destination,The Argyle,2011_The Argyle_The Argyle,51.518529,-0.108519,2011-11-05
+3,Origin,The Argyle,2011_The Argyle_The Argyle,51.518529,-0.108519,2011-11-05

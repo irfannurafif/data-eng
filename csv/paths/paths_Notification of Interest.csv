@@ -1,0 +1,743 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Donmar Warehouse Theatre,2012_Donmar Warehouse Theatre_Chester Arms,51.514056,-0.12601400000000001,2012-07-06
+1,Origin,Chester Arms,2012_Donmar Warehouse Theatre_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+2,Destination,Spearmint Rhino,2012_Spearmint Rhino_Chester Arms,51.523398,-0.136463,2012-11-14
+3,Origin,Chester Arms,2012_Spearmint Rhino_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+4,Destination,Chester Arms,2012_Chester Arms_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+5,Origin,Chester Arms,2012_Chester Arms_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+6,Destination,Marquis Of Granby,2012_Marquis Of Granby_Chester Arms,51.513245,-0.12820299999999998,2012-07-06
+7,Origin,Chester Arms,2012_Marquis Of Granby_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+8,Destination,Shaka Zulu,2012_Shaka Zulu_Chester Arms,51.542256,-0.14816,2012-09-14
+9,Origin,Chester Arms,2012_Shaka Zulu_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+10,Destination,Bali Bali Restaurant,2012_Bali Bali Restaurant_Chester Arms,51.51386,-0.127887,2012-07-06
+11,Origin,Chester Arms,2012_Bali Bali Restaurant_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+12,Destination,Homeslice Ltd,2012_Homeslice Ltd_Chester Arms,51.514446,-0.126545,2012-07-06
+13,Origin,Chester Arms,2012_Homeslice Ltd_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+14,Destination,Barrica,2012_Barrica_Chester Arms,51.51935,-0.13703900000000002,2012-07-06
+15,Origin,Chester Arms,2012_Barrica_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+16,Destination,Ship Tavern,2012_Ship Tavern_Chester Arms,51.517002000000005,-0.11943599999999999,2012-07-02
+17,Origin,Chester Arms,2012_Ship Tavern_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+18,Destination,White Horse,2012_White Horse_Chester Arms,51.554378,-0.16508299999999998,2012-07-02
+19,Origin,Chester Arms,2012_White Horse_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+20,Destination,32A Limited (previously Bullet Bar),2012_32A Limited (previously Bullet Bar)_Chester Arms,51.544982,-0.141947,2012-06-12
+21,Origin,Chester Arms,2012_32A Limited (previously Bullet Bar)_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+22,Destination,Elephants Head,2012_Elephants Head_Chester Arms,51.540541999999995,-0.14366199999999998,2012-07-02
+23,Origin,Chester Arms,2012_Elephants Head_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+24,Destination,Draft House,2012_Draft House_Chester Arms,51.519021,-0.135793,2012-07-06
+25,Origin,Chester Arms,2012_Draft House_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+26,Destination,Bibimbap (previously Mennula),2012_Bibimbap (previously Mennula)_Chester Arms,51.518432000000004,-0.135121,2012-07-06
+27,Origin,Chester Arms,2012_Bibimbap (previously Mennula)_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+28,Destination,Grand Union (Camden),2012_Grand Union (Camden)_Chester Arms,51.541578,-0.13784200000000002,2012-07-02
+29,Origin,Chester Arms,2012_Grand Union (Camden)_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+30,Destination,The Verge,2012_The Verge_Chester Arms,51.544982,-0.141947,2012-06-12
+31,Origin,Chester Arms,2012_The Verge_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+32,Destination,Adventure Bar (previously Detroit),2012_Adventure Bar (previously Detroit)_Chester Arms,51.514056,-0.12601400000000001,2012-07-06
+33,Origin,Chester Arms,2012_Adventure Bar (previously Detroit)_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+34,Destination,Devonshire Arms (Formely Hobgoblin),2012_Devonshire Arms (Formely Hobgoblin)_Chester Arms,51.541325,-0.142537,2012-03-27
+35,Origin,Chester Arms,2012_Devonshire Arms (Formely Hobgoblin)_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+36,Destination,26 Grains (formerly known as Neal's Yard Salad Bar),2012_26 Grains (formerly known as Neal's Yard Salad Bar)_Chester Arms,51.514446,-0.126545,2012-07-06
+37,Origin,Chester Arms,2012_26 Grains (formerly known as Neal's Yard Salad Bar)_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+38,Destination,Somerstown Coffee House,2012_Somerstown Coffee House_Chester Arms,51.529990000000005,-0.130767,2012-06-06
+39,Origin,Chester Arms,2012_Somerstown Coffee House_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+40,Destination,Wildwood Kitchen (Cafe Pasta),2012_Wildwood Kitchen (Cafe Pasta)_Chester Arms,51.514962,-0.12751800000000002,2012-07-06
+41,Origin,Chester Arms,2012_Wildwood Kitchen (Cafe Pasta)_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+42,Destination,Royal College Of Physicians Of London,2012_Royal College Of Physicians Of London_Chester Arms,51.52628,-0.14485699999999999,2012-01-24
+43,Origin,Chester Arms,2012_Royal College Of Physicians Of London_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+44,Destination,The Ninth,2012_The Ninth_Chester Arms,51.518959,-0.134555,2012-07-06
+45,Origin,Chester Arms,2012_The Ninth_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+46,Destination,Canela,2012_Canela_Chester Arms,51.514056,-0.12601400000000001,2012-07-06
+47,Origin,Chester Arms,2012_Canela_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+48,Destination,Camden Eye,2012_Camden Eye_Chester Arms,51.539219,-0.141978,2012-07-02
+49,Origin,Chester Arms,2012_Camden Eye_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+50,Destination,Wheatsheaf,2012_Wheatsheaf_Chester Arms,51.51757,-0.132725,2012-07-06
+51,Origin,Chester Arms,2012_Wheatsheaf_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+52,Destination,Cuban,2012_Cuban_Chester Arms,51.542256,-0.14816,2012-09-14
+53,Origin,Chester Arms,2012_Cuban_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+54,Destination,Crown & Anchor,2012_Crown & Anchor_Chester Arms,51.514247999999995,-0.125254,2012-07-06
+55,Origin,Chester Arms,2012_Crown & Anchor_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+56,Destination,Sovereign,2012_Sovereign_Chester Arms,51.530415999999995,-0.141208,2012-08-20
+57,Origin,Chester Arms,2012_Sovereign_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+58,Destination,Balans Restaurant,2012_Balans Restaurant_Chester Arms,51.513596,-0.127317,2012-07-06
+59,Origin,Chester Arms,2012_Balans Restaurant_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+60,Destination,Flesh and Buns (previously Kitchen Italia),2012_Flesh and Buns (previously Kitchen Italia)_Chester Arms,51.514056,-0.12601400000000001,2012-07-06
+61,Origin,Chester Arms,2012_Flesh and Buns (previously Kitchen Italia)_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+62,Destination,King William The Fourth,2012_King William The Fourth_Chester Arms,51.555440999999995,-0.176922,2012-07-02
+63,Origin,Chester Arms,2012_King William The Fourth_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+64,Destination,Old Oak,2012_Old Oak_Chester Arms,51.554717,-0.151107,2012-06-25
+65,Origin,Chester Arms,2012_Old Oak_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+66,Destination,Sir Robert Peel,2012_Sir Robert Peel_Chester Arms,51.549575,-0.15285,2012-07-02
+67,Origin,Chester Arms,2012_Sir Robert Peel_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+68,Destination,Love & Liquor,2012_Love & Liquor_Chester Arms,51.536709,-0.19143,2012-07-02
+69,Origin,Chester Arms,2012_Love & Liquor_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+70,Destination,Rossopomodoro,2012_Rossopomodoro_Chester Arms,51.513243,-0.127366,2012-07-06
+71,Origin,Chester Arms,2012_Rossopomodoro_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+72,Destination,The Blues Kitchen,2012_The Blues Kitchen_Chester Arms,51.536691,-0.141465,2012-02-07
+73,Origin,Chester Arms,2012_The Blues Kitchen_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+74,Destination,"Proud  Camden, The Horse Hospital","2012_Proud  Camden, The Horse Hospital_Chester Arms",51.542256,-0.14816,2012-09-14
+75,Origin,Chester Arms,"2012_Proud  Camden, The Horse Hospital_Chester Arms",51.527791,-0.14463099999999998,2012-01-24
+76,Destination,Mela,2012_Mela_Chester Arms,51.51386,-0.127887,2012-07-06
+77,Origin,Chester Arms,2012_Mela_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+78,Destination,Prince Of Wales,2012_Prince Of Wales_Chester Arms,51.570890000000006,-0.148929,2012-07-02
+79,Origin,Chester Arms,2012_Prince Of Wales_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+80,Destination,Golden Lion,2012_Golden Lion_Chester Arms,51.539006,-0.135735,2012-01-26
+81,Origin,Chester Arms,2012_Golden Lion_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+82,Destination,Brasserie Blanc,2012_Brasserie Blanc_Chester Arms,51.518432000000004,-0.135121,2012-07-06
+83,Origin,Chester Arms,2012_Brasserie Blanc_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+84,Destination,Bounce,2012_Bounce_Chester Arms,51.518529,-0.108519,2012-05-09
+85,Origin,Chester Arms,2012_Bounce_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+86,Destination,Senor Ceviche (formerly known as The Barnyard),2012_Senor Ceviche (formerly known as The Barnyard)_Chester Arms,51.518959,-0.134555,2012-07-06
+87,Origin,Chester Arms,2012_Senor Ceviche (formerly known as The Barnyard)_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+88,Destination,Compagnie des Vins Surnaturel,2012_Compagnie des Vins Surnaturel_Chester Arms,51.514446,-0.126545,2012-07-06
+89,Origin,Chester Arms,2012_Compagnie des Vins Surnaturel_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+90,Destination,Cross Keys,2012_Cross Keys_Chester Arms,51.514406,-0.12488599999999998,2012-07-06
+91,Origin,Chester Arms,2012_Cross Keys_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+92,Destination,Red Rooms,2012_Red Rooms_Chester Arms,51.51668,-0.119209,2012-06-07
+93,Origin,Chester Arms,2012_Red Rooms_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+94,Destination,Souk Restaurant,2012_Souk Restaurant_Chester Arms,51.514446,-0.126545,2012-07-06
+95,Origin,Chester Arms,2012_Souk Restaurant_Chester Arms,51.527791,-0.14463099999999998,2012-01-24
+96,Destination,Royal College Of Physicians Of London,2015_Royal College Of Physicians Of London_Somerstown Coffee House,51.52628,-0.14485699999999999,2015-11-20
+97,Origin,Somerstown Coffee House,2015_Royal College Of Physicians Of London_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+98,Destination,CVS,2015_CVS_Somerstown Coffee House,51.514446,-0.126545,2015-07-14
+99,Origin,Somerstown Coffee House,2015_CVS_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+100,Destination,Timberyard,2015_Timberyard_Somerstown Coffee House,51.512865000000005,-0.127574,2015-07-14
+101,Origin,Somerstown Coffee House,2015_Timberyard_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+102,Destination,Reverend JW Simpson,2015_Reverend JW Simpson_Somerstown Coffee House,51.519855,-0.135379,2015-07-24
+103,Origin,Somerstown Coffee House,2015_Reverend JW Simpson_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+104,Destination,Senor Ceviche (formerly known as The Barnyard),2015_Senor Ceviche (formerly known as The Barnyard)_Somerstown Coffee House,51.518959,-0.134555,2015-07-24
+105,Origin,Somerstown Coffee House,2015_Senor Ceviche (formerly known as The Barnyard)_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+106,Destination,Donmar Warehouse Theatre,2015_Donmar Warehouse Theatre_Somerstown Coffee House,51.514056,-0.12601400000000001,2015-07-14
+107,Origin,Somerstown Coffee House,2015_Donmar Warehouse Theatre_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+108,Destination,Canela,2015_Canela_Somerstown Coffee House,51.514056,-0.12601400000000001,2015-07-14
+109,Origin,Somerstown Coffee House,2015_Canela_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+110,Destination,The Ninth,2015_The Ninth_Somerstown Coffee House,51.518959,-0.134555,2015-07-24
+111,Origin,Somerstown Coffee House,2015_The Ninth_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+112,Destination,Balans Restaurant,2015_Balans Restaurant_Somerstown Coffee House,51.513596,-0.127317,2015-07-14
+113,Origin,Somerstown Coffee House,2015_Balans Restaurant_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+114,Destination,The 10 Cases (formerly Aziza Cafe),2015_The 10 Cases (formerly Aziza Cafe)_Somerstown Coffee House,51.514406,-0.12488599999999998,2015-07-14
+115,Origin,Somerstown Coffee House,2015_The 10 Cases (formerly Aziza Cafe)_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+116,Destination,Bibimbap (previously Mennula),2015_Bibimbap (previously Mennula)_Somerstown Coffee House,51.518432000000004,-0.135121,2015-07-24
+117,Origin,Somerstown Coffee House,2015_Bibimbap (previously Mennula)_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+118,Destination,Compagnie des Vins Surnaturel,2015_Compagnie des Vins Surnaturel_Somerstown Coffee House,51.514446,-0.126545,2015-07-14
+119,Origin,Somerstown Coffee House,2015_Compagnie des Vins Surnaturel_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+120,Destination,Bunga Bunga (Fomerly The Drury Club Basement),2015_Bunga Bunga (Fomerly The Drury Club Basement)_Somerstown Coffee House,51.51578,-0.12225699999999999,2015-11-27
+121,Origin,Somerstown Coffee House,2015_Bunga Bunga (Fomerly The Drury Club Basement)_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+122,Destination,Sovereign,2015_Sovereign_Somerstown Coffee House,51.530415999999995,-0.141208,2015-07-14
+123,Origin,Somerstown Coffee House,2015_Sovereign_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+124,Destination,Ape and Bird,2015_Ape and Bird_Somerstown Coffee House,51.513245,-0.12820299999999998,2015-07-14
+125,Origin,Somerstown Coffee House,2015_Ape and Bird_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+126,Destination,Bobby's (formerly La Brocca),2015_Bobby's (formerly La Brocca)_Somerstown Coffee House,51.550391999999995,-0.19197899999999998,2015-06-11
+127,Origin,Somerstown Coffee House,2015_Bobby's (formerly La Brocca)_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+128,Destination,Adventure Bar (previously Detroit),2015_Adventure Bar (previously Detroit)_Somerstown Coffee House,51.514056,-0.12601400000000001,2015-07-14
+129,Origin,Somerstown Coffee House,2015_Adventure Bar (previously Detroit)_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+130,Destination,Delancey & Co,2015_Delancey & Co_Somerstown Coffee House,51.519855,-0.135379,2015-07-24
+131,Origin,Somerstown Coffee House,2015_Delancey & Co_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+132,Destination,Cure & Cut,2015_Cure & Cut_Somerstown Coffee House,51.513596,-0.127317,2015-07-14
+133,Origin,Somerstown Coffee House,2015_Cure & Cut_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+134,Destination,Golden Lion,2015_Golden Lion_Somerstown Coffee House,51.539006,-0.135735,2015-07-01
+135,Origin,Somerstown Coffee House,2015_Golden Lion_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+136,Destination,Crown & Anchor,2015_Crown & Anchor_Somerstown Coffee House,51.514247999999995,-0.125254,2015-07-14
+137,Origin,Somerstown Coffee House,2015_Crown & Anchor_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+138,Destination,Brasserie Blanc,2015_Brasserie Blanc_Somerstown Coffee House,51.518432000000004,-0.135121,2015-07-24
+139,Origin,Somerstown Coffee House,2015_Brasserie Blanc_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+140,Destination,Barrica,2015_Barrica_Somerstown Coffee House,51.51935,-0.13703900000000002,2015-07-24
+141,Origin,Somerstown Coffee House,2015_Barrica_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+142,Destination,Draft House,2015_Draft House_Somerstown Coffee House,51.519021,-0.135793,2015-07-24
+143,Origin,Somerstown Coffee House,2015_Draft House_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+144,Destination,Homeslice Ltd,2015_Homeslice Ltd_Somerstown Coffee House,51.514446,-0.126545,2015-07-14
+145,Origin,Somerstown Coffee House,2015_Homeslice Ltd_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+146,Destination,Cross Keys,2015_Cross Keys_Somerstown Coffee House,51.514406,-0.12488599999999998,2015-07-14
+147,Origin,Somerstown Coffee House,2015_Cross Keys_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+148,Destination,Rossopomodoro,2015_Rossopomodoro_Somerstown Coffee House,51.513243,-0.127366,2015-07-14
+149,Origin,Somerstown Coffee House,2015_Rossopomodoro_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+150,Destination,Flesh and Buns (previously Kitchen Italia),2015_Flesh and Buns (previously Kitchen Italia)_Somerstown Coffee House,51.514056,-0.12601400000000001,2015-07-14
+151,Origin,Somerstown Coffee House,2015_Flesh and Buns (previously Kitchen Italia)_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+152,Destination,Souk Restaurant,2015_Souk Restaurant_Somerstown Coffee House,51.514446,-0.126545,2015-07-14
+153,Origin,Somerstown Coffee House,2015_Souk Restaurant_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+154,Destination,Somerstown Coffee House,2015_Somerstown Coffee House_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+155,Origin,Somerstown Coffee House,2015_Somerstown Coffee House_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+156,Destination,Wildwood Kitchen (Cafe Pasta),2015_Wildwood Kitchen (Cafe Pasta)_Somerstown Coffee House,51.514962,-0.12751800000000002,2015-07-14
+157,Origin,Somerstown Coffee House,2015_Wildwood Kitchen (Cafe Pasta)_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+158,Destination,The Victory,2015_The Victory_Somerstown Coffee House,51.529284000000004,-0.143999,2015-09-01
+159,Origin,Somerstown Coffee House,2015_The Victory_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+160,Destination,Wheatsheaf,2015_Wheatsheaf_Somerstown Coffee House,51.51757,-0.132725,2015-07-08
+161,Origin,Somerstown Coffee House,2015_Wheatsheaf_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+162,Destination,Be At One,2015_Be At One_Somerstown Coffee House,51.535494,-0.140296,2015-06-26
+163,Origin,Somerstown Coffee House,2015_Be At One_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+164,Destination,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2015_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine)_Somerstown Coffee House,51.51578,-0.12225699999999999,2015-11-27
+165,Origin,Somerstown Coffee House,2015_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine)_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+166,Destination,Bali Bali Restaurant,2015_Bali Bali Restaurant_Somerstown Coffee House,51.51386,-0.127887,2015-07-14
+167,Origin,Somerstown Coffee House,2015_Bali Bali Restaurant_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+168,Destination,Mela,2015_Mela_Somerstown Coffee House,51.51386,-0.127887,2015-07-14
+169,Origin,Somerstown Coffee House,2015_Mela_Somerstown Coffee House,51.529990000000005,-0.130767,2015-02-06
+170,Destination,"Paramount (Floors 31, 32, 33)","2013_Paramount (Floors 31, 32, 33)_Bounce",51.516178000000004,-0.12926500000000002,2013-07-15
+171,Origin,Bounce,"2013_Paramount (Floors 31, 32, 33)_Bounce",51.518529,-0.108519,2013-02-08
+172,Destination,Intrepid Fox,2013_Intrepid Fox_Bounce,51.516045,-0.127443,2013-07-15
+173,Origin,Bounce,2013_Intrepid Fox_Bounce,51.518529,-0.108519,2013-02-08
+174,Destination,Senor Ceviche (formerly known as The Barnyard),2013_Senor Ceviche (formerly known as The Barnyard)_Bounce,51.518959,-0.134555,2013-07-08
+175,Origin,Bounce,2013_Senor Ceviche (formerly known as The Barnyard)_Bounce,51.518529,-0.108519,2013-02-08
+176,Destination,Elephants Head,2013_Elephants Head_Bounce,51.540541999999995,-0.14366199999999998,2013-06-02
+177,Origin,Bounce,2013_Elephants Head_Bounce,51.518529,-0.108519,2013-02-08
+178,Destination,Golden Lion,2013_Golden Lion_Bounce,51.539006,-0.135735,2013-08-01
+179,Origin,Bounce,2013_Golden Lion_Bounce,51.518529,-0.108519,2013-02-08
+180,Destination,Flesh and Buns (previously Kitchen Italia),2013_Flesh and Buns (previously Kitchen Italia)_Bounce,51.514056,-0.12601400000000001,2013-07-06
+181,Origin,Bounce,2013_Flesh and Buns (previously Kitchen Italia)_Bounce,51.518529,-0.108519,2013-02-08
+182,Destination,Mela,2013_Mela_Bounce,51.51386,-0.127887,2013-07-06
+183,Origin,Bounce,2013_Mela_Bounce,51.518529,-0.108519,2013-02-08
+184,Destination,Northumberland Arms,2013_Northumberland Arms_Bounce,51.523142,-0.137511,2013-07-08
+185,Origin,Bounce,2013_Northumberland Arms_Bounce,51.518529,-0.108519,2013-02-08
+186,Destination,Grand Union (Camden),2013_Grand Union (Camden)_Bounce,51.541578,-0.13784200000000002,2013-06-02
+187,Origin,Bounce,2013_Grand Union (Camden)_Bounce,51.518529,-0.108519,2013-02-08
+188,Destination,Crown & Anchor,2013_Crown & Anchor_Bounce,51.514247999999995,-0.125254,2013-07-06
+189,Origin,Bounce,2013_Crown & Anchor_Bounce,51.518529,-0.108519,2013-02-08
+190,Destination,Oliver's Yard Cafe,2013_Oliver's Yard Cafe_Bounce,51.54123,-0.146584,2013-11-28
+191,Origin,Bounce,2013_Oliver's Yard Cafe_Bounce,51.518529,-0.108519,2013-02-08
+192,Destination,The Monarch,2013_The Monarch_Bounce,51.54314,-0.148383,2013-10-14
+193,Origin,Bounce,2013_The Monarch_Bounce,51.518529,-0.108519,2013-02-08
+194,Destination,King William The Fourth,2013_King William The Fourth_Bounce,51.555440999999995,-0.176922,2013-06-02
+195,Origin,Bounce,2013_King William The Fourth_Bounce,51.518529,-0.108519,2013-02-08
+196,Destination,Wheatsheaf,2013_Wheatsheaf_Bounce,51.51757,-0.132725,2013-07-08
+197,Origin,Bounce,2013_Wheatsheaf_Bounce,51.518529,-0.108519,2013-02-08
+198,Destination,Zala Grill (formerly Hola Paella),2013_Zala Grill (formerly Hola Paella)_Bounce,51.54123,-0.146584,2013-05-20
+199,Origin,Bounce,2013_Zala Grill (formerly Hola Paella)_Bounce,51.518529,-0.108519,2013-02-08
+200,Destination,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2013_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine)_Bounce,51.51578,-0.12225699999999999,2013-11-02
+201,Origin,Bounce,2013_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine)_Bounce,51.518529,-0.108519,2013-02-08
+202,Destination,Ship Tavern,2013_Ship Tavern_Bounce,51.517002000000005,-0.11943599999999999,2013-06-02
+203,Origin,Bounce,2013_Ship Tavern_Bounce,51.518529,-0.108519,2013-02-08
+204,Destination,Bunga Bunga (Fomerly The Drury Club Basement),2013_Bunga Bunga (Fomerly The Drury Club Basement)_Bounce,51.51578,-0.12225699999999999,2013-11-02
+205,Origin,Bounce,2013_Bunga Bunga (Fomerly The Drury Club Basement)_Bounce,51.518529,-0.108519,2013-02-08
+206,Destination,"Honest Burgers, 34A, 34D, L8","2013_Honest Burgers, 34A, 34D, L8_Bounce",51.54123,-0.146584,2013-11-28
+207,Origin,Bounce,"2013_Honest Burgers, 34A, 34D, L8_Bounce",51.518529,-0.108519,2013-02-08
+208,Destination,Barrica,2013_Barrica_Bounce,51.51935,-0.13703900000000002,2013-07-08
+209,Origin,Bounce,2013_Barrica_Bounce,51.518529,-0.108519,2013-02-08
+210,Destination,Rossopomodoro,2013_Rossopomodoro_Bounce,51.513243,-0.127366,2013-07-06
+211,Origin,Bounce,2013_Rossopomodoro_Bounce,51.518529,-0.108519,2013-02-08
+212,Destination,The 10 Cases (formerly Aziza Cafe),2013_The 10 Cases (formerly Aziza Cafe)_Bounce,51.514406,-0.12488599999999998,2013-10-01
+213,Origin,Bounce,2013_The 10 Cases (formerly Aziza Cafe)_Bounce,51.518529,-0.108519,2013-02-08
+214,Destination,Kentucky Fried Chicken,2013_Kentucky Fried Chicken_Bounce,51.520337,-0.134654,2013-03-15
+215,Origin,Bounce,2013_Kentucky Fried Chicken_Bounce,51.518529,-0.108519,2013-02-08
+216,Destination,Sir Robert Peel,2013_Sir Robert Peel_Bounce,51.549575,-0.15285,2013-06-02
+217,Origin,Bounce,2013_Sir Robert Peel_Bounce,51.518529,-0.108519,2013-02-08
+218,Destination,Adventure Bar (previously Detroit),2013_Adventure Bar (previously Detroit)_Bounce,51.514056,-0.12601400000000001,2013-07-08
+219,Origin,Bounce,2013_Adventure Bar (previously Detroit)_Bounce,51.518529,-0.108519,2013-02-08
+220,Destination,The T.E. Dingwall Building (Formerly Lock 17/Highlight),2013_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Bounce,51.541428,-0.145851,2013-05-20
+221,Origin,Bounce,2013_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Bounce,51.518529,-0.108519,2013-02-08
+222,Destination,White Horse,2013_White Horse_Bounce,51.554378,-0.16508299999999998,2013-06-02
+223,Origin,Bounce,2013_White Horse_Bounce,51.518529,-0.108519,2013-02-08
+224,Destination,Centre Point Food Store,2013_Centre Point Food Store_Bounce,51.516178000000004,-0.12926500000000002,2013-08-15
+225,Origin,Bounce,2013_Centre Point Food Store_Bounce,51.518529,-0.108519,2013-02-08
+226,Destination,Bounce,2013_Bounce_Bounce,51.518529,-0.108519,2013-02-08
+227,Origin,Bounce,2013_Bounce_Bounce,51.518529,-0.108519,2013-02-08
+228,Destination,Love & Liquor,2013_Love & Liquor_Bounce,51.536709,-0.19143,2013-06-02
+229,Origin,Bounce,2013_Love & Liquor_Bounce,51.518529,-0.108519,2013-02-08
+230,Destination,Brasserie Blanc,2013_Brasserie Blanc_Bounce,51.518432000000004,-0.135121,2013-07-08
+231,Origin,Bounce,2013_Brasserie Blanc_Bounce,51.518529,-0.108519,2013-02-08
+232,Destination,Potion,2013_Potion_Bounce,51.522335999999996,-0.13943,2013-06-06
+233,Origin,Bounce,2013_Potion_Bounce,51.518529,-0.108519,2013-02-08
+234,Destination,Sovereign,2013_Sovereign_Bounce,51.530415999999995,-0.141208,2013-08-28
+235,Origin,Bounce,2013_Sovereign_Bounce,51.518529,-0.108519,2013-02-08
+236,Destination,26 Grains (formerly known as Neal's Yard Salad Bar),2013_26 Grains (formerly known as Neal's Yard Salad Bar)_Bounce,51.514446,-0.126545,2013-07-06
+237,Origin,Bounce,2013_26 Grains (formerly known as Neal's Yard Salad Bar)_Bounce,51.518529,-0.108519,2013-02-08
+238,Destination,Somerstown Coffee House,2013_Somerstown Coffee House_Bounce,51.529990000000005,-0.130767,2013-05-31
+239,Origin,Bounce,2013_Somerstown Coffee House_Bounce,51.518529,-0.108519,2013-02-08
+240,Destination,Soul Central,2013_Soul Central_Bounce,51.516178000000004,-0.12926500000000002,2013-07-15
+241,Origin,Bounce,2013_Soul Central_Bounce,51.518529,-0.108519,2013-02-08
+242,Destination,Le Pain Quotidien,2013_Le Pain Quotidien_Bounce,51.520337,-0.134654,2013-03-15
+243,Origin,Bounce,2013_Le Pain Quotidien_Bounce,51.518529,-0.108519,2013-02-08
+244,Destination,Bali Bali Restaurant,2013_Bali Bali Restaurant_Bounce,51.51386,-0.127887,2013-07-06
+245,Origin,Bounce,2013_Bali Bali Restaurant_Bounce,51.518529,-0.108519,2013-02-08
+246,Destination,Smugglers Tavern,2013_Smugglers Tavern_Bounce,51.523545,-0.140725,2013-11-21
+247,Origin,Bounce,2013_Smugglers Tavern_Bounce,51.518529,-0.108519,2013-02-08
+248,Destination,Cock Tavern,2013_Cock Tavern_Bounce,51.531317,-0.131109,2013-04-23
+249,Origin,Bounce,2013_Cock Tavern_Bounce,51.518529,-0.108519,2013-02-08
+250,Destination,Confederation Of British Industry,2013_Confederation Of British Industry_Bounce,51.516178000000004,-0.12926500000000002,2013-07-15
+251,Origin,Bounce,2013_Confederation Of British Industry_Bounce,51.518529,-0.108519,2013-02-08
+252,Destination,The Horseshoe,2013_The Horseshoe_Bounce,51.55619,-0.178368,2013-05-21
+253,Origin,Bounce,2013_The Horseshoe_Bounce,51.518529,-0.108519,2013-02-08
+254,Destination,Balans Restaurant,2013_Balans Restaurant_Bounce,51.513596,-0.127317,2013-07-06
+255,Origin,Bounce,2013_Balans Restaurant_Bounce,51.518529,-0.108519,2013-02-08
+256,Destination,Bibimbap (previously Mennula),2013_Bibimbap (previously Mennula)_Bounce,51.518432000000004,-0.135121,2013-07-08
+257,Origin,Bounce,2013_Bibimbap (previously Mennula)_Bounce,51.518529,-0.108519,2013-02-08
+258,Destination,The Ninth,2013_The Ninth_Bounce,51.518959,-0.134555,2013-07-08
+259,Origin,Bounce,2013_The Ninth_Bounce,51.518529,-0.108519,2013-02-08
+260,Destination,Canela,2013_Canela_Bounce,51.514056,-0.12601400000000001,2013-07-08
+261,Origin,Bounce,2013_Canela_Bounce,51.518529,-0.108519,2013-02-08
+262,Destination,Donmar Warehouse Theatre,2013_Donmar Warehouse Theatre_Bounce,51.514056,-0.12601400000000001,2013-07-08
+263,Origin,Bounce,2013_Donmar Warehouse Theatre_Bounce,51.518529,-0.108519,2013-02-08
+264,Destination,Souk Restaurant,2013_Souk Restaurant_Bounce,51.514446,-0.126545,2013-07-06
+265,Origin,Bounce,2013_Souk Restaurant_Bounce,51.518529,-0.108519,2013-02-08
+266,Destination,Tesco Metro,2013_Tesco Metro_Bounce,51.520337,-0.134654,2013-03-15
+267,Origin,Bounce,2013_Tesco Metro_Bounce,51.518529,-0.108519,2013-02-08
+268,Destination,Pret A Manger,2013_Pret A Manger_Bounce,51.520337,-0.134654,2013-03-15
+269,Origin,Bounce,2013_Pret A Manger_Bounce,51.518529,-0.108519,2013-02-08
+270,Destination,Camden Eye,2013_Camden Eye_Bounce,51.539219,-0.141978,2013-06-02
+271,Origin,Bounce,2013_Camden Eye_Bounce,51.518529,-0.108519,2013-02-08
+272,Destination,Royal College Of Physicians Of London,2013_Royal College Of Physicians Of London_Bounce,51.52628,-0.14485699999999999,2013-11-22
+273,Origin,Bounce,2013_Royal College Of Physicians Of London_Bounce,51.518529,-0.108519,2013-02-08
+274,Destination,Prince Of Wales,2013_Prince Of Wales_Bounce,51.570890000000006,-0.148929,2013-06-02
+275,Origin,Bounce,2013_Prince Of Wales_Bounce,51.518529,-0.108519,2013-02-08
+276,Destination,Wildwood Kitchen (Cafe Pasta),2013_Wildwood Kitchen (Cafe Pasta)_Bounce,51.514962,-0.12751800000000002,2013-07-06
+277,Origin,Bounce,2013_Wildwood Kitchen (Cafe Pasta)_Bounce,51.518529,-0.108519,2013-02-08
+278,Destination,Compagnie des Vins Surnaturel,2013_Compagnie des Vins Surnaturel_Bounce,51.514446,-0.126545,2013-07-06
+279,Origin,Bounce,2013_Compagnie des Vins Surnaturel_Bounce,51.518529,-0.108519,2013-02-08
+280,Destination,Chipotle Mexican Grill,2013_Chipotle Mexican Grill_Bounce,51.514562,-0.12926500000000002,2013-03-15
+281,Origin,Bounce,2013_Chipotle Mexican Grill_Bounce,51.518529,-0.108519,2013-02-08
+282,Destination,Marquis Of Granby,2013_Marquis Of Granby_Bounce,51.513245,-0.12820299999999998,2013-07-06
+283,Origin,Bounce,2013_Marquis Of Granby_Bounce,51.518529,-0.108519,2013-02-08
+284,Destination,Donmar Warehouse Theatre,2010_Donmar Warehouse Theatre_The Victory,51.514056,-0.12601400000000001,2010-04-06
+285,Origin,The Victory,2010_Donmar Warehouse Theatre_The Victory,51.529284000000004,-0.143999,2010-01-15
+286,Destination,Compagnie des Vins Surnaturel,2010_Compagnie des Vins Surnaturel_The Victory,51.514446,-0.126545,2010-04-06
+287,Origin,The Victory,2010_Compagnie des Vins Surnaturel_The Victory,51.529284000000004,-0.143999,2010-01-15
+288,Destination,Souk Restaurant,2010_Souk Restaurant_The Victory,51.514446,-0.126545,2010-04-06
+289,Origin,The Victory,2010_Souk Restaurant_The Victory,51.529284000000004,-0.143999,2010-01-15
+290,Destination,Spearmint Rhino,2010_Spearmint Rhino_The Victory,51.523398,-0.136463,2010-01-23
+291,Origin,The Victory,2010_Spearmint Rhino_The Victory,51.529284000000004,-0.143999,2010-01-15
+292,Destination,Bunga Bunga (Fomerly The Drury Club Basement),2010_Bunga Bunga (Fomerly The Drury Club Basement)_The Victory,51.51578,-0.12225699999999999,2010-04-03
+293,Origin,The Victory,2010_Bunga Bunga (Fomerly The Drury Club Basement)_The Victory,51.529284000000004,-0.143999,2010-01-15
+294,Destination,Grand Union (Camden),2010_Grand Union (Camden)_The Victory,51.541578,-0.13784200000000002,2010-09-02
+295,Origin,The Victory,2010_Grand Union (Camden)_The Victory,51.529284000000004,-0.143999,2010-01-15
+296,Destination,Canela,2010_Canela_The Victory,51.514056,-0.12601400000000001,2010-04-06
+297,Origin,The Victory,2010_Canela_The Victory,51.529284000000004,-0.143999,2010-01-15
+298,Destination,Sir Robert Peel,2010_Sir Robert Peel_The Victory,51.549575,-0.15285,2010-09-02
+299,Origin,The Victory,2010_Sir Robert Peel_The Victory,51.529284000000004,-0.143999,2010-01-15
+300,Destination,White Horse,2010_White Horse_The Victory,51.554378,-0.16508299999999998,2010-09-02
+301,Origin,The Victory,2010_White Horse_The Victory,51.529284000000004,-0.143999,2010-01-15
+302,Destination,King William The Fourth,2010_King William The Fourth_The Victory,51.555440999999995,-0.176922,2010-09-02
+303,Origin,The Victory,2010_King William The Fourth_The Victory,51.529284000000004,-0.143999,2010-01-15
+304,Destination,Camden Eye,2010_Camden Eye_The Victory,51.539219,-0.141978,2010-09-02
+305,Origin,The Victory,2010_Camden Eye_The Victory,51.529284000000004,-0.143999,2010-01-15
+306,Destination,Love & Liquor,2010_Love & Liquor_The Victory,51.536709,-0.19143,2010-08-02
+307,Origin,The Victory,2010_Love & Liquor_The Victory,51.529284000000004,-0.143999,2010-01-15
+308,Destination,The Victory,2010_The Victory_The Victory,51.529284000000004,-0.143999,2010-01-15
+309,Origin,The Victory,2010_The Victory_The Victory,51.529284000000004,-0.143999,2010-01-15
+310,Destination,Bali Bali Restaurant,2010_Bali Bali Restaurant_The Victory,51.51386,-0.127887,2010-04-06
+311,Origin,The Victory,2010_Bali Bali Restaurant_The Victory,51.529284000000004,-0.143999,2010-01-15
+312,Destination,Mela,2010_Mela_The Victory,51.51386,-0.127887,2010-04-06
+313,Origin,The Victory,2010_Mela_The Victory,51.529284000000004,-0.143999,2010-01-15
+314,Destination,Royal College Of Physicians Of London,2010_Royal College Of Physicians Of London_The Victory,51.52628,-0.14485699999999999,2010-09-11
+315,Origin,The Victory,2010_Royal College Of Physicians Of London_The Victory,51.529284000000004,-0.143999,2010-01-15
+316,Destination,Brasserie Blanc,2010_Brasserie Blanc_The Victory,51.518432000000004,-0.135121,2010-04-06
+317,Origin,The Victory,2010_Brasserie Blanc_The Victory,51.529284000000004,-0.143999,2010-01-15
+318,Destination,The Ninth,2010_The Ninth_The Victory,51.518959,-0.134555,2010-04-06
+319,Origin,The Victory,2010_The Ninth_The Victory,51.529284000000004,-0.143999,2010-01-15
+320,Destination,Ship Tavern,2010_Ship Tavern_The Victory,51.517002000000005,-0.11943599999999999,2010-09-02
+321,Origin,The Victory,2010_Ship Tavern_The Victory,51.529284000000004,-0.143999,2010-01-15
+322,Destination,Barrica,2010_Barrica_The Victory,51.51935,-0.13703900000000002,2010-04-06
+323,Origin,The Victory,2010_Barrica_The Victory,51.529284000000004,-0.143999,2010-01-15
+324,Destination,Rossopomodoro,2010_Rossopomodoro_The Victory,51.513243,-0.127366,2010-04-06
+325,Origin,The Victory,2010_Rossopomodoro_The Victory,51.529284000000004,-0.143999,2010-01-15
+326,Destination,Somerstown Coffee House,2010_Somerstown Coffee House_The Victory,51.529990000000005,-0.130767,2010-07-06
+327,Origin,The Victory,2010_Somerstown Coffee House_The Victory,51.529284000000004,-0.143999,2010-01-15
+328,Destination,Chester Arms,2010_Chester Arms_The Victory,51.527791,-0.14463099999999998,2010-09-11
+329,Origin,The Victory,2010_Chester Arms_The Victory,51.529284000000004,-0.143999,2010-01-15
+330,Destination,Wildwood Kitchen (Cafe Pasta),2010_Wildwood Kitchen (Cafe Pasta)_The Victory,51.514962,-0.12751800000000002,2010-04-06
+331,Origin,The Victory,2010_Wildwood Kitchen (Cafe Pasta)_The Victory,51.529284000000004,-0.143999,2010-01-15
+332,Destination,Red Rooms,2010_Red Rooms_The Victory,51.51668,-0.119209,2010-06-17
+333,Origin,The Victory,2010_Red Rooms_The Victory,51.529284000000004,-0.143999,2010-01-15
+334,Destination,Senor Ceviche (formerly known as The Barnyard),2010_Senor Ceviche (formerly known as The Barnyard)_The Victory,51.518959,-0.134555,2010-04-06
+335,Origin,The Victory,2010_Senor Ceviche (formerly known as The Barnyard)_The Victory,51.529284000000004,-0.143999,2010-01-15
+336,Destination,Adventure Bar (previously Detroit),2010_Adventure Bar (previously Detroit)_The Victory,51.514056,-0.12601400000000001,2010-04-06
+337,Origin,The Victory,2010_Adventure Bar (previously Detroit)_The Victory,51.529284000000004,-0.143999,2010-01-15
+338,Destination,Finchley Bell,2010_Finchley Bell_The Victory,51.549878,-0.183277,2010-09-02
+339,Origin,The Victory,2010_Finchley Bell_The Victory,51.529284000000004,-0.143999,2010-01-15
+340,Destination,Elephants Head,2010_Elephants Head_The Victory,51.540541999999995,-0.14366199999999998,2010-09-02
+341,Origin,The Victory,2010_Elephants Head_The Victory,51.529284000000004,-0.143999,2010-01-15
+342,Destination,Parkers,2010_Parkers_The Victory,51.516965,-0.120941,2010-01-19
+343,Origin,The Victory,2010_Parkers_The Victory,51.529284000000004,-0.143999,2010-01-15
+344,Destination,26 Grains (formerly known as Neal's Yard Salad Bar),2010_26 Grains (formerly known as Neal's Yard Salad Bar)_The Victory,51.514446,-0.126545,2010-04-06
+345,Origin,The Victory,2010_26 Grains (formerly known as Neal's Yard Salad Bar)_The Victory,51.529284000000004,-0.143999,2010-01-15
+346,Destination,Balans Restaurant,2010_Balans Restaurant_The Victory,51.513596,-0.127317,2010-04-06
+347,Origin,The Victory,2010_Balans Restaurant_The Victory,51.529284000000004,-0.143999,2010-01-15
+348,Destination,The Holly Bush,2010_The Holly Bush_The Victory,51.557922999999995,-0.17946099999999998,2010-04-03
+349,Origin,The Victory,2010_The Holly Bush_The Victory,51.529284000000004,-0.143999,2010-01-15
+350,Destination,PizzaExpress,2010_PizzaExpress_The Victory,51.557276,-0.17795,2010-06-17
+351,Origin,The Victory,2010_PizzaExpress_The Victory,51.529284000000004,-0.143999,2010-01-15
+352,Destination,The Blues Kitchen,2010_The Blues Kitchen_The Victory,51.536691,-0.141465,2010-09-02
+353,Origin,The Victory,2010_The Blues Kitchen_The Victory,51.529284000000004,-0.143999,2010-01-15
+354,Destination,Maxwell Restaurants LTD,2010_Maxwell Restaurants LTD_The Victory,51.557990000000004,-0.17815999999999999,2010-06-17
+355,Origin,The Victory,2010_Maxwell Restaurants LTD_The Victory,51.529284000000004,-0.143999,2010-01-15
+356,Destination,Homeslice Ltd,2010_Homeslice Ltd_The Victory,51.514446,-0.126545,2010-04-06
+357,Origin,The Victory,2010_Homeslice Ltd_The Victory,51.529284000000004,-0.143999,2010-01-15
+358,Destination,Flesh and Buns (previously Kitchen Italia),2010_Flesh and Buns (previously Kitchen Italia)_The Victory,51.514056,-0.12601400000000001,2010-04-06
+359,Origin,The Victory,2010_Flesh and Buns (previously Kitchen Italia)_The Victory,51.529284000000004,-0.143999,2010-01-15
+360,Destination,Prince Of Wales,2010_Prince Of Wales_The Victory,51.570890000000006,-0.148929,2010-09-02
+361,Origin,The Victory,2010_Prince Of Wales_The Victory,51.529284000000004,-0.143999,2010-01-15
+362,Destination,Oddbins,2010_Oddbins_The Victory,51.514962,-0.12751800000000002,2010-04-06
+363,Origin,The Victory,2010_Oddbins_The Victory,51.529284000000004,-0.143999,2010-01-15
+364,Destination,Bibimbap (previously Mennula),2010_Bibimbap (previously Mennula)_The Victory,51.518432000000004,-0.135121,2010-09-12
+365,Origin,The Victory,2010_Bibimbap (previously Mennula)_The Victory,51.529284000000004,-0.143999,2010-01-15
+366,Destination,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2010_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine)_The Victory,51.51578,-0.12225699999999999,2010-04-03
+367,Origin,The Victory,2010_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine)_The Victory,51.529284000000004,-0.143999,2010-01-15
+368,Destination,Gunmakers Arms,2009_Gunmakers Arms_Mela,51.522494,-0.110714,2009-10-30
+369,Origin,Mela,2009_Gunmakers Arms_Mela,51.51386,-0.127887,2009-03-06
+370,Destination,Mela,2009_Mela_Mela,51.51386,-0.127887,2009-03-06
+371,Origin,Mela,2009_Mela_Mela,51.51386,-0.127887,2009-03-06
+372,Destination,Devonshire Arms (Formely Hobgoblin),2009_Devonshire Arms (Formely Hobgoblin)_Mela,51.541325,-0.142537,2009-12-14
+373,Origin,Mela,2009_Devonshire Arms (Formely Hobgoblin)_Mela,51.51386,-0.127887,2009-03-06
+374,Destination,Sovereign,2009_Sovereign_Mela,51.530415999999995,-0.141208,2009-09-28
+375,Origin,Mela,2009_Sovereign_Mela,51.51386,-0.127887,2009-03-06
+376,Destination,Hope & Anchor,2009_Hope & Anchor_Mela,51.534285,-0.13764300000000002,2009-10-30
+377,Origin,Mela,2009_Hope & Anchor_Mela,51.51386,-0.127887,2009-03-06
+378,Destination,26 Grains (formerly known as Neal's Yard Salad Bar),2009_26 Grains (formerly known as Neal's Yard Salad Bar)_Mela,51.514446,-0.126545,2009-03-06
+379,Origin,Mela,2009_26 Grains (formerly known as Neal's Yard Salad Bar)_Mela,51.51386,-0.127887,2009-03-06
+380,Destination,Escape,2009_Escape_Mela,51.532687,-0.137501,2009-08-05
+381,Origin,Mela,2009_Escape_Mela,51.51386,-0.127887,2009-03-06
+382,Destination,Adventure Bar (previously Detroit),2009_Adventure Bar (previously Detroit)_Mela,51.514056,-0.12601400000000001,2009-03-06
+383,Origin,Mela,2009_Adventure Bar (previously Detroit)_Mela,51.51386,-0.127887,2009-03-06
+384,Destination,Compagnie des Vins Surnaturel,2009_Compagnie des Vins Surnaturel_Mela,51.514446,-0.126545,2009-03-06
+385,Origin,Mela,2009_Compagnie des Vins Surnaturel_Mela,51.51386,-0.127887,2009-03-06
+386,Destination,Souk Restaurant,2009_Souk Restaurant_Mela,51.514446,-0.126545,2009-03-06
+387,Origin,Mela,2009_Souk Restaurant_Mela,51.51386,-0.127887,2009-03-06
+388,Destination,Golden Lion,2009_Golden Lion_Mela,51.539006,-0.135735,2009-08-10
+389,Origin,Mela,2009_Golden Lion_Mela,51.51386,-0.127887,2009-03-06
+390,Destination,Bali Bali Restaurant,2009_Bali Bali Restaurant_Mela,51.51386,-0.127887,2009-03-06
+391,Origin,Mela,2009_Bali Bali Restaurant_Mela,51.51386,-0.127887,2009-03-06
+392,Destination,Oddbins,2009_Oddbins_Mela,51.514962,-0.12751800000000002,2009-03-06
+393,Origin,Mela,2009_Oddbins_Mela,51.51386,-0.127887,2009-03-06
+394,Destination,The Duke,2009_The Duke_Mela,51.522524,-0.116796,2009-10-30
+395,Origin,Mela,2009_The Duke_Mela,51.51386,-0.127887,2009-03-06
+396,Destination,Red Rooms,2009_Red Rooms_Mela,51.51668,-0.119209,2009-05-29
+397,Origin,Mela,2009_Red Rooms_Mela,51.51386,-0.127887,2009-03-06
+398,Destination,Parrs Head,2009_Parrs Head_Mela,51.536377,-0.137681,2009-08-10
+399,Origin,Mela,2009_Parrs Head_Mela,51.51386,-0.127887,2009-03-06
+400,Destination,The Boot,2009_The Boot_Mela,51.52767,-0.124072,2009-08-10
+401,Origin,Mela,2009_The Boot_Mela,51.51386,-0.127887,2009-03-06
+402,Destination,The Ninth,2009_The Ninth_Mela,51.518959,-0.134555,2009-04-06
+403,Origin,Mela,2009_The Ninth_Mela,51.51386,-0.127887,2009-03-06
+404,Destination,PizzaExpress,2009_PizzaExpress_Mela,51.557276,-0.17795,2009-11-06
+405,Origin,Mela,2009_PizzaExpress_Mela,51.51386,-0.127887,2009-03-06
+406,Destination,Homeslice Ltd,2009_Homeslice Ltd_Mela,51.514446,-0.126545,2009-03-06
+407,Origin,Mela,2009_Homeslice Ltd_Mela,51.51386,-0.127887,2009-03-06
+408,Destination,Maxwell Restaurants LTD,2009_Maxwell Restaurants LTD_Mela,51.557990000000004,-0.17815999999999999,2009-11-06
+409,Origin,Mela,2009_Maxwell Restaurants LTD_Mela,51.51386,-0.127887,2009-03-06
+410,Destination,Wildwood Kitchen (Cafe Pasta),2009_Wildwood Kitchen (Cafe Pasta)_Mela,51.514962,-0.12751800000000002,2009-03-06
+411,Origin,Mela,2009_Wildwood Kitchen (Cafe Pasta)_Mela,51.51386,-0.127887,2009-03-06
+412,Destination,Brasserie Blanc,2009_Brasserie Blanc_Mela,51.518432000000004,-0.135121,2009-04-06
+413,Origin,Mela,2009_Brasserie Blanc_Mela,51.51386,-0.127887,2009-03-06
+414,Destination,Flesh and Buns (previously Kitchen Italia),2009_Flesh and Buns (previously Kitchen Italia)_Mela,51.514056,-0.12601400000000001,2009-03-06
+415,Origin,Mela,2009_Flesh and Buns (previously Kitchen Italia)_Mela,51.51386,-0.127887,2009-03-06
+416,Destination,Donmar Warehouse Theatre,2009_Donmar Warehouse Theatre_Mela,51.514056,-0.12601400000000001,2009-03-06
+417,Origin,Mela,2009_Donmar Warehouse Theatre_Mela,51.51386,-0.127887,2009-03-06
+418,Destination,Canela,2009_Canela_Mela,51.514056,-0.12601400000000001,2009-03-06
+419,Origin,Mela,2009_Canela_Mela,51.51386,-0.127887,2009-03-06
+420,Destination,Cock Tavern,2009_Cock Tavern_Mela,51.531317,-0.131109,2009-08-10
+421,Origin,Mela,2009_Cock Tavern_Mela,51.51386,-0.127887,2009-03-06
+422,Destination,Rossopomodoro,2009_Rossopomodoro_Mela,51.513243,-0.127366,2009-03-06
+423,Origin,Mela,2009_Rossopomodoro_Mela,51.51386,-0.127887,2009-03-06
+424,Destination,Puccinos,2009_Puccinos_Mela,51.529302,-0.13258499999999998,2009-08-24
+425,Origin,Mela,2009_Puccinos_Mela,51.51386,-0.127887,2009-03-06
+426,Destination,Somerstown Coffee House,2009_Somerstown Coffee House_Mela,51.529990000000005,-0.130767,2009-04-06
+427,Origin,Mela,2009_Somerstown Coffee House_Mela,51.51386,-0.127887,2009-03-06
+428,Destination,Spearmint Rhino,2009_Spearmint Rhino_Mela,51.523398,-0.136463,2009-09-21
+429,Origin,Mela,2009_Spearmint Rhino_Mela,51.51386,-0.127887,2009-03-06
+430,Destination,Balans Restaurant,2009_Balans Restaurant_Mela,51.513596,-0.127317,2009-03-06
+431,Origin,Mela,2009_Balans Restaurant_Mela,51.51386,-0.127887,2009-03-06
+432,Destination,Somerstown Coffee House,2016_Somerstown Coffee House_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+433,Origin,Somerstown Coffee House,2016_Somerstown Coffee House_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+434,Destination,Cross Keys,2016_Cross Keys_Somerstown Coffee House,51.514406,-0.12488599999999998,2016-08-07
+435,Origin,Somerstown Coffee House,2016_Cross Keys_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+436,Destination,"Honest Burgers, 34A, 34D, L8","2016_Honest Burgers, 34A, 34D, L8_Somerstown Coffee House",51.54123,-0.146584,2016-01-08
+437,Origin,Somerstown Coffee House,"2016_Honest Burgers, 34A, 34D, L8_Somerstown Coffee House",51.529990000000005,-0.130767,2016-01-06
+438,Destination,Donmar Warehouse Theatre,2016_Donmar Warehouse Theatre_Somerstown Coffee House,51.514056,-0.12601400000000001,2016-08-07
+439,Origin,Somerstown Coffee House,2016_Donmar Warehouse Theatre_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+440,Destination,The Ninth,2016_The Ninth_Somerstown Coffee House,51.518959,-0.134555,2016-08-07
+441,Origin,Somerstown Coffee House,2016_The Ninth_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+442,Destination,Hi Sushi,2016_Hi Sushi_Somerstown Coffee House,51.540754,-0.145258,2016-10-18
+443,Origin,Somerstown Coffee House,2016_Hi Sushi_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+444,Destination,Love & Liquor,2016_Love & Liquor_Somerstown Coffee House,51.536709,-0.19143,2016-03-03
+445,Origin,Somerstown Coffee House,2016_Love & Liquor_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+446,Destination,Royal College Of Physicians Of London,2016_Royal College Of Physicians Of London_Somerstown Coffee House,51.52628,-0.14485699999999999,2016-11-17
+447,Origin,Somerstown Coffee House,2016_Royal College Of Physicians Of London_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+448,Destination,Homeslice Ltd,2016_Homeslice Ltd_Somerstown Coffee House,51.514446,-0.126545,2016-08-07
+449,Origin,Somerstown Coffee House,2016_Homeslice Ltd_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+450,Destination,Bali Bali Restaurant,2016_Bali Bali Restaurant_Somerstown Coffee House,51.51386,-0.127887,2016-08-07
+451,Origin,Somerstown Coffee House,2016_Bali Bali Restaurant_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+452,Destination,"Rosso Pomodoro, Unit 1","2016_Rosso Pomodoro, Unit 1_Somerstown Coffee House",51.540754,-0.145258,2016-01-08
+453,Origin,Somerstown Coffee House,"2016_Rosso Pomodoro, Unit 1_Somerstown Coffee House",51.529990000000005,-0.130767,2016-01-06
+454,Destination,Zala Grill (formerly Hola Paella),2016_Zala Grill (formerly Hola Paella)_Somerstown Coffee House,51.54123,-0.146584,2016-01-08
+455,Origin,Somerstown Coffee House,2016_Zala Grill (formerly Hola Paella)_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+456,Destination,The Bowler,2016_The Bowler_Somerstown Coffee House,51.515044,-0.126064,2016-08-07
+457,Origin,Somerstown Coffee House,2016_The Bowler_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+458,Destination,Chipotle Mexican Grill,2016_Chipotle Mexican Grill_Somerstown Coffee House,51.514562,-0.12926500000000002,2016-04-21
+459,Origin,Somerstown Coffee House,2016_Chipotle Mexican Grill_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+460,Destination,Reverend JW Simpson,2016_Reverend JW Simpson_Somerstown Coffee House,51.519855,-0.135379,2016-08-07
+461,Origin,Somerstown Coffee House,2016_Reverend JW Simpson_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+462,Destination,The 10 Cases (formerly Aziza Cafe),2016_The 10 Cases (formerly Aziza Cafe)_Somerstown Coffee House,51.514406,-0.12488599999999998,2016-08-07
+463,Origin,Somerstown Coffee House,2016_The 10 Cases (formerly Aziza Cafe)_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+464,Destination,Cure & Cut,2016_Cure & Cut_Somerstown Coffee House,51.513596,-0.127317,2016-08-07
+465,Origin,Somerstown Coffee House,2016_Cure & Cut_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+466,Destination,Ape and Bird,2016_Ape and Bird_Somerstown Coffee House,51.513245,-0.12820299999999998,2016-08-07
+467,Origin,Somerstown Coffee House,2016_Ape and Bird_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+468,Destination,Pret A Manger,2016_Pret A Manger_Somerstown Coffee House,51.520337,-0.134654,2016-04-21
+469,Origin,Somerstown Coffee House,2016_Pret A Manger_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+470,Destination,Cuban,2016_Cuban_Somerstown Coffee House,51.542256,-0.14816,2016-10-14
+471,Origin,Somerstown Coffee House,2016_Cuban_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+472,Destination,Sovereign,2016_Sovereign_Somerstown Coffee House,51.530415999999995,-0.141208,2016-08-17
+473,Origin,Somerstown Coffee House,2016_Sovereign_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+474,Destination,Senor Ceviche (formerly known as The Barnyard),2016_Senor Ceviche (formerly known as The Barnyard)_Somerstown Coffee House,51.518959,-0.134555,2016-08-07
+475,Origin,Somerstown Coffee House,2016_Senor Ceviche (formerly known as The Barnyard)_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+476,Destination,Wildwood Kitchen (Cafe Pasta),2016_Wildwood Kitchen (Cafe Pasta)_Somerstown Coffee House,51.514962,-0.12751800000000002,2016-08-07
+477,Origin,Somerstown Coffee House,2016_Wildwood Kitchen (Cafe Pasta)_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+478,Destination,Camden Assembly,2016_Camden Assembly_Somerstown Coffee House,51.542882,-0.14976099999999998,2016-10-18
+479,Origin,Somerstown Coffee House,2016_Camden Assembly_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+480,Destination,Tesco Metro,2016_Tesco Metro_Somerstown Coffee House,51.520337,-0.134654,2016-04-21
+481,Origin,Somerstown Coffee House,2016_Tesco Metro_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+482,Destination,Kentucky Fried Chicken,2016_Kentucky Fried Chicken_Somerstown Coffee House,51.520337,-0.134654,2016-04-21
+483,Origin,Somerstown Coffee House,2016_Kentucky Fried Chicken_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+484,Destination,The Dartmouth Arms,2016_The Dartmouth Arms_Somerstown Coffee House,51.558535,-0.143825,2016-10-25
+485,Origin,Somerstown Coffee House,2016_The Dartmouth Arms_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+486,Destination,Wheatsheaf,2016_Wheatsheaf_Somerstown Coffee House,51.51757,-0.132725,2016-08-07
+487,Origin,Somerstown Coffee House,2016_Wheatsheaf_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+488,Destination,Le Pain Quotidien,2016_Le Pain Quotidien_Somerstown Coffee House,51.520337,-0.134654,2016-04-21
+489,Origin,Somerstown Coffee House,2016_Le Pain Quotidien_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+490,Destination,Crown & Anchor,2016_Crown & Anchor_Somerstown Coffee House,51.514247999999995,-0.125254,2016-08-07
+491,Origin,Somerstown Coffee House,2016_Crown & Anchor_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+492,Destination,Flesh and Buns (previously Kitchen Italia),2016_Flesh and Buns (previously Kitchen Italia)_Somerstown Coffee House,51.514056,-0.12601400000000001,2016-08-07
+493,Origin,Somerstown Coffee House,2016_Flesh and Buns (previously Kitchen Italia)_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+494,Destination,Brasserie Blanc,2016_Brasserie Blanc_Somerstown Coffee House,51.518432000000004,-0.135121,2016-08-07
+495,Origin,Somerstown Coffee House,2016_Brasserie Blanc_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+496,Destination,CVS,2016_CVS_Somerstown Coffee House,51.514446,-0.126545,2016-08-07
+497,Origin,Somerstown Coffee House,2016_CVS_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+498,Destination,The T.E. Dingwall Building (Formerly Lock 17/Highlight),2016_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Somerstown Coffee House,51.541428,-0.145851,2016-10-18
+499,Origin,Somerstown Coffee House,2016_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+500,Destination,Delancey & Co,2016_Delancey & Co_Somerstown Coffee House,51.519855,-0.135379,2016-08-07
+501,Origin,Somerstown Coffee House,2016_Delancey & Co_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+502,Destination,"Proud  Camden, The Horse Hospital","2016_Proud  Camden, The Horse Hospital_Somerstown Coffee House",51.542256,-0.14816,2016-01-27
+503,Origin,Somerstown Coffee House,"2016_Proud  Camden, The Horse Hospital_Somerstown Coffee House",51.529990000000005,-0.130767,2016-01-06
+504,Destination,Native's,2016_Native's_Somerstown Coffee House,51.514446,-0.126545,2016-08-07
+505,Origin,Somerstown Coffee House,2016_Native's_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+506,Destination,Compagnie des Vins Surnaturel,2016_Compagnie des Vins Surnaturel_Somerstown Coffee House,51.514446,-0.126545,2016-08-07
+507,Origin,Somerstown Coffee House,2016_Compagnie des Vins Surnaturel_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+508,Destination,Mela,2016_Mela_Somerstown Coffee House,51.51386,-0.127887,2016-08-07
+509,Origin,Somerstown Coffee House,2016_Mela_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+510,Destination,26 Grains (formerly known as Neal's Yard Salad Bar),2016_26 Grains (formerly known as Neal's Yard Salad Bar)_Somerstown Coffee House,51.514446,-0.126545,2016-09-20
+511,Origin,Somerstown Coffee House,2016_26 Grains (formerly known as Neal's Yard Salad Bar)_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+512,Destination,Rossopomodoro,2016_Rossopomodoro_Somerstown Coffee House,51.513243,-0.127366,2016-08-07
+513,Origin,Somerstown Coffee House,2016_Rossopomodoro_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+514,Destination,"Seawise, Unit 726","2016_Seawise, Unit 726_Somerstown Coffee House",51.542256,-0.14816,2016-10-18
+515,Origin,Somerstown Coffee House,"2016_Seawise, Unit 726_Somerstown Coffee House",51.529990000000005,-0.130767,2016-01-06
+516,Destination,Pricecheck,2016_Pricecheck_Somerstown Coffee House,51.530239,-0.12168499999999999,2016-04-04
+517,Origin,Somerstown Coffee House,2016_Pricecheck_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+518,Destination,Adventure Bar (previously Detroit),2016_Adventure Bar (previously Detroit)_Somerstown Coffee House,51.514056,-0.12601400000000001,2016-08-07
+519,Origin,Somerstown Coffee House,2016_Adventure Bar (previously Detroit)_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+520,Destination,"Ghetto Grillz, DO1","2016_Ghetto Grillz, DO1_Somerstown Coffee House",51.542256,-0.14816,2016-01-08
+521,Origin,Somerstown Coffee House,"2016_Ghetto Grillz, DO1_Somerstown Coffee House",51.529990000000005,-0.130767,2016-01-06
+522,Destination,Ice Wharf - Lloyds No 1,2016_Ice Wharf - Lloyds No 1_Somerstown Coffee House,51.540754,-0.145258,2016-01-08
+523,Origin,Somerstown Coffee House,2016_Ice Wharf - Lloyds No 1_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+524,Destination,ZLC 7 Dials,2016_ZLC 7 Dials_Somerstown Coffee House,51.514446,-0.126545,2016-08-07
+525,Origin,Somerstown Coffee House,2016_ZLC 7 Dials_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+526,Destination,Nisa Local (previously Price Check),2016_Nisa Local (previously Price Check)_Somerstown Coffee House,51.546657,-0.19045499999999999,2016-04-04
+527,Origin,Somerstown Coffee House,2016_Nisa Local (previously Price Check)_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+528,Destination,Barrica,2016_Barrica_Somerstown Coffee House,51.51935,-0.13703900000000002,2016-08-07
+529,Origin,Somerstown Coffee House,2016_Barrica_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+530,Destination,Canela,2016_Canela_Somerstown Coffee House,51.514056,-0.12601400000000001,2016-08-07
+531,Origin,Somerstown Coffee House,2016_Canela_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+532,Destination,Bibimbap (previously Mennula),2016_Bibimbap (previously Mennula)_Somerstown Coffee House,51.518432000000004,-0.135121,2016-08-07
+533,Origin,Somerstown Coffee House,2016_Bibimbap (previously Mennula)_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+534,Destination,Souk Restaurant,2016_Souk Restaurant_Somerstown Coffee House,51.514446,-0.126545,2016-08-07
+535,Origin,Somerstown Coffee House,2016_Souk Restaurant_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+536,Destination,Timberyard,2016_Timberyard_Somerstown Coffee House,51.512865000000005,-0.127574,2016-08-07
+537,Origin,Somerstown Coffee House,2016_Timberyard_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+538,Destination,Draft House,2016_Draft House_Somerstown Coffee House,51.519021,-0.135793,2016-08-07
+539,Origin,Somerstown Coffee House,2016_Draft House_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+540,Destination,Balans Restaurant,2016_Balans Restaurant_Somerstown Coffee House,51.513596,-0.127317,2016-08-07
+541,Origin,Somerstown Coffee House,2016_Balans Restaurant_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+542,Destination,Flight Club,2016_Flight Club_Somerstown Coffee House,51.516711,-0.127133,2016-02-22
+543,Origin,Somerstown Coffee House,2016_Flight Club_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+544,Destination,Oliver's Yard Cafe,2016_Oliver's Yard Cafe_Somerstown Coffee House,51.54123,-0.146584,2016-01-08
+545,Origin,Somerstown Coffee House,2016_Oliver's Yard Cafe_Somerstown Coffee House,51.529990000000005,-0.130767,2016-01-06
+546,Destination,Souk Restaurant,2014_Souk Restaurant_Golden Lion,51.514446,-0.126545,2014-09-06
+547,Origin,Golden Lion,2014_Souk Restaurant_Golden Lion,51.539006,-0.135735,2014-03-01
+548,Destination,Somerstown Coffee House,2014_Somerstown Coffee House_Golden Lion,51.529990000000005,-0.130767,2014-03-06
+549,Origin,Golden Lion,2014_Somerstown Coffee House_Golden Lion,51.539006,-0.135735,2014-03-01
+550,Destination,Balans Restaurant,2014_Balans Restaurant_Golden Lion,51.513596,-0.127317,2014-09-06
+551,Origin,Golden Lion,2014_Balans Restaurant_Golden Lion,51.539006,-0.135735,2014-03-01
+552,Destination,Mela,2014_Mela_Golden Lion,51.51386,-0.127887,2014-09-06
+553,Origin,Golden Lion,2014_Mela_Golden Lion,51.539006,-0.135735,2014-03-01
+554,Destination,Wildwood Kitchen (Cafe Pasta),2014_Wildwood Kitchen (Cafe Pasta)_Golden Lion,51.514962,-0.12751800000000002,2014-09-06
+555,Origin,Golden Lion,2014_Wildwood Kitchen (Cafe Pasta)_Golden Lion,51.539006,-0.135735,2014-03-01
+556,Destination,Ship Tavern,2014_Ship Tavern_Golden Lion,51.517002000000005,-0.11943599999999999,2014-12-02
+557,Origin,Golden Lion,2014_Ship Tavern_Golden Lion,51.539006,-0.135735,2014-03-01
+558,Destination,Donmar Warehouse Theatre,2014_Donmar Warehouse Theatre_Golden Lion,51.514056,-0.12601400000000001,2014-09-06
+559,Origin,Golden Lion,2014_Donmar Warehouse Theatre_Golden Lion,51.539006,-0.135735,2014-03-01
+560,Destination,Grand Union (Camden),2014_Grand Union (Camden)_Golden Lion,51.541578,-0.13784200000000002,2014-12-02
+561,Origin,Golden Lion,2014_Grand Union (Camden)_Golden Lion,51.539006,-0.135735,2014-03-01
+562,Destination,Homeslice Ltd,2014_Homeslice Ltd_Golden Lion,51.514446,-0.126545,2014-09-06
+563,Origin,Golden Lion,2014_Homeslice Ltd_Golden Lion,51.539006,-0.135735,2014-03-01
+564,Destination,Cure & Cut,2014_Cure & Cut_Golden Lion,51.513596,-0.127317,2014-09-06
+565,Origin,Golden Lion,2014_Cure & Cut_Golden Lion,51.539006,-0.135735,2014-03-01
+566,Destination,Camden Eye,2014_Camden Eye_Golden Lion,51.539219,-0.141978,2014-12-02
+567,Origin,Golden Lion,2014_Camden Eye_Golden Lion,51.539006,-0.135735,2014-03-01
+568,Destination,Bali Bali Restaurant,2014_Bali Bali Restaurant_Golden Lion,51.51386,-0.127887,2014-09-06
+569,Origin,Golden Lion,2014_Bali Bali Restaurant_Golden Lion,51.539006,-0.135735,2014-03-01
+570,Destination,The 10 Cases (formerly Aziza Cafe),2014_The 10 Cases (formerly Aziza Cafe)_Golden Lion,51.514406,-0.12488599999999998,2014-09-06
+571,Origin,Golden Lion,2014_The 10 Cases (formerly Aziza Cafe)_Golden Lion,51.539006,-0.135735,2014-03-01
+572,Destination,Ape and Bird,2014_Ape and Bird_Golden Lion,51.513245,-0.12820299999999998,2014-09-06
+573,Origin,Golden Lion,2014_Ape and Bird_Golden Lion,51.539006,-0.135735,2014-03-01
+574,Destination,Be At One,2014_Be At One_Golden Lion,51.535494,-0.140296,2014-06-27
+575,Origin,Golden Lion,2014_Be At One_Golden Lion,51.539006,-0.135735,2014-03-01
+576,Destination,White Horse,2014_White Horse_Golden Lion,51.554378,-0.16508299999999998,2014-05-15
+577,Origin,Golden Lion,2014_White Horse_Golden Lion,51.539006,-0.135735,2014-03-01
+578,Destination,Thai Square,2014_Thai Square_Golden Lion,51.514389,-0.12725799999999998,2014-06-20
+579,Origin,Golden Lion,2014_Thai Square_Golden Lion,51.539006,-0.135735,2014-03-01
+580,Destination,Love & Liquor,2014_Love & Liquor_Golden Lion,51.536709,-0.19143,2014-12-02
+581,Origin,Golden Lion,2014_Love & Liquor_Golden Lion,51.539006,-0.135735,2014-03-01
+582,Destination,Adventure Bar (previously Detroit),2014_Adventure Bar (previously Detroit)_Golden Lion,51.514056,-0.12601400000000001,2014-09-06
+583,Origin,Golden Lion,2014_Adventure Bar (previously Detroit)_Golden Lion,51.539006,-0.135735,2014-03-01
+584,Destination,Sir Robert Peel,2014_Sir Robert Peel_Golden Lion,51.549575,-0.15285,2014-12-02
+585,Origin,Golden Lion,2014_Sir Robert Peel_Golden Lion,51.539006,-0.135735,2014-03-01
+586,Destination,Barrica,2014_Barrica_Golden Lion,51.51935,-0.13703900000000002,2014-09-06
+587,Origin,Golden Lion,2014_Barrica_Golden Lion,51.539006,-0.135735,2014-03-01
+588,Destination,Royal College Of Physicians Of London,2014_Royal College Of Physicians Of London_Golden Lion,51.52628,-0.14485699999999999,2014-11-20
+589,Origin,Golden Lion,2014_Royal College Of Physicians Of London_Golden Lion,51.539006,-0.135735,2014-03-01
+590,Destination,Rossopomodoro,2014_Rossopomodoro_Golden Lion,51.513243,-0.127366,2014-09-06
+591,Origin,Golden Lion,2014_Rossopomodoro_Golden Lion,51.539006,-0.135735,2014-03-01
+592,Destination,Timberyard,2014_Timberyard_Golden Lion,51.512865000000005,-0.127574,2014-09-06
+593,Origin,Golden Lion,2014_Timberyard_Golden Lion,51.539006,-0.135735,2014-03-01
+594,Destination,CVS,2014_CVS_Golden Lion,51.514446,-0.126545,2014-09-06
+595,Origin,Golden Lion,2014_CVS_Golden Lion,51.539006,-0.135735,2014-03-01
+596,Destination,Cross Keys,2014_Cross Keys_Golden Lion,51.514406,-0.12488599999999998,2014-09-06
+597,Origin,Golden Lion,2014_Cross Keys_Golden Lion,51.539006,-0.135735,2014-03-01
+598,Destination,Bibimbap (previously Mennula),2014_Bibimbap (previously Mennula)_Golden Lion,51.518432000000004,-0.135121,2014-09-06
+599,Origin,Golden Lion,2014_Bibimbap (previously Mennula)_Golden Lion,51.539006,-0.135735,2014-03-01
+600,Destination,Elephants Head,2014_Elephants Head_Golden Lion,51.540541999999995,-0.14366199999999998,2014-12-02
+601,Origin,Golden Lion,2014_Elephants Head_Golden Lion,51.539006,-0.135735,2014-03-01
+602,Destination,26 Grains (formerly known as Neal's Yard Salad Bar),2014_26 Grains (formerly known as Neal's Yard Salad Bar)_Golden Lion,51.514446,-0.126545,2014-09-06
+603,Origin,Golden Lion,2014_26 Grains (formerly known as Neal's Yard Salad Bar)_Golden Lion,51.539006,-0.135735,2014-03-01
+604,Destination,Senor Ceviche (formerly known as The Barnyard),2014_Senor Ceviche (formerly known as The Barnyard)_Golden Lion,51.518959,-0.134555,2014-09-06
+605,Origin,Golden Lion,2014_Senor Ceviche (formerly known as The Barnyard)_Golden Lion,51.539006,-0.135735,2014-03-01
+606,Destination,Brasserie Blanc,2014_Brasserie Blanc_Golden Lion,51.518432000000004,-0.135121,2014-09-06
+607,Origin,Golden Lion,2014_Brasserie Blanc_Golden Lion,51.539006,-0.135735,2014-03-01
+608,Destination,Flesh and Buns (previously Kitchen Italia),2014_Flesh and Buns (previously Kitchen Italia)_Golden Lion,51.514056,-0.12601400000000001,2014-09-06
+609,Origin,Golden Lion,2014_Flesh and Buns (previously Kitchen Italia)_Golden Lion,51.539006,-0.135735,2014-03-01
+610,Destination,The Ninth,2014_The Ninth_Golden Lion,51.518959,-0.134555,2014-09-06
+611,Origin,Golden Lion,2014_The Ninth_Golden Lion,51.539006,-0.135735,2014-03-01
+612,Destination,Compagnie des Vins Surnaturel,2014_Compagnie des Vins Surnaturel_Golden Lion,51.514446,-0.126545,2014-09-06
+613,Origin,Golden Lion,2014_Compagnie des Vins Surnaturel_Golden Lion,51.539006,-0.135735,2014-03-01
+614,Destination,Prince Of Wales,2014_Prince Of Wales_Golden Lion,51.570890000000006,-0.148929,2014-12-02
+615,Origin,Golden Lion,2014_Prince Of Wales_Golden Lion,51.539006,-0.135735,2014-03-01
+616,Destination,Bounce,2014_Bounce_Golden Lion,51.518529,-0.108519,2014-06-08
+617,Origin,Golden Lion,2014_Bounce_Golden Lion,51.539006,-0.135735,2014-03-01
+618,Destination,Wheatsheaf,2014_Wheatsheaf_Golden Lion,51.51757,-0.132725,2014-09-06
+619,Origin,Golden Lion,2014_Wheatsheaf_Golden Lion,51.539006,-0.135735,2014-03-01
+620,Destination,Golden Lion,2014_Golden Lion_Golden Lion,51.539006,-0.135735,2014-03-01
+621,Origin,Golden Lion,2014_Golden Lion_Golden Lion,51.539006,-0.135735,2014-03-01
+622,Destination,Bobby's (formerly La Brocca),2014_Bobby's (formerly La Brocca)_Golden Lion,51.550391999999995,-0.19197899999999998,2014-10-20
+623,Origin,Golden Lion,2014_Bobby's (formerly La Brocca)_Golden Lion,51.539006,-0.135735,2014-03-01
+624,Destination,Crown & Anchor,2014_Crown & Anchor_Golden Lion,51.514247999999995,-0.125254,2014-09-06
+625,Origin,Golden Lion,2014_Crown & Anchor_Golden Lion,51.539006,-0.135735,2014-03-01
+626,Destination,King William The Fourth,2014_King William The Fourth_Golden Lion,51.555440999999995,-0.176922,2014-12-02
+627,Origin,Golden Lion,2014_King William The Fourth_Golden Lion,51.539006,-0.135735,2014-03-01
+628,Destination,Canela,2014_Canela_Golden Lion,51.514056,-0.12601400000000001,2014-09-06
+629,Origin,Golden Lion,2014_Canela_Golden Lion,51.539006,-0.135735,2014-03-01
+630,Destination,Reverend JW Simpson,2014_Reverend JW Simpson_Golden Lion,51.519855,-0.135379,2014-09-06
+631,Origin,Golden Lion,2014_Reverend JW Simpson_Golden Lion,51.539006,-0.135735,2014-03-01
+632,Destination,"Paramount (Floors 31, 32, 33)","2014_Paramount (Floors 31, 32, 33)_Golden Lion",51.516178000000004,-0.12926500000000002,2014-10-15
+633,Origin,Golden Lion,"2014_Paramount (Floors 31, 32, 33)_Golden Lion",51.539006,-0.135735,2014-03-01
+634,Destination,Cock Tavern,2014_Cock Tavern_Golden Lion,51.531317,-0.131109,2014-10-04
+635,Origin,Golden Lion,2014_Cock Tavern_Golden Lion,51.539006,-0.135735,2014-03-01
+636,Destination,Draft House,2014_Draft House_Golden Lion,51.519021,-0.135793,2014-09-06
+637,Origin,Golden Lion,2014_Draft House_Golden Lion,51.539006,-0.135735,2014-03-01
+638,Destination,Tesco Metro,2014_Tesco Metro_Golden Lion,51.520337,-0.134654,2014-04-14
+639,Origin,Golden Lion,2014_Tesco Metro_Golden Lion,51.539006,-0.135735,2014-03-01
+640,Destination,Grafton Arms,2011_Grafton Arms_McDonald's Restaurants Ltd,51.547061,-0.14493599999999998,2011-07-01
+641,Origin,McDonald's Restaurants Ltd,2011_Grafton Arms_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+642,Destination,Senor Ceviche (formerly known as The Barnyard),2011_Senor Ceviche (formerly known as The Barnyard)_McDonald's Restaurants Ltd,51.518959,-0.134555,2011-06-06
+643,Origin,McDonald's Restaurants Ltd,2011_Senor Ceviche (formerly known as The Barnyard)_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+644,Destination,McDonald's Restaurants Ltd,2011_McDonald's Restaurants Ltd_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+645,Origin,McDonald's Restaurants Ltd,2011_McDonald's Restaurants Ltd_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+646,Destination,Adventure Bar (previously Detroit),2011_Adventure Bar (previously Detroit)_McDonald's Restaurants Ltd,51.514056,-0.12601400000000001,2011-06-06
+647,Origin,McDonald's Restaurants Ltd,2011_Adventure Bar (previously Detroit)_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+648,Destination,Souk Restaurant,2011_Souk Restaurant_McDonald's Restaurants Ltd,51.514446,-0.126545,2011-06-06
+649,Origin,McDonald's Restaurants Ltd,2011_Souk Restaurant_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+650,Destination,Spearmint Rhino,2011_Spearmint Rhino_McDonald's Restaurants Ltd,51.523398,-0.136463,2011-08-11
+651,Origin,McDonald's Restaurants Ltd,2011_Spearmint Rhino_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+652,Destination,Kentucky Fried Chicken,2011_Kentucky Fried Chicken_McDonald's Restaurants Ltd,51.520337,-0.134654,2011-05-31
+653,Origin,McDonald's Restaurants Ltd,2011_Kentucky Fried Chicken_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+654,Destination,Red Rooms,2011_Red Rooms_McDonald's Restaurants Ltd,51.51668,-0.119209,2011-01-07
+655,Origin,McDonald's Restaurants Ltd,2011_Red Rooms_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+656,Destination,Grand Union (Camden),2011_Grand Union (Camden)_McDonald's Restaurants Ltd,51.541578,-0.13784200000000002,2011-08-02
+657,Origin,McDonald's Restaurants Ltd,2011_Grand Union (Camden)_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+658,Destination,Sovereign,2011_Sovereign_McDonald's Restaurants Ltd,51.530415999999995,-0.141208,2011-11-14
+659,Origin,McDonald's Restaurants Ltd,2011_Sovereign_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+660,Destination,Northumberland Arms,2011_Northumberland Arms_McDonald's Restaurants Ltd,51.523142,-0.137511,2011-08-19
+661,Origin,McDonald's Restaurants Ltd,2011_Northumberland Arms_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+662,Destination,Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine),2011_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine)_McDonald's Restaurants Ltd,51.51578,-0.12225699999999999,2011-04-03
+663,Origin,McDonald's Restaurants Ltd,2011_Bunga Bunga (Formerly The Drury Club Ground Floor and Mezzanine)_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+664,Destination,Sir Robert Peel,2011_Sir Robert Peel_McDonald's Restaurants Ltd,51.549575,-0.15285,2011-08-02
+665,Origin,McDonald's Restaurants Ltd,2011_Sir Robert Peel_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+666,Destination,Camden Eye,2011_Camden Eye_McDonald's Restaurants Ltd,51.539219,-0.141978,2011-08-02
+667,Origin,McDonald's Restaurants Ltd,2011_Camden Eye_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+668,Destination,Flesh and Buns (previously Kitchen Italia),2011_Flesh and Buns (previously Kitchen Italia)_McDonald's Restaurants Ltd,51.514056,-0.12601400000000001,2011-06-06
+669,Origin,McDonald's Restaurants Ltd,2011_Flesh and Buns (previously Kitchen Italia)_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+670,Destination,Oddbins,2011_Oddbins_McDonald's Restaurants Ltd,51.514962,-0.12751800000000002,2011-06-06
+671,Origin,McDonald's Restaurants Ltd,2011_Oddbins_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+672,Destination,Rossopomodoro,2011_Rossopomodoro_McDonald's Restaurants Ltd,51.513243,-0.127366,2011-06-06
+673,Origin,McDonald's Restaurants Ltd,2011_Rossopomodoro_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+674,Destination,Le Pain Quotidien,2011_Le Pain Quotidien_McDonald's Restaurants Ltd,51.520337,-0.134654,2011-05-31
+675,Origin,McDonald's Restaurants Ltd,2011_Le Pain Quotidien_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+676,Destination,The Diner,2011_The Diner_McDonald's Restaurants Ltd,51.515044,-0.126064,2011-11-30
+677,Origin,McDonald's Restaurants Ltd,2011_The Diner_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+678,Destination,Canela,2011_Canela_McDonald's Restaurants Ltd,51.514056,-0.12601400000000001,2011-06-06
+679,Origin,McDonald's Restaurants Ltd,2011_Canela_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+680,Destination,White Horse,2011_White Horse_McDonald's Restaurants Ltd,51.554378,-0.16508299999999998,2011-08-02
+681,Origin,McDonald's Restaurants Ltd,2011_White Horse_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+682,Destination,Marquis Of Granby,2011_Marquis Of Granby_McDonald's Restaurants Ltd,51.513245,-0.12820299999999998,2011-06-06
+683,Origin,McDonald's Restaurants Ltd,2011_Marquis Of Granby_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+684,Destination,Crown & Anchor,2011_Crown & Anchor_McDonald's Restaurants Ltd,51.514247999999995,-0.125254,2011-06-06
+685,Origin,McDonald's Restaurants Ltd,2011_Crown & Anchor_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+686,Destination,The Ninth,2011_The Ninth_McDonald's Restaurants Ltd,51.518959,-0.134555,2011-06-06
+687,Origin,McDonald's Restaurants Ltd,2011_The Ninth_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+688,Destination,King William The Fourth,2011_King William The Fourth_McDonald's Restaurants Ltd,51.555440999999995,-0.176922,2011-08-02
+689,Origin,McDonald's Restaurants Ltd,2011_King William The Fourth_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+690,Destination,32A Limited (previously Bullet Bar),2011_32A Limited (previously Bullet Bar)_McDonald's Restaurants Ltd,51.544982,-0.141947,2011-06-20
+691,Origin,McDonald's Restaurants Ltd,2011_32A Limited (previously Bullet Bar)_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+692,Destination,Bibimbap (previously Mennula),2011_Bibimbap (previously Mennula)_McDonald's Restaurants Ltd,51.518432000000004,-0.135121,2011-06-06
+693,Origin,McDonald's Restaurants Ltd,2011_Bibimbap (previously Mennula)_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+694,Destination,Prince Of Wales,2011_Prince Of Wales_McDonald's Restaurants Ltd,51.570890000000006,-0.148929,2011-08-02
+695,Origin,McDonald's Restaurants Ltd,2011_Prince Of Wales_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+696,Destination,Donmar Warehouse Theatre,2011_Donmar Warehouse Theatre_McDonald's Restaurants Ltd,51.514056,-0.12601400000000001,2011-06-06
+697,Origin,McDonald's Restaurants Ltd,2011_Donmar Warehouse Theatre_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+698,Destination,Barrica,2011_Barrica_McDonald's Restaurants Ltd,51.51935,-0.13703900000000002,2011-06-06
+699,Origin,McDonald's Restaurants Ltd,2011_Barrica_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+700,Destination,Tesco Metro,2011_Tesco Metro_McDonald's Restaurants Ltd,51.520337,-0.134654,2011-05-31
+701,Origin,McDonald's Restaurants Ltd,2011_Tesco Metro_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+702,Destination,Bali Bali Restaurant,2011_Bali Bali Restaurant_McDonald's Restaurants Ltd,51.51386,-0.127887,2011-06-06
+703,Origin,McDonald's Restaurants Ltd,2011_Bali Bali Restaurant_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+704,Destination,Bunga Bunga (Fomerly The Drury Club Basement),2011_Bunga Bunga (Fomerly The Drury Club Basement)_McDonald's Restaurants Ltd,51.51578,-0.12225699999999999,2011-04-03
+705,Origin,McDonald's Restaurants Ltd,2011_Bunga Bunga (Fomerly The Drury Club Basement)_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+706,Destination,Draft House,2011_Draft House_McDonald's Restaurants Ltd,51.519021,-0.135793,2011-06-06
+707,Origin,McDonald's Restaurants Ltd,2011_Draft House_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+708,Destination,Mela,2011_Mela_McDonald's Restaurants Ltd,51.51386,-0.127887,2011-06-06
+709,Origin,McDonald's Restaurants Ltd,2011_Mela_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+710,Destination,Compagnie des Vins Surnaturel,2011_Compagnie des Vins Surnaturel_McDonald's Restaurants Ltd,51.514446,-0.126545,2011-06-06
+711,Origin,McDonald's Restaurants Ltd,2011_Compagnie des Vins Surnaturel_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+712,Destination,Brasserie Blanc,2011_Brasserie Blanc_McDonald's Restaurants Ltd,51.518432000000004,-0.135121,2011-06-06
+713,Origin,McDonald's Restaurants Ltd,2011_Brasserie Blanc_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+714,Destination,Wildwood Kitchen (Cafe Pasta),2011_Wildwood Kitchen (Cafe Pasta)_McDonald's Restaurants Ltd,51.514962,-0.12751800000000002,2011-06-06
+715,Origin,McDonald's Restaurants Ltd,2011_Wildwood Kitchen (Cafe Pasta)_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+716,Destination,Ship Tavern,2011_Ship Tavern_McDonald's Restaurants Ltd,51.517002000000005,-0.11943599999999999,2011-08-02
+717,Origin,McDonald's Restaurants Ltd,2011_Ship Tavern_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+718,Destination,Homeslice Ltd,2011_Homeslice Ltd_McDonald's Restaurants Ltd,51.514446,-0.126545,2011-06-06
+719,Origin,McDonald's Restaurants Ltd,2011_Homeslice Ltd_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+720,Destination,Wheatsheaf,2011_Wheatsheaf_McDonald's Restaurants Ltd,51.51757,-0.132725,2011-06-06
+721,Origin,McDonald's Restaurants Ltd,2011_Wheatsheaf_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+722,Destination,Cross Keys,2011_Cross Keys_McDonald's Restaurants Ltd,51.514406,-0.12488599999999998,2011-06-06
+723,Origin,McDonald's Restaurants Ltd,2011_Cross Keys_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+724,Destination,Love & Liquor,2011_Love & Liquor_McDonald's Restaurants Ltd,51.536709,-0.19143,2011-08-02
+725,Origin,McDonald's Restaurants Ltd,2011_Love & Liquor_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+726,Destination,26 Grains (formerly known as Neal's Yard Salad Bar),2011_26 Grains (formerly known as Neal's Yard Salad Bar)_McDonald's Restaurants Ltd,51.514446,-0.126545,2011-06-06
+727,Origin,McDonald's Restaurants Ltd,2011_26 Grains (formerly known as Neal's Yard Salad Bar)_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+728,Destination,Balans Restaurant,2011_Balans Restaurant_McDonald's Restaurants Ltd,51.513596,-0.127317,2011-06-06
+729,Origin,McDonald's Restaurants Ltd,2011_Balans Restaurant_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+730,Destination,Elephants Head,2011_Elephants Head_McDonald's Restaurants Ltd,51.540541999999995,-0.14366199999999998,2011-08-02
+731,Origin,McDonald's Restaurants Ltd,2011_Elephants Head_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+732,Destination,Somerstown Coffee House,2011_Somerstown Coffee House_McDonald's Restaurants Ltd,51.529990000000005,-0.130767,2011-06-06
+733,Origin,McDonald's Restaurants Ltd,2011_Somerstown Coffee House_McDonald's Restaurants Ltd,51.517405,-0.119842,2011-01-03
+734,Destination,"Proud  Camden, The Horse Hospital","2017_Proud  Camden, The Horse Hospital_Proud  Camden, The Horse Hospital",51.542256,-0.14816,2017-01-25
+735,Origin,"Proud  Camden, The Horse Hospital","2017_Proud  Camden, The Horse Hospital_Proud  Camden, The Horse Hospital",51.542256,-0.14816,2017-01-25
+736,Destination,Love & Liquor,"2017_Love & Liquor_Proud  Camden, The Horse Hospital",51.536709,-0.19143,2017-10-03
+737,Origin,"Proud  Camden, The Horse Hospital","2017_Love & Liquor_Proud  Camden, The Horse Hospital",51.542256,-0.14816,2017-01-25
+738,Destination,Rosslyn Arms,"2017_Rosslyn Arms_Proud  Camden, The Horse Hospital",51.555053,-0.172822,2017-07-04
+739,Origin,"Proud  Camden, The Horse Hospital","2017_Rosslyn Arms_Proud  Camden, The Horse Hospital",51.542256,-0.14816,2017-01-25
+740,Destination,The Star,"2017_The Star_Proud  Camden, The Horse Hospital",51.563399,-0.142562,2017-07-04
+741,Origin,"Proud  Camden, The Horse Hospital","2017_The Star_Proud  Camden, The Horse Hospital",51.542256,-0.14816,2017-01-25

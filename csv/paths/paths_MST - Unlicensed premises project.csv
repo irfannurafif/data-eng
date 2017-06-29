@@ -1,0 +1,9 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Lavender & Rosemary Clinic,2017_Lavender & Rosemary Clinic_Lavender & Rosemary Clinic,51.527246000000005,-0.13619,2017-02-13
+1,Origin,Lavender & Rosemary Clinic,2017_Lavender & Rosemary Clinic_Lavender & Rosemary Clinic,51.527246000000005,-0.13619,2017-02-13
+2,Destination,ISIS Beauty Clinic,2013_ISIS Beauty Clinic_Jummy's Hair and Beauty,51.533328999999995,-0.138253,2013-08-03
+3,Origin,Jummy's Hair and Beauty,2013_ISIS Beauty Clinic_Jummy's Hair and Beauty,51.541728000000006,-0.197458,2013-08-02
+4,Destination,Jummy's Hair and Beauty,2013_Jummy's Hair and Beauty_Jummy's Hair and Beauty,51.541728000000006,-0.197458,2013-08-02
+5,Origin,Jummy's Hair and Beauty,2013_Jummy's Hair and Beauty_Jummy's Hair and Beauty,51.541728000000006,-0.197458,2013-08-02
+6,Destination,Aqua,2013_Aqua_Jummy's Hair and Beauty,51.538855,-0.193651,2013-08-02
+7,Origin,Jummy's Hair and Beauty,2013_Aqua_Jummy's Hair and Beauty,51.541728000000006,-0.197458,2013-08-02

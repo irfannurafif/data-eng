@@ -1,0 +1,65 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,London Nails,2017_London Nails_Beauty Boutique,51.54587,-0.14094600000000002,2017-02-14
+1,Origin,Beauty Boutique,2017_London Nails_Beauty Boutique,51.556783,-0.177972,2017-02-02
+2,Destination,Flamin'Eight,2017_Flamin'Eight_Beauty Boutique,51.545062,-0.142178,2017-10-01
+3,Origin,Beauty Boutique,2017_Flamin'Eight_Beauty Boutique,51.556783,-0.177972,2017-02-02
+4,Destination,Beauty Boutique,2017_Beauty Boutique_Beauty Boutique,51.556783,-0.177972,2017-02-02
+5,Origin,Beauty Boutique,2017_Beauty Boutique_Beauty Boutique,51.556783,-0.177972,2017-02-02
+6,Destination,Rosebery Rooms,2017_Rosebery Rooms_Beauty Boutique,51.522115,-0.112598,2017-06-04
+7,Origin,Beauty Boutique,2017_Rosebery Rooms_Beauty Boutique,51.556783,-0.177972,2017-02-02
+8,Destination,Soho Gyms - Camden Town,2017_Soho Gyms - Camden Town_Beauty Boutique,51.539139,-0.14369500000000002,2017-03-05
+9,Origin,Beauty Boutique,2017_Soho Gyms - Camden Town_Beauty Boutique,51.556783,-0.177972,2017-02-02
+10,Destination,ANANTA SKIN & BODY,2013_ANANTA SKIN & BODY_ANANTA SKIN & BODY,51.518976,-0.117914,2013-05-21
+11,Origin,ANANTA SKIN & BODY,2013_ANANTA SKIN & BODY_ANANTA SKIN & BODY,51.518976,-0.117914,2013-05-21
+12,Destination,London Nails,2013_London Nails_ANANTA SKIN & BODY,51.54587,-0.14094600000000002,2013-05-28
+13,Origin,ANANTA SKIN & BODY,2013_London Nails_ANANTA SKIN & BODY,51.518976,-0.117914,2013-05-21
+14,Destination,Bannatyne Fitness (7) Limited,2013_Bannatyne Fitness (7) Limited_ANANTA SKIN & BODY,51.524485,-0.12700899999999998,2013-06-12
+15,Origin,ANANTA SKIN & BODY,2013_Bannatyne Fitness (7) Limited_ANANTA SKIN & BODY,51.518976,-0.117914,2013-05-21
+16,Destination,YMCA,2010_YMCA_Lost in Beauty,51.517452,-0.130432,2010-09-06
+17,Origin,Lost in Beauty,2010_YMCA_Lost in Beauty,51.54213,-0.155697,2010-06-15
+18,Destination,Lost in Beauty,2010_Lost in Beauty_Lost in Beauty,51.54213,-0.155697,2010-06-15
+19,Origin,Lost in Beauty,2010_Lost in Beauty_Lost in Beauty,51.54213,-0.155697,2010-06-15
+20,Destination,Nickel Spa,2010_Nickel Spa_Lost in Beauty,51.514247999999995,-0.125254,2010-12-21
+21,Origin,Lost in Beauty,2010_Nickel Spa_Lost in Beauty,51.54213,-0.155697,2010-06-15
+22,Destination,Cleveland Hair & Beauty,2010_Cleveland Hair & Beauty_Lost in Beauty,51.522007,-0.140174,2010-09-14
+23,Origin,Lost in Beauty,2010_Cleveland Hair & Beauty_Lost in Beauty,51.54213,-0.155697,2010-06-15
+24,Destination,Fern Skincare Ltd,2011_Fern Skincare Ltd_Natural Health,51.546611999999996,-0.161548,2011-01-04
+25,Origin,Natural Health,2011_Fern Skincare Ltd_Natural Health,51.541428,-0.145851,2011-01-03
+26,Destination,Aveda Institute,2011_Aveda Institute_Natural Health,51.515615999999994,-0.12485,2011-06-14
+27,Origin,Natural Health,2011_Aveda Institute_Natural Health,51.541428,-0.145851,2011-01-03
+28,Destination,Acupoint/ Chinese Medicine Centre,2011_Acupoint/ Chinese Medicine Centre_Natural Health,51.519855,-0.135379,2011-05-24
+29,Origin,Natural Health,2011_Acupoint/ Chinese Medicine Centre_Natural Health,51.541428,-0.145851,2011-01-03
+30,Destination,Ficarazzi,2011_Ficarazzi_Natural Health,51.514534999999995,-0.122584,2011-05-24
+31,Origin,Natural Health,2011_Ficarazzi_Natural Health,51.541428,-0.145851,2011-01-03
+32,Destination,Natural Health,2011_Natural Health_Natural Health,51.541428,-0.145851,2011-01-03
+33,Origin,Natural Health,2011_Natural Health_Natural Health,51.541428,-0.145851,2011-01-03
+34,Destination,Steam & Sun,2011_Steam & Sun_Natural Health,51.528287,-0.129436,2011-08-08
+35,Origin,Natural Health,2011_Steam & Sun_Natural Health,51.541428,-0.145851,2011-01-03
+36,Destination,Charles Worthington,2011_Charles Worthington_Natural Health,51.515707,-0.12126300000000001,2011-08-23
+37,Origin,Natural Health,2011_Charles Worthington_Natural Health,51.541428,-0.145851,2011-01-03
+38,Destination,Nemesis Tattoo and Body Piercing Studio,2011_Nemesis Tattoo and Body Piercing Studio_Natural Health,51.540186,-0.143102,2011-03-16
+39,Origin,Natural Health,2011_Nemesis Tattoo and Body Piercing Studio_Natural Health,51.541428,-0.145851,2011-01-03
+40,Destination,Fitness First Clubs Ltd,2011_Fitness First Clubs Ltd_Natural Health,51.523677,-0.12488699999999998,2011-06-01
+41,Origin,Natural Health,2011_Fitness First Clubs Ltd_Natural Health,51.541428,-0.145851,2011-01-03
+42,Destination,Thai Square Spa,2011_Thai Square Spa_Natural Health,51.513667,-0.126119,2011-05-10
+43,Origin,Natural Health,2011_Thai Square Spa_Natural Health,51.541428,-0.145851,2011-01-03
+44,Destination,Fitness First Clubs Limited,2012_Fitness First Clubs Limited_Regina Hair & Sun Studios,51.522307,-0.134901,2012-07-06
+45,Origin,Regina Hair & Sun Studios,2012_Fitness First Clubs Limited_Regina Hair & Sun Studios,51.55523,-0.145474,2012-05-22
+46,Destination,Revive Medspa,2012_Revive Medspa_Regina Hair & Sun Studios,51.556151,-0.138523,2012-07-18
+47,Origin,Regina Hair & Sun Studios,2012_Revive Medspa_Regina Hair & Sun Studios,51.55523,-0.145474,2012-05-22
+48,Destination,THE ALBANY CLUB,2012_THE ALBANY CLUB_Regina Hair & Sun Studios,51.527244,-0.143532,2012-11-07
+49,Origin,Regina Hair & Sun Studios,2012_THE ALBANY CLUB_Regina Hair & Sun Studios,51.55523,-0.145474,2012-05-22
+50,Destination,Fred & Ginger,2012_Fred & Ginger_Regina Hair & Sun Studios,51.538119,-0.145295,2012-10-09
+51,Origin,Regina Hair & Sun Studios,2012_Fred & Ginger_Regina Hair & Sun Studios,51.55523,-0.145474,2012-05-22
+52,Destination,Virgin Active Health Club,2012_Virgin Active Health Club_Regina Hair & Sun Studios,51.547698,-0.181321,2012-07-26
+53,Origin,Regina Hair & Sun Studios,2012_Virgin Active Health Club_Regina Hair & Sun Studios,51.55523,-0.145474,2012-05-22
+54,Destination,Regina Hair & Sun Studios,2012_Regina Hair & Sun Studios_Regina Hair & Sun Studios,51.55523,-0.145474,2012-05-22
+55,Origin,Regina Hair & Sun Studios,2012_Regina Hair & Sun Studios_Regina Hair & Sun Studios,51.55523,-0.145474,2012-05-22
+56,Destination,Fitness First Clubs Ltd,2014_Fitness First Clubs Ltd_Fitness First Clubs Ltd,51.523677,-0.12488699999999998,2014-01-16
+57,Origin,Fitness First Clubs Ltd,2014_Fitness First Clubs Ltd_Fitness First Clubs Ltd,51.523677,-0.12488699999999998,2014-01-16
+58,Destination,China Herbal House WH Ltd,2014_China Herbal House WH Ltd_Fitness First Clubs Ltd,51.548891,-0.190675,2014-11-19
+59,Origin,Fitness First Clubs Ltd,2014_China Herbal House WH Ltd_Fitness First Clubs Ltd,51.523677,-0.12488699999999998,2014-01-16
+60,Destination,ART OF CAMDEN SHOP,2016_ART OF CAMDEN SHOP_ART OF CAMDEN SHOP,51.541171000000006,-0.13830399999999998,2016-10-20
+61,Origin,ART OF CAMDEN SHOP,2016_ART OF CAMDEN SHOP_ART OF CAMDEN SHOP,51.541171000000006,-0.13830399999999998,2016-10-20
+62,Destination,ART OF CAMDEN,2016_ART OF CAMDEN_ART OF CAMDEN SHOP,51.541171000000006,-0.13830399999999998,2016-10-20
+63,Origin,ART OF CAMDEN SHOP,2016_ART OF CAMDEN_ART OF CAMDEN SHOP,51.541171000000006,-0.13830399999999998,2016-10-20

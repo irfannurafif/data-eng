@@ -1,0 +1,141 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,J Hair,2014_J Hair_J Hair,51.523559999999996,-0.139343,2014-02-05
+1,Origin,J Hair,2014_J Hair_J Hair,51.523559999999996,-0.139343,2014-02-05
+2,Destination,Pancras Square Leisure,2014_Pancras Square Leisure_J Hair,51.533857,-0.126498,2014-07-16
+3,Origin,J Hair,2014_Pancras Square Leisure_J Hair,51.523559999999996,-0.139343,2014-02-05
+4,Destination,O'LOVE NAIL BEAUTY,2014_O'LOVE NAIL BEAUTY_J Hair,51.54742,-0.17971099999999998,2014-12-19
+5,Origin,J Hair,2014_O'LOVE NAIL BEAUTY_J Hair,51.523559999999996,-0.139343,2014-02-05
+6,Destination,M And F Cuts,2014_M And F Cuts_J Hair,51.553838,-0.196578,2014-08-12
+7,Origin,J Hair,2014_M And F Cuts_J Hair,51.523559999999996,-0.139343,2014-02-05
+8,Destination,Enz hairdressers Ltd,2010_Enz hairdressers Ltd_Novotel London St Pancras,51.55558,-0.16726400000000002,2010-09-27
+9,Origin,Novotel London St Pancras,2010_Enz hairdressers Ltd_Novotel London St Pancras,51.528687,-0.128402,2010-03-31
+10,Destination,Benefit Boutique,2010_Benefit Boutique_Novotel London St Pancras,51.514446,-0.126545,2010-07-27
+11,Origin,Novotel London St Pancras,2010_Benefit Boutique_Novotel London St Pancras,51.528687,-0.128402,2010-03-31
+12,Destination,Parkland Natural Health Clinic,2010_Parkland Natural Health Clinic_Novotel London St Pancras,51.517405,-0.119842,2010-08-23
+13,Origin,Novotel London St Pancras,2010_Parkland Natural Health Clinic_Novotel London St Pancras,51.528687,-0.128402,2010-03-31
+14,Destination,Eclipse Hair Salon,2010_Eclipse Hair Salon_Novotel London St Pancras,51.519667,-0.136475,2010-09-23
+15,Origin,Novotel London St Pancras,2010_Eclipse Hair Salon_Novotel London St Pancras,51.528687,-0.128402,2010-03-31
+16,Destination,Space NK Ltd,2010_Space NK Ltd_Novotel London St Pancras,51.523196,-0.123753,2010-05-18
+17,Origin,Novotel London St Pancras,2010_Space NK Ltd_Novotel London St Pancras,51.528687,-0.128402,2010-03-31
+18,Destination,Hell to Pay Tattoo & Piercing Studio,2010_Hell to Pay Tattoo & Piercing Studio_Novotel London St Pancras,51.539688,-0.142772,2010-07-26
+19,Origin,Novotel London St Pancras,2010_Hell to Pay Tattoo & Piercing Studio_Novotel London St Pancras,51.528687,-0.128402,2010-03-31
+20,Destination,Ginseng,2010_Ginseng_Novotel London St Pancras,51.520227,-0.12197000000000001,2010-06-04
+21,Origin,Novotel London St Pancras,2010_Ginseng_Novotel London St Pancras,51.528687,-0.128402,2010-03-31
+22,Destination,C2 Clinic,2010_C2 Clinic_Novotel London St Pancras,51.555338,-0.179229,2010-10-13
+23,Origin,Novotel London St Pancras,2010_C2 Clinic_Novotel London St Pancras,51.528687,-0.128402,2010-03-31
+24,Destination,The King's Cross Tattoo Parlour,2010_The King's Cross Tattoo Parlour_Novotel London St Pancras,51.530577,-0.119622,2010-05-10
+25,Origin,Novotel London St Pancras,2010_The King's Cross Tattoo Parlour_Novotel London St Pancras,51.528687,-0.128402,2010-03-31
+26,Destination,Spring Health Leisure PLC,2010_Spring Health Leisure PLC_Novotel London St Pancras,51.546167,-0.164761,2010-10-29
+27,Origin,Novotel London St Pancras,2010_Spring Health Leisure PLC_Novotel London St Pancras,51.528687,-0.128402,2010-03-31
+28,Destination,Novotel London St Pancras,2010_Novotel London St Pancras_Novotel London St Pancras,51.528687,-0.128402,2010-03-31
+29,Origin,Novotel London St Pancras,2010_Novotel London St Pancras_Novotel London St Pancras,51.528687,-0.128402,2010-03-31
+30,Destination,Sweet roses,2010_Sweet roses_Novotel London St Pancras,51.518605,-0.13372,2010-08-20
+31,Origin,Novotel London St Pancras,2010_Sweet roses_Novotel London St Pancras,51.528687,-0.128402,2010-03-31
+32,Destination,Rich's Beauty,2010_Rich's Beauty_Novotel London St Pancras,51.521703,-0.136071,2010-08-23
+33,Origin,Novotel London St Pancras,2010_Rich's Beauty_Novotel London St Pancras,51.528687,-0.128402,2010-03-31
+34,Destination,The Gym Group,2010_The Gym Group_Novotel London St Pancras,51.555359,-0.19711800000000002,2010-09-14
+35,Origin,Novotel London St Pancras,2010_The Gym Group_Novotel London St Pancras,51.528687,-0.128402,2010-03-31
+36,Destination,Hair Beauty Sunbed Centre,2010_Hair Beauty Sunbed Centre_Novotel London St Pancras,51.548419,-0.14088900000000001,2010-08-23
+37,Origin,Novotel London St Pancras,2010_Hair Beauty Sunbed Centre_Novotel London St Pancras,51.528687,-0.128402,2010-03-31
+38,Destination,Zen,2010_Zen_Novotel London St Pancras,51.522625,-0.11455699999999999,2010-08-20
+39,Origin,Novotel London St Pancras,2010_Zen_Novotel London St Pancras,51.528687,-0.128402,2010-03-31
+40,Destination,Kamal Spa Limited,2010_Kamal Spa Limited_Novotel London St Pancras,51.546597999999996,-0.189247,2010-04-28
+41,Origin,Novotel London St Pancras,2010_Kamal Spa Limited_Novotel London St Pancras,51.528687,-0.128402,2010-03-31
+42,Destination,Rich's Wellbeing & Being Centre,2010_Rich's Wellbeing & Being Centre_Novotel London St Pancras,51.521703,-0.136071,2010-07-12
+43,Origin,Novotel London St Pancras,2010_Rich's Wellbeing & Being Centre_Novotel London St Pancras,51.528687,-0.128402,2010-03-31
+44,Destination,EASTERN PROMISE LONDON LTD,2016_EASTERN PROMISE LONDON LTD_PIVOINE NAIL SPA,51.550290000000004,-0.181806,2016-12-15
+45,Origin,PIVOINE NAIL SPA,2016_EASTERN PROMISE LONDON LTD_PIVOINE NAIL SPA,51.55581,-0.165543,2016-01-27
+46,Destination,PIVOINE NAIL SPA,2016_PIVOINE NAIL SPA_PIVOINE NAIL SPA,51.55581,-0.165543,2016-01-27
+47,Origin,PIVOINE NAIL SPA,2016_PIVOINE NAIL SPA_PIVOINE NAIL SPA,51.55581,-0.165543,2016-01-27
+48,Destination,Clerkenwell's Hair & Beauty  Limited,2013_Clerkenwell's Hair & Beauty  Limited_GARY INGHAM SALON & SPA,51.520839,-0.11021500000000001,2013-03-05
+49,Origin,GARY INGHAM SALON & SPA,2013_Clerkenwell's Hair & Beauty  Limited_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-02-26
+50,Destination,Face It,2013_Face It_GARY INGHAM SALON & SPA,51.570842,-0.146897,2013-04-16
+51,Origin,GARY INGHAM SALON & SPA,2013_Face It_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-02-26
+52,Destination,A & H Chinese Medicine Ltd,2013_A & H Chinese Medicine Ltd_GARY INGHAM SALON & SPA,51.546582,-0.141154,2013-12-03
+53,Origin,GARY INGHAM SALON & SPA,2013_A & H Chinese Medicine Ltd_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-02-26
+54,Destination,BEAUTYWORKS,2013_BEAUTYWORKS_GARY INGHAM SALON & SPA,51.516921999999994,-0.132023,2013-08-16
+55,Origin,GARY INGHAM SALON & SPA,2013_BEAUTYWORKS_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-02-26
+56,Destination,Bamboo Natural Therapy,2013_Bamboo Natural Therapy_GARY INGHAM SALON & SPA,51.527983,-0.12475,2013-10-29
+57,Origin,GARY INGHAM SALON & SPA,2013_Bamboo Natural Therapy_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-02-26
+58,Destination,Happy Lotus Health Spa,2013_Happy Lotus Health Spa_GARY INGHAM SALON & SPA,51.516312,-0.123688,2013-03-18
+59,Origin,GARY INGHAM SALON & SPA,2013_Happy Lotus Health Spa_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-02-26
+60,Destination,Bibas Hair and Beauty,2013_Bibas Hair and Beauty_GARY INGHAM SALON & SPA,51.525437,-0.125078,2013-04-16
+61,Origin,GARY INGHAM SALON & SPA,2013_Bibas Hair and Beauty_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-02-26
+62,Destination,REBATA JON,2013_REBATA JON_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-11-25
+63,Origin,GARY INGHAM SALON & SPA,2013_REBATA JON_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-02-26
+64,Destination,Venus & Mars,2013_Venus & Mars_GARY INGHAM SALON & SPA,51.545735,-0.179501,2013-04-16
+65,Origin,GARY INGHAM SALON & SPA,2013_Venus & Mars_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-02-26
+66,Destination,Celebrity Salon,2013_Celebrity Salon_GARY INGHAM SALON & SPA,51.539688,-0.142772,2013-08-15
+67,Origin,GARY INGHAM SALON & SPA,2013_Celebrity Salon_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-02-26
+68,Destination,BUPA - KIINGS CROSS,2013_BUPA - KIINGS CROSS_GARY INGHAM SALON & SPA,51.528611,-0.118474,2013-06-09
+69,Origin,GARY INGHAM SALON & SPA,2013_BUPA - KIINGS CROSS_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-02-26
+70,Destination,Vanity Nails & Beauty,2013_Vanity Nails & Beauty_GARY INGHAM SALON & SPA,51.539896,-0.140739,2013-05-21
+71,Origin,GARY INGHAM SALON & SPA,2013_Vanity Nails & Beauty_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-02-26
+72,Destination,Beauty By Magdalena,2013_Beauty By Magdalena_GARY INGHAM SALON & SPA,51.55558,-0.16726400000000002,2013-04-24
+73,Origin,GARY INGHAM SALON & SPA,2013_Beauty By Magdalena_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-02-26
+74,Destination,Body Exchange.Com,2013_Body Exchange.Com_GARY INGHAM SALON & SPA,51.541578,-0.13784200000000002,2013-04-07
+75,Origin,GARY INGHAM SALON & SPA,2013_Body Exchange.Com_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-02-26
+76,Destination,GINKGO HEALTH & BEAUTY,2013_GINKGO HEALTH & BEAUTY_GARY INGHAM SALON & SPA,51.52301,-0.141308,2013-07-08
+77,Origin,GARY INGHAM SALON & SPA,2013_GINKGO HEALTH & BEAUTY_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-02-26
+78,Destination,AURA NAILS,2013_AURA NAILS_GARY INGHAM SALON & SPA,51.54937,-0.181221,2013-09-13
+79,Origin,GARY INGHAM SALON & SPA,2013_AURA NAILS_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-02-26
+80,Destination,ALTERNATIVE ACUPUNCTURE,2013_ALTERNATIVE ACUPUNCTURE_GARY INGHAM SALON & SPA,51.541115000000005,-0.196392,2013-02-28
+81,Origin,GARY INGHAM SALON & SPA,2013_ALTERNATIVE ACUPUNCTURE_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-02-26
+82,Destination,GARY INGHAM SALON & SPA,2013_GARY INGHAM SALON & SPA_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-02-26
+83,Origin,GARY INGHAM SALON & SPA,2013_GARY INGHAM SALON & SPA_GARY INGHAM SALON & SPA,51.557278000000004,-0.178703,2013-02-26
+84,Destination,Posh Nails and Beauty,2009_Posh Nails and Beauty_Privato Hairdressing,51.548209,-0.128897,2009-09-10
+85,Origin,Privato Hairdressing,2009_Posh Nails and Beauty_Privato Hairdressing,51.541352,-0.15648199999999998,2009-04-12
+86,Destination,Simple Harmony,2009_Simple Harmony_Privato Hairdressing,51.557278000000004,-0.178703,2009-07-21
+87,Origin,Privato Hairdressing,2009_Simple Harmony_Privato Hairdressing,51.541352,-0.15648199999999998,2009-04-12
+88,Destination,Privato Hairdressing,2009_Privato Hairdressing_Privato Hairdressing,51.541352,-0.15648199999999998,2009-04-12
+89,Origin,Privato Hairdressing,2009_Privato Hairdressing_Privato Hairdressing,51.541352,-0.15648199999999998,2009-04-12
+90,Destination,Ahava UK Ltd,2009_Ahava UK Ltd_Privato Hairdressing,51.514389,-0.12725799999999998,2009-07-22
+91,Origin,Privato Hairdressing,2009_Ahava UK Ltd_Privato Hairdressing,51.541352,-0.15648199999999998,2009-04-12
+92,Destination,Depicool,2009_Depicool_Privato Hairdressing,51.529063,-0.11636099999999999,2009-08-12
+93,Origin,Privato Hairdressing,2009_Depicool_Privato Hairdressing,51.541352,-0.15648199999999998,2009-04-12
+94,Destination,Hua Xia TCM,2009_Hua Xia TCM_Privato Hairdressing,51.543781,-0.17466900000000002,2009-08-19
+95,Origin,Privato Hairdressing,2009_Hua Xia TCM_Privato Hairdressing,51.541352,-0.15648199999999998,2009-04-12
+96,Destination,Sen Medicine,2009_Sen Medicine_Privato Hairdressing,51.556033,-0.176097,2009-08-18
+97,Origin,Privato Hairdressing,2009_Sen Medicine_Privato Hairdressing,51.541352,-0.15648199999999998,2009-04-12
+98,Destination,Holiday Inn (Kings Cross),2009_Holiday Inn (Kings Cross)_Privato Hairdressing,51.52628,-0.113854,2009-12-17
+99,Origin,Privato Hairdressing,2009_Holiday Inn (Kings Cross)_Privato Hairdressing,51.541352,-0.15648199999999998,2009-04-12
+100,Destination,Frankie Cochrane,2009_Frankie Cochrane_Privato Hairdressing,51.521363,-0.117827,2009-07-24
+101,Origin,Privato Hairdressing,2009_Frankie Cochrane_Privato Hairdressing,51.541352,-0.15648199999999998,2009-04-12
+102,Destination,Golden Sunshine Beauty,2017_Golden Sunshine Beauty_The Healthy Way,51.550290000000004,-0.181806,2017-07-03
+103,Origin,The Healthy Way,2017_Golden Sunshine Beauty_The Healthy Way,51.521654,-0.10969200000000001,2017-01-30
+104,Destination,The Healthy Way,2017_The Healthy Way_The Healthy Way,51.521654,-0.10969200000000001,2017-01-30
+105,Origin,The Healthy Way,2017_The Healthy Way_The Healthy Way,51.521654,-0.10969200000000001,2017-01-30
+106,Destination,CRYSTALISE HAIR & BEAUTY,2017_CRYSTALISE HAIR & BEAUTY_The Healthy Way,51.53803,-0.192551,2017-02-14
+107,Origin,The Healthy Way,2017_CRYSTALISE HAIR & BEAUTY_The Healthy Way,51.521654,-0.10969200000000001,2017-01-30
+108,Destination,THE ALBANY CLUB,2015_THE ALBANY CLUB_BOJANGLES HAIR & BEAUTY,51.527244,-0.143532,2015-06-18
+109,Origin,BOJANGLES HAIR & BEAUTY,2015_THE ALBANY CLUB_BOJANGLES HAIR & BEAUTY,51.548938,-0.181039,2015-03-12
+110,Destination,BOJANGLES HAIR & BEAUTY,2015_BOJANGLES HAIR & BEAUTY_BOJANGLES HAIR & BEAUTY,51.548938,-0.181039,2015-03-12
+111,Origin,BOJANGLES HAIR & BEAUTY,2015_BOJANGLES HAIR & BEAUTY_BOJANGLES HAIR & BEAUTY,51.548938,-0.181039,2015-03-12
+112,Destination,The Pharm,2015_The Pharm_BOJANGLES HAIR & BEAUTY,51.555611,-0.17816400000000002,2015-12-22
+113,Origin,BOJANGLES HAIR & BEAUTY,2015_The Pharm_BOJANGLES HAIR & BEAUTY,51.548938,-0.181039,2015-03-12
+114,Destination,BEAUTY AND WELLBEING CLINIC,2015_BEAUTY AND WELLBEING CLINIC_BOJANGLES HAIR & BEAUTY,51.541171000000006,-0.13830399999999998,2015-08-06
+115,Origin,BOJANGLES HAIR & BEAUTY,2015_BEAUTY AND WELLBEING CLINIC_BOJANGLES HAIR & BEAUTY,51.548938,-0.181039,2015-03-12
+116,Destination,C2 Clinic,2012_C2 Clinic_C2 Clinic,51.555338,-0.179229,2012-03-29
+117,Origin,C2 Clinic,2012_C2 Clinic_C2 Clinic,51.555338,-0.179229,2012-03-29
+118,Destination,Hua Xia TCM,2012_Hua Xia TCM_C2 Clinic,51.543781,-0.17466900000000002,2012-05-29
+119,Origin,C2 Clinic,2012_Hua Xia TCM_C2 Clinic,51.555338,-0.179229,2012-03-29
+120,Destination,The Tanning Shop,2012_The Tanning Shop_C2 Clinic,51.523545,-0.140725,2012-10-16
+121,Origin,C2 Clinic,2012_The Tanning Shop_C2 Clinic,51.555338,-0.179229,2012-03-29
+122,Destination,Lemoge Clinic,2012_Lemoge Clinic_C2 Clinic,51.538855,-0.193651,2012-09-20
+123,Origin,C2 Clinic,2012_Lemoge Clinic_C2 Clinic,51.555338,-0.179229,2012-03-29
+124,Destination,NATURA DAY SPA LTD,2012_NATURA DAY SPA LTD_C2 Clinic,51.55619,-0.178368,2012-08-02
+125,Origin,C2 Clinic,2012_NATURA DAY SPA LTD_C2 Clinic,51.555338,-0.179229,2012-03-29
+126,Destination,VIDA HAIR AND BEAUTY,2012_VIDA HAIR AND BEAUTY_C2 Clinic,51.543793,-0.153248,2012-05-10
+127,Origin,C2 Clinic,2012_VIDA HAIR AND BEAUTY_C2 Clinic,51.555338,-0.179229,2012-03-29
+128,Destination,Remix Cuts & Colours,2011_Remix Cuts & Colours_Nail Studio,51.546158,-0.189613,2011-02-16
+129,Origin,Nail Studio,2011_Remix Cuts & Colours_Nail Studio,51.54742,-0.17971099999999998,2011-01-04
+130,Destination,ART OF BEAUTY,2011_ART OF BEAUTY_Nail Studio,51.542515,-0.146811,2011-12-15
+131,Origin,Nail Studio,2011_ART OF BEAUTY_Nail Studio,51.54742,-0.17971099999999998,2011-01-04
+132,Destination,Nail Studio,2011_Nail Studio_Nail Studio,51.54742,-0.17971099999999998,2011-01-04
+133,Origin,Nail Studio,2011_Nail Studio_Nail Studio,51.54742,-0.17971099999999998,2011-01-04
+134,Destination,Black Garden Tattoo,2011_Black Garden Tattoo_Nail Studio,51.516312,-0.123688,2011-03-16
+135,Origin,Nail Studio,2011_Black Garden Tattoo_Nail Studio,51.54742,-0.17971099999999998,2011-01-04
+136,Destination,Camden Nails & Beauty,2011_Camden Nails & Beauty_Nail Studio,51.536998,-0.145009,2011-10-31
+137,Origin,Nail Studio,2011_Camden Nails & Beauty_Nail Studio,51.54742,-0.17971099999999998,2011-01-04
+138,Destination,Caprice Hair and Beauty,2011_Caprice Hair and Beauty_Nail Studio,51.549077000000004,-0.16178900000000002,2011-07-10
+139,Origin,Nail Studio,2011_Caprice Hair and Beauty_Nail Studio,51.54742,-0.17971099999999998,2011-01-04

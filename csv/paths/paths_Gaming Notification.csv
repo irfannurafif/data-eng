@@ -1,0 +1,331 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Old Oak,2008_Old Oak_Hope & Anchor,51.554717,-0.151107,2008-01-28
+1,Origin,Hope & Anchor,2008_Old Oak_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+2,Destination,Be At One,2008_Be At One_Hope & Anchor,51.535494,-0.140296,2008-05-03
+3,Origin,Hope & Anchor,2008_Be At One_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+4,Destination,Angel Inn,2008_Angel Inn_Hope & Anchor,51.57043,-0.147778,2008-03-09
+5,Origin,Hope & Anchor,2008_Angel Inn_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+6,Destination,Nisa,2008_Nisa_Hope & Anchor,51.543475,-0.13201,2008-11-13
+7,Origin,Hope & Anchor,2008_Nisa_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+8,Destination,Carpenters Arms,2008_Carpenters Arms_Hope & Anchor,51.521703,-0.136071,2008-03-09
+9,Origin,Hope & Anchor,2008_Carpenters Arms_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+10,Destination,Priory Tavern,2008_Priory Tavern_Hope & Anchor,51.538581,-0.191,2008-04-21
+11,Origin,Hope & Anchor,2008_Priory Tavern_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+12,Destination,KOKO,2008_KOKO_Hope & Anchor,51.534911,-0.139649,2008-04-25
+13,Origin,Hope & Anchor,2008_KOKO_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+14,Destination,College Arms,2008_College Arms_Hope & Anchor,51.520386,-0.132202,2008-05-13
+15,Origin,Hope & Anchor,2008_College Arms_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+16,Destination,Flask Tavern,2008_Flask Tavern_Hope & Anchor,51.569833,-0.151029,2008-02-06
+17,Origin,Hope & Anchor,2008_Flask Tavern_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+18,Destination,Mabels Tavern,2008_Mabels Tavern_Hope & Anchor,51.52793,-0.12685,2008-03-05
+19,Origin,Hope & Anchor,2008_Mabels Tavern_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+20,Destination,The Hope Pub,2008_The Hope Pub_Hope & Anchor,51.5202,-0.13578099999999999,2008-04-15
+21,Origin,Hope & Anchor,2008_The Hope Pub_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+22,Destination,Philomena's,2008_Philomena's_Hope & Anchor,51.514813000000004,-0.12298900000000001,2008-01-14
+23,Origin,Hope & Anchor,2008_Philomena's_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+24,Destination,Swan,2008_Swan_Hope & Anchor,51.521776,-0.12359300000000001,2008-01-21
+25,Origin,Hope & Anchor,2008_Swan_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+26,Destination,Plough,2008_Plough_Hope & Anchor,51.517865,-0.12620499999999998,2008-04-16
+27,Origin,Hope & Anchor,2008_Plough_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+28,Destination,Mamelon Tower,2008_Mamelon Tower_Hope & Anchor,51.550867,-0.14999200000000001,2008-02-09
+29,Origin,Hope & Anchor,2008_Mamelon Tower_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+30,Destination,Lock Tavern,2008_Lock Tavern_Hope & Anchor,51.542619,-0.148387,2008-01-16
+31,Origin,Hope & Anchor,2008_Lock Tavern_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+32,Destination,GEORGE P.H.,2008_GEORGE P.H._Hope & Anchor,51.515707,-0.12126300000000001,2008-02-05
+33,Origin,Hope & Anchor,2008_GEORGE P.H._Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+34,Destination,The Roebuck,2008_The Roebuck_Hope & Anchor,51.553819,-0.167738,2008-03-10
+35,Origin,Hope & Anchor,2008_The Roebuck_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+36,Destination,The Court,2008_The Court_Hope & Anchor,51.523142,-0.137511,2008-07-05
+37,Origin,Hope & Anchor,2008_The Court_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+38,Destination,Odeon Cinema,2008_Odeon Cinema_Hope & Anchor,51.51428,-0.12823299999999999,2008-01-14
+39,Origin,Hope & Anchor,2008_Odeon Cinema_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+40,Destination,Pembroke,2008_Pembroke_Hope & Anchor,51.542336999999996,-0.154256,2008-04-08
+41,Origin,Hope & Anchor,2008_Pembroke_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+42,Destination,Hope & Anchor,2008_Hope & Anchor_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+43,Origin,Hope & Anchor,2008_Hope & Anchor_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+44,Destination,Draft House,2008_Draft House_Hope & Anchor,51.519021,-0.135793,2008-03-31
+45,Origin,Hope & Anchor,2008_Draft House_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+46,Destination,Sheephaven Bay,2008_Sheephaven Bay_Hope & Anchor,51.53522,-0.14168699999999998,2008-08-03
+47,Origin,Hope & Anchor,2008_Sheephaven Bay_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+48,Destination,Escape,2008_Escape_Hope & Anchor,51.532687,-0.137501,2008-10-01
+49,Origin,Hope & Anchor,2008_Escape_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+50,Destination,Blackheart (Prev  Camden Tup),2008_Blackheart (Prev  Camden Tup)_Hope & Anchor,51.538624,-0.141854,2008-03-13
+51,Origin,Hope & Anchor,2008_Blackheart (Prev  Camden Tup)_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+52,Destination,The Clerk and Well,2008_The Clerk and Well_Hope & Anchor,51.522494,-0.110714,2008-03-13
+53,Origin,Hope & Anchor,2008_The Clerk and Well_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+54,Destination,The Earl of Camden,2008_The Earl of Camden_Hope & Anchor,51.537586,-0.14385,2008-05-03
+55,Origin,Hope & Anchor,2008_The Earl of Camden_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+56,Destination,Fitzrovia Belle (previously Mortimer Arms),2008_Fitzrovia Belle (previously Mortimer Arms)_Hope & Anchor,51.522976,-0.135628,2008-07-04
+57,Origin,Hope & Anchor,2008_Fitzrovia Belle (previously Mortimer Arms)_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+58,Destination,SALT,2008_SALT_Hope & Anchor,51.550391999999995,-0.19197899999999998,2008-10-17
+59,Origin,Hope & Anchor,2008_SALT_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+60,Destination,Garden Gate,2008_Garden Gate_Hope & Anchor,51.554701,-0.165596,2008-07-05
+61,Origin,Hope & Anchor,2008_Garden Gate_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+62,Destination,Bucks Head,2008_Bucks Head_Hope & Anchor,51.540186,-0.143102,2008-10-10
+63,Origin,Hope & Anchor,2008_Bucks Head_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+64,Destination,Oxford Arms,2008_Oxford Arms_Hope & Anchor,51.540541999999995,-0.14366199999999998,2008-01-07
+65,Origin,Hope & Anchor,2008_Oxford Arms_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+66,Destination,The Lukin,2008_The Lukin_Hope & Anchor,51.522335999999996,-0.13943,2008-01-14
+67,Origin,Hope & Anchor,2008_The Lukin_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+68,Destination,Cittie Of Yorke,2008_Cittie Of Yorke_Hope & Anchor,51.518542,-0.11215699999999999,2008-07-14
+69,Origin,Hope & Anchor,2008_Cittie Of Yorke_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+70,Destination,The Jack Horner,2008_The Jack Horner_Hope & Anchor,51.51831,-0.131671,2008-04-28
+71,Origin,Hope & Anchor,2008_The Jack Horner_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+72,Destination,Mercure London Bloomsbury (formerly Waverley House Hotel),2008_Mercure London Bloomsbury (formerly Waverley House Hotel)_Hope & Anchor,51.521776,-0.12359300000000001,2008-04-01
+73,Origin,Hope & Anchor,2008_Mercure London Bloomsbury (formerly Waverley House Hotel)_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+74,Destination,Wheatsheaf,2008_Wheatsheaf_Hope & Anchor,51.51757,-0.132725,2008-07-31
+75,Origin,Hope & Anchor,2008_Wheatsheaf_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+76,Destination,Fitzroy Tavern,2008_Fitzroy Tavern_Hope & Anchor,51.518959,-0.134555,2008-10-13
+77,Origin,Hope & Anchor,2008_Fitzroy Tavern_Hope & Anchor,51.534285,-0.13764300000000002,2008-01-07
+78,Destination,Ship Tavern,2009_Ship Tavern_Flask,51.517002000000005,-0.11943599999999999,2009-05-08
+79,Origin,Flask,2009_Ship Tavern_Flask,51.556693,-0.176761,2009-01-06
+80,Destination,One Tun,2009_One Tun_Flask,51.51935,-0.13703900000000002,2009-05-27
+81,Origin,Flask,2009_One Tun_Flask,51.556693,-0.176761,2009-01-06
+82,Destination,Spread Eagle,2009_Spread Eagle_Flask,51.537762,-0.14571199999999998,2009-05-06
+83,Origin,Flask,2009_Spread Eagle_Flask,51.556693,-0.176761,2009-01-06
+84,Destination,Admiral Mann,2009_Admiral Mann_Flask,51.549326,-0.130676,2009-12-22
+85,Origin,Flask,2009_Admiral Mann_Flask,51.556693,-0.176761,2009-01-06
+86,Destination,Monkey Chews,2009_Monkey Chews_Flask,51.547447999999996,-0.15405,2009-10-26
+87,Origin,Flask,2009_Monkey Chews_Flask,51.556693,-0.176761,2009-01-06
+88,Destination,Alliance,2009_Alliance_Flask,51.551010999999995,-0.201229,2009-04-23
+89,Origin,Flask,2009_Alliance_Flask,51.556693,-0.176761,2009-01-06
+90,Destination,The Bree Louise,2009_The Bree Louise_Flask,51.527366,-0.13533900000000001,2009-02-17
+91,Origin,Flask,2009_The Bree Louise_Flask,51.556693,-0.176761,2009-01-06
+92,Destination,The Blues Kitchen,2009_The Blues Kitchen_Flask,51.536691,-0.141465,2009-01-30
+93,Origin,Flask,2009_The Blues Kitchen_Flask,51.556693,-0.176761,2009-01-06
+94,Destination,Blue Lion,2009_Blue Lion_Flask,51.523551,-0.11578,2009-05-18
+95,Origin,Flask,2009_Blue Lion_Flask,51.556693,-0.176761,2009-01-06
+96,Destination,Griffin,2009_Griffin_Flask,51.521334,-0.112046,2009-01-30
+97,Origin,Flask,2009_Griffin_Flask,51.556693,-0.176761,2009-01-06
+98,Destination,White Hart,2009_White Hart_Flask,51.516312,-0.123688,2009-08-14
+99,Origin,Flask,2009_White Hart_Flask,51.556693,-0.176761,2009-01-06
+100,Destination,Camden Eye,2009_Camden Eye_Flask,51.539219,-0.141978,2009-01-29
+101,Origin,Flask,2009_Camden Eye_Flask,51.556693,-0.176761,2009-01-06
+102,Destination,Rising Sun,2009_Rising Sun_Flask,51.519513,-0.133795,2009-10-26
+103,Origin,Flask,2009_Rising Sun_Flask,51.556693,-0.176761,2009-01-06
+104,Destination,Calthorpe Arms,2009_Calthorpe Arms_Flask,51.524852,-0.11571600000000001,2009-08-10
+105,Origin,Flask,2009_Calthorpe Arms_Flask,51.556693,-0.176761,2009-01-06
+106,Destination,King William The Fourth,2009_King William The Fourth_Flask,51.555440999999995,-0.176922,2009-03-03
+107,Origin,Flask,2009_King William The Fourth_Flask,51.556693,-0.176761,2009-01-06
+108,Destination,Queens Head,2009_Queens Head_Flask,51.528611,-0.118474,2009-10-26
+109,Origin,Flask,2009_Queens Head_Flask,51.556693,-0.176761,2009-01-06
+110,Destination,Lilly Langtree,2009_Lilly Langtree_Flask,51.539832000000004,-0.188324,2009-05-18
+111,Origin,Flask,2009_Lilly Langtree_Flask,51.556693,-0.176761,2009-01-06
+112,Destination,Brookes Brothers Wine Bar & Brasserie,2009_Brookes Brothers Wine Bar & Brasserie_Flask,51.518921,-0.11112999999999999,2009-11-05
+113,Origin,Flask,2009_Brookes Brothers Wine Bar & Brasserie_Flask,51.556693,-0.176761,2009-01-06
+114,Destination,The Black Lion,2009_The Black Lion_Flask,51.551211,-0.19204000000000002,2009-07-22
+115,Origin,Flask,2009_The Black Lion_Flask,51.556693,-0.176761,2009-01-06
+116,Destination,The Earl of Camden,2009_The Earl of Camden_Flask,51.537586,-0.14385,2009-01-14
+117,Origin,Flask,2009_The Earl of Camden_Flask,51.556693,-0.176761,2009-01-06
+118,Destination,Lucas Arms,2009_Lucas Arms_Flask,51.528472,-0.11981900000000001,2009-10-21
+119,Origin,Flask,2009_Lucas Arms_Flask,51.556693,-0.176761,2009-01-06
+120,Destination,Colonel Fawcett,2009_Colonel Fawcett_Flask,51.541639,-0.136007,2009-07-22
+121,Origin,Flask,2009_Colonel Fawcett_Flask,51.556693,-0.176761,2009-01-06
+122,Destination,Lady Ottoline,2009_Lady Ottoline_Flask,51.521719,-0.114622,2009-11-18
+123,Origin,Flask,2009_Lady Ottoline_Flask,51.556693,-0.176761,2009-01-06
+124,Destination,The T.E. Dingwall Building (Formerly Lock 17/Highlight),2009_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Flask,51.541428,-0.145851,2009-10-21
+125,Origin,Flask,2009_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Flask,51.556693,-0.176761,2009-01-06
+126,Destination,Blackheart (Prev  Camden Tup),2009_Blackheart (Prev  Camden Tup)_Flask,51.538624,-0.141854,2009-09-04
+127,Origin,Flask,2009_Blackheart (Prev  Camden Tup)_Flask,51.556693,-0.176761,2009-01-06
+128,Destination,The Clerk and Well,2009_The Clerk and Well_Flask,51.522494,-0.110714,2009-09-04
+129,Origin,Flask,2009_The Clerk and Well_Flask,51.556693,-0.176761,2009-01-06
+130,Destination,Be At One,2009_Be At One_Flask,51.535494,-0.140296,2009-09-24
+131,Origin,Flask,2009_Be At One_Flask,51.556693,-0.176761,2009-01-06
+132,Destination,Coopers Arms,2009_Coopers Arms_Flask,51.540648,-0.196044,2009-01-20
+133,Origin,Flask,2009_Coopers Arms_Flask,51.556693,-0.176761,2009-01-06
+134,Destination,Flask,2009_Flask_Flask,51.556693,-0.176761,2009-01-06
+135,Origin,Flask,2009_Flask_Flask,51.556693,-0.176761,2009-01-06
+136,Destination,Babushka,2009_Babushka_Flask,51.518941,-0.106305,2009-10-16
+137,Origin,Flask,2009_Babushka_Flask,51.556693,-0.176761,2009-01-06
+138,Destination,Shaker & Company,2009_Shaker & Company_Flask,51.52796,-0.139145,2009-10-26
+139,Origin,Flask,2009_Shaker & Company_Flask,51.556693,-0.176761,2009-01-06
+140,Destination,Fitzrovia Belle (previously Mortimer Arms),2016_Fitzrovia Belle (previously Mortimer Arms)_Alliance,51.522976,-0.135628,2016-12-21
+141,Origin,Alliance,2016_Fitzrovia Belle (previously Mortimer Arms)_Alliance,51.551010999999995,-0.201229,2016-01-08
+142,Destination,Alliance,2016_Alliance_Alliance,51.551010999999995,-0.201229,2016-01-08
+143,Origin,Alliance,2016_Alliance_Alliance,51.551010999999995,-0.201229,2016-01-08
+144,Destination,Golden Lion,2016_Golden Lion_Alliance,51.539006,-0.135735,2016-11-15
+145,Origin,Alliance,2016_Golden Lion_Alliance,51.551010999999995,-0.201229,2016-01-08
+146,Destination,Old Bell,2012_Old Bell_New Market Inn,51.537207,-0.192154,2012-06-08
+147,Origin,New Market Inn,2012_Old Bell_New Market Inn,51.543074,-0.126691,2012-02-14
+148,Destination,Lilly Langtree,2012_Lilly Langtree_New Market Inn,51.539832000000004,-0.188324,2012-06-02
+149,Origin,New Market Inn,2012_Lilly Langtree_New Market Inn,51.543074,-0.126691,2012-02-14
+150,Destination,Devonshire Arms (Formely Hobgoblin),2012_Devonshire Arms (Formely Hobgoblin)_New Market Inn,51.541325,-0.142537,2012-03-29
+151,Origin,New Market Inn,2012_Devonshire Arms (Formely Hobgoblin)_New Market Inn,51.543074,-0.126691,2012-02-14
+152,Destination,New Market Inn,2012_New Market Inn_New Market Inn,51.543074,-0.126691,2012-02-14
+153,Origin,New Market Inn,2012_New Market Inn_New Market Inn,51.543074,-0.126691,2012-02-14
+154,Destination,Old Oak,2012_Old Oak_New Market Inn,51.554717,-0.151107,2012-10-25
+155,Origin,New Market Inn,2012_Old Oak_New Market Inn,51.543074,-0.126691,2012-02-14
+156,Destination,Grafton Arms,2012_Grafton Arms_New Market Inn,51.547061,-0.14493599999999998,2012-07-16
+157,Origin,New Market Inn,2012_Grafton Arms_New Market Inn,51.543074,-0.126691,2012-02-14
+158,Destination,Belushis Bar,2012_Belushis Bar_New Market Inn,51.536631,-0.14013499999999998,2012-07-24
+159,Origin,New Market Inn,2012_Belushis Bar_New Market Inn,51.543074,-0.126691,2012-02-14
+160,Destination,Pembroke,2012_Pembroke_New Market Inn,51.542336999999996,-0.154256,2012-06-08
+161,Origin,New Market Inn,2012_Pembroke_New Market Inn,51.543074,-0.126691,2012-02-14
+162,Destination,The Boot,2011_The Boot_Venus (formerly City Burlesque),51.52767,-0.124072,2011-08-12
+163,Origin,Venus (formerly City Burlesque),2011_The Boot_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+164,Destination,The Earl of Camden,2011_The Earl of Camden_Venus (formerly City Burlesque),51.537586,-0.14385,2011-08-25
+165,Origin,Venus (formerly City Burlesque),2011_The Earl of Camden_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+166,Destination,Hoxton Hotel,2011_Hoxton Hotel_Venus (formerly City Burlesque),51.51712,-0.12208599999999999,2011-08-12
+167,Origin,Venus (formerly City Burlesque),2011_Hoxton Hotel_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+168,Destination,Nisa,2011_Nisa_Venus (formerly City Burlesque),51.543475,-0.13201,2011-05-07
+169,Origin,Venus (formerly City Burlesque),2011_Nisa_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+170,Destination,Two Brewers,2011_Two Brewers_Venus (formerly City Burlesque),51.513243,-0.127366,2011-07-11
+171,Origin,Venus (formerly City Burlesque),2011_Two Brewers_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+172,Destination,Jeremy Bentham,2011_Jeremy Bentham_Venus (formerly City Burlesque),51.524078,-0.135147,2011-07-13
+173,Origin,Venus (formerly City Burlesque),2011_Jeremy Bentham_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+174,Destination,North Star,2011_North Star_Venus (formerly City Burlesque),51.545976,-0.178297,2011-04-07
+175,Origin,Venus (formerly City Burlesque),2011_North Star_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+176,Destination,Finchley Bell,2011_Finchley Bell_Venus (formerly City Burlesque),51.549878,-0.183277,2011-03-17
+177,Origin,Venus (formerly City Burlesque),2011_Finchley Bell_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+178,Destination,Somerstown Coffee House,2011_Somerstown Coffee House_Venus (formerly City Burlesque),51.529990000000005,-0.130767,2011-10-10
+179,Origin,Venus (formerly City Burlesque),2011_Somerstown Coffee House_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+180,Destination,Venus (formerly City Burlesque),2011_Venus (formerly City Burlesque)_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+181,Origin,Venus (formerly City Burlesque),2011_Venus (formerly City Burlesque)_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+182,Destination,Salsa!,2011_Salsa!_Venus (formerly City Burlesque),51.513999,-0.128985,2011-05-16
+183,Origin,Venus (formerly City Burlesque),2011_Salsa!_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+184,Destination,Sir Richard Steele,2011_Sir Richard Steele_Venus (formerly City Burlesque),51.546679,-0.15871300000000002,2011-04-15
+185,Origin,Venus (formerly City Burlesque),2011_Sir Richard Steele_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+186,Destination,Fitzrovia Belle (previously Mortimer Arms),2011_Fitzrovia Belle (previously Mortimer Arms)_Venus (formerly City Burlesque),51.522976,-0.135628,2011-04-07
+187,Origin,Venus (formerly City Burlesque),2011_Fitzrovia Belle (previously Mortimer Arms)_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+188,Destination,Slattery's Bar,2011_Slattery's Bar_Venus (formerly City Burlesque),51.542487,-0.138495,2011-09-26
+189,Origin,Venus (formerly City Burlesque),2011_Slattery's Bar_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+190,Destination,Royal George,2011_Royal George_Venus (formerly City Burlesque),51.528401,-0.131543,2011-09-19
+191,Origin,Venus (formerly City Burlesque),2011_Royal George_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+192,Destination,The Railway,2011_The Railway_Venus (formerly City Burlesque),51.546124,-0.19050799999999998,2011-03-15
+193,Origin,Venus (formerly City Burlesque),2011_The Railway_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+194,Destination,The George,2011_The George_Venus (formerly City Burlesque),51.55271,-0.166968,2011-08-19
+195,Origin,Venus (formerly City Burlesque),2011_The George_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+196,Destination,Newton Arms,2011_Newton Arms_Venus (formerly City Burlesque),51.516965,-0.120941,2011-04-07
+197,Origin,Venus (formerly City Burlesque),2011_Newton Arms_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+198,Destination,Bar at TCR,2011_Bar at TCR_Venus (formerly City Burlesque),51.522218,-0.13492200000000001,2011-04-07
+199,Origin,Venus (formerly City Burlesque),2011_Bar at TCR_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+200,Destination,Marlborough Arms,2011_Marlborough Arms_Venus (formerly City Burlesque),51.521608,-0.132898,2011-08-26
+201,Origin,Venus (formerly City Burlesque),2011_Marlborough Arms_Venus (formerly City Burlesque),51.520437,-0.106431,2011-02-02
+202,Destination,Odeon Cinema,2007_Odeon Cinema_Good Mixer,51.539139,-0.14369500000000002,2007-09-27
+203,Origin,Good Mixer,2007_Odeon Cinema_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+204,Destination,Starbucks (formerly known as Sloe Bar),2007_Starbucks (formerly known as Sloe Bar)_Good Mixer,51.529302,-0.13258499999999998,2007-11-20
+205,Origin,Good Mixer,2007_Starbucks (formerly known as Sloe Bar)_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+206,Destination,Good Mixer,2007_Good Mixer_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+207,Origin,Good Mixer,2007_Good Mixer_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+208,Destination,Golden Lion,2007_Golden Lion_Good Mixer,51.539006,-0.135735,2007-12-17
+209,Origin,Good Mixer,2007_Golden Lion_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+210,Destination,The Crown & Anchor,2007_The Crown & Anchor_Good Mixer,51.526920000000004,-0.136481,2007-09-25
+211,Origin,Good Mixer,2007_The Crown & Anchor_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+212,Destination,Belushis Bar,2007_Belushis Bar_Good Mixer,51.536631,-0.14013499999999998,2007-12-17
+213,Origin,Good Mixer,2007_Belushis Bar_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+214,Destination,Sir Robert Peel,2007_Sir Robert Peel_Good Mixer,51.549575,-0.15285,2007-10-25
+215,Origin,Good Mixer,2007_Sir Robert Peel_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+216,Destination,Prince Of Wales' Feathers,2007_Prince Of Wales' Feathers_Good Mixer,51.523937,-0.138173,2007-08-11
+217,Origin,Good Mixer,2007_Prince Of Wales' Feathers_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+218,Destination,Bricklayers Arms,2007_Bricklayers Arms_Good Mixer,51.51757,-0.132725,2007-12-21
+219,Origin,Good Mixer,2007_Bricklayers Arms_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+220,Destination,Lyttelton Arms,2007_Lyttelton Arms_Good Mixer,51.534911,-0.139649,2007-08-11
+221,Origin,Good Mixer,2007_Lyttelton Arms_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+222,Destination,Lord Southampton,2007_Lord Southampton_Good Mixer,51.549464,-0.156302,2007-12-13
+223,Origin,Good Mixer,2007_Lord Southampton_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+224,Destination,Smugglers Tavern,2007_Smugglers Tavern_Good Mixer,51.523545,-0.140725,2007-11-21
+225,Origin,Good Mixer,2007_Smugglers Tavern_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+226,Destination,The Queen's Head (formerly Coco Momo Restaurant),2007_The Queen's Head (formerly Coco Momo Restaurant)_Good Mixer,51.520793,-0.11748800000000001,2007-12-20
+227,Origin,Good Mixer,2007_The Queen's Head (formerly Coco Momo Restaurant)_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+228,Destination,Edinboro Castle,2007_Edinboro Castle_Good Mixer,51.536087,-0.14494,2007-12-12
+229,Origin,Good Mixer,2007_Edinboro Castle_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+230,Destination,Somerstown Coffee House,2007_Somerstown Coffee House_Good Mixer,51.529990000000005,-0.130767,2007-07-11
+231,Origin,Good Mixer,2007_Somerstown Coffee House_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+232,Destination,Old Bell,2007_Old Bell_Good Mixer,51.537207,-0.192154,2007-08-15
+233,Origin,Good Mixer,2007_Old Bell_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+234,Destination,Spearmint Rhino,2007_Spearmint Rhino_Good Mixer,51.523398,-0.136463,2007-07-12
+235,Origin,Good Mixer,2007_Spearmint Rhino_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+236,Destination,The Crowndale,2007_The Crowndale_Good Mixer,51.534285,-0.13764300000000002,2007-11-15
+237,Origin,Good Mixer,2007_The Crowndale_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+238,Destination,Oxford Arms,2007_Oxford Arms_Good Mixer,51.540541999999995,-0.14366199999999998,2007-11-20
+239,Origin,Good Mixer,2007_Oxford Arms_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+240,Destination,Northumberland Arms,2007_Northumberland Arms_Good Mixer,51.529517999999996,-0.116559,2007-11-20
+241,Origin,Good Mixer,2007_Northumberland Arms_Good Mixer,51.540039,-0.14449700000000001,2007-03-12
+242,Destination,Bill's (formerly Pitcher and Piano),2010_Bill's (formerly Pitcher and Piano)_Devonshire Arms (Formely Hobgoblin),51.515819,-0.118702,2010-02-19
+243,Origin,Devonshire Arms (Formely Hobgoblin),2010_Bill's (formerly Pitcher and Piano)_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+244,Destination,Old Bull And Bush,2010_Old Bull And Bush_Devonshire Arms (Formely Hobgoblin),51.567537,-0.18248499999999998,2010-05-19
+245,Origin,Devonshire Arms (Formely Hobgoblin),2010_Old Bull And Bush_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+246,Destination,Fitzroy Tavern,2010_Fitzroy Tavern_Devonshire Arms (Formely Hobgoblin),51.518959,-0.134555,2010-06-24
+247,Origin,Devonshire Arms (Formely Hobgoblin),2010_Fitzroy Tavern_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+248,Destination,Crown,2010_Crown_Devonshire Arms (Formely Hobgoblin),51.514389,-0.12725799999999998,2010-02-26
+249,Origin,Devonshire Arms (Formely Hobgoblin),2010_Crown_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+250,Destination,Unicorn,2010_Unicorn_Devonshire Arms (Formely Hobgoblin),51.548664,-0.129813,2010-06-21
+251,Origin,Devonshire Arms (Formely Hobgoblin),2010_Unicorn_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+252,Destination,The Knights Templar,2010_The Knights Templar_Devonshire Arms (Formely Hobgoblin),51.51562,-0.112171,2010-04-05
+253,Origin,Devonshire Arms (Formely Hobgoblin),2010_The Knights Templar_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+254,Destination,Devonshire Arms (Formely Hobgoblin),2010_Devonshire Arms (Formely Hobgoblin)_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+255,Origin,Devonshire Arms (Formely Hobgoblin),2010_Devonshire Arms (Formely Hobgoblin)_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+256,Destination,Shaker & Company,2010_Shaker & Company_Devonshire Arms (Formely Hobgoblin),51.52796,-0.139145,2010-06-30
+257,Origin,Devonshire Arms (Formely Hobgoblin),2010_Shaker & Company_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+258,Destination,Doric Arch,2010_Doric Arch_Devonshire Arms (Formely Hobgoblin),51.527829,-0.132573,2010-05-05
+259,Origin,Devonshire Arms (Formely Hobgoblin),2010_Doric Arch_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+260,Destination,Euston Flyer,2010_Euston Flyer_Devonshire Arms (Formely Hobgoblin),51.528517,-0.126822,2010-01-26
+261,Origin,Devonshire Arms (Formely Hobgoblin),2010_Euston Flyer_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+262,Destination,Ye Olde Swiss Cottage,2010_Ye Olde Swiss Cottage_Devonshire Arms (Formely Hobgoblin),51.542636,-0.17460799999999999,2010-03-31
+263,Origin,Devonshire Arms (Formely Hobgoblin),2010_Ye Olde Swiss Cottage_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+264,Destination,Pakenham Arms,2010_Pakenham Arms_Devonshire Arms (Formely Hobgoblin),51.525301,-0.11469800000000001,2010-06-21
+265,Origin,Devonshire Arms (Formely Hobgoblin),2010_Pakenham Arms_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+266,Destination,Freemasons Arms,2010_Freemasons Arms_Devonshire Arms (Formely Hobgoblin),51.557165999999995,-0.169192,2010-05-19
+267,Origin,Devonshire Arms (Formely Hobgoblin),2010_Freemasons Arms_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+268,Destination,Black Cap,2010_Black Cap_Devonshire Arms (Formely Hobgoblin),51.538247,-0.142543,2010-10-19
+269,Origin,Devonshire Arms (Formely Hobgoblin),2010_Black Cap_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+270,Destination,Cittie Of Yorke,2010_Cittie Of Yorke_Devonshire Arms (Formely Hobgoblin),51.518542,-0.11215699999999999,2010-06-25
+271,Origin,Devonshire Arms (Formely Hobgoblin),2010_Cittie Of Yorke_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+272,Destination,The Lion & Unicorn,2010_The Lion & Unicorn_Devonshire Arms (Formely Hobgoblin),51.548297,-0.13856300000000002,2010-03-02
+273,Origin,Devonshire Arms (Formely Hobgoblin),2010_The Lion & Unicorn_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+274,Destination,Friend at Hand,2010_Friend at Hand_Devonshire Arms (Formely Hobgoblin),51.52268,-0.12503599999999998,2010-06-18
+275,Origin,Devonshire Arms (Formely Hobgoblin),2010_Friend at Hand_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+276,Destination,North Star,2010_North Star_Devonshire Arms (Formely Hobgoblin),51.545976,-0.178297,2010-04-29
+277,Origin,Devonshire Arms (Formely Hobgoblin),2010_North Star_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+278,Destination,Assembly House,2010_Assembly House_Devonshire Arms (Formely Hobgoblin),51.551065,-0.140306,2010-12-03
+279,Origin,Devonshire Arms (Formely Hobgoblin),2010_Assembly House_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+280,Destination,O'Reillys,2010_O'Reillys_Devonshire Arms (Formely Hobgoblin),51.549129,-0.141647,2010-01-02
+281,Origin,Devonshire Arms (Formely Hobgoblin),2010_O'Reillys_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+282,Destination,Bloomsbury Tavern,2010_Bloomsbury Tavern_Devonshire Arms (Formely Hobgoblin),51.516890999999994,-0.12531,2010-05-28
+283,Origin,Devonshire Arms (Formely Hobgoblin),2010_Bloomsbury Tavern_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+284,Destination,Cross Keys,2010_Cross Keys_Devonshire Arms (Formely Hobgoblin),51.514406,-0.12488599999999998,2010-07-13
+285,Origin,Devonshire Arms (Formely Hobgoblin),2010_Cross Keys_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+286,Destination,The Fitzrovia,2010_The Fitzrovia_Devonshire Arms (Formely Hobgoblin),51.519855,-0.135379,2010-11-03
+287,Origin,Devonshire Arms (Formely Hobgoblin),2010_The Fitzrovia_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+288,Destination,Finchley Bell,2010_Finchley Bell_Devonshire Arms (Formely Hobgoblin),51.549878,-0.183277,2010-09-16
+289,Origin,Devonshire Arms (Formely Hobgoblin),2010_Finchley Bell_Devonshire Arms (Formely Hobgoblin),51.541325,-0.142537,2010-01-02
+290,Destination,Clockhouse,2017_Clockhouse_Clockhouse,51.521044,-0.10923499999999998,2017-01-24
+291,Origin,Clockhouse,2017_Clockhouse_Clockhouse,51.521044,-0.10923499999999998,2017-01-24
+292,Destination,Secrets (Eversholt St),2017_Secrets (Eversholt St)_Clockhouse,51.529302,-0.13258499999999998,2017-07-04
+293,Origin,Clockhouse,2017_Secrets (Eversholt St)_Clockhouse,51.521044,-0.10923499999999998,2017-01-24
+294,Destination,Sir Richard Steele,2017_Sir Richard Steele_Clockhouse,51.546679,-0.15871300000000002,2017-12-04
+295,Origin,Clockhouse,2017_Sir Richard Steele_Clockhouse,51.521044,-0.10923499999999998,2017-01-24
+296,Destination,Hampstead Britannia Hotel,2013_Hampstead Britannia Hotel_Hampstead Britannia Hotel,51.544309999999996,-0.162358,2013-01-17
+297,Origin,Hampstead Britannia Hotel,2013_Hampstead Britannia Hotel_Hampstead Britannia Hotel,51.544309999999996,-0.162358,2013-01-17
+298,Destination,Museum Tavern,2013_Museum Tavern_Hampstead Britannia Hotel,51.518343,-0.12531199999999998,2013-04-25
+299,Origin,Hampstead Britannia Hotel,2013_Museum Tavern_Hampstead Britannia Hotel,51.544309999999996,-0.162358,2013-01-17
+300,Destination,Old Bell,2013_Old Bell_Hampstead Britannia Hotel,51.537207,-0.192154,2013-10-31
+301,Origin,Hampstead Britannia Hotel,2013_Old Bell_Hampstead Britannia Hotel,51.544309999999996,-0.162358,2013-01-17
+302,Destination,Pembroke,2013_Pembroke_Hampstead Britannia Hotel,51.542336999999996,-0.154256,2013-10-31
+303,Origin,Hampstead Britannia Hotel,2013_Pembroke_Hampstead Britannia Hotel,51.544309999999996,-0.162358,2013-01-17
+304,Destination,Apple Tree,2013_Apple Tree_Hampstead Britannia Hotel,51.523275,-0.112017,2013-05-23
+305,Origin,Hampstead Britannia Hotel,2013_Apple Tree_Hampstead Britannia Hotel,51.544309999999996,-0.162358,2013-01-17
+306,Destination,Crown & Anchor,2013_Crown & Anchor_Hampstead Britannia Hotel,51.514247999999995,-0.125254,2013-04-24
+307,Origin,Hampstead Britannia Hotel,2013_Crown & Anchor_Hampstead Britannia Hotel,51.544309999999996,-0.162358,2013-01-17
+308,Destination,Pakenham Arms,2013_Pakenham Arms_Hampstead Britannia Hotel,51.525301,-0.11469800000000001,2013-11-21
+309,Origin,Hampstead Britannia Hotel,2013_Pakenham Arms_Hampstead Britannia Hotel,51.544309999999996,-0.162358,2013-01-17
+310,Destination,Freemasons Arms,2013_Freemasons Arms_Hampstead Britannia Hotel,51.557165999999995,-0.169192,2013-05-02
+311,Origin,Hampstead Britannia Hotel,2013_Freemasons Arms_Hampstead Britannia Hotel,51.544309999999996,-0.162358,2013-01-17
+312,Destination,The T.E. Dingwall Building (Formerly Lock 17/Highlight),2015_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Hercules Pillars,51.541428,-0.145851,2015-01-22
+313,Origin,Hercules Pillars,2015_The T.E. Dingwall Building (Formerly Lock 17/Highlight)_Hercules Pillars,51.515707,-0.12126300000000001,2015-01-09
+314,Destination,Bucks Head,2015_Bucks Head_Hercules Pillars,51.540186,-0.143102,2015-09-29
+315,Origin,Hercules Pillars,2015_Bucks Head_Hercules Pillars,51.515707,-0.12126300000000001,2015-01-09
+316,Destination,Hercules Pillars,2015_Hercules Pillars_Hercules Pillars,51.515707,-0.12126300000000001,2015-01-09
+317,Origin,Hercules Pillars,2015_Hercules Pillars_Hercules Pillars,51.515707,-0.12126300000000001,2015-01-09
+318,Destination,Hub by Premier Inn,2015_Hub by Premier Inn_Hercules Pillars,51.521226,-0.133957,2015-01-29
+319,Origin,Hercules Pillars,2015_Hub by Premier Inn_Hercules Pillars,51.515707,-0.12126300000000001,2015-01-09
+320,Destination,Mcglynn's,2014_Mcglynn's_Mcglynn's,51.528616,-0.12355,2014-01-30
+321,Origin,Mcglynn's,2014_Mcglynn's_Mcglynn's,51.528616,-0.12355,2014-01-30
+322,Destination,Premier Inn (proposed),2014_Premier Inn (proposed)_Mcglynn's,51.520167,-0.11696199999999998,2014-03-07
+323,Origin,Mcglynn's,2014_Premier Inn (proposed)_Mcglynn's,51.528616,-0.12355,2014-01-30
+324,Destination,Nisa (formerly Leighton Arms),2014_Nisa (formerly Leighton Arms)_Mcglynn's,51.552346,-0.132877,2014-02-07
+325,Origin,Mcglynn's,2014_Nisa (formerly Leighton Arms)_Mcglynn's,51.528616,-0.12355,2014-01-30
+326,Destination,Finchley Bell,2014_Finchley Bell_Mcglynn's,51.549878,-0.183277,2014-06-24
+327,Origin,Mcglynn's,2014_Finchley Bell_Mcglynn's,51.528616,-0.12355,2014-01-30
+328,Destination,The Railway,2014_The Railway_Mcglynn's,51.546124,-0.19050799999999998,2014-12-03
+329,Origin,Mcglynn's,2014_The Railway_Mcglynn's,51.528616,-0.12355,2014-01-30

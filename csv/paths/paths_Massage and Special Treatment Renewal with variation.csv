@@ -1,0 +1,51 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Renew Medica,2009_Renew Medica_Ritz Health and Beauty,51.555611,-0.17816400000000002,2009-07-22
+1,Origin,Ritz Health and Beauty,2009_Renew Medica_Ritz Health and Beauty,51.556678000000005,-0.178912,2009-04-14
+2,Destination,Fitness First Clubs Limited,2009_Fitness First Clubs Limited_Ritz Health and Beauty,51.522307,-0.134901,2009-04-28
+3,Origin,Ritz Health and Beauty,2009_Fitness First Clubs Limited_Ritz Health and Beauty,51.556678000000005,-0.178912,2009-04-14
+4,Destination,Jinja @ My Hotel  Bloomsbury,2009_Jinja @ My Hotel  Bloomsbury_Ritz Health and Beauty,51.51831,-0.131671,2009-04-17
+5,Origin,Ritz Health and Beauty,2009_Jinja @ My Hotel  Bloomsbury_Ritz Health and Beauty,51.556678000000005,-0.178912,2009-04-14
+6,Destination,Essentials Pharmacy,2009_Essentials Pharmacy_Ritz Health and Beauty,51.51578,-0.12225699999999999,2009-07-23
+7,Origin,Ritz Health and Beauty,2009_Essentials Pharmacy_Ritz Health and Beauty,51.556678000000005,-0.178912,2009-04-14
+8,Destination,Ritz Health and Beauty,2009_Ritz Health and Beauty_Ritz Health and Beauty,51.556678000000005,-0.178912,2009-04-14
+9,Origin,Ritz Health and Beauty,2009_Ritz Health and Beauty_Ritz Health and Beauty,51.556678000000005,-0.178912,2009-04-14
+10,Destination,Bodymatters (London) Limited,2009_Bodymatters (London) Limited_Ritz Health and Beauty,51.548629,-0.172228,2009-07-23
+11,Origin,Ritz Health and Beauty,2009_Bodymatters (London) Limited_Ritz Health and Beauty,51.556678000000005,-0.178912,2009-04-14
+12,Destination,Rosanna Shaw Health & Beauty,2009_Rosanna Shaw Health & Beauty_Ritz Health and Beauty,51.519872,-0.118533,2009-05-13
+13,Origin,Ritz Health and Beauty,2009_Rosanna Shaw Health & Beauty_Ritz Health and Beauty,51.556678000000005,-0.178912,2009-04-14
+14,Destination,Soho Gyms - Camden Town,2009_Soho Gyms - Camden Town_Ritz Health and Beauty,51.539139,-0.14369500000000002,2009-04-29
+15,Origin,Ritz Health and Beauty,2009_Soho Gyms - Camden Town_Ritz Health and Beauty,51.556678000000005,-0.178912,2009-04-14
+16,Destination,California Nails Limited,2014_California Nails Limited_Cold Steel Body Piercing,51.546603000000005,-0.179561,2014-03-20
+17,Origin,Cold Steel Body Piercing,2014_California Nails Limited_Cold Steel Body Piercing,51.541275,-0.143823,2014-01-04
+18,Destination,Beauty Nest & Nail Care,2014_Beauty Nest & Nail Care_Cold Steel Body Piercing,51.544622,-0.175337,2014-08-05
+19,Origin,Cold Steel Body Piercing,2014_Beauty Nest & Nail Care_Cold Steel Body Piercing,51.541275,-0.143823,2014-01-04
+20,Destination,The King's Cross Tattoo Parlour,2014_The King's Cross Tattoo Parlour_Cold Steel Body Piercing,51.530577,-0.119622,2014-06-06
+21,Origin,Cold Steel Body Piercing,2014_The King's Cross Tattoo Parlour_Cold Steel Body Piercing,51.541275,-0.143823,2014-01-04
+22,Destination,Camden Locks Hair & Beauty Ltd,2014_Camden Locks Hair & Beauty Ltd_Cold Steel Body Piercing,51.542123,-0.146071,2014-01-05
+23,Origin,Cold Steel Body Piercing,2014_Camden Locks Hair & Beauty Ltd_Cold Steel Body Piercing,51.541275,-0.143823,2014-01-04
+24,Destination,New Experience Health Club,2014_New Experience Health Club_Cold Steel Body Piercing,51.534197,-0.13888599999999998,2014-02-04
+25,Origin,Cold Steel Body Piercing,2014_New Experience Health Club_Cold Steel Body Piercing,51.541275,-0.143823,2014-01-04
+26,Destination,GINKGO HEALTH & BEAUTY,2014_GINKGO HEALTH & BEAUTY_Cold Steel Body Piercing,51.52301,-0.141308,2014-04-25
+27,Origin,Cold Steel Body Piercing,2014_GINKGO HEALTH & BEAUTY_Cold Steel Body Piercing,51.541275,-0.143823,2014-01-04
+28,Destination,Top Class,2014_Top Class_Cold Steel Body Piercing,51.54314,-0.148383,2014-03-28
+29,Origin,Cold Steel Body Piercing,2014_Top Class_Cold Steel Body Piercing,51.541275,-0.143823,2014-01-04
+30,Destination,Cold Steel Body Piercing,2014_Cold Steel Body Piercing_Cold Steel Body Piercing,51.541275,-0.143823,2014-01-04
+31,Origin,Cold Steel Body Piercing,2014_Cold Steel Body Piercing_Cold Steel Body Piercing,51.541275,-0.143823,2014-01-04
+32,Destination,Celebrity Salon,2014_Celebrity Salon_Cold Steel Body Piercing,51.539688,-0.142772,2014-03-06
+33,Origin,Cold Steel Body Piercing,2014_Celebrity Salon_Cold Steel Body Piercing,51.541275,-0.143823,2014-01-04
+34,Destination,Face It,2010_Face It_Neal's Yard Remedies Therapy Rooms,51.570842,-0.146897,2010-11-19
+35,Origin,Neal's Yard Remedies Therapy Rooms,2010_Face It_Neal's Yard Remedies Therapy Rooms,51.514446,-0.126545,2010-06-04
+36,Destination,Spring Health Leisure PLC,2010_Spring Health Leisure PLC_Neal's Yard Remedies Therapy Rooms,51.546167,-0.164761,2010-11-19
+37,Origin,Neal's Yard Remedies Therapy Rooms,2010_Spring Health Leisure PLC_Neal's Yard Remedies Therapy Rooms,51.514446,-0.126545,2010-06-04
+38,Destination,Neal's Yard Remedies Therapy Rooms,2010_Neal's Yard Remedies Therapy Rooms_Neal's Yard Remedies Therapy Rooms,51.514446,-0.126545,2010-06-04
+39,Origin,Neal's Yard Remedies Therapy Rooms,2010_Neal's Yard Remedies Therapy Rooms_Neal's Yard Remedies Therapy Rooms,51.514446,-0.126545,2010-06-04
+40,Destination,Soho Gyms - Camden Town,2010_Soho Gyms - Camden Town_Neal's Yard Remedies Therapy Rooms,51.539139,-0.14369500000000002,2010-06-04
+41,Origin,Neal's Yard Remedies Therapy Rooms,2010_Soho Gyms - Camden Town_Neal's Yard Remedies Therapy Rooms,51.514446,-0.126545,2010-06-04
+42,Destination,Dark Angel Limited,2015_Dark Angel Limited_Atelier Hair & Beauty,51.540754,-0.145258,2015-05-02
+43,Origin,Atelier Hair & Beauty,2015_Dark Angel Limited_Atelier Hair & Beauty,51.548938,-0.181039,2015-04-27
+44,Destination,KINGS CROSS TCM AND HERBAL CENTRE UACM,2015_KINGS CROSS TCM AND HERBAL CENTRE UACM_Atelier Hair & Beauty,51.528472,-0.11981900000000001,2015-11-08
+45,Origin,Atelier Hair & Beauty,2015_KINGS CROSS TCM AND HERBAL CENTRE UACM_Atelier Hair & Beauty,51.548938,-0.181039,2015-04-27
+46,Destination,Atelier Hair & Beauty,2015_Atelier Hair & Beauty_Atelier Hair & Beauty,51.548938,-0.181039,2015-04-27
+47,Origin,Atelier Hair & Beauty,2015_Atelier Hair & Beauty_Atelier Hair & Beauty,51.548938,-0.181039,2015-04-27
+48,Destination,Ginseng,2015_Ginseng_Atelier Hair & Beauty,51.544528,-0.177052,2015-12-03
+49,Origin,Atelier Hair & Beauty,2015_Ginseng_Atelier Hair & Beauty,51.548938,-0.181039,2015-04-27

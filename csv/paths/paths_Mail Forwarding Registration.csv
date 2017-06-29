@@ -1,0 +1,37 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,The Registered Office,2017_The Registered Office_The Registered Office,51.517396000000005,-0.125711,2017-03-13
+1,Origin,The Registered Office,2017_The Registered Office_The Registered Office,51.517396000000005,-0.125711,2017-03-13
+2,Destination,Catalogue Shop,2015_Catalogue Shop_Targetspace Limited,51.54984,-0.151091,2015-02-17
+3,Origin,Targetspace Limited,2015_Catalogue Shop_Targetspace Limited,51.518229999999996,-0.12041600000000001,2015-01-13
+4,Destination,Complete Offices,2015_Complete Offices_Targetspace Limited,51.546703,-0.178797,2015-01-21
+5,Origin,Targetspace Limited,2015_Complete Offices_Targetspace Limited,51.518229999999996,-0.12041600000000001,2015-01-13
+6,Destination,Hatton & Berkeley,2015_Hatton & Berkeley_Targetspace Limited,51.519956,-0.108884,2015-07-23
+7,Origin,Targetspace Limited,2015_Hatton & Berkeley_Targetspace Limited,51.518229999999996,-0.12041600000000001,2015-01-13
+8,Destination,Mail Boxes Etc,2015_Mail Boxes Etc_Targetspace Limited,51.53803,-0.192551,2015-01-14
+9,Origin,Targetspace Limited,2015_Mail Boxes Etc_Targetspace Limited,51.518229999999996,-0.12041600000000001,2015-01-13
+10,Destination,The Office (Kirby) Limited,2015_The Office (Kirby) Limited_Targetspace Limited,51.520084999999995,-0.107875,2015-07-22
+11,Origin,Targetspace Limited,2015_The Office (Kirby) Limited_Targetspace Limited,51.518229999999996,-0.12041600000000001,2015-01-13
+12,Destination,Targetspace Limited,2015_Targetspace Limited_Targetspace Limited,51.518229999999996,-0.12041600000000001,2015-01-13
+13,Origin,Targetspace Limited,2015_Targetspace Limited_Targetspace Limited,51.518229999999996,-0.12041600000000001,2015-01-13
+14,Destination,The Office Farringdon,2015_The Office Farringdon_Targetspace Limited,51.518941,-0.106305,2015-07-22
+15,Origin,Targetspace Limited,2015_The Office Farringdon_Targetspace Limited,51.518229999999996,-0.12041600000000001,2015-01-13
+16,Destination,Rex Lounge Ltd,2015_Rex Lounge Ltd_Targetspace Limited,51.52386,-0.12945,2015-01-13
+17,Origin,Targetspace Limited,2015_Rex Lounge Ltd_Targetspace Limited,51.518229999999996,-0.12041600000000001,2015-01-13
+18,Destination,Station Office Network,2015_Station Office Network_Targetspace Limited,51.540642999999996,-0.126248,2015-07-22
+19,Origin,Targetspace Limited,2015_Station Office Network_Targetspace Limited,51.518229999999996,-0.12041600000000001,2015-01-13
+20,Destination,Esselco Office Properties,2015_Esselco Office Properties_Targetspace Limited,51.532962,-0.12507200000000002,2015-07-22
+21,Origin,Targetspace Limited,2015_Esselco Office Properties_Targetspace Limited,51.518229999999996,-0.12041600000000001,2015-01-13
+22,Destination,Ventia,2016_Ventia_Ventia,51.519467,-0.13128199999999998,2016-02-15
+23,Origin,Ventia,2016_Ventia_Ventia,51.519467,-0.13128199999999998,2016-02-15
+24,Destination,Ofiz.com,2013_Ofiz.com_British Monomark,51.543793,-0.153248,2013-10-10
+25,Origin,British Monomark,2013_Ofiz.com_British Monomark,51.520839,-0.12166400000000001,2013-07-15
+26,Destination,Access Self Storage Ltd,2013_Access Self Storage Ltd_British Monomark,51.529783,-0.12309,2013-10-10
+27,Origin,British Monomark,2013_Access Self Storage Ltd_British Monomark,51.520839,-0.12166400000000001,2013-07-15
+28,Destination,British Monomark,2013_British Monomark_British Monomark,51.520839,-0.12166400000000001,2013-07-15
+29,Origin,British Monomark,2013_British Monomark_British Monomark,51.520839,-0.12166400000000001,2013-07-15
+30,Destination,Hampstead Safe Deposit Vaults,2013_Hampstead Safe Deposit Vaults_British Monomark,51.556827,-0.195673,2013-10-10
+31,Origin,British Monomark,2013_Hampstead Safe Deposit Vaults_British Monomark,51.520839,-0.12166400000000001,2013-07-15
+32,Destination,Mail Boxes Etc Euston,2014_Mail Boxes Etc Euston_Doddle,51.529302,-0.13258499999999998,2014-11-27
+33,Origin,Doddle,2014_Mail Boxes Etc Euston_Doddle,51.518921,-0.11112999999999999,2014-10-14
+34,Destination,Doddle,2014_Doddle_Doddle,51.518921,-0.11112999999999999,2014-10-14
+35,Origin,Doddle,2014_Doddle_Doddle,51.518921,-0.11112999999999999,2014-10-14

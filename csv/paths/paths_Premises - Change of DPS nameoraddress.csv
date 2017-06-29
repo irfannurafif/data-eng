@@ -1,0 +1,123 @@
+,Origin-Destination,Premise,pathid,latitude,longitude,Received Date
+0,Destination,Sainsbury's,2016_Sainsbury's_Ice Wharf - Lloyds No 1,51.519286,-0.191104,2016-02-22
+1,Origin,Ice Wharf - Lloyds No 1,2016_Sainsbury's_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2016-01-18
+2,Destination,Ice Wharf - Lloyds No 1,2016_Ice Wharf - Lloyds No 1_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2016-01-18
+3,Origin,Ice Wharf - Lloyds No 1,2016_Ice Wharf - Lloyds No 1_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2016-01-18
+4,Destination,The Abbey Tavern,2016_The Abbey Tavern_Ice Wharf - Lloyds No 1,51.54587,-0.14094600000000002,2016-12-21
+5,Origin,Ice Wharf - Lloyds No 1,2016_The Abbey Tavern_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2016-01-18
+6,Destination,Sainsburys Supermarket,2016_Sainsburys Supermarket_Ice Wharf - Lloyds No 1,51.522381,-0.109945,2016-04-04
+7,Origin,Ice Wharf - Lloyds No 1,2016_Sainsburys Supermarket_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2016-01-18
+8,Destination,College Arms,2016_College Arms_Ice Wharf - Lloyds No 1,51.520386,-0.132202,2016-05-05
+9,Origin,Ice Wharf - Lloyds No 1,2016_College Arms_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2016-01-18
+10,Destination,Ye Olde Mitre,2016_Ye Olde Mitre_Ice Wharf - Lloyds No 1,51.518824,-0.107485,2016-05-07
+11,Origin,Ice Wharf - Lloyds No 1,2016_Ye Olde Mitre_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2016-01-18
+12,Destination,Sainsbury's Supermarkets Ltd,2016_Sainsbury's Supermarkets Ltd_Ice Wharf - Lloyds No 1,51.535228000000004,-0.14816,2016-03-18
+13,Origin,Ice Wharf - Lloyds No 1,2016_Sainsbury's Supermarkets Ltd_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2016-01-18
+14,Destination,Penderel's Oak,2016_Penderel's Oak_Ice Wharf - Lloyds No 1,51.517858000000004,-0.11538599999999999,2016-08-02
+15,Origin,Ice Wharf - Lloyds No 1,2016_Penderel's Oak_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2016-01-18
+16,Destination,Old Bull And Bush,2016_Old Bull And Bush_Ice Wharf - Lloyds No 1,51.567537,-0.18248499999999998,2016-07-14
+17,Origin,Ice Wharf - Lloyds No 1,2016_Old Bull And Bush_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2016-01-18
+18,Destination,Vue Cinema,2016_Vue Cinema_Ice Wharf - Lloyds No 1,51.547698,-0.181321,2016-10-05
+19,Origin,Ice Wharf - Lloyds No 1,2016_Vue Cinema_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2016-01-18
+20,Destination,Thistle Bloomsbury Park Hotel,2016_Thistle Bloomsbury Park Hotel_Ice Wharf - Lloyds No 1,51.520378,-0.123529,2016-10-28
+21,Origin,Ice Wharf - Lloyds No 1,2016_Thistle Bloomsbury Park Hotel_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2016-01-18
+22,Destination,S & S Wines,2016_S & S Wines_Ice Wharf - Lloyds No 1,51.547625,-0.151126,2016-02-19
+23,Origin,Ice Wharf - Lloyds No 1,2016_S & S Wines_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2016-01-18
+24,Destination,Jazz Cafe,2016_Jazz Cafe_Ice Wharf - Lloyds No 1,51.538422,-0.143124,2016-06-19
+25,Origin,Ice Wharf - Lloyds No 1,2016_Jazz Cafe_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2016-01-18
+26,Destination,"Thistle Holborn,The Kingsley Hotel","2016_Thistle Holborn,The Kingsley Hotel_Ice Wharf - Lloyds No 1",51.517939,-0.12436099999999999,2016-10-28
+27,Origin,Ice Wharf - Lloyds No 1,"2016_Thistle Holborn,The Kingsley Hotel_Ice Wharf - Lloyds No 1",51.540754,-0.145258,2016-01-18
+28,Destination,Co-op,2016_Co-op_Ice Wharf - Lloyds No 1,51.538119,-0.145295,2016-12-10
+29,Origin,Ice Wharf - Lloyds No 1,2016_Co-op_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2016-01-18
+30,Destination,The Little Thai (formerly La Cocotte),2016_The Little Thai (formerly La Cocotte)_Ice Wharf - Lloyds No 1,51.554378,-0.16508299999999998,2016-04-03
+31,Origin,Ice Wharf - Lloyds No 1,2016_The Little Thai (formerly La Cocotte)_Ice Wharf - Lloyds No 1,51.540754,-0.145258,2016-01-18
+32,Destination,"Mindshare Media Uk Limited, 7th and 8th Floors","2013_Mindshare Media Uk Limited, 7th and 8th Floors_Marks & Spencer Simply Food",51.516045,-0.127443,2013-10-04
+33,Origin,Marks & Spencer Simply Food,"2013_Mindshare Media Uk Limited, 7th and 8th Floors_Marks & Spencer Simply Food",51.529302,-0.13258499999999998,2013-01-11
+34,Destination,The Camden Food Company,2013_The Camden Food Company_Marks & Spencer Simply Food,51.531775,-0.126577,2013-05-27
+35,Origin,Marks & Spencer Simply Food,2013_The Camden Food Company_Marks & Spencer Simply Food,51.529302,-0.13258499999999998,2013-01-11
+36,Destination,Lidl Uk,2013_Lidl Uk_Marks & Spencer Simply Food,51.536631,-0.14013499999999998,2013-02-12
+37,Origin,Marks & Spencer Simply Food,2013_Lidl Uk_Marks & Spencer Simply Food,51.529302,-0.13258499999999998,2013-01-11
+38,Destination,Ice Wharf - Lloyds No 1,2013_Ice Wharf - Lloyds No 1_Marks & Spencer Simply Food,51.540754,-0.145258,2013-12-31
+39,Origin,Marks & Spencer Simply Food,2013_Ice Wharf - Lloyds No 1_Marks & Spencer Simply Food,51.529302,-0.13258499999999998,2013-01-11
+40,Destination,Bounce,2013_Bounce_Marks & Spencer Simply Food,51.518529,-0.108519,2013-02-28
+41,Origin,Marks & Spencer Simply Food,2013_Bounce_Marks & Spencer Simply Food,51.529302,-0.13258499999999998,2013-01-11
+42,Destination,Sir John Oldcastle,2013_Sir John Oldcastle_Marks & Spencer Simply Food,51.520437,-0.106431,2013-03-28
+43,Origin,Marks & Spencer Simply Food,2013_Sir John Oldcastle_Marks & Spencer Simply Food,51.529302,-0.13258499999999998,2013-01-11
+44,Destination,Humaira Restaurant,2013_Humaira Restaurant_Marks & Spencer Simply Food,51.527983,-0.12475,2013-11-27
+45,Origin,Marks & Spencer Simply Food,2013_Humaira Restaurant_Marks & Spencer Simply Food,51.529302,-0.13258499999999998,2013-01-11
+46,Destination,All Star Lanes,2013_All Star Lanes_Marks & Spencer Simply Food,51.519286,-0.12206700000000001,2013-10-18
+47,Origin,Marks & Spencer Simply Food,2013_All Star Lanes_Marks & Spencer Simply Food,51.529302,-0.13258499999999998,2013-01-11
+48,Destination,Penderel's Oak,2013_Penderel's Oak_Marks & Spencer Simply Food,51.517858000000004,-0.11538599999999999,2013-05-04
+49,Origin,Marks & Spencer Simply Food,2013_Penderel's Oak_Marks & Spencer Simply Food,51.529302,-0.13258499999999998,2013-01-11
+50,Destination,Marks & Spencer Simply Food,2013_Marks & Spencer Simply Food_Marks & Spencer Simply Food,51.529302,-0.13258499999999998,2013-01-11
+51,Origin,Marks & Spencer Simply Food,2013_Marks & Spencer Simply Food_Marks & Spencer Simply Food,51.529302,-0.13258499999999998,2013-01-11
+52,Destination,Marks And Spencers Limited,2015_Marks And Spencers Limited_Sainsbury's Supermarket,51.53803,-0.192551,2015-06-16
+53,Origin,Sainsbury's Supermarket,2015_Marks And Spencers Limited_Sainsbury's Supermarket,51.5267795,-0.13484049999999997,2015-01-16
+54,Destination,Sainsbury's Supermarkets Ltd,2015_Sainsbury's Supermarkets Ltd_Sainsbury's Supermarket,51.535228000000004,-0.138658,2015-07-30
+55,Origin,Sainsbury's Supermarket,2015_Sainsbury's Supermarkets Ltd_Sainsbury's Supermarket,51.5267795,-0.13484049999999997,2015-01-16
+56,Destination,Oddbins,2015_Oddbins_Sainsbury's Supermarket,51.555365,-0.173758,2015-01-20
+57,Origin,Sainsbury's Supermarket,2015_Oddbins_Sainsbury's Supermarket,51.5267795,-0.13484049999999997,2015-01-16
+58,Destination,Sainsburys Supermarket Ltd,2015_Sainsburys Supermarket Ltd_Sainsbury's Supermarket,51.518567,-0.11580399999999999,2015-07-29
+59,Origin,Sainsbury's Supermarket,2015_Sainsburys Supermarket Ltd_Sainsbury's Supermarket,51.5267795,-0.13484049999999997,2015-01-16
+60,Destination,Spread Eagle,2015_Spread Eagle_Sainsbury's Supermarket,51.537762,-0.14571199999999998,2015-07-28
+61,Origin,Sainsbury's Supermarket,2015_Spread Eagle_Sainsbury's Supermarket,51.5267795,-0.13484049999999997,2015-01-16
+62,Destination,Worlds End,2015_Worlds End_Sainsbury's Supermarket,51.539219,-0.141978,2015-02-27
+63,Origin,Sainsbury's Supermarket,2015_Worlds End_Sainsbury's Supermarket,51.5267795,-0.13484049999999997,2015-01-16
+64,Destination,Sainsbury's Supermarket,2015_Sainsbury's Supermarket_Sainsbury's Supermarket,51.524257,-0.137096,2015-01-16
+65,Origin,Sainsbury's Supermarket,2015_Sainsbury's Supermarket_Sainsbury's Supermarket,51.5267795,-0.13484049999999997,2015-01-16
+66,Destination,Marks and Spencer Simply Food (2),2015_Marks and Spencer Simply Food (2)_Sainsbury's Supermarket,51.529302,-0.13258499999999998,2015-12-18
+67,Origin,Sainsbury's Supermarket,2015_Marks and Spencer Simply Food (2)_Sainsbury's Supermarket,51.5267795,-0.13484049999999997,2015-01-16
+68,Destination,Charles Dickens Museum,2015_Charles Dickens Museum_Sainsbury's Supermarket,51.523551,-0.11578,2015-05-10
+69,Origin,Sainsbury's Supermarket,2015_Charles Dickens Museum_Sainsbury's Supermarket,51.5267795,-0.13484049999999997,2015-01-16
+70,Destination,Grosvenor Casino,2015_Grosvenor Casino_Sainsbury's Supermarket,51.521776,-0.12359300000000001,2015-09-11
+71,Origin,Sainsbury's Supermarket,2015_Grosvenor Casino_Sainsbury's Supermarket,51.5267795,-0.13484049999999997,2015-01-16
+72,Destination,"All Bar One, One Euston Square","2015_All Bar One, One Euston Square_Sainsbury's Supermarket",51.527632000000004,-0.13303199999999998,2015-02-19
+73,Origin,Sainsbury's Supermarket,"2015_All Bar One, One Euston Square_Sainsbury's Supermarket",51.5267795,-0.13484049999999997,2015-01-16
+74,Destination,Sevilla Mia,2015_Sevilla Mia_Sainsbury's Supermarket,51.516921999999994,-0.132023,2015-05-03
+75,Origin,Sainsbury's Supermarket,2015_Sevilla Mia_Sainsbury's Supermarket,51.5267795,-0.13484049999999997,2015-01-16
+76,Destination,Oddbins,2017_Oddbins_LAS IGUANAS,51.549255,-0.140701,2017-03-27
+77,Origin,LAS IGUANAS,2017_Oddbins_LAS IGUANAS,51.524397,-0.12385,2017-01-26
+78,Destination,LAS IGUANAS,2017_LAS IGUANAS_LAS IGUANAS,51.524397,-0.12385,2017-01-26
+79,Origin,LAS IGUANAS,2017_LAS IGUANAS_LAS IGUANAS,51.524397,-0.12385,2017-01-26
+80,Destination,Break Point (previously known as C.K.News),2017_Break Point (previously known as C.K.News)_LAS IGUANAS,51.515044,-0.126064,2017-03-13
+81,Origin,LAS IGUANAS,2017_Break Point (previously known as C.K.News)_LAS IGUANAS,51.524397,-0.12385,2017-01-26
+82,Destination,"Hotel Chocolat, Unit CG 04 B","2017_Hotel Chocolat, Unit CG 04 B_LAS IGUANAS",51.531959,-0.12365,2017-04-25
+83,Origin,LAS IGUANAS,"2017_Hotel Chocolat, Unit CG 04 B_LAS IGUANAS",51.524397,-0.12385,2017-01-26
+84,Destination,Crown & Anchor,2017_Crown & Anchor_LAS IGUANAS,51.514247999999995,-0.125254,2017-05-01
+85,Origin,LAS IGUANAS,2017_Crown & Anchor_LAS IGUANAS,51.524397,-0.12385,2017-01-26
+86,Destination,Bull And Last,2012_Bull And Last_Bull And Last,51.559104999999995,-0.148742,2012-01-12
+87,Origin,Bull And Last,2012_Bull And Last_Bull And Last,51.559104999999995,-0.148742,2012-01-12
+88,Destination,The Jack Horner,2012_The Jack Horner_Bull And Last,51.51831,-0.131671,2012-03-23
+89,Origin,Bull And Last,2012_The Jack Horner_Bull And Last,51.559104999999995,-0.148742,2012-01-12
+90,Destination,Camden Food Co,2012_Camden Food Co_Bull And Last,51.531959,-0.12365,2012-08-17
+91,Origin,Bull And Last,2012_Camden Food Co_Bull And Last,51.559104999999995,-0.148742,2012-01-12
+92,Destination,"The Honourable Society of Gray's Inn, The Walks","2012_The Honourable Society of Gray's Inn, The Walks_Bull And Last",51.519599,-0.11175399999999999,2012-02-03
+93,Origin,Bull And Last,"2012_The Honourable Society of Gray's Inn, The Walks_Bull And Last",51.559104999999995,-0.148742,2012-01-12
+94,Destination,Caffe Ritazza,2012_Caffe Ritazza_Bull And Last,51.527829,-0.132573,2012-01-20
+95,Origin,Bull And Last,2012_Caffe Ritazza_Bull And Last,51.559104999999995,-0.148742,2012-01-12
+96,Destination,Sainsburys,2012_Sainsburys_Bull And Last,51.54053,-0.140895,2012-11-23
+97,Origin,Bull And Last,2012_Sainsburys_Bull And Last,51.559104999999995,-0.148742,2012-01-12
+98,Destination,Black Cap,2014_Black Cap_The Parcel Yard,51.538247,-0.142543,2014-10-16
+99,Origin,The Parcel Yard,2014_Black Cap_The Parcel Yard,51.531959,-0.12365,2014-02-01
+100,Destination,Zizzi Restaurant,2014_Zizzi Restaurant_The Parcel Yard,51.519021,-0.135793,2014-11-24
+101,Origin,The Parcel Yard,2014_Zizzi Restaurant_The Parcel Yard,51.531959,-0.12365,2014-02-01
+102,Destination,Hotel President,2014_Hotel President_The Parcel Yard,51.521776,-0.12359300000000001,2014-07-24
+103,Origin,The Parcel Yard,2014_Hotel President_The Parcel Yard,51.531959,-0.12365,2014-02-01
+104,Destination,St Martin's Theatre,2014_St Martin's Theatre_The Parcel Yard,51.512865000000005,-0.127574,2014-10-21
+105,Origin,The Parcel Yard,2014_St Martin's Theatre_The Parcel Yard,51.531959,-0.12365,2014-02-01
+106,Destination,Ambassadors Theatre,2014_Ambassadors Theatre_The Parcel Yard,51.513245,-0.12820299999999998,2014-10-22
+107,Origin,The Parcel Yard,2014_Ambassadors Theatre_The Parcel Yard,51.531959,-0.12365,2014-02-01
+108,Destination,The Bedford Hotel,2014_The Bedford Hotel_The Parcel Yard,51.520474,-0.12375,2014-04-04
+109,Origin,The Parcel Yard,2014_The Bedford Hotel_The Parcel Yard,51.531959,-0.12365,2014-02-01
+110,Destination,The Parcel Yard,2014_The Parcel Yard_The Parcel Yard,51.531959,-0.12365,2014-02-01
+111,Origin,The Parcel Yard,2014_The Parcel Yard_The Parcel Yard,51.531959,-0.12365,2014-02-01
+112,Destination,Sir John Oldcastle,2014_Sir John Oldcastle_The Parcel Yard,51.520437,-0.106431,2014-02-12
+113,Origin,The Parcel Yard,2014_Sir John Oldcastle_The Parcel Yard,51.531959,-0.12365,2014-02-01
+114,Destination,Shakespeares Head,2014_Shakespeares Head_The Parcel Yard,51.517002000000005,-0.11943599999999999,2014-02-12
+115,Origin,The Parcel Yard,2014_Shakespeares Head_The Parcel Yard,51.531959,-0.12365,2014-02-01
+116,Destination,Jing Jun Ge Chinese Restaurant,2014_Jing Jun Ge Chinese Restaurant_The Parcel Yard,51.549141999999996,-0.18245899999999998,2014-03-02
+117,Origin,The Parcel Yard,2014_Jing Jun Ge Chinese Restaurant_The Parcel Yard,51.531959,-0.12365,2014-02-01
+118,Destination,Imperial Hotel,2014_Imperial Hotel_The Parcel Yard,51.521776,-0.12359300000000001,2014-04-04
+119,Origin,The Parcel Yard,2014_Imperial Hotel_The Parcel Yard,51.531959,-0.12365,2014-02-01
+120,Destination,Gigs Restaurant,2011_Gigs Restaurant_Gigs Restaurant,51.520725,-0.135272,2011-11-03
+121,Origin,Gigs Restaurant,2011_Gigs Restaurant_Gigs Restaurant,51.520725,-0.135272,2011-11-03
